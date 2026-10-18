@@ -247,6 +247,16 @@ nav = [
     { "パスポート紛失・盗難・警察届と大使館連絡" = "situations/lost-passport.md" },
     { "シロアリ・害虫駆除業者への依頼" = "situations/pest-control.md" },
     { "量り売りランドリー・ドライクリーニング" = "situations/laundry-dryclean.md" },
+    { "空港乗り継ぎ・ロストバゲージ申告" = "situations/airport-transit.md" },
+    { "配車アプリのトラブル・位置連絡" = "situations/grab-gojek-trouble.md" },
+    { "フードデリバリーの誤配・品不足・返金" = "situations/food-delivery-wrong.md" },
+    { "EC通販の返品・返金交渉と開封動画" = "situations/online-shopping-return.md" },
+    { "結婚披露宴参列・祝辞（コンダンガン）" = "situations/wedding-invitation.md" },
+    { "葬儀・弔問とお悔やみの言葉" = "situations/funeral-condolence.md" },
+    { "断食月とレバラン帰省・挨拶" = "situations/lebaran-mudik.md" },
+    { "町内会（RT/RW）集会・住民登録・交流" = "situations/neighborhood-rt-rw.md" },
+    { "学校の保護者面談・担任教員との対話" = "situations/school-parent-meeting.md" },
+    { "ジム入会・パーソナルトレーナー指導" = "situations/gym-trainer.md" },
   ] },
 ]
 
