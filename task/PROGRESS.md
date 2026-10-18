@@ -371,16 +371,16 @@
 - [x] `[完了]` B40: 労災・社会保障（BPJS Ketenagakerjaan: JKK, JKM, JHT, JP, JKP） (`docs/business-sectors/hr-bpjs-ketenagakerjaan-claims.md`)
 
 ### 会計・財務・税務申告・法務ガバナンス (B41〜B50)
-- [ ] `[未着手]` B41: 法人所得税（PPh Badan）確定申告と源泉税（PPh 21/23/4(2)） (`docs/business-sectors/finance-corporate-tax-pph.md`)
-- [ ] `[未着手]` B42: 付加価値税（PPN）と電子納税証明書（e-Faktur）の発行管理 (`docs/business-sectors/finance-vat-ppn-efaktur.md`)
-- [ ] `[未着手]` B43: 移転価格税制（Transfer Pricing: TP Doc）と関連当事者取引 (`docs/business-sectors/finance-transfer-pricing-tpdoc.md`)
-- [ ] `[未着手]` B44: 財務諸表（Laporan Keuangan: 貸借対照表・損益・キャッシュフロー） (`docs/business-sectors/finance-financial-statements-analysis.md`)
-- [ ] `[未着手]` B45: 公認会計士監査（Audit KAP）対応と監査調書提出 (`docs/business-sectors/finance-external-audit-kap.md`)
-- [ ] `[未着手]` B46: 株主総会（RUPS）の招集・決議・公正証書議事録作成 (`docs/business-sectors/finance-shareholders-meeting-rups.md`)
-- [ ] `[未着手]` B47: 取締役会（Direksi）と監査役会（Komisaris）の法的権限と責任 (`docs/business-sectors/finance-board-directors-komisaris.md`)
-- [ ] `[未着手]` B48: 現地法人設立（PT PMA）と投資調整庁（BKPM/OSS）許認可 (`docs/business-sectors/finance-foreign-investment-pt-pma.md`)
-- [ ] `[未着手]` B49: 為替リスクヘッジ（Hedging）と中銀外為規制（PBI） (`docs/business-sectors/finance-fx-hedging-bi-regulations.md`)
-- [ ] `[未着手]` B50: 内部監査（Audit Internal）と不正防止・コンプライアンス (`docs/business-sectors/finance-internal-audit-compliance.md`)
+- [x] `[完了]` B41: 法人所得税（PPh Badan）確定申告と源泉税（PPh 21/23/4(2)） (`docs/business-sectors/finance-corporate-tax-pph.md`)
+- [x] `[完了]` B42: 付加価値税（PPN）と電子納税証明書（e-Faktur）の発行管理 (`docs/business-sectors/finance-vat-ppn-efaktur.md`)
+- [x] `[完了]` B43: 移転価格税制（Transfer Pricing: TP Doc）と関連当事者取引 (`docs/business-sectors/finance-transfer-pricing-tpdoc.md`)
+- [x] `[完了]` B44: 財務諸表（Laporan Keuangan: 貸借対照表・損益・キャッシュフロー） (`docs/business-sectors/finance-financial-statements-analysis.md`)
+- [x] `[完了]` B45: 公認会計士監査（Audit KAP）対応と監査調書提出 (`docs/business-sectors/finance-external-audit-kap.md`)
+- [x] `[完了]` B46: 株主総会（RUPS）の招集・決議・公正証書議事録作成 (`docs/business-sectors/finance-shareholders-meeting-rups.md`)
+- [x] `[完了]` B47: 取締役会（Direksi）と監査役会（Komisaris）の法的権限と責任 (`docs/business-sectors/finance-board-directors-komisaris.md`)
+- [x] `[完了]` B48: 現地法人設立（PT PMA）と投資調整庁（BKPM/OSS）許認可 (`docs/business-sectors/finance-foreign-investment-pt-pma.md`)
+- [x] `[完了]` B49: 為替リスクヘッジ（Hedging）と中銀外為規制（PBI） (`docs/business-sectors/finance-fx-hedging-bi-regulations.md`)
+- [x] `[完了]` B50: 内部監査（Audit Internal）と不正防止・コンプライアンス (`docs/business-sectors/finance-internal-audit-compliance.md`)
 
 
 

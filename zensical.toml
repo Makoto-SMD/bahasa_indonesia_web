@@ -331,6 +331,16 @@ nav = [
     { "懲戒処分（警告書：SP1・SP2・SP3）の手続き" = "business-sectors/hr-disciplinary-warning-letters-sp.md" },
     { "解雇（PHK）手続き・退職金計算と労働裁判所" = "business-sectors/hr-severance-pay-layoffs-phk.md" },
     { "労災・社会保障（BPJS Ketenagakerjaan）実務" = "business-sectors/hr-bpjs-ketenagakerjaan-claims.md" },
+    { "法人所得税確定申告と源泉徴収税実務" = "business-sectors/finance-corporate-tax-pph.md" },
+    { "付加価値税（PPN）と電子タックスインボイス" = "business-sectors/finance-vat-ppn-efaktur.md" },
+    { "移転価格税制と関連当事者間取引実務" = "business-sectors/finance-transfer-pricing-tpdoc.md" },
+    { "財務諸表（貸借対照表・損益・CF）の読解実務" = "business-sectors/finance-financial-statements-analysis.md" },
+    { "公認会計士監査（Audit KAP）対応と監査調書" = "business-sectors/finance-external-audit-kap.md" },
+    { "株主総会（RUPS）の招集・決議と公証人議事録" = "business-sectors/finance-shareholders-meeting-rups.md" },
+    { "取締役会と監査役会の法的権限と責任" = "business-sectors/finance-board-directors-komisaris.md" },
+    { "外資現地法人設立と投資調整庁（BKPM/OSS）" = "business-sectors/finance-foreign-investment-pt-pma.md" },
+    { "為替リスクヘッジと中央銀行外為規制実務" = "business-sectors/finance-fx-hedging-bi-regulations.md" },
+    { "内部監査と不正防止・コンプライアンス実務" = "business-sectors/finance-internal-audit-compliance.md" },
   ] },
 ]
 
