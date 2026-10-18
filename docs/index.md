@@ -125,14 +125,6 @@ title: インドネシア語学習ナレッジベース
     
     [:octicons-arrow-right-24: 基本の挨拶と自己紹介を見る](conversation/greetings.md)
 
--   :lucide-repeat: **[万能フレーズ型パターンドリル (全50記事)](patterns/requests-permissions.md)**
-
-    ---
-
-    単語を入れ替えるだけで無限に表現できる、依頼・理由・意見・感情・ビジネス連絡などの実用構文ドリル50選。
-    
-    [:octicons-arrow-right-24: 依頼・許可・希望パターンを見る](patterns/requests-permissions.md)
-
 -   :lucide-shield-alert: **[実践対話・トラブル解決ドリル (全50記事)](situations/ac-repair.md)**
 
     ---
@@ -140,6 +132,14 @@ title: インドネシア語学習ナレッジベース
     エアコン故障、断水、停電、事故、警察検問、病院ER、KITAS手続きなど、現地滞在中のリアルなトラブル対話シミュレーション。
     
     [:octicons-arrow-right-24: 修理依頼の対話を見る](situations/ac-repair.md)
+
+-   :lucide-repeat: **[万能フレーズ型パターンドリル (全50記事)](patterns/requests-permissions.md)**
+
+    ---
+
+    【独立体系】単語を入れ替えるだけで無限に表現できる、依頼・理由・意見・感情・ビジネス連絡などの実用構文テンプレート50選。
+    
+    [:octicons-arrow-right-24: 依頼・許可・希望パターンを見る](patterns/requests-permissions.md)
 
 -   :lucide-briefcase: **[ビジネス・実務特化インドネシア語 (全60記事)](business/office-greetings.md)**
 

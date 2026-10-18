@@ -320,8 +320,9 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 ---
 
 ### 9. 万能フレーズ型・文章パターンドリル (Pola Kalimat Serbaguna) {: #sec-09 }
-単語を入れ替えるだけで無限に文が作れる、実践で最も役立つ50の構文パターン。
+単語を入れ替えるだけで無限に文が作れる、実践で最も役立つ50の構文パターン。対話（会話文）とは独立した「文型テンプレート集」として体系化されています。
 
+#### ① 感情・意思・判断の基本構文 (P01〜P15)
 - [依頼・許可・希望のパターン構文](patterns/requests-permissions.md)
 - [場所・存在・移動・交通のパターン構文](patterns/location-movement.md)
 - [理由・条件・時系列のパターン構文](patterns/reasons-conditions-time.md)
@@ -337,11 +338,15 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [習慣・頻度・反復のパターン構文](patterns/habits-frequency.md)
 - [偶発・自然発生・無意図のパターン構文](patterns/unintentional-actions.md)
 - [継続・進行・維持のパターン構文](patterns/continuous-states.md)
+
+#### ② 対話展開・相槌・説明構文 (P16〜P20)
 - [あいまいな返答・相槌・同調のパターン構文](patterns/conversational-responses.md)
 - [話題転換・前置きのパターン構文](patterns/topic-transitions.md)
 - [説明・言い換え・要約のパターン構文](patterns/clarifications-summaries.md)
 - [提案・勧誘・アドバイスのパターン構文](patterns/suggestions-advice.md)
 - [依頼の念押し・催促・リマインドのパターン構文](patterns/reminders-urging.md)
+
+#### ③ 生活・トラブル・行動構文 (P21〜P30)
 - [注文・味の好み・アレルギー指定のパターン構文](patterns/food-preferences.md)
 - [値段交渉・割引要求・条件確認のパターン構文](patterns/bargaining-prices.md)
 - [サイズ・色・交換要求のパターン構文](patterns/shopping-exchange.md)
@@ -352,6 +357,8 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [紛失・盗難・遺失物のパターン構文](patterns/lost-stolen.md)
 - [誤解・行き違い・訂正のパターン構文](patterns/misunderstandings-corrections.md)
 - [緊急援助要請・危険回避のパターン構文](patterns/emergency-help.md)
+
+#### ④ ビジネス実務・交渉・会議構文 (P31〜P40)
 - [業務報告・進捗連絡のパターン構文](patterns/progress-reporting.md)
 - [連絡・日程調整・アポイントのパターン構文](patterns/scheduling-appointments.md)
 - [質問・確認・指示仰ぎのパターン構文](patterns/clarifications-instructions.md)
@@ -362,6 +369,8 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [感謝・労い・称賛のビジネス構文](patterns/praise-appreciation.md)
 - [見積もり・条件提示・交渉のビジネス構文](patterns/quotations-negotiations.md)
 - [会議の司会・発言・まとめのパターン構文](patterns/meeting-facilitation.md)
+
+#### ⑤ 社交・論理展開・結論構文 (P41〜P50)
 - [初対面の話題作り・スモールトークの構文](patterns/small-talk-icebreakers.md)
 - [趣味・休日の過ごし方を尋ねる構文](patterns/hobbies-sharing.md)
 - [誘い・約束・同行依頼のパターン構文](patterns/invitations-outings.md)
