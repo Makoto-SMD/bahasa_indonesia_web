@@ -42,7 +42,9 @@ subagent: true
    powershell -ExecutionPolicy Bypass -File .\format.ps1
    ```
    - ルビ `<ruby>` やテーブルの崩れ、未解決リンクがないかを検証。
-4. **結果の記録**:
+4. **定期的なGitコミットの実行**:
+   - 記事が約10本増えるごと、または全体的な修正・リファクタリングが行われた際に、ビルド成功を確認した上で `git add -A` および `git commit` を実行する。
+5. **結果の記録**:
    - `task/REVIEW-xxx.md` の「4. ビルド・技術検証結果」に結果を記録する。
 
 ---

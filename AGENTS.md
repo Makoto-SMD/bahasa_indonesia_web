@@ -26,6 +26,8 @@
    - 途中で止まらず、可能な限り多くの記事を1ターン内で連続して執筆・校正・ビルド・改善してください。
 5. **ローカルサーバー環境の確認**:
    - サイトプレビューサーバーのポート番号は **`8001`**（`http://localhost:8001`）です（日本語学習サイトと衝突しないための厳格な指定）。
+6. **定期的なGitコミットの実行 (Git Commits)**:
+   - **記事が約10本増えるごと**、または**全体的な修正・リファクタリングが行われるたび**に、`git add` および適切なコミットメッセージによる `git commit` を実行して作業状態を安全に記録してください。
 
 ---
 
@@ -47,6 +49,7 @@ AIアシスタントは、ユーザーの要求や自律編集サイクルに応
 4. **ビルド・検証（Engineer）** (`.agents/agents/engineer.md`):
    - `zensical.toml` の `nav` 登録を確認。
    - `.\.venv\Scripts\zensical.exe build` や `format.ps1` を実行し、HTML崩れやリンク切れを検証。
+   - 記事が約10本増えるごと、または全体修正時に `git add` & `git commit` を実行。
    - 必要に応じて `task/REVIEW-xxx.md` に技術的フィードバックを発行。
 5. **上司（BOSS）** (`.agents/agents/boss.md`):
    - 全指示書・校正ログ・差分・`pdca/NOTES.md` を監視し、根本原因を分析してPDCA改善案（`pdca/`）を発行。
@@ -63,8 +66,9 @@ AIアシスタントは、ユーザーの要求や自律編集サイクルに応
    ↓ 記事作成 & 校正タスク (task/REVIEW-xxx.md) 起票
 [3. 内容・語法校正] (Reviewer)
    ↓ 修正指示 ⇄ 修正対応 (Writer) → 承認 (APPROVED)
-[4. ビルド & HTML崩れ検証] (Engineer)
+[4. ビルド & HTML崩れ検証 & Gitコミット] (Engineer)
    ↓ zensical.toml の nav 追加 ＆ zensical build & format.ps1
+   ↓ (10記事ごと/全体修正時) git add & git commit
 [5. 気づき収集 & PDCA分析] (BOSS & 全員)
    ↓ 改善案記録 (pdca/NOTES.md, pdca/IMPROVEMENTS.md) & pdca/GUIDELINES.md 更新
 ```
@@ -78,3 +82,4 @@ AIアシスタントは、ユーザーの要求や自律編集サイクルに応
 - **例文ブロック**: `.id-example` クラスや `.dialogue-box` クラスを活用し、視覚的に見やすいレイアウトにする。
 - **ナビゲーション登録**: 新規記事作成時は `zensical.toml` の `nav` に追加する。
 - **ポート番号**: ローカルサーバーはポート `8001` で稼働する。
+- **Gitコミット頻度**: 記事10本増加ごと、または全体修正ごとに自動コミットを実施する。
