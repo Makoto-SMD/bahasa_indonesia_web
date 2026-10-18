@@ -237,6 +237,16 @@ nav = [
     { "車のパンク・バッテリー上がり・ロードサービス要請" = "situations/car-breakdown.md" },
     { "交通事故・接触事故・当て逃げ時の現場対応" = "situations/traffic-accident.md" },
     { "交通警察の検問・反則切符の確認" = "situations/police-traffic-stop.md" },
+    { "救急病院・ER・デング熱疑いでの受診" = "situations/hospital-emergency.md" },
+    { "内科・クリニックでの問診と症状説明" = "situations/doctor-consultation.md" },
+    { "薬局での処方箋調剤・市販薬購入" = "situations/pharmacy-prescription.md" },
+    { "歯科での虫歯治療・歯石除去・親知らず" = "situations/dental-clinic.md" },
+    { "現地銀行での口座開設・デビットカード発行" = "situations/bank-account-open.md" },
+    { "送金不着・ATMカード吸い込み・限度額変更" = "situations/bank-transfer-trouble.md" },
+    { "入国管理局でのKITAS手続き・写真撮影" = "situations/immigration-kitas.md" },
+    { "パスポート紛失・盗難・警察届と大使館連絡" = "situations/lost-passport.md" },
+    { "シロアリ・害虫駆除業者への依頼" = "situations/pest-control.md" },
+    { "量り売りランドリー・ドライクリーニング" = "situations/laundry-dryclean.md" },
   ] },
 ]
 
