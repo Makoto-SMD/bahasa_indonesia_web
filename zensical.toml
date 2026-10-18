@@ -519,6 +519,16 @@ nav = [
     { "北カリマンタン州（国境の島タラカン・セバティク・カヤン巨大水力発電）" = "geography-culture/g18-kalimantan-utara-tarakan-perbatasan.md" },
     { "バンテン州（文明拒絶の隠遁者バドゥイ・ジャワサイ聖域・クラカタウ）" = "geography-culture/g19-banten-baduy-tradisi-kuno.md" },
     { "ランプン州（スマトラ玄関口・ウェイカンバス象・ロブスタ珈琲）" = "geography-culture/g20-lampung-krakatau-gajah-way-kambas.md" },
+    { "南スラウェシ州（海洋民族ブギス＆マカッサル・帆船ピニシ・東の雄鶏）" = "geography-culture/g21-sulawesi-selatan-bugis-makassar-pelaut.md" },
+    { "タナ・トラジャ（死生観の桃源郷・葬送ランブソロ・舟形家屋トンコナン）" = "geography-culture/g22-sulawesi-selatan-toraja-rambu-solo.md" },
+    { "北スラウェシ州（微笑みの港都マナド・ブナケンの蒼海・ミナハサ戦士）" = "geography-culture/g23-sulawesi-utara-manado-minahasa.md" },
+    { "中部スラウェシ州（巨石人像の谷ロレ・リンドゥ・マレオ鳥・牛骨スープカレド）" = "geography-culture/g24-sulawesi-tengah-palu-lore-lindu.md" },
+    { "南東スラウェシ州（サンゴ礁楽園ワカトビ・世界最大ブトン城塞・ハングル村）" = "geography-culture/g25-sulawesi-tenggara-buton-wakatobi.md" },
+    { "ゴロンタロ州（メディナのベランダ・ジンベエザメの海・ビンテビルフタ）" = "geography-culture/g26-gorontalo-seribu-masjid-hiu-paus.md" },
+    { "西スラウェシ州（最速帆船サンデック・マンダール踊る馬・素焼きパンジェパ）" = "geography-culture/g27-sulawesi-barat-mandar-sandeq.md" },
+    { "マルク州（香料諸島の記憶・バンダのナツメグ・音楽都市アンボン）" = "geography-culture/g28-maluku-ambon-rempah-pala.md" },
+    { "北マルク州（双子火山島テルナテ＆ティドレ・丁子黄金郷・世界一周達成地）" = "geography-culture/g29-maluku-utara-ternate-tidore.md" },
+    { "トギアン諸島＆バンガイ（トミニ湾蒼き秘境・漂海民バジャウ・無毒クラゲ湖）" = "geography-culture/g30-kepulauan-banggai-togean-alam.md" },
   ] },
 ]
 

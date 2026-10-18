@@ -546,7 +546,7 @@
 
 ---
 
-## 17. インドネシアの地理・各州・文化・民族探訪 (Geography & Ethnic Cultures) [40記事予定: 20/40完了]
+## 17. インドネシアの地理・各州・文化・民族探訪 (Geography & Ethnic Cultures) [40記事予定: 30/40完了]
 - [x] `[完了]` G01: アチェ州（Serambi Mekkah・シャリーア・珈琲と津波復興） (`docs/geography-culture/g01-aceh-serambi-mekkah.md`)
 - [x] `[完了]` G02: 北スマトラ州（トバ湖・サモシール島・バタク文化・メダン） (`docs/geography-culture/g02-sumatera-utara-batak-toba.md`)
 - [x] `[完了]` G03: 西スマトラ州（母系制ミナンカバウ・ルマガダン・パダン料理） (`docs/geography-culture/g03-sumatera-barat-minangkabau.md`)
@@ -567,6 +567,16 @@
 - [x] `[完了]` G18: 北カリマンタン州（国境の島タラカン・セバティク・カヤン巨大水力発電） (`docs/geography-culture/g18-kalimantan-utara-tarakan-perbatasan.md`)
 - [x] `[完了]` G19: バンテン州（文明拒絶の隠遁者バドゥイ・ジャワサイ聖域・クラカタウ） (`docs/geography-culture/g19-banten-baduy-tradisi-kuno.md`)
 - [x] `[完了]` G20: ランプン州（スマトラ玄関口・ウェイカンバス象・ロブスタ珈琲） (`docs/geography-culture/g20-lampung-krakatau-gajah-way-kambas.md`)
+- [x] `[完了]` G21: 南スラウェシ州（海洋民族ブギス＆マカッサル・帆船ピニシ・東の雄鶏） (`docs/geography-culture/g21-sulawesi-selatan-bugis-makassar-pelaut.md`)
+- [x] `[完了]` G22: タナ・トラジャ（死生観の桃源郷・葬送ランブソロ・舟形家屋トンコナン） (`docs/geography-culture/g22-sulawesi-selatan-toraja-rambu-solo.md`)
+- [x] `[完了]` G23: 北スラウェシ州（微笑みの港都マナド・ブナケンの蒼海・ミナハサ戦士） (`docs/geography-culture/g23-sulawesi-utara-manado-minahasa.md`)
+- [x] `[完了]` G24: 中部スラウェシ州（巨石人像の谷ロレ・リンドゥ・マレオ鳥・牛骨スープカレド） (`docs/geography-culture/g24-sulawesi-tengah-palu-lore-lindu.md`)
+- [x] `[完了]` G25: 南東スラウェシ州（サンゴ礁楽園ワカトビ・世界最大ブトン城塞・ハングル村） (`docs/geography-culture/g25-sulawesi-tenggara-buton-wakatobi.md`)
+- [x] `[完了]` G26: ゴロンタロ州（メディナのベランダ・ジンベエザメの海・ビンテビルフタ） (`docs/geography-culture/g26-gorontalo-seribu-masjid-hiu-paus.md`)
+- [x] `[完了]` G27: 西スラウェシ州（最速帆船サンデック・マンダール踊る馬・素焼きパンジェパ） (`docs/geography-culture/g27-sulawesi-barat-mandar-sandeq.md`)
+- [x] `[完了]` G28: マルク州（香料諸島の記憶・バンダのナツメグ・音楽都市アンボン） (`docs/geography-culture/g28-maluku-ambon-rempah-pala.md`)
+- [x] `[完了]` G29: 北マルク州（双子火山島テルナテ＆ティドレ・丁子黄金郷・世界一周達成地） (`docs/geography-culture/g29-maluku-utara-ternate-tidore.md`)
+- [x] `[完了]` G30: トギアン諸島＆バンガイ（トミニ湾蒼き秘境・漂海民バジャウ・無毒クラゲ湖） (`docs/geography-culture/g30-kepulauan-banggai-togean-alam.md`)
 
 
 
