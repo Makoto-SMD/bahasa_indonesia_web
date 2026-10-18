@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,170 / 1,500 記事 (78.0% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,180 / 1,500 記事 (78.7% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1246,16 +1246,16 @@
 - [x] `[完了]` 1168: 【日本概念の説明】「お歳暮」「稟議」「過労死」をインドネシア語で説明する (`docs/strategies/18-explaining-japanese-concept.md`)
 - [x] `[完了]` 1169: 【予算交渉の限界提示】「これ以上は予算オーバーです」と角を立てずに伝える (`docs/strategies/19-negotiating-price-limits.md`)
 - [x] `[完了]` 1170: 【苦情への初期対応】相手の怒りを鎮め、事実関係を確認する傾聴フレーズ (`docs/strategies/20-handling-complaints-calmly.md`)
-- [ ] `[未着手]` 1171: 【角を立てない拒絶】「前向きに検討しますが、現時点では困難です」の技法 (`docs/strategies/21-saying-no-diplomatically.md`)
-- [ ] `[未着手]` 1172: 【気まずい話題の切り出し】金銭・納期遅延・ミスを申し訳なさそうに切り出す (`docs/strategies/22-addressing-awkward-topics.md`)
-- [ ] `[未着手]` 1173: 【ユーモアで場を和らげる】失敗した時に笑顔で雰囲気をほぐす一言 (`docs/strategies/23-humor-easing-tension.md`)
-- [ ] `[未着手]` 1174: 【謝罪＋代替案】ただ謝るだけでなく、次に向けた解決策を提示する技術 (`docs/strategies/24-apologizing-with-solutions.md`)
-- [ ] `[未着手]` 1175: 【緊急SOS】緊急事態（盗難・事故・急病）で周囲の助けを即座に呼ぶ (`docs/strategies/25-asking-for-urgent-help.md`)
-- [ ] `[未着手]` 1176: 【道迷いサバイバル】現在地を特定し、目的地への行き方を引き出す (`docs/strategies/26-getting-lost-directions.md`)
-- [ ] `[未着手]` 1177: 【アレルギー・食事制限】宗教・アレルギー・苦手な食材を確実に伝える (`docs/strategies/27-food-allergy-restrictions.md`)
-- [ ] `[未着手]` 1178: 【ホテル設備トラブル】エアコン故障・お湯が出ない時の交渉と部屋変更 (`docs/strategies/28-hotel-room-issue.md`)
-- [ ] `[未着手]` 1179: 【空港トラブル】ロストバゲージ・乗り遅れ時の航空会社カウンター交渉 (`docs/strategies/29-airport-transit-trouble.md`)
-- [ ] `[未着手]` 1180: 総合サバイバル対話シミュレーション：トラブル頻発の現場を切り抜ける30番勝負 (`docs/strategies/30-comprehensive-survival-test.md`)
+- [x] `[完了]` 1171: 【角を立てない拒絶】「前向きに検討しますが、現時点では困難です」の技法 (`docs/strategies/21-saying-no-diplomatically.md`)
+- [x] `[完了]` 1172: 【誤解の穏便な訂正】「そうではなくて、こういう意味でした」の訂正技術 (`docs/strategies/22-correcting-misunderstandings.md`)
+- [x] `[完了]` 1173: 【時間稼ぎ戦略】質問に詰まったときに沈黙を防ぎ思考時間を確保する技法 (`docs/strategies/23-buying-time-under-pressure.md`)
+- [x] `[完了]` 1174: 【合意事項の要約】「ここまでの決定事項をまとめますと…」の確認法 (`docs/strategies/24-summarizing-agreements.md`)
+- [x] `[完了]` 1175: 【代替案・妥協案の提示】「それなら代わりにこうしませんか？」の提案術 (`docs/strategies/25-proposing-alternatives.md`)
+- [x] `[完了]` 1176: 【建設的な異論提示】相手の意見を尊重しつつ慎重に反対意見を述べる (`docs/strategies/26-expressing-constructive-doubt.md`)
+- [x] `[完了]` 1177: 【スマートな会話退出】角を立てずにスムーズに話を切り上げるフレーズ (`docs/strategies/27-closing-conversation-gracefully.md`)
+- [x] `[完了]` 1178: 【医療・警察サバイバル】体調不良・急病・トラブル時の緊急意思疎通 (`docs/strategies/28-emergency-medical-police.md`)
+- [x] `[完了]` 1179: 【雑談・世間話の切り出し】天候・食事・交通から自然に会話を広げる技法 (`docs/strategies/29-informal-banter-strategies.md`)
+- [x] `[完了]` 1180: 【サバイバル総合演習】トラブル・交渉・意思疎通を切り抜ける30番勝負 (`docs/strategies/30-comprehensive-survival-test.md`)
 
 ## 29. 【音韻訓練】発音・音韻・シャドーイング＆AIスピーキング特訓 [20記事]
 - [ ] `[未着手]` 1181: インドネシア語シャドーイング完全マニュアル：耳と口を直結させる科学的訓練法 (`docs/phonology/01-shadowing-mastery-guide.md`)
