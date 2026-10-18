@@ -311,6 +311,16 @@ nav = [
     { "サイバーセキュリティインシデント対応と情報漏洩対策" = "business-sectors/it-cybersecurity-incident.md" },
     { "社内DX推進とERPシステム導入プロジェクト" = "business-sectors/it-dx-erp-implementation.md" },
     { "テスト自動化・コードレビュー・CI/CDパイプライン" = "business-sectors/it-qa-cicd-pipeline.md" },
+    { "輸出入通関手続きとHSコード分類実務" = "business-sectors/logistics-customs-clearance.md" },
+    { "輸入許可証（PI）とSNI（国家規格）認証" = "business-sectors/logistics-import-permits-sni.md" },
+    { "国際輸送ブッキング・船荷証券（B/L）と原産地証明書" = "business-sectors/logistics-shipping-bl-coo.md" },
+    { "保税区（Kawasan Berikat）制度の活用と税制優遇" = "business-sectors/logistics-bonded-zone-kb.md" },
+    { "倉庫入出庫管理・棚卸差異と先入れ先出し" = "business-sectors/logistics-warehouse-fifo-stock.md" },
+    { "物流フォワーダーとの運賃交渉とコンテナ不足対応" = "business-sectors/logistics-freight-forwarder-rates.md" },
+    { "インコタームズ（FOB, CIF, DDP等）とリスク移転" = "business-sectors/logistics-incoterms-liability.md" },
+    { "港湾滞船料（Demurrage / Detention）防止と手続き" = "business-sectors/logistics-demurrage-port-handling.md" },
+    { "国内幹線陸送輸送の手配と配送遅延トラブル" = "business-sectors/logistics-domestic-trucking-delays.md" },
+    { "コールドチェーン（低温物流）管理と品質劣化防止" = "business-sectors/logistics-cold-chain-quality.md" },
   ] },
 ]
 
