@@ -438,7 +438,7 @@
 
 ---
 
-## 15. 検定・UKBI突破！文法・語彙・読解マスター演習 (Exam Drills) [50記事予定: 20/50完了]
+## 15. 検定・UKBI突破！文法・語彙・読解マスター演習 (Exam Drills) [50記事予定: 30/50完了]
 - [x] `[完了]` U01: 接尾辞 -kan vs -i の使い分けマスター演習 (`docs/exam-drills/u01-affixes-kan-vs-i-distinction.md`)
 - [x] `[完了]` U02: 名詞接辞 peN-...-an vs per-...-an の使い分け (`docs/exam-drills/u02-noun-affixes-pen-an-vs-per-an.md`)
 - [x] `[完了]` U03: 接頭辞 ter- の4大機能（無意志・完了・可能・最上級） (`docs/exam-drills/u03-prefix-ter-functions-exam-drill.md`)
@@ -459,6 +459,16 @@
 - [x] `[完了]` U18: 可能助動詞 bisa vs dapat vs boleh の機能的使い分け (`docs/exam-drills/u18-modal-auxiliaries-bisa-dapat-boleh.md`)
 - [x] `[完了]` U19: 認識動詞 tahu vs kenal の直接目的語制約と識別 (`docs/exam-drills/u19-verbs-tahu-vs-kenal-distinction.md`)
 - [x] `[完了]` U20: 身体部位別「運搬・所持動詞」の完全識別演習 (`docs/exam-drills/u20-carrying-verbs-membawa-memikul-jinjing.md`)
+- [x] `[完了]` U21: 前置詞 di/ke と接頭辞 di-/ke- の分かち書き識別 (`docs/exam-drills/u21-spelling-preposition-vs-prefix-di-ke.md`)
+- [x] `[完了]` U22: 強調・疑問助詞 -lah/-kah/-tah と副詞 pun の表記規則 (`docs/exam-drills/u22-spelling-particles-lah-kah-pun.md`)
+- [x] `[完了]` U23: 複合語（Kata Majemuk）の分かち書き・結合・ハイフン規則 (`docs/exam-drills/u23-spelling-compound-words-binding.md`)
+- [x] `[完了]` U24: 外来語（Serapan）の音訳・綴り字変換規則 (`docs/exam-drills/u24-spelling-loanwords-transliteration-eyd.md`)
+- [x] `[完了]` U25: 大文字（Huruf Kapital）の10大使用規則と落とし穴 (`docs/exam-drills/u25-spelling-capitalization-rules-eyd.md`)
+- [x] `[完了]` U26: イタリック体（Huruf Miring）と太字（Huruf Tebal）の公的表記規則 (`docs/exam-drills/u26-spelling-italics-usage-eyd.md`)
+- [x] `[完了]` U27: ハイフン（Tanda Hubung）の6大使用規則と複合連結 (`docs/exam-drills/u27-spelling-hyphen-rules-eyd.md`)
+- [x] `[完了]` U28: 数詞・数字（Angka dan Bilangan）の公的正書法規則 (`docs/exam-drills/u28-spelling-numbers-and-numerals-eyd.md`)
+- [x] `[完了]` U29: 略語・頭字語（Singkatan dan Akronim）の表記と句点規則 (`docs/exam-drills/u29-spelling-abbreviations-acronyms-eyd.md`)
+- [x] `[完了]` U30: 句読点（Tanda Baca：カンマ・コロン・セミコロン・ダッシュ）の文法配置 (`docs/exam-drills/u30-spelling-punctuation-comma-colon-dash.md`)
 
 
 

@@ -415,6 +415,16 @@ nav = [
     { "可能助動詞 bisa vs dapat vs boleh の機能的使い分け" = "exam-drills/u18-modal-auxiliaries-bisa-dapat-boleh.md" },
     { "認識動詞 tahu vs kenal の直接目的語制約と識別" = "exam-drills/u19-verbs-tahu-vs-kenal-distinction.md" },
     { "身体部位別「運搬・所持動詞」の完全識別演習" = "exam-drills/u20-carrying-verbs-membawa-memikul-jinjing.md" },
+    { "前置詞 di/ke と接頭辞 di-/ke- の分かち書き識別" = "exam-drills/u21-spelling-preposition-vs-prefix-di-ke.md" },
+    { "強調・疑問助詞 -lah/-kah/-tah と副詞 pun の表記規則" = "exam-drills/u22-spelling-particles-lah-kah-pun.md" },
+    { "複合語（Kata Majemuk）の分かち書き・結合・ハイフン規則" = "exam-drills/u23-spelling-compound-words-binding.md" },
+    { "外来語（Serapan）の音訳・綴り字変換規則" = "exam-drills/u24-spelling-loanwords-transliteration-eyd.md" },
+    { "大文字（Huruf Kapital）の10大使用規則と落とし穴" = "exam-drills/u25-spelling-capitalization-rules-eyd.md" },
+    { "イタリック体（Huruf Miring）と太字（Huruf Tebal）の公的表記規則" = "exam-drills/u26-spelling-italics-usage-eyd.md" },
+    { "ハイフン（Tanda Hubung）の6大使用規則と複合連結" = "exam-drills/u27-spelling-hyphen-rules-eyd.md" },
+    { "数詞・数字（Angka dan Bilangan）の公的正書法規則" = "exam-drills/u28-spelling-numbers-and-numerals-eyd.md" },
+    { "略語・頭字語（Singkatan dan Akronim）の表記と句点規則" = "exam-drills/u29-spelling-abbreviations-acronyms-eyd.md" },
+    { "句読点（Tanda Baca：カンマ・コロン・セミコロン・ダッシュ）の文法配置" = "exam-drills/u30-spelling-punctuation-comma-colon-dash.md" },
   ] },
 ]
 
