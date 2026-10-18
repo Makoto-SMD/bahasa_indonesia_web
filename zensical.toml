@@ -226,6 +226,18 @@ nav = [
     { "確信度・可能性のグラデーション構文" = "patterns/probability-degrees.md" },
     { "結論・提言・未来予測のパターン構文" = "patterns/conclusions-projections.md" },
   ] },
+  { "実践対話・トラブル解決ドリル" = [
+    { "エアコン故障・水漏れ修理依頼" = "situations/ac-repair.md" },
+    { "水道・排水管詰まり・断水トラブル" = "situations/plumbing-water.md" },
+    { "停電・ブレーカー落ち・電気トークン購入" = "situations/electricity-blackout.md" },
+    { "Wi-Fi不具合・ネット回線トラブル" = "situations/wifi-trouble.md" },
+    { "アパート契約更新・家賃交渉・退去立会い" = "situations/apartment-lease.md" },
+    { "お手伝いさん・ドライバーの面接と条件合意" = "situations/maid-driver-interview.md" },
+    { "お手伝いさん・ドライバーへの日常業務指示・注意喚起" = "situations/maid-driver-instructions.md" },
+    { "車のパンク・バッテリー上がり・ロードサービス要請" = "situations/car-breakdown.md" },
+    { "交通事故・接触事故・当て逃げ時の現場対応" = "situations/traffic-accident.md" },
+    { "交通警察の検問・反則切符の確認" = "situations/police-traffic-stop.md" },
+  ] },
 ]
 
 [project.theme]

@@ -253,15 +253,26 @@
 ---
 
 ## 11. シチュエーション別実践対話・トラブル解決ドリル (Situasi & Pemecahan Masalah) [全50記事: S01〜S50]
-- [ ] `[未着手]` S01: エアコン故障・水漏れ修理依頼と業者とのやり取り (`docs/situations/ac-repair.md`)
-- [ ] `[未着手]` S02: 水道・排水管詰まり・断水トラブル (`docs/situations/plumbing-water.md`)
-- [ ] `[未着手]` S03: 停電・ブレーカー落ち・電気容量追加 (`docs/situations/electricity-blackout.md`)
-- [ ] `[未着手]` S04: Wi-Fiルーター不具合・プロバイダへの問い合わせ (`docs/situations/wifi-trouble.md`)
-- [ ] `[未着手]` S05: アパート更新・家賃交渉・退去立会い (`docs/situations/apartment-lease.md`)
-- [ ] `[未着手]` S06: お手伝いさん（ART）・ドライバーの面接と条件合意 (`docs/situations/maid-driver-interview.md`)
-- [ ] `[未着手]` S07: お手伝いさん・ドライバーへの日常業務指示・注意喚起 (`docs/situations/maid-driver-instructions.md`)
-- [ ] `[未着手]` S08: 車のパンク・バッテリー上がり・ロードサービス要請 (`docs/situations/car-breakdown.md`)
-- [ ] `[未着手]` S09: 接触事故・当て逃げ時の相手・警察との対応 (`docs/situations/traffic-accident.md`)
-- [ ] `[未着手]` S10: 交通警察による検問（Razia）・反則切符（Tilang）の確認 (`docs/situations/police-traffic-stop.md`)
+- [x] `[完了]` S01: エアコン故障・水漏れ修理依頼と業者とのやり取り (`docs/situations/ac-repair.md`)
+- [x] `[完了]` S02: 水道・排水管詰まり・断水トラブル (`docs/situations/plumbing-water.md`)
+- [x] `[完了]` S03: 停電・ブレーカー落ち・電気容量追加 (`docs/situations/electricity-blackout.md`)
+- [x] `[完了]` S04: Wi-Fiルーター不具合・プロバイダへの問い合わせ (`docs/situations/wifi-trouble.md`)
+- [x] `[完了]` S05: アパート更新・家賃交渉・退去立会い (`docs/situations/apartment-lease.md`)
+- [x] `[完了]` S06: お手伝いさん（ART）・ドライバーの面接と条件合意 (`docs/situations/maid-driver-interview.md`)
+- [x] `[完了]` S07: お手伝いさん・ドライバーへの日常業務指示・注意喚起 (`docs/situations/maid-driver-instructions.md`)
+- [x] `[完了]` S08: 車のパンク・バッテリー上がり・ロードサービス要請 (`docs/situations/car-breakdown.md`)
+- [x] `[完了]` S09: 接触事故・当て逃げ時の相手・警察との対応 (`docs/situations/traffic-accident.md`)
+- [x] `[完了]` S10: 交通警察による検問（Razia）・反則切符（Tilang）の確認 (`docs/situations/police-traffic-stop.md`)
+- [ ] `[未着手]` S11: 救急病院・ER・デング熱疑いでの受診 (`docs/situations/hospital-emergency.md`)
+- [ ] `[未着手]` S12: 内科・クリニックでの問診と症状説明（腹痛・下痢・発熱） (`docs/situations/doctor-consultation.md`)
+- [ ] `[未着手]` S13: 薬局（Apotek）での処方箋調剤と市販薬購入 (`docs/situations/pharmacy-prescription.md`)
+- [ ] `[未着手]` S14: 歯科（Dokter Gigi）での虫歯・クリーニング・親知らず (`docs/situations/dental-clinic.md`)
+- [ ] `[未着手]` S15: 現地銀行（BCA/Mandiri等）での口座開設とデビットカード (`docs/situations/bank-account-open.md`)
+- [ ] `[未着手]` S16: 送金不着・ATMカード吸い込み・限度額引き上げ (`docs/situations/bank-transfer-trouble.md`)
+- [ ] `[未着手]` S17: 入国管理局（Imigrasi）でのKITAS手続き・写真撮影 (`docs/situations/immigration-kitas.md`)
+- [ ] `[未着手]` S18: パスポート紛失・盗難と警察届・大使館連絡 (`docs/situations/lost-passport.md`)
+- [ ] `[未着手]` S19: シロアリ・害虫駆除（Pest Control）の依頼 (`docs/situations/pest-control.md`)
+- [ ] `[未着手]` S20: クリーニング・ランドリー（Laundry Kiloan）への預け入れとトラブル (`docs/situations/laundry-dryclean.md`)
+
 
 
