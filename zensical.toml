@@ -109,6 +109,16 @@ nav = [
     { "理由・条件・時系列のパターン構文" = "patterns/reasons-conditions-time.md" },
     { "意見・感想・比較・評価のパターン構文" = "patterns/opinions-comparisons.md" },
     { "疑問・確認・頻出質問のパターン構文" = "patterns/questions-confirmations.md" },
+    { "好き・嫌い・好みのパターン構文" = "patterns/likes-preferences.md" },
+    { "感謝・謝罪・お礼のパターン構文" = "patterns/thanks-apologies.md" },
+    { "心配・安心・懸念のパターン構文" = "patterns/worry-reassurance.md" },
+    { "確信・疑念・推量のパターン構文" = "patterns/certainty-doubt.md" },
+    { "決意・予定・意図のパターン構文" = "patterns/intention-plans.md" },
+    { "状態変化・進展のパターン構文" = "patterns/state-change.md" },
+    { "完了・結果・結末のパターン構文" = "patterns/completion-results.md" },
+    { "習慣・頻度・反復のパターン構文" = "patterns/habits-frequency.md" },
+    { "偶発・自然発生・無意図のパターン構文" = "patterns/unintentional-actions.md" },
+    { "継続・進行・維持のパターン構文" = "patterns/continuous-states.md" },
   ] },
 ]
 
