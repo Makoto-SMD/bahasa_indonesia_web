@@ -384,7 +384,7 @@
 
 ---
 
-## 14. ニュース・時事インドネシア語リーディング (News Reading) [50記事予定: 40/50完了]
+## 14. ニュース・時事インドネシア語リーディング (News Reading) [50記事完了: 50/50達成]
 - [x] `[完了]` N01: 新首都IKN建設の進捗と投資誘致 (`docs/news-reading/n01-ikn-infrastructure-investment.md`)
 - [x] `[完了]` N02: ニッケル鉱石の下流化とEVサプライチェーン (`docs/news-reading/n02-nickel-downstreaming-ev-battery.md`)
 - [x] `[完了]` N03: 中銀の政策金利引き上げとルピア為替安定化策 (`docs/news-reading/n03-central-bank-bi-rate-rupiah.md`)
@@ -425,6 +425,17 @@
 - [x] `[完了]` N38: 5G周波数の解放と国家海底光ファイバー網の拡張 (`docs/news-reading/n38-5g-telecom-subsea-cable-connectivity.md`)
 - [x] `[完了]` N39: 教育テック（EdTech）の再編と地方デジタル教育格差 (`docs/news-reading/n39-edtech-digital-education-divide.md`)
 - [x] `[完了]` N40: アグリテックと農産物流通のサプライチェーン改革 (`docs/news-reading/n40-agritech-smallholder-farmers-supply-chain.md`)
+- [x] `[完了]` N41: 泥炭地森林火災（Karhutla）の予防と煙霧対策 (`docs/news-reading/n41-forest-fires-karhutla-haze-prevention.md`)
+- [x] `[完了]` N42: パーム油業界とEU森林破壊防止規制（EUDR）の対立 (`docs/news-reading/n42-palm-oil-eudr-deforestation-dispute.md`)
+- [x] `[完了]` N43: ユネスコ無形文化遺産（バティック・ガムラン）の継承 (`docs/news-reading/n43-unesco-intangible-heritage-batik-gamelan.md`)
+- [x] `[完了]` N44: 無料栄養給食プログラム（MBG）の国家予算配分 (`docs/news-reading/n44-free-school-meals-program-nutrition.md`)
+- [x] `[完了]` N45: 乳幼児発育不全（Stunting）撲滅プログラムと母子保健 (`docs/news-reading/n45-stunting-reduction-maternal-child-health.md`)
+- [x] `[完了]` N46: イスラム銀行（BSI）の急成長とハラル製品認証の義務化 (`docs/news-reading/n46-sharia-banking-bsi-halal-certification.md`)
+- [x] `[完了]` N47: ギグワーカー・配車アプリ運転手の法的保護と福祉改善 (`docs/news-reading/n47-gig-economy-ride-hailing-driver-welfare.md`)
+- [x] `[完了]` N48: 伝統生薬ジャムーのユネスコ遺産登録と近代化産業 (`docs/news-reading/n48-jamu-herbal-medicine-unesco-industry.md`)
+- [x] `[完了]` N49: 人口ボーナスのピークと高齢化社会への備え (`docs/news-reading/n49-demographic-bonus-aging-society-transition.md`)
+- [x] `[完了]` N50: 環太平洋火山帯と津波早期警報システム（InaTEWS） (`docs/news-reading/n50-disaster-resilience-inatews-early-warning.md`)
+
 
 
 

@@ -383,6 +383,16 @@ nav = [
     { "5G周波数の解放と国家海底光ファイバー網の拡張" = "news-reading/n38-5g-telecom-subsea-cable-connectivity.md" },
     { "教育テック（EdTech）の再編と地方デジタル教育格差" = "news-reading/n39-edtech-digital-education-divide.md" },
     { "アグリテックと農産物流通のサプライチェーン改革" = "news-reading/n40-agritech-smallholder-farmers-supply-chain.md" },
+    { "泥炭地森林火災（Karhutla）の予防と煙霧対策" = "news-reading/n41-forest-fires-karhutla-haze-prevention.md" },
+    { "パーム油業界とEU森林破壊防止規制（EUDR）の対立" = "news-reading/n42-palm-oil-eudr-deforestation-dispute.md" },
+    { "ユネスコ無形文化遺産（バティック・ガムラン）の継承" = "news-reading/n43-unesco-intangible-heritage-batik-gamelan.md" },
+    { "無料栄養給食プログラム（MBG）の国家予算配分" = "news-reading/n44-free-school-meals-program-nutrition.md" },
+    { "乳幼児発育不全（Stunting）撲滅プログラムと母子保健" = "news-reading/n45-stunting-reduction-maternal-child-health.md" },
+    { "イスラム銀行（BSI）の急成長とハラル製品認証の義務化" = "news-reading/n46-sharia-banking-bsi-halal-certification.md" },
+    { "ギグワーカー・配車アプリ運転手の法的保護と福祉改善" = "news-reading/n47-gig-economy-ride-hailing-driver-welfare.md" },
+    { "伝統生薬ジャムーのユネスコ遺産登録と近代化産業" = "news-reading/n48-jamu-herbal-medicine-unesco-industry.md" },
+    { "人口ボーナスのピークと高齢化社会への備え" = "news-reading/n49-demographic-bonus-aging-society-transition.md" },
+    { "環太平洋火山帯と津波早期警報システム（InaTEWS）" = "news-reading/n50-disaster-resilience-inatews-early-warning.md" },
   ] },
 ]
 
