@@ -384,7 +384,7 @@
 
 ---
 
-## 14. ニュース・時事インドネシア語リーディング (News Reading) [50記事予定: 10/50完了]
+## 14. ニュース・時事インドネシア語リーディング (News Reading) [50記事予定: 20/50完了]
 - [x] `[完了]` N01: 新首都IKN建設の進捗と投資誘致 (`docs/news-reading/n01-ikn-infrastructure-investment.md`)
 - [x] `[完了]` N02: ニッケル鉱石の下流化とEVサプライチェーン (`docs/news-reading/n02-nickel-downstreaming-ev-battery.md`)
 - [x] `[完了]` N03: 中銀の政策金利引き上げとルピア為替安定化策 (`docs/news-reading/n03-central-bank-bi-rate-rupiah.md`)
@@ -395,6 +395,17 @@
 - [x] `[完了]` N08: 付加価値税（PPN）12%引き上げと家計消費への影響 (`docs/news-reading/n08-vat-hike-household-consumption.md`)
 - [x] `[完了]` N09: 政府債務残高の推移と財政赤字規律 (`docs/news-reading/n09-government-debt-fiscal-discipline.md`)
 - [x] `[完了]` N10: ソブリン・ウェルス・ファンド（INA）と外資共同投資 (`docs/news-reading/n10-sovereign-wealth-fund-ina-investment.md`)
+- [x] `[完了]` N11: ASEAN議長国としてのリーダーシップと地域結束 (`docs/news-reading/n11-asean-chairmanship-regional-solidarity.md`)
+- [x] `[完了]` N12: ナトゥナ海域の海洋安全保障と排他的経済水域の防衛 (`docs/news-reading/n12-natuna-maritime-security-zee.md`)
+- [x] `[完了]` N13: 日本・インドネシア首脳会談と包括的・戦略的提携 (`docs/news-reading/n13-indonesia-japan-strategic-partnership.md`)
+- [x] `[完了]` N14: 経済協力開発機構（OECD）加盟申請と制度改革 (`docs/news-reading/n14-oecd-accession-economic-reforms.md`)
+- [x] `[完了]` N15: 伝統的非同盟外交「自由・能動」とBRICS加盟方針 (`docs/news-reading/n15-bebas-aktif-foreign-policy-brics.md`)
+- [x] `[完了]` N16: パプア特別自治法改定と地域開発・治安情勢 (`docs/news-reading/n16-papua-special-autonomy-security.md`)
+- [x] `[完了]` N17: 防衛装備品の近代化と国内防衛産業の育成 (`docs/news-reading/n17-defense-modernization-pindad.md`)
+- [x] `[完了]` N18: ゴールデンビザ制度の創設と富裕層・先端人材の誘致 (`docs/news-reading/n18-golden-visa-immigration-policy.md`)
+- [x] `[完了]` N19: 越境人身売買（TPPO）とオンライン詐欺組織の摘発 (`docs/news-reading/n19-cross-border-crime-tppo-polri.md`)
+- [x] `[完了]` N20: パレスチナ人道支援と二国家解決支持外交 (`docs/news-reading/n20-palestine-humanitarian-aid-diplomacy.md`)
+
 
 
 
