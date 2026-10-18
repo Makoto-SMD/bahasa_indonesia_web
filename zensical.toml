@@ -321,6 +321,16 @@ nav = [
     { "港湾滞船料（Demurrage / Detention）防止と手続き" = "business-sectors/logistics-demurrage-port-handling.md" },
     { "国内幹線陸送輸送の手配と配送遅延トラブル" = "business-sectors/logistics-domestic-trucking-delays.md" },
     { "コールドチェーン（低温物流）管理と品質劣化防止" = "business-sectors/logistics-cold-chain-quality.md" },
+    { "雇用契約（PKWT vs PKWTT）とオムニバス法実務" = "business-sectors/hr-employment-contracts-pkwt.md" },
+    { "就業規則（PP）と労働協約（PKB）の作成・届出" = "business-sectors/hr-company-regulations-pp.md" },
+    { "最低賃金（UMR/UMK）改定と賃金構造・給与計算" = "business-sectors/hr-minimum-wage-payroll.md" },
+    { "残業代の法定計算基準と労働時間管理実務" = "business-sectors/hr-overtime-calculation-regulations.md" },
+    { "宗教大祭手当（THR）の法的支給義務と実務対応" = "business-sectors/hr-thr-religious-allowance.md" },
+    { "労働組合との労使協議とストライキ回避実務" = "business-sectors/hr-labor-unions-collective-bargaining.md" },
+    { "人事評価（KPI）面談と昇進昇給実務" = "business-sectors/hr-performance-evaluation-kpi.md" },
+    { "懲戒処分（警告書：SP1・SP2・SP3）の手続き" = "business-sectors/hr-disciplinary-warning-letters-sp.md" },
+    { "解雇（PHK）手続き・退職金計算と労働裁判所" = "business-sectors/hr-severance-pay-layoffs-phk.md" },
+    { "労災・社会保障（BPJS Ketenagakerjaan）実務" = "business-sectors/hr-bpjs-ketenagakerjaan-claims.md" },
   ] },
 ]
 
