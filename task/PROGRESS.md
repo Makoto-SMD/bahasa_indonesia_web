@@ -438,7 +438,7 @@
 
 ---
 
-## 15. 検定・UKBI突破！文法・語彙・読解マスター演習 (Exam Drills) [50記事予定: 40/50完了]
+## 15. 検定・UKBI突破！文法・語彙・読解マスター演習 (Exam Drills) [50記事予定: 50/50完了【コンプリート】]
 - [x] `[完了]` U01: 接尾辞 -kan vs -i の使い分けマスター演習 (`docs/exam-drills/u01-affixes-kan-vs-i-distinction.md`)
 - [x] `[完了]` U02: 名詞接辞 peN-...-an vs per-...-an の使い分け (`docs/exam-drills/u02-noun-affixes-pen-an-vs-per-an.md`)
 - [x] `[完了]` U03: 接頭辞 ter- の4大機能（無意志・完了・可能・最上級） (`docs/exam-drills/u03-prefix-ter-functions-exam-drill.md`)
@@ -479,6 +479,16 @@
 - [x] `[完了]` U38: 相関接続詞の照応規則と不適切ペアの識別演習 (`docs/exam-drills/u38-syntax-correlative-conjunctions-parallelism.md`)
 - [x] `[完了]` U39: 条件・譲歩複文における文法不成立（Kalimat Rancu）の看破 (`docs/exam-drills/u39-syntax-faulty-subordinate-clauses.md`)
 - [x] `[完了]` U40: 引用節構文（bahwa節・直接話法 vs 間接話法）の代名詞・時制転換 (`docs/exam-drills/u40-syntax-reported-speech-bahwa-clauses.md`)
+- [x] `[完了]` U41: UKBI Seksi I（聞き取り理解演習）の談話構造解析とメモ取り術 (`docs/exam-drills/u41-exam-ukbi-listening-discourse-analysis.md`)
+- [x] `[完了]` U42: UKBI Seksi II（誤文訂正・正書法判定）の高速スキャン解法 (`docs/exam-drills/u42-exam-ukbi-error-correction-fast-scan.md`)
+- [x] `[完了]` U43: UKBI Seksi III（学術・時事読解）の要旨把握とトピックセンテンス特定 (`docs/exam-drills/u43-exam-ukbi-reading-academic-topic-sentence.md`)
+- [x] `[完了]` U44: 長文要約・論述（Menulis）の段落展開と結束性（Kohesi & Koherensi） (`docs/exam-drills/u44-exam-writing-essay-paragraph-cohesion.md`)
+- [x] `[完了]` U45: 政治・法制分野の難解長文読解演習（憲法裁判所判決・法制審議） (`docs/exam-drills/u45-exam-reading-constitutional-law-rulings.md`)
+- [x] `[完了]` U46: 経済・金融分野の難解長文読解演習（中銀金融政策報告・マクロ動向） (`docs/exam-drills/u46-exam-reading-central-bank-monetary-policy.md`)
+- [x] `[完了]` U47: 社会・環境分野の難解長文読解演習（生物多様性・環境影響評価 AMDAL） (`docs/exam-drills/u47-exam-reading-environmental-amdal-reports.md`)
+- [x] `[完了]` U48: 文化・文学・哲学分野の読解演習（伝統芸能・パンチャシラ思想論説） (`docs/exam-drills/u48-exam-reading-cultural-heritage-philosophy.md`)
+- [x] `[完了]` U49: 成句・ことわざ（Peribahasa / Ungkapan）の完全攻略演習 (`docs/exam-drills/u49-exam-idioms-peribahasa-metaphors.md`)
+- [x] `[完了]` U50: 複合イディオム・四字熟語的表現（Kata Majemuk Idiomatis）のマスター演習 (`docs/exam-drills/u50-exam-idioms-compound-expressions.md`)
 
 
 
