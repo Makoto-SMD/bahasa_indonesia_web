@@ -107,7 +107,7 @@ graph TD
 <div class="id-example" markdown>
 
 <div class="id-sentence">
-{Selamat|スラマッ} {pagi|パギ}! {Apa|アパ} {kabar|カバール}?
+Selamat pagi! Apa kabar?
 </div>
 <div class="id-reading">
 スラマッ パギ！ アパ カバール？
@@ -121,7 +121,7 @@ graph TD
 <div class="id-example" markdown>
 
 <div class="id-sentence">
-{Kabar|カバール} {baik|バイッ}, {terima|トゥリマ} {kasih|カシ}.
+Kabar baik, terima kasih.
 </div>
 <div class="id-reading">
 カバール バイッ、トゥリマ カシ。
@@ -140,17 +140,17 @@ graph TD
 
 <div class="dialogue-item">
   <span class="dialogue-speaker">Taro</span>
-  <span>{Permisi|プルミシ}, {berapa|ブラパ} {harganya|ハルガニャ} {ini|イニ}?（すみません、これはいくらですか？）</span>
+  <span>Permisi, berapa harganya ini?（すみません、これはいくらですか？）</span>
 </div>
 
 <div class="dialogue-item">
   <span class="dialogue-speaker dialogue-speaker--b">Penjual</span>
-  <span>{Ini|イニ} {dua|ドゥア} {puluh|プル} {ribu|リブ} {rupiah|ルピア}.（これは2万ルピアです。）</span>
+  <span>Ini dua puluh ribu rupiah.（これは2万ルピアです。）</span>
 </div>
 
 <div class="dialogue-item">
   <span class="dialogue-speaker">Taro</span>
-  <span>{Bisa|ビサ} {kurang|クラン} {sedikit|スディキッ}?（少し安くしてもらえますか？）</span>
+  <span>Bisa kurang sedikit?（少し安くしてもらえますか？）</span>
 </div>
 
 </div>

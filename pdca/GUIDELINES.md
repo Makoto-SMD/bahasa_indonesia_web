@@ -21,25 +21,18 @@ Director、Writer、Reviewer、Engineer、BOSS の全員が本規約を遵守し
 
 ## 2. 表記・マークダウン規約
 
-### 2.1 ルビ（カタカナ読み・訳注）
-- 発音や意味のルビには `{インドネシア語|カタカナや訳}` を使用する。
-  ```markdown
-  {Selamat|スラマッ} {pagi|パギ}!
-  ```
-- **Markdown表（テーブル）内での注意**:
-  - 表の中ではパイプ `|` が列の区切りと干渉するため、必ず `\|` とエスケープする。
-  ```markdown
-  | インドネシア語 | 読み・訳 |
-  | --- | --- |
-  | {terima\|トゥリマ} {kasih\|カシ} | ありがとう |
-  ```
+### 2.1 ルビの廃止方針（カタカナのルビは不要）
+- ❌ **インドネシア語の文章・単語にカタカナ等のルビ（`{単語|カタカナ}`）を振ることは不要・禁止**です。
+- インドネシア語は英語と同じラテンアルファベットで表記し、ルビを振らずにすっきりと提示します。
+- 日本語学習サイト用のルビ拡張機能が残存していた経緯がありますが、インドネシア語学習においては読みにくさや不自然さの原因となるため完全撤廃します。
+- 発音の解説が必要な場合は、本文中の発音解説、または独立した発音表記欄で扱います。
 
-### 2.2 例文カード記法
+### 2.2 例文カード記法（ルビなし）
 ```markdown
 <div class="id-example" markdown>
 
 <div class="id-sentence">
-{Saya|サヤ} {mau|マウ} {makan|マカン} {nasi|ナシ} {goreng|ゴレン}.
+Saya mau makan nasi goreng.
 </div>
 <div class="id-reading">
 サヤ マウ マカン ナシ ゴレン
@@ -51,18 +44,18 @@ Director、Writer、Reviewer、Engineer、BOSS の全員が本規約を遵守し
 </div>
 ```
 
-### 2.3 対話（会話）ブロック記法
+### 2.3 対話（会話）ブロック記法（ルビなし）
 ```markdown
 <div class="dialogue-box" markdown>
 
 <div class="dialogue-item">
   <span class="dialogue-speaker">A</span>
-  <span>{Apa|アパ} {ini|イニ}?（これは何ですか？）</span>
+  <span>Apa ini?（これは何ですか？）</span>
 </div>
 
 <div class="dialogue-item">
   <span class="dialogue-speaker dialogue-speaker--b">B</span>
-  <span>{Ini|イニ} {kopi|コピ}.（これはコーヒーです。）</span>
+  <span>Ini kopi.（これはコーヒーです。）</span>
 </div>
 
 </div>
