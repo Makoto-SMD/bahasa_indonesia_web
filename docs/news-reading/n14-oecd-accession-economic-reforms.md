@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Dewan Organisasi untuk Kerja Sama Ekonomi dan Pembangunan (OECD) secara resmi telah membuka diskusi aksesi keanggotaan bagi Indonesia. Keputusan bersejarah ini menjadikan Indonesia sebagai negara pertama di kawasan Asia Tenggara yang memasuki jalur keanggotaan penuh dalam organisasi internasional bergengsi yang sering dijuluki sebagai "klub negara maju" tersebut.
-  </div>
-  <div class="id-translation">
-    経済協力開発機構（OECD）理事会は、インドネシアに対する加盟協議を正式に開始した。この歴史的決定により、インドネシアはしばしば「先進国クラブ」と称されるこの権威ある国際組織において、東南アジア地域で初めて正式加盟プロセスに入った国家となった。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Menteri Koordinator Bidang Perekonomian menegaskan bahwa proses aksesi OECD bukan sekadar pengakuan status internasional, melainkan instrumen penting untuk menggerakkan reformasi struktural menyeluruh di dalam negeri. Selama proses penyelarasan kebijakan (*policy alignment*), Indonesia harus memenuhi standar ketat dalam lebih dari dua ratus instrumen hukum OECD, yang mencakup tata kelola perusahaan yang transparan, pemberantasan korupsi, kepatuhan perpajakan internasional, keterbukaan investasi, serta komitmen transisi hijau.
-  </div>
-  <div class="id-translation">
-    経済担当調整大臣は、OECD加盟プロセスは単なる国際的地位の公認ではなく、国内における包括的な構造改革を推し進めるための極めて重要な手段（触媒）であると強調した。政策整合（ポリシー・アライメント）プロセスの間、インドネシアは透明性の高い企業統治、汚職の撲滅、国際的な税務コンプライアンス、投資の開放性、そしてグリーン移行へのコミットメントを含む、200以上のOECD法的文書における厳格な基準を満たさなければならない。
-  </div>
+Dewan Organisasi untuk Kerja Sama Ekonomi dan Pembangunan (OECD) secara resmi telah membuka diskusi aksesi keanggotaan bagi Indonesia. Keputusan bersejarah ini menjadikan Indonesia sebagai negara pertama di kawasan Asia Tenggara yang memasuki jalur keanggotaan penuh dalam organisasi internasional bergengsi yang sering dijuluki sebagai "klub negara maju" tersebut.
+
+Menteri Koordinator Bidang Perekonomian menegaskan bahwa proses aksesi OECD bukan sekadar pengakuan status internasional, melainkan instrumen penting untuk menggerakkan reformasi struktural menyeluruh di dalam negeri. Selama proses penyelarasan kebijakan (*policy alignment*), Indonesia harus memenuhi standar ketat dalam lebih dari dua ratus instrumen hukum OECD, yang mencakup tata kelola perusahaan yang transparan, pemberantasan korupsi, kepatuhan perpajakan internasional, keterbukaan investasi, serta komitmen transisi hijau.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Pemberantasan korupsi** | 汚職撲滅・汚職対策 | 贈収賄防止条約への加盟などが要求される |
 | **Kepatuhan perpajakan** | 税務コンプライアンス | BEPS（税源浸食と利益移転）対策への参加 |
 | **Transisi hijau** | グリーン移行 / 脱炭素社会への転換 | 環境配慮型の産業・エネルギー構造の構築 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+経済協力開発機構（OECD）理事会は、インドネシアに対する加盟協議を正式に開始した。この歴史的決定により、インドネシアはしばしば「先進国クラブ」と称されるこの権威ある国際組織において、東南アジア地域で初めて正式加盟プロセスに入った国家となった。
+
+経済担当調整大臣は、OECD加盟プロセスは単なる国際的地位の公認ではなく、国内における包括的な構造改革を推し進めるための極めて重要な手段（触媒）であると強調した。政策整合（ポリシー・アライメント）プロセスの間、インドネシアは透明性の高い企業統治、汚職の撲滅、国際的な税務コンプライアンス、投資の開放性、そしてグリーン移行へのコミットメントを含む、200以上のOECD法的文書における厳格な基準を満たさなければならない。
+
+</div>
 
 ---
 

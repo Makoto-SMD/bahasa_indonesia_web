@@ -32,7 +32,24 @@ Pada hari Lebaran, masyarakat saling mengunjungi rumah kerabat dan tetangga samb
 
 ---
 
-## 3. 段落ごとの対訳と読解ポイント
+## 3. 重要語彙・表現一覧 (Kosakata Penting)
+
+| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
+| :--- | :--- | :--- | :--- |
+| **menahan** | 他動詞 | 我慢する、抑える、耐える | `tahan` |
+| **takjil** | 名詞 | 断食明けに最初に口にする甘い間食 | アラビア語由来 |
+| **bercengkerama** | 自動詞 | 談笑する、語らう | - |
+| **berkumandang** | 自動詞 | （声や音が）高らかに響き渡る | `kumandang`（反響） |
+| **kelegaan** | 名詞 | 安堵、ほっとすること | `lega`（安心した） |
+| **perantau** | 名詞 | 故郷を離れて働く人、出稼ぎ者 | `rantau` |
+| **kampung halaman** | 名詞句 | 故郷、生家のある村 | `kampung` + `halaman` |
+| **fitrah** | 名詞 | 清らかな本性、原点 | アラビア語由来 |
+| **bakti** | 名詞 | 献身、忠誠、親孝行 | サンスクリット語由来 |
+| **silaturahmi** | 名詞 | 友好親善、親族・知人の絆 | `tali silaturahmi` |
+
+---
+
+## 4. 段落ごとの対訳と読解ポイント (Terjemahan & Poin Bacaan)
 
 ### 第1段落: 聖なる月ラマダンとタジール市
 
@@ -118,23 +135,6 @@ Pada hari Lebaran, masyarakat saling mengunjungi rumah kerabat dan tetangga samb
 
 ---
 
-## 4. 重要語彙・表現一覧
-
-| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
-| :--- | :--- | :--- | :--- |
-| **menahan** | 他動詞 | 我慢する、抑える、耐える | `tahan` |
-| **takjil** | 名詞 | 断食明けに最初に口にする甘い間食 | アラビア語由来 |
-| **bercengkerama** | 自動詞 | 談笑する、語らう | - |
-| **berkumandang** | 自動詞 | （声や音が）高らかに響き渡る | `kumandang`（反響） |
-| **kelegaan** | 名詞 | 安堵、ほっとすること | `lega`（安心した） |
-| **perantau** | 名詞 | 故郷を離れて働く人、出稼ぎ者 | `rantau` |
-| **kampung halaman** | 名詞句 | 故郷、生家のある村 | `kampung` + `halaman` |
-| **fitrah** | 名詞 | 清らかな本性、原点 | アラビア語由来 |
-| **bakti** | 名詞 | 献身、忠誠、親孝行 | サンスクリット語由来 |
-| **silaturahmi** | 名詞 | 友好親善、親族・知人の絆 | `tali silaturahmi` |
-
----
-
 ## 5. 文法・構文の徹底解説
 
 ### ① 比較級を動詞化する接頭辞 `memper-`
@@ -159,7 +159,7 @@ Pada hari Lebaran, masyarakat saling mengunjungi rumah kerabat dan tetangga samb
 
 ## 6. 読解力チェッククイズ
 
-**【問1】** Apa yang biasanya dibeli oleh warga di "pasar takjil" menjelang waktu magrib?
+【**問1**】 Apa yang biasanya dibeli oleh warga di "pasar takjil" menjelang waktu magrib?
 - A. Pakaian baru untuk salat
 - B. Tiket transportasi umum untuk mudik
 - C. Makanan dan minuman manis untuk buka puasa
@@ -171,7 +171,7 @@ Pada hari Lebaran, masyarakat saling mengunjungi rumah kerabat dan tetangga samb
 
 ---
 
-**【問2】** Mengapa fenomena "mudik" terjadi secara serentak menjelang Lebaran?
+【**問2**】 Mengapa fenomena "mudik" terjadi secara serentak menjelang Lebaran?
 - A. Karena para pekerja diperintahkan oleh perusahaan untuk bekerja di kampung
 - B. Karena para perantau ingin pulang ke kampung halaman demi bertemu keluarga dan orang tua
 - C. Karena biaya transportasi menjadi gratis selama libur nasional
@@ -183,7 +183,7 @@ Pada hari Lebaran, masyarakat saling mengunjungi rumah kerabat dan tetangga samb
 
 ---
 
-**【問3】** Ungkapan apa yang lazim diucapkan oleh masyarakat Indonesia pada hari raya Idulfitri?
+【**問3**】 Ungkapan apa yang lazim diucapkan oleh masyarakat Indonesia pada hari raya Idulfitri?
 - A. "Selamat ulang tahun dan panjang umur"
 - B. "Sampai jumpa di kantor minggu depan"
 - C. "Mohon maaf lahir dan batin"

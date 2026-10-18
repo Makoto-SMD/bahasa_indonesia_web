@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Pemerintah Indonesia secara resmi mengalokasikan anggaran senilai puluhan triliun rupiah dalam Rancangan Anggaran Pendapatan dan Belanja Negara (RAPBN) tahun pertama pemerintahan baru untuk mendanai program Makan Bergizi Gratis (MBG). Program unggulan nasional ini menyasar puluhan juta anak sekolah dari jenjang pendidikan anak usia dini (PAUD), sekolah dasar, menengah, hingga santri pesantren dan ibu hamil di seluruh pelosok nusantara, demi mewujudkan generasi emas Indonesia yang cerdas dan bebas dari masalah gizi buruk.
-  </div>
-  <div class="id-translation">
-    インドネシア政府は、「無料栄養給食（MBG）」プログラムの資金調達のため、新政権初年度の国家歳入歳出予算案（RAPBN）において数十兆ルピア相当の予算を公式に計上・配分した。この国家重点プログラムは、全群島の津々浦々の幼児教育（PAUD）、小学校、中学校からイスラム寄宿塾（プサントレン）の生徒、さらには妊婦に至る数千万人の児童・生徒を対象としており、知的で栄養失調問題のない「インドネシア黄金世代」を実現することを目指している。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Keuangan memastikan bahwa alokasi dana jumbo ini dikelola secara bertahap dan terukur agar defisit APBN tetap terjaga di bawah ambang batas aman tiga persen dari Produk Domestik Bruto (PDB). Untuk mendukung rantai pasok penyediaan jutaan porsi makanan setiap hari, Badan Gizi Nasional yang baru dibentuk akan memberdayakan koperasi desa, kelompok wanita tani (KWT), dan peternak ayam serta produsen susu sapi lokal guna menyuplai bahan baku pangan bergizi, sehingga program ini sekaligus menjadi pengungkit (*multiplier effect*) pertumbuhan ekonomi kerakyatan di tingkat akar rumput.
-  </div>
-  <div class="id-translation">
-    財務省は、国家予算（APBN）の財政赤字が国内総生産（GDP）比3パーセントという安全上限基準内に維持されるよう、この巨額の資金配分が段階的かつ綿密に管理されることを確認した。毎日数百万食におよぶ食事提供のサプライチェーンを支えるため、新設された国家栄養庁は、栄養価の高い食料原料を調達するために農村協同組合、女性農民グループ（KWT）、地元の養鶏農家や酪農家を活用・育成することとしており、これにより本プログラムは同時に草の根レベルにおける民衆経済成長の起爆剤（乗数効果）となる。
-  </div>
+Pemerintah Indonesia secara resmi mengalokasikan anggaran senilai puluhan triliun rupiah dalam Rancangan Anggaran Pendapatan dan Belanja Negara (RAPBN) tahun pertama pemerintahan baru untuk mendanai program Makan Bergizi Gratis (MBG). Program unggulan nasional ini menyasar puluhan juta anak sekolah dari jenjang pendidikan anak usia dini (PAUD), sekolah dasar, menengah, hingga santri pesantren dan ibu hamil di seluruh pelosok nusantara, demi mewujudkan generasi emas Indonesia yang cerdas dan bebas dari masalah gizi buruk.
+
+Kementerian Keuangan memastikan bahwa alokasi dana jumbo ini dikelola secara bertahap dan terukur agar defisit APBN tetap terjaga di bawah ambang batas aman tiga persen dari Produk Domestik Bruto (PDB). Untuk mendukung rantai pasok penyediaan jutaan porsi makanan setiap hari, Badan Gizi Nasional yang baru dibentuk akan memberdayakan koperasi desa, kelompok wanita tani (KWT), dan peternak ayam serta produsen susu sapi lokal guna menyuplai bahan baku pangan bergizi, sehingga program ini sekaligus menjadi pengungkit (*multiplier effect*) pertumbuhan ekonomi kerakyatan di tingkat akar rumput.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Peternak ayam dan produsen susu** | 養鶏農家と酪農家 | 卵、鶏肉、牛乳などのタンパク質供給源 |
 | **Ekonomi kerakyatan** | 民衆経済 / 庶民経済 | 大企業ではなく一般庶民・農民・自営業者が主役の経済理念 |
 | **Pengungkit (*multiplier effect*)** | 起爆剤 / てこ入れ効果（乗数効果） | 投資が波及して地域経済を活性化させること |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア政府は、「無料栄養給食（MBG）」プログラムの資金調達のため、新政権初年度の国家歳入歳出予算案（RAPBN）において数十兆ルピア相当の予算を公式に計上・配分した。この国家重点プログラムは、全群島の津々浦々の幼児教育（PAUD）、小学校、中学校からイスラム寄宿塾（プサントレン）の生徒、さらには妊婦に至る数千万人の児童・生徒を対象としており、知的で栄養失調問題のない「インドネシア黄金世代」を実現することを目指している。
+
+財務省は、国家予算（APBN）の財政赤字が国内総生産（GDP）比3パーセントという安全上限基準内に維持されるよう、この巨額の資金配分が段階的かつ綿密に管理されることを確認した。毎日数百万食におよぶ食事提供のサプライチェーンを支えるため、新設された国家栄養庁は、栄養価の高い食料原料を調達するために農村協同組合、女性農民グループ（KWT）、地元の養鶏農家や酪農家を活用・育成することとしており、これにより本プログラムは同時に草の根レベルにおける民衆経済成長の起爆剤（乗数効果）となる。
+
+</div>
 
 ---
 

@@ -6,15 +6,15 @@
 
 ## 1. 語根 teliti からの派生語ファミリー
 
-```mermaid
-graph TD
-    T["語根: teliti（綿密な、几帳面な、詳細な）"]
-    T --> M["meneliti（他動詞: 研究する、調査・究明する、詳しく調べる）"]
-    T --> P1["penelitian（名詞: 研究、学術調査、リサーチ、考証）"]
-    T --> P2["peneliti（名詞: 研究者、リサーチャー、学者）"]
-    T --> K["ketelitian（名詞: 緻密さ、正確性、綿密さ）"]
-    T --> Litbang["Litbang（複合略語: Penelitian dan Pengembangan＝R&D）"]
-```
+語根 **teliti**（意味: 綿密な、几帳面な、詳細な）から派生する主要な単語一覧です。
+
+| 派生語 | 品詞・分類 | 主な日本語の意味・ニュアンス |
+| :--- | :--- | :--- |
+| **meneliti** | 他動詞 | 研究する、調査・究明する、詳しく調べる |
+| **penelitian** | 名詞 | 研究、学術調査、リサーチ、考証 |
+| **peneliti** | 名詞 | 研究者、リサーチャー、学者 |
+| **ketelitian** | 名詞 | 緻密さ、正確性、綿密さ |
+| **Litbang** | 複合略語 | Penelitian dan Pengembangan＝R&D |
 
 ---
 

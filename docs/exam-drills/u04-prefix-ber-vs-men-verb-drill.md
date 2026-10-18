@@ -66,7 +66,7 @@
 
 語根 **terbang**（飛ぶ）に接辞が付く場合：
 - **terbang** : 単に「飛ぶ」（単数・一般的な動作）。
-- **berterbangan** : 主語が複数（puluhan burung bangau）で、**「あちこちに乱れ飛ぶ、群れをなして飛び交う」**という情景を描写します。
+- **berterbangan** : 主語が複数（puluhan burung bangau）で、「**あちこちに乱れ飛ぶ、群れをなして飛び交う**」という情景を描写します。
   - 類例: *daun-daun berguguran*（木の葉がハラハラと散る）、*bintang-bintang bertaburan*（星々が空一面に散らばる）。
 - 選択肢 (B) *menerbangi* は「〜の上空を飛行する」（目的語が必要）。
 

@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    PT PLN (Persero) terus mengakselerasi program Listrik Desa guna mencapai target rasio elektrifikasi seratus persen di seluruh pelosok nusantara, khususnya di wilayah terdepan, terluar, dan tertinggal (3T). Melalui pemasangan Pembangkit Listrik Tenaga Surya (PLTS) komunal berbasis sistem jaringan mikro (*microgrid*) dan penyimpanan energi baterai (*Battery Energy Storage System*/BESS), ratusan desa terpencil di kawasan timur Indonesia kini dapat menikmati pasokan listrik selama dua puluh empat jam penuh untuk pertama kalinya.
-  </div>
-  <div class="id-translation">
-    国営電力会社PT PLN（公社）は、全群島の津々浦々、特に最前線・最遠・最貧困（3T）地域において電化率100パーセントの目標を達成するため、「村落電化（Listrik Desa）」プログラムを引き続き加速させている。マイクログリッド・システムおよび蓄電池エネルギー貯蔵システム（BESS）をベースとした共同太陽光発電所（PLTS komunal）の設置を通じて、東部インドネシアの数百におよぶ僻地村落が、今や初めて24時間完全な電力供給を享受できるようになった。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Direktur Utama PLN memaparkan bahwa pemanfaatan energi surya terdesentralisasi di pulau-pulau kecil berhasil memangkas ketergantungan pada pembangkit listrik tenaga diesel (PLTD) yang selama ini membebani biaya pokok penyediaan (BPP) listrik akibat mahalnya ongkos logistik bahan bakar minyak (BBM). Transformasi energi bersih di tingkat akar rumput ini tidak hanya menekan emisi gas rumah kaca, melainkan juga menggerakkan produktivitas ekonomi lokal, mulai dari pengoperasian mesin pendingin hasil tangkapan nelayan hingga perluasan akses internet bagi fasilitas pendidikan desa.
-  </div>
-  <div class="id-translation">
-    PLN社長は、小規模な離島における分散型太陽エネルギーの活用が、燃料油（BBM）の高額な物流運賃が原因で電力供給原価（BPP）をこれまで圧迫してきたディーゼル発電所（PLTD）への依存度を低減することに成功したと説明した。草の根レベルにおけるこのクリーンエネルギー転換は、温室効果ガス排出量を抑制するだけでなく、漁民の漁獲物の保冷設備（冷凍機）の稼働から村の教育施設へのインターネットアクセスの拡大に至るまで、地域経済の生産性を動かしている。
-  </div>
+PT PLN (Persero) terus mengakselerasi program Listrik Desa guna mencapai target rasio elektrifikasi seratus persen di seluruh pelosok nusantara, khususnya di wilayah terdepan, terluar, dan tertinggal (3T). Melalui pemasangan Pembangkit Listrik Tenaga Surya (PLTS) komunal berbasis sistem jaringan mikro (*microgrid*) dan penyimpanan energi baterai (*Battery Energy Storage System*/BESS), ratusan desa terpencil di kawasan timur Indonesia kini dapat menikmati pasokan listrik selama dua puluh empat jam penuh untuk pertama kalinya.
+
+Direktur Utama PLN memaparkan bahwa pemanfaatan energi surya terdesentralisasi di pulau-pulau kecil berhasil memangkas ketergantungan pada pembangkit listrik tenaga diesel (PLTD) yang selama ini membebani biaya pokok penyediaan (BPP) listrik akibat mahalnya ongkos logistik bahan bakar minyak (BBM). Transformasi energi bersih di tingkat akar rumput ini tidak hanya menekan emisi gas rumah kaca, melainkan juga menggerakkan produktivitas ekonomi lokal, mulai dari pengoperasian mesin pendingin hasil tangkapan nelayan hingga perluasan akses internet bagi fasilitas pendidikan desa.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Biaya Pokok Penyediaan (BPP)** | 電力供給原価 | 1kWhあたりの発電・送電コスト |
 | **Bahan Bakar Minyak (BBM)** | 燃料油 / 石油燃料 | ディーゼル油やガソリン |
 | **Tingkat akar rumput** | 草の根レベル | *akar rumput*（草の根・一般庶民層） |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+国営電力会社PT PLN（公社）は、全群島の津々浦々、特に最前線・最遠・最貧困（3T）地域において電化率100パーセントの目標を達成するため、「村落電化（Listrik Desa）」プログラムを引き続き加速させている。マイクログリッド・システムおよび蓄電池エネルギー貯蔵システム（BESS）をベースとした共同太陽光発電所（PLTS komunal）の設置を通じて、東部インドネシアの数百におよぶ僻地村落が、今や初めて24時間完全な電力供給を享受できるようになった。
+
+PLN社長は、小規模な離島における分散型太陽エネルギーの活用が、燃料油（BBM）の高額な物流運賃が原因で電力供給原価（BPP）をこれまで圧迫してきたディーゼル発電所（PLTD）への依存度を低減することに成功したと説明した。草の根レベルにおけるこのクリーンエネルギー転換は、温室効果ガス排出量を抑制するだけでなく、漁民の漁獲物の保冷設備（冷凍機）の稼働から村の教育施設へのインターネットアクセスの拡大に至るまで、地域経済の生産性を動かしている。
+
+</div>
 
 ---
 

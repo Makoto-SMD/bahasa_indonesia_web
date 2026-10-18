@@ -32,7 +32,24 @@ Liburan singkat ini memberikan kesan mendalam bagi saya. Saya tidak hanya menikm
 
 ---
 
-## 3. 段落ごとの対訳と読解ポイント
+## 3. 重要語彙・表現一覧 (Kosakata Penting)
+
+| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
+| :--- | :--- | :--- | :--- |
+| **dewata** | 名詞 | 神々、神霊 | サンスクリット語起源 |
+| **keunikan** | 名詞 | ユニークさ、独自性 | `unik`（独自な） |
+| **mendarat** | 自動詞 | 着陸する | `darat`（陸地） |
+| **asri** | 形容詞 | 美しく調和のとれた、のどかな | 主に景観・庭園に使う |
+| **sesajen** | 名詞 | お供え物、供物 | `saji`（供える） |
+| **tebing** | 名詞 | 崖、断崖 | `tebing curam`（急峻な崖） |
+| **menyaksikan** | 他動詞 | 目撃する、鑑賞する | `saksi`（証人・証拠） |
+| **melingkar** | 自動詞 | 円を描く、輪になる | `lingkar`（円周・輪） |
+| **jingga** | 名詞/形容詞 | オレンジ色、茜色 | - |
+| **leluhur** | 名詞 | 先祖、祖先 | - |
+
+---
+
+## 4. 段落ごとの対訳と読解ポイント (Terjemahan & Poin Bacaan)
 
 ### 第1段落: バリ島到着と第一印象
 
@@ -117,23 +134,6 @@ Liburan singkat ini memberikan kesan mendalam bagi saya. Saya tidak hanya menikm
 
 ---
 
-## 4. 重要語彙・表現一覧
-
-| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
-| :--- | :--- | :--- | :--- |
-| **dewata** | 名詞 | 神々、神霊 | サンスクリット語起源 |
-| **keunikan** | 名詞 | ユニークさ、独自性 | `unik`（独自な） |
-| **mendarat** | 自動詞 | 着陸する | `darat`（陸地） |
-| **asri** | 形容詞 | 美しく調和のとれた、のどかな | 主に景観・庭園に使う |
-| **sesajen** | 名詞 | お供え物、供物 | `saji`（供える） |
-| **tebing** | 名詞 | 崖、断崖 | `tebing curam`（急峻な崖） |
-| **menyaksikan** | 他動詞 | 目撃する、鑑賞する | `saksi`（証人・証拠） |
-| **melingkar** | 自動詞 | 円を描く、輪になる | `lingkar`（円周・輪） |
-| **jingga** | 名詞/形容詞 | オレンジ色、茜色 | - |
-| **leluhur** | 名詞 | 先祖、祖先 | - |
-
----
-
 ## 5. 文法・構文の徹底解説
 
 ### ① 相関接続詞：`tidak hanya ..., tetapi juga ...`
@@ -157,7 +157,7 @@ Liburan singkat ini memberikan kesan mendalam bagi saya. Saya tidak hanya menikm
 
 ## 6. 読解力チェッククイズ
 
-**【問1】** Apa yang dilihat oleh penulis di pinggir jalan di daerah Ubud?
+【**問1**】 Apa yang dilihat oleh penulis di pinggir jalan di daerah Ubud?
 - A. Banyak toko suvenir modern
 - B. Warga setempat yang meletakkan canang sari
 - C. Penari kecak yang sedang latihan
@@ -169,7 +169,7 @@ Liburan singkat ini memberikan kesan mendalam bagi saya. Saya tidak hanya menikm
 
 ---
 
-**【問2】** Di mana pertunjukan Tari Kecak diselenggarakan dalam teks tersebut?
+【**問2**】 Di mana pertunjukan Tari Kecak diselenggarakan dalam teks tersebut?
 - A. Di dalam Bandara Internasional
 - B. Di tengah sawah Tegalalang
 - C. Di Pura Luhur Uluwatu di atas tebing curam
@@ -181,7 +181,7 @@ Liburan singkat ini memberikan kesan mendalam bagi saya. Saya tidak hanya menikm
 
 ---
 
-**【問3】** Bagaimanakah para penari Tari Kecak mengiringi tariannya?
+【**問3**】 Bagaimanakah para penari Tari Kecak mengiringi tariannya?
 - A. Menggunakan alat musik gamelan tradisional
 - B. Memainkan gitar dan drum modern
 - C. Tanpa alat musik, tetapi menyanyikan irama "cak-cak-cak"

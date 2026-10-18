@@ -32,7 +32,24 @@ Sebagai contoh, motif *Parang Rusak* yang berbentuk jalinan garis menyerupai omb
 
 ---
 
-## 3. 段落ごとの対訳と読解ポイント
+## 3. 重要語彙・表現一覧 (Kosakata Penting)
+
+| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
+| :--- | :--- | :--- | :--- |
+| **luhur** | 形容詞 | 崇高な、高貴な | `budi luhur`（高潔な人格） |
+| **peradaban** | 名詞 | 文明 | `adab`（礼儀・教養） |
+| **mahakarya** | 名詞 | 最高傑作、マスターピース | サンスクリット由来借用語 |
+| **kosmologi** | 名詞 | 宇宙観、宇宙論 | 学術語 |
+| **peziarah** | 名詞 | 巡礼者、墓参者 | `ziarah`（巡礼） |
+| **keterikatan** | 名詞 | 束縛、執着、しがらみ | `ikat`（結ぶ） |
+| **kearifan** | 名詞 | 賢明さ、知恵、叡智 | `arif`（賢い） |
+| **terpatri** | 形容詞/受動動詞 | 深く刻まれた、焼き付いた | `patri` |
+| **sarat dengan** | 形容詞句 | 〜で満ちた、〜が充満した | `sarat` |
+| **budi pekerti** | 名詞句 | 人徳、品性、道徳的品格 | サンスクリット語・ジャワ語由来 |
+
+---
+
+## 4. 段落ごとの対訳と読解ポイント (Terjemahan & Poin Bacaan)
 
 ### 第1段落: 偉大な文明の証・ボロブドゥール寺院
 
@@ -119,23 +136,6 @@ Sebagai contoh, motif *Parang Rusak* yang berbentuk jalinan garis menyerupai omb
 
 ---
 
-## 4. 重要語彙・表現一覧
-
-| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
-| :--- | :--- | :--- | :--- |
-| **luhur** | 形容詞 | 崇高な、高貴な | `budi luhur`（高潔な人格） |
-| **peradaban** | 名詞 | 文明 | `adab`（礼儀・教養） |
-| **mahakarya** | 名詞 | 最高傑作、マスターピース | サンスクリット由来借用語 |
-| **kosmologi** | 名詞 | 宇宙観、宇宙論 | 学術語 |
-| **peziarah** | 名詞 | 巡礼者、墓参者 | `ziarah`（巡礼） |
-| **keterikatan** | 名詞 | 束縛、執着、しがらみ | `ikat`（結ぶ） |
-| **kearifan** | 名詞 | 賢明さ、知恵、叡智 | `arif`（賢い） |
-| **terpatri** | 形容詞/受動動詞 | 深く刻まれた、焼き付いた | `patri` |
-| **sarat dengan** | 形容詞句 | 〜で満ちた、〜が充満した | `sarat` |
-| **budi pekerti** | 名詞句 | 人徳、品性、道徳的品格 | サンスクリット語・ジャワ語由来 |
-
----
-
 ## 5. 文法・構文の徹底解説
 
 ### ① 両者並列構文：`Baik A maupun B`
@@ -166,7 +166,7 @@ Sebagai contoh, motif *Parang Rusak* yang berbentuk jalinan garis menyerupai omb
 
 ## 6. 読解力チェッククイズ
 
-**【問1】** Apa makna filosofis dari tingkatan *Arupadhatu* pada struktur Candi Borobudur?
+【**問1**】 Apa makna filosofis dari tingkatan *Arupadhatu* pada struktur Candi Borobudur?
 - A. Alam hawa nafsu duniawi yang penuh dosa
 - B. Alam tanpa wujud tempat bersemayamnya kesucian mutlak dan pencerahan
 - C. Tempat kediaman para raja dan bangsawan zaman dahulu
@@ -178,7 +178,7 @@ Sebagai contoh, motif *Parang Rusak* yang berbentuk jalinan garis menyerupai omb
 
 ---
 
-**【問2】** Mengapa seni kain batik diakui oleh UNESCO sebagai Warisan Budaya Takbenda Dunia?
+【**問2**】 Mengapa seni kain batik diakui oleh UNESCO sebagai Warisan Budaya Takbenda Dunia?
 - A. Karena harganya sangat mahal dan hanya boleh dipakai oleh pejabat
 - B. Karena menggunakan kain sutra impor berkualitas tinggi
 - C. Karena sarat dengan nilai tradisi, filosofi luhur, doa, dan pandangan hidup masyarakatnya
@@ -190,7 +190,7 @@ Sebagai contoh, motif *Parang Rusak* yang berbentuk jalinan garis menyerupai omb
 
 ---
 
-**【問3】** Apa yang dilambangkan oleh motif batik *Parang Rusak* menurut teks?
+【**問3**】 Apa yang dilambangkan oleh motif batik *Parang Rusak* menurut teks?
 - A. Kemurnian hati dan kesederhanaan dalam hidup
 - B. Keinginan untuk mencari kekayaan materi sebanyak-benernya
 - C. Semangat pantang menyerah dan kebijaksanaan pemimpin dalam mengendalikan amarah

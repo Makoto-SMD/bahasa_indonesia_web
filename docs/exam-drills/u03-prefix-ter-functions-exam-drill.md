@@ -64,7 +64,7 @@
 
 > **文法法則: 否定詞 `tidak / belum` と呼応する「可能（dapat di-）」の `ter-`**
 
-- `ter-` 動詞が否定詞 **tidak** や **belum**、あるいは疑問文を伴う場合、**「〜できる（dapat di-...）」**という意味になります。
+- `ter-` 動詞が否定詞 **tidak** や **belum**、あるいは疑問文を伴う場合、「**〜できる（dapat di-...）**」という意味になります。
   - **tidak terbaca** = *tidak dapat dibaca*（読めない、判読不能である）
   - **tidak terangkat** = *tidak dapat diangkat*（重すぎて持ち上がらない）
   - **tidak ternilai** = *tidak dapat dinilai*（計り知れない、プライスレスな）

@@ -25,7 +25,7 @@ order: 2
 
 ## 1. antar（送る・送り届ける）
 
-`antar` の中核義は **「対象（人または物）を目的地まで付き添って届けること」** です。
+`antar` の中核義は 「**対象（人または物）を目的地まで付き添って届けること**」 です。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -52,7 +52,7 @@ order: 2
 
 ## 2. jemput（迎えに行く・ピックアップする）
 
-`jemput` の中核義は **「相手がいる場所まで出向き、合流して一緒に連れて帰る（来る）こと」** です。
+`jemput` の中核義は 「**相手がいる場所まで出向き、合流して一緒に連れて帰る（来る）こと**」 です。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -77,7 +77,7 @@ order: 2
 
 ## 3. bawa（持っていく・連れていく・運ぶ）
 
-`bawa` は最も一般的で守備範囲の広い動詞で、**「物を手や鞄、車に所持して移動する（carry/bring/take）」**、あるいは **「人を連れて行く」** ことを表します。
+`bawa` は最も一般的で守備範囲の広い動詞で、「**物を手や鞄、車に所持して移動する（carry/bring/take）**」、あるいは 「**人を連れて行く**」 ことを表します。
 
 <div class="id-example">
 <div class="id-example-header">

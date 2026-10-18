@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kenaikan harga beras premium maupun medium di berbagai pasar tradisional dan ritel modern terus menjadi perhatian serius pemerintah Indonesia. Fenomena cuaca El Niño berkepanjangan telah menyebabkan pergeseran musim tanam dan penurunan produksi gabah kering giling (GKG) nasional, sehingga memicu ketidakseimbangan antara pasokan domestik dan permintaan masyarakat.
-  </div>
-  <div class="id-translation">
-    伝統的市場および近代的な小売店（スーパー等）の双方における高級米および中級米の価格高騰は、インドネシア政府にとって引き続き深刻な懸念事項となっている。長期化するエルニーニョ気象現象が作付け時期のズレと全国の乾燥籾（GKG）生産量の減少を引き起こし、その結果、国内供給と国民需要との間の不均衡を誘発している。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Untuk mengendalikan laju inflasi pangan (*volatile food*), Badan Pangan Nasional bersama Perum Bulog menggencarkan penyaluran beras program Stabilisasi Pasokan dan Harga Pangan (SPHP) ke seluruh wilayah. Di samping itu, pemerintah memutuskan untuk menambah kuota impor beras guna memperkuat Cadangan Beras Pemerintah (CBP) hingga masa panen raya tiba, sekaligus menyalurkan bantuan pangan gratis bagi keluarga penerima manfaat berpendapatan rendah.
-  </div>
-  <div class="id-translation">
-    食品インフレ（変動の大きい食品価格）の進行を抑制するため、国家食料庁は食糧調達公社（Bulog）とともに、「食料供給・価格安定化（SPHP）」プログラムによる米の供給を全国に向けて加速させている。これに加えて政府は、本格的な大収穫期が訪れるまで政府備蓄米（CBP）を強化するため米の輸入割当枠を追加することを決定すると同時に、低所得の受給対象世帯に対して無料の食料援助を配給している。
-  </div>
+Kenaikan harga beras premium maupun medium di berbagai pasar tradisional dan ritel modern terus menjadi perhatian serius pemerintah Indonesia. Fenomena cuaca El Niño berkepanjangan telah menyebabkan pergeseran musim tanam dan penurunan produksi gabah kering giling (GKG) nasional, sehingga memicu ketidakseimbangan antara pasokan domestik dan permintaan masyarakat.
+
+Untuk mengendalikan laju inflasi pangan (*volatile food*), Badan Pangan Nasional bersama Perum Bulog menggencarkan penyaluran beras program Stabilisasi Pasokan dan Harga Pangan (SPHP) ke seluruh wilayah. Di samping itu, pemerintah memutuskan untuk menambah kuota impor beras guna memperkuat Cadangan Beras Pemerintah (CBP) hingga masa panen raya tiba, sekaligus menyalurkan bantuan pangan gratis bagi keluarga penerima manfaat berpendapatan rendah.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Cadangan Beras Pemerintah (CBP)** | 政府備蓄米 | 災害時や緊急時の価格安定のために国が管理するコメ在庫 |
 | **Panen raya** | 大収穫期 / 収穫ピーク | 国内生産が集中し、市場価格が軟化する時期 |
 | **Keluarga penerima manfaat (KPM)** | 受給対象世帯 | 政府の社会支援（Bansos）を受ける低所得層 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+伝統的市場および近代的な小売店（スーパー等）の双方における高級米および中級米の価格高騰は、インドネシア政府にとって引き続き深刻な懸念事項となっている。長期化するエルニーニョ気象現象が作付け時期のズレと全国の乾燥籾（GKG）生産量の減少を引き起こし、その結果、国内供給と国民需要との間の不均衡を誘発している。
+
+食品インフレ（変動の大きい食品価格）の進行を抑制するため、国家食料庁は食糧調達公社（Bulog）とともに、「食料供給・価格安定化（SPHP）」プログラムによる米の供給を全国に向けて加速させている。これに加えて政府は、本格的な大収穫期が訪れるまで政府備蓄米（CBP）を強化するため米の輸入割当枠を追加することを決定すると同時に、低所得の受給対象世帯に対して無料の食料援助を配給している。
+
+</div>
 
 ---
 

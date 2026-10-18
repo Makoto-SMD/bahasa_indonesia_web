@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Presiden Republik Indonesia secara resmi meluncurkan kebijakan visa emas (*Golden Visa*) yang ditujukan untuk menarik penanaman modal asing berkualitas tinggi dan talenta global terbaik ke Tanah Air. Fasilitas keimigrasian ini memberikan izin tinggal eksklusif berdurasi lima hingga sepuluh tahun bagi pemodal asing individu maupun korporasi yang menempatkan dana investasi dalam jumlah signifikan di Indonesia, baik melalui instrumen obligasi pemerintah, pasar saham, maupun pendirian entitas bisnis langsung.
-  </div>
-  <div class="id-translation">
-    インドネシア共和国大統領は、質の高い外国投資および世界トップクラスのグローバル人材を自国へ引きつけることを目的とした「ゴールデンビザ（Golden Visa）」政策を公式に開始した。この出入国管理上の優遇措置は、国債、株式市場、または直接的な事業法人の設立を通じてインドネシア国内に多額の投資資金を投入する外国人個人投資家および法人投資家に対し、5年から10年間の特別長期滞在許可を付与するものである。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Direktur Jenderal Imigrasi menegaskan bahwa pemegang Golden Visa berhak menikmati berbagai kemudahan prosedural, termasuk jalur pemeriksaan prioritas di bandara internasional, pembebasan dari kewajiban pengurusan izin tinggal terbatas (KITAS) tahunan di kantor imigrasi lokal, serta hak kepemilikan aset properti sesuai regulasi yang berlaku. Kendati demikian, pemerintah menerapkan prinsip penyaringan ketat (*background screening*) berbasis intelijen kepatuhan untuk memastikan bahwa fasilitas istimewa ini tidak disalahgunakan untuk tindak pidana pencucian uang atau aktivitas yang mengancam stabilitas nasional.
-  </div>
-  <div class="id-translation">
-    出入国管理総局長は、ゴールデンビザ保持者が国際空港での優先審査レーン、地方入国管理局での毎年の限定滞在許可（KITAS）延長手続きの免除、現行規制に準拠した不動産資産の所有権など、多様な手続き上の便宜を享受する権利を有すると強調した。それにもかかわらず、政府はマネーロンダリング（資金洗浄犯罪）や国家の安定を脅かす活動にこの特別な優遇制度が悪用されないよう、コンプライアンス情報に基づく厳格な身元身辺審査（バックグラウンド・スクリーニング）の原則を適用している。
-  </div>
+Presiden Republik Indonesia secara resmi meluncurkan kebijakan visa emas (*Golden Visa*) yang ditujukan untuk menarik penanaman modal asing berkualitas tinggi dan talenta global terbaik ke Tanah Air. Fasilitas keimigrasian ini memberikan izin tinggal eksklusif berdurasi lima hingga sepuluh tahun bagi pemodal asing individu maupun korporasi yang menempatkan dana investasi dalam jumlah signifikan di Indonesia, baik melalui instrumen obligasi pemerintah, pasar saham, maupun pendirian entitas bisnis langsung.
+
+Direktur Jenderal Imigrasi menegaskan bahwa pemegang Golden Visa berhak menikmati berbagai kemudahan prosedural, termasuk jalur pemeriksaan prioritas di bandara internasional, pembebasan dari kewajiban pengurusan izin tinggal terbatas (KITAS) tahunan di kantor imigrasi lokal, serta hak kepemilikan aset properti sesuai regulasi yang berlaku. Kendati demikian, pemerintah menerapkan prinsip penyaringan ketat (*background screening*) berbasis intelijen kepatuhan untuk memastikan bahwa fasilitas istimewa ini tidak disalahgunakan untuk tindak pidana pencucian uang atau aktivitas yang mengancam stabilitas nasional.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Jalur pemeriksaan prioritas** | 優先審査レーン | 空港のVIP・専用イミグレーション審査ブース |
 | **Penyaringan ketat (*screening*)** | 厳格な審査・フィルタリング | 犯罪歴や資金の透明性を調査する身元調査 |
 | **Pencucian uang (*money laundering*)** | 資金洗浄（マネーロンダリング） | 不正資金の出所偽装犯罪（TPPU） |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア共和国大統領は、質の高い外国投資および世界トップクラスのグローバル人材を自国へ引きつけることを目的とした「ゴールデンビザ（Golden Visa）」政策を公式に開始した。この出入国管理上の優遇措置は、国債、株式市場、または直接的な事業法人の設立を通じてインドネシア国内に多額の投資資金を投入する外国人個人投資家および法人投資家に対し、5年から10年間の特別長期滞在許可を付与するものである。
+
+出入国管理総局長は、ゴールデンビザ保持者が国際空港での優先審査レーン、地方入国管理局での毎年の限定滞在許可（KITAS）延長手続きの免除、現行規制に準拠した不動産資産の所有権など、多様な手続き上の便宜を享受する権利を有すると強調した。それにもかかわらず、政府はマネーロンダリング（資金洗浄犯罪）や国家の安定を脅かす活動にこの特別な優遇制度が悪用されないよう、コンプライアンス情報に基づく厳格な身元身辺審査（バックグラウンド・スクリーニング）の原則を適用している。
+
+</div>
 
 ---
 

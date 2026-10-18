@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Pembangunan Jalan Tol Trans-Sumatera (JTTS) yang dikerjakan oleh Badan Usaha Milik Negara pengelola jalan tol, PT Hutama Karya (Persero), terus menunjukkan kemajuan signifikan dalam menghubungkan koridor utama ekonomi di Pulau Sumatra. Sejumlah ruas tol tulang punggung (*backbone*) dari Lampung hingga Sumatra Utara kini telah tersambung dan beroperasi penuh, memangkas waktu perjalanan darat antarkota hingga lebih dari lima puluh persen.
-  </div>
-  <div class="id-translation">
-    有料道路を管理する国営企業PT Hutama Karya（公社）によって進められているトランス・スマトラ有料道路（JTTS）の建設は、スマトラ島の主要経済回廊を結ぶ上で著しい進展を引き続き示している。ランプンから北スマトラに至る主要基幹（バックボーン）有料道路区間の多くが現在連結され全面営業運転に入っており、都市間の陸上移動時間を50パーセント以上短縮している。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR) menegaskan bahwa integrasi jaringan tol ini berdampak masif terhadap penurunan biaya logistik nasional yang selama ini membebani daya saing komoditas unggulan Sumatra, seperti kelapa sawit, karet, dan kopi. Kehadiran JTTS tidak hanya memperlancar mobilitas barang menuju Pelabuhan Bakauheni yang terhubung dengan Pelabuhan Merak di Pulau Jawa, melainkan juga menstimulasi pertumbuhan kawasan industri baru dan sentra pariwisata lokal di sepanjang koridor jalan tol.
-  </div>
-  <div class="id-translation">
-    公共事業・国民住宅省（PUPR）は、この高速道路網の統合が、パーム油、ゴム、コーヒーなどスマトラの主要特産品（コモディティ）の競争力をこれまで圧迫してきた国家物流コストの引き下げに絶大なインパクトをもたらしていると強調した。JTTSの存在は、ジャワ島のメラク港と連絡するバカウヘニ港へ向かう貨物流動を円滑にするだけでなく、高速道路回廊沿いの新たな工業団地や地域観光拠点の成長を刺激している。
-  </div>
+Pembangunan Jalan Tol Trans-Sumatera (JTTS) yang dikerjakan oleh Badan Usaha Milik Negara pengelola jalan tol, PT Hutama Karya (Persero), terus menunjukkan kemajuan signifikan dalam menghubungkan koridor utama ekonomi di Pulau Sumatra. Sejumlah ruas tol tulang punggung (*backbone*) dari Lampung hingga Sumatra Utara kini telah tersambung dan beroperasi penuh, memangkas waktu perjalanan darat antarkota hingga lebih dari lima puluh persen.
+
+Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR) menegaskan bahwa integrasi jaringan tol ini berdampak masif terhadap penurunan biaya logistik nasional yang selama ini membebani daya saing komoditas unggulan Sumatra, seperti kelapa sawit, karet, dan kopi. Kehadiran JTTS tidak hanya memperlancar mobilitas barang menuju Pelabuhan Bakauheni yang terhubung dengan Pelabuhan Merak di Pulau Jawa, melainkan juga menstimulasi pertumbuhan kawasan industri baru dan sentra pariwisata lokal di sepanjang koridor jalan tol.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Pelabuhan Bakauheni - Merak** | バカウヘニ〜メラク港（スンダ海峡フェリー） | スマトラ島とジャワ島を結ぶ物流の大動脈フェリー航路 |
 | **Menstimulasi pertumbuhan** | 成長を刺激・促進する | 経済波及効果（*multiplier effect*）の文脈で多用 |
 | **Sentra pariwisata lokal** | 地域観光拠点・集積地 | トバ湖（Danau Toba）などへのアクセス改善 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+有料道路を管理する国営企業PT Hutama Karya（公社）によって進められているトランス・スマトラ有料道路（JTTS）の建設は、スマトラ島の主要経済回廊を結ぶ上で著しい進展を引き続き示している。ランプンから北スマトラに至る主要基幹（バックボーン）有料道路区間の多くが現在連結され全面営業運転に入っており、都市間の陸上移動時間を50パーセント以上短縮している。
+
+公共事業・国民住宅省（PUPR）は、この高速道路網の統合が、パーム油、ゴム、コーヒーなどスマトラの主要特産品（コモディティ）の競争力をこれまで圧迫してきた国家物流コストの引き下げに絶大なインパクトをもたらしていると強調した。JTTSの存在は、ジャワ島のメラク港と連絡するバカウヘニ港へ向かう貨物流動を円滑にするだけでなく、高速道路回廊沿いの新たな工業団地や地域観光拠点の成長を刺激している。
+
+</div>
 
 ---
 

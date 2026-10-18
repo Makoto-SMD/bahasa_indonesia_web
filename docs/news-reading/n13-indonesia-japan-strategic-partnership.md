@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Presiden Republik Indonesia dan Perdana Menteri Jepang menggelar pertemuan bilateral di Istana Kepresidenan Bogor guna memperdalam Kemitraan Strategis Komprehensif antara kedua negara. Dalam pertemuan tingkat tinggi tersebut, kedua pemimpin sepakat untuk memperluas kerja sama ekonomi, percepatan proyek infrastruktur perkotaan, serta penguatan keamanan maritim di kawasan Indo-Pasifik yang bebas dan terbuka.
-  </div>
-  <div class="id-translation">
-    インドネシア共和国大統領と日本の内閣総理大臣は、両国間の「包括的・戦略的パートナーシップ」を深化させるため、ボゴール大統領宮殿において二国間会談を開催した。このハイレベル会談において両首脳は、経済協力の拡大、都市インフラプロジェクトの加速、ならびに「自由で開かれたインド太平洋」における海洋安全保障の強化で合意した。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kedua kepala pemerintahan menyepakati protokol perubahan Perjanjian Kemitraan Ekonomi Indonesia-Jepang (IJEPA) yang mencakup peningkatan akses pasar bagi produk manufaktur dan pertanian Indonesia serta perluasan penempatan tenaga kerja terampil di sektor perawat dan industri manufaktur Jepang. Di bidang transisi energi, Tokyo menegaskan kembali dukungannya terhadap inisiatif Asia Zero Emission Community (AZEC) untuk membantu dekarbonisasi pembangkit listrik di Indonesia melalui pemanfaatan teknologi *co-firing* amonia dan penangkapan karbon.
-  </div>
-  <div class="id-translation">
-    両政府首脳は、インドネシアの工業製品および農産物の市場アクセスの改善や、日本の介護分野および製造業における熟練労働者の配置拡大を含む、日・インドネシア経済連携協定（IJEPA）改正議定書に合意した。エネルギー移行の分野において日本政府は、アンモニア混焼技術や炭素回収（CCS）の活用を通じてインドネシアの発電所の脱炭素化を支援するため、アジア・ゼロエミッション共同体（AZEC）構想への支援を再確認した。
-  </div>
+Presiden Republik Indonesia dan Perdana Menteri Jepang menggelar pertemuan bilateral di Istana Kepresidenan Bogor guna memperdalam Kemitraan Strategis Komprehensif antara kedua negara. Dalam pertemuan tingkat tinggi tersebut, kedua pemimpin sepakat untuk memperluas kerja sama ekonomi, percepatan proyek infrastruktur perkotaan, serta penguatan keamanan maritim di kawasan Indo-Pasifik yang bebas dan terbuka.
+
+Kedua kepala pemerintahan menyepakati protokol perubahan Perjanjian Kemitraan Ekonomi Indonesia-Jepang (IJEPA) yang mencakup peningkatan akses pasar bagi produk manufaktur dan pertanian Indonesia serta perluasan penempatan tenaga kerja terampil di sektor perawat dan industri manufaktur Jepang. Di bidang transisi energi, Tokyo menegaskan kembali dukungannya terhadap inisiatif Asia Zero Emission Community (AZEC) untuk membantu dekarbonisasi pembangkit listrik di Indonesia melalui pemanfaatan teknologi *co-firing* amonia dan penangkapan karbon.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Tenaga kerja terampil** | 熟練労働者 / 特定技能 | 日本の人手不足分野で活躍する技能人材 |
 | **Asia Zero Emission Community (AZEC)** | アジア・ゼロエミッション共同体 | 日本提唱のアジア脱炭素・エネルギートランジション枠組み |
 | **Teknologi *co-firing*** | 混焼技術 | 石炭火力にアンモニアやバイオマスを混ぜて燃焼させる技術 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア共和国大統領と日本の内閣総理大臣は、両国間の「包括的・戦略的パートナーシップ」を深化させるため、ボゴール大統領宮殿において二国間会談を開催した。このハイレベル会談において両首脳は、経済協力の拡大、都市インフラプロジェクトの加速、ならびに「自由で開かれたインド太平洋」における海洋安全保障の強化で合意した。
+
+両政府首脳は、インドネシアの工業製品および農産物の市場アクセスの改善や、日本の介護分野および製造業における熟練労働者の配置拡大を含む、日・インドネシア経済連携協定（IJEPA）改正議定書に合意した。エネルギー移行の分野において日本政府は、アンモニア混焼技術や炭素回収（CCS）の活用を通じてインドネシアの発電所の脱炭素化を支援するため、アジア・ゼロエミッション共同体（AZEC）構想への支援を再確認した。
+
+</div>
 
 ---
 

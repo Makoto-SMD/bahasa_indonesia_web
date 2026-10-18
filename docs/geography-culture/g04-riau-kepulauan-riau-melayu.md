@@ -9,7 +9,7 @@ order: 4
 
 世界で最も重要な海上交通路の一つであるマラッカ海峡（Selat Malaka）に面する **リアウ州（Provinsi Riau）** と、数千の島々からなる **リアウ諸島州（Provinsi Kepulauan Riau / Kepri）**。
 
-ここは、現代の国語である **「標準インドネシア語（Bahasa Indonesia）」の直接の母体となった高地マレー語（Bahasa Melayu Riau-Lingga）** の発祥の地であり、詩聖ラジャ・アリ・ハジが活躍した文学の聖地です。さらに、インドネシア最大の石油産出地としてのリアウ州、シンガポールと隣接する経済特区バタム島（Batam）のダイナミズムを学びましょう。
+ここは、現代の国語である **「標準インドネシア語**（Bahasa Indonesia）」の直接の母体となった高地マレー語（Bahasa Melayu Riau-Lingga） の発祥の地であり、詩聖ラジャ・アリ・ハジが活躍した文学の聖地です。さらに、インドネシア最大の石油産出地としてのリアウ州、シンガポールと隣接する経済特区バタム島（Batam）のダイナミズムを学びましょう。
 
 ---
 
@@ -29,7 +29,7 @@ order: 4
 
 1928年10月28日の「青年の誓い（Sumpah Pemuda）」において、多様な群島国家の統一言語として選ばれたインドネシア語。その標準語の文法と語彙の規範となったのが、リアウ・リンガ王国（Kesultanan Riau-Lingga）の宮廷マレー語でした。
 
-ビンタン島沖の小島 **プンイェンガット島（Pulau Penyengat）** では、19世紀に学者・詩人 **ラジャ・アリ・ハジ（Raja Ali Haji）** が最初のマレー語辞書を編纂し、名高い道徳詩歌 **『十二の箴言詩（Gurindam Dua Belas）』** を著しました。
+ビンタン島沖の小島 **プンイェンガット島（Pulau Penyengat）** では、19世紀に学者・詩人 **ラジャ・アリ・ハジ（Raja Ali Haji）** が最初のマレー語辞書を編纂し、名高い道徳詩歌 『**十二の箴言詩（Gurindam Dua Belas）**』 を著しました。
 
 <div class="id-example">
 <div class="id-example-header">

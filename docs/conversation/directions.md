@@ -10,7 +10,7 @@
 
 ## 1. 道を尋ねる丁寧な切り出しフレーズ
 
-道を聞くときは、いきなり用件を言うのではなく、まず**「Permisi（失礼します）」**や**「Mau tanya（お尋ねしたいのですが）」**で相手の注意を引きます。
+道を聞くときは、いきなり用件を言うのではなく、まず「**Permisi（失礼します）**」や「**Mau tanya（お尋ねしたいのですが）**」で相手の注意を引きます。
 
 <div class="id-example">
 <div class="id-sentence">Permisi Mas, boleh tanya sebentar?</div>

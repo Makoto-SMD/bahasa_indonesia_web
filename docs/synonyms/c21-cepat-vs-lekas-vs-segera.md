@@ -51,7 +51,7 @@ order: 21
 
 ## 2. lekas（短時間での望ましい変化・慣用挨拶）
 
-`lekas` は、病気の治癒や帰還など **「望ましい状態への変化が早く訪れること」** を願う文脈で好まれる伝統的・親愛的な言葉です。
+`lekas` は、病気の治癒や帰還など 「**望ましい状態への変化が早く訪れること**」 を願う文脈で好まれる伝統的・親愛的な言葉です。
 
 特に **`Semoga lekas sembuh!`（一日も早いご快復を祈ります＝お大事に）** は、お見舞いの絶対定番フレーズです。
 
@@ -76,7 +76,7 @@ order: 21
 
 ## 3. segera（公的・ビジネスの「至急・直ちに・遅滞なく」）
 
-`segera` は英語の *immediately / as soon as possible* に相当する格式高い副詞です。公的通知、ビジネスメール、緊急指示において、**「遅れることなく直ちに（tanpa menunda-nunda）」** 行動を起こすことを要求します。
+`segera` は英語の *immediately / as soon as possible* に相当する格式高い副詞です。公的通知、ビジネスメール、緊急指示において、「**遅れることなく直ちに（tanpa menunda-nunda）**」 行動を起こすことを要求します。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -99,7 +99,7 @@ order: 21
 
 ## 4. buru-buru（慌てて・急き立てられて・焦って）
 
-`buru-buru`（または接頭辞が付いた **`terburu-buru`**）は、物理的な速さではなく、**「時間に追われて焦っている、慌てふためいている心理状態（in a hurry / rashly）」** を表します。焦りのあまりミスを犯したり、雑になったりする否定的なニュアンスを含みます。
+`buru-buru`（または接頭辞が付いた **`terburu-buru`**）は、物理的な速さではなく、「**時間に追われて焦っている、慌てふためいている心理状態（in a hurry / rashly）**」 を表します。焦りのあまりミスを犯したり、雑になったりする否定的なニュアンスを含みます。
 
 <div class="id-example">
 <div class="id-example-header">

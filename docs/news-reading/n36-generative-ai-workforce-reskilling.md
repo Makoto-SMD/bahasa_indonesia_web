@@ -6,22 +6,12 @@ ChatGPT等の生成人工知能（AI Generatif / Kecerdasan Buatan）技術の�
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Gelombang adopsi kecerdasan buatan generatif (*generative artificial intelligence*) mulai mengubah lanskap ketenagakerjaan dan proses bisnis korporasi di Indonesia secara drastis. Laporan riset terbaru dari lembaga konsultasi global mengungkapkan bahwa integrasi teknologi otomatisasi dan pemrosesan bahasa alami berpotensi mendisrupsi jutaan pekerjaan kerah putih (*white-collar*), khususnya di bidang layanan pelanggan, administrasi perkantoran, entri data, serta produksi konten digital dasar.
-  </div>
-  <div class="id-translation">
-    生成人工知能（生成AI）の採用の波は、インドネシアにおける雇用情勢および企業のビジネスプロセスを劇的に変え始めている。グローバルコンサルティング機関による最新の調査レポートは、自動化技術および自然言語処理の統合が、特にカスタマーサービス、オフィス事務、データ入力、ならびに基礎的なデジタルコンテンツ制作の分野において、数百万におよぶホワイトカラーの職をディスラプト（破壊的変革）する潜在力を持っていると明らかにした。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Merespons pergeseran pasar kerja tersebut, Kementerian Ketenagakerjaan bersama Kementerian Komunikasi dan Informatika menggencarkan program peningkatan keahlian (*upskilling*) dan pelatihan ulang keterampilan (*reskilling*) bagi generasi muda dan tenaga kerja produktif. Pemerintah menekankan bahwa AI tidak seharusnya dipandang semata-mata sebagai ancaman pemutusan hubungan kerja, melainkan sebagai alat bantu akselerator produktivitas (*copilot*), seraya mendorong kurikulum pendidikan tinggi untuk lebih menitikberatkan pada pengembangan keterampilan berpikir kritis (*critical thinking*), etika AI, serta literasi data strategis yang tidak mudah digantikan oleh mesin cerdas.
-  </div>
-  <div class="id-translation">
-    労働市場のこの地殻変動に対応し、労働省は通信情報省とともに、若年層および生産年齢労働者を対象としたスキル向上（アップスキリング）および再訓練（リスキリング）プログラムを強化している。政府は、AIが単に解雇（リストラ）の脅威としてのみ見なされるべきではなく、生産性向上の加速ツール（コパイロット）として捉えられるべきであると強調するとともに、高等教育カリキュラムに対して批判的思考力（クリティカルシンキング）、AI倫理、ならびに知能マシンによって容易には代替されない戦略的データリテラシーの開発に一段と重点を置くよう求めた。
-  </div>
+Gelombang adopsi kecerdasan buatan generatif (*generative artificial intelligence*) mulai mengubah lanskap ketenagakerjaan dan proses bisnis korporasi di Indonesia secara drastis. Laporan riset terbaru dari lembaga konsultasi global mengungkapkan bahwa integrasi teknologi otomatisasi dan pemrosesan bahasa alami berpotensi mendisrupsi jutaan pekerjaan kerah putih (*white-collar*), khususnya di bidang layanan pelanggan, administrasi perkantoran, entri data, serta produksi konten digital dasar.
+
+Merespons pergeseran pasar kerja tersebut, Kementerian Ketenagakerjaan bersama Kementerian Komunikasi dan Informatika menggencarkan program peningkatan keahlian (*upskilling*) dan pelatihan ulang keterampilan (*reskilling*) bagi generasi muda dan tenaga kerja produktif. Pemerintah menekankan bahwa AI tidak seharusnya dipandang semata-mata sebagai ancaman pemutusan hubungan kerja, melainkan sebagai alat bantu akselerator produktivitas (*copilot*), seraya mendorong kurikulum pendidikan tinggi untuk lebih menitikberatkan pada pengembangan keterampilan berpikir kritis (*critical thinking*), etika AI, serta literasi data strategis yang tidak mudah digantikan oleh mesin cerdas.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@ ChatGPT等の生成人工知能（AI Generatif / Kecerdasan Buatan）技術の�
 | **Pelatihan ulang (*reskilling*)** | リスキリング / 新技能の再習得 | 成長分野へ職種転換するための学び直し |
 | **Alat bantu (*copilot*)** | 支援ツール / コパイロット（副操縦士） | 人間の作業を補佐するアシスタント |
 | **Berpikir kritis (*critical thinking*)** | 批判的思考 / 論理的思考力 | AI時代に人間に求められる中核的素養 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+生成人工知能（生成AI）の採用の波は、インドネシアにおける雇用情勢および企業のビジネスプロセスを劇的に変え始めている。グローバルコンサルティング機関による最新の調査レポートは、自動化技術および自然言語処理の統合が、特にカスタマーサービス、オフィス事務、データ入力、ならびに基礎的なデジタルコンテンツ制作の分野において、数百万におよぶホワイトカラーの職をディスラプト（破壊的変革）する潜在力を持っていると明らかにした。
+
+労働市場のこの地殻変動に対応し、労働省は通信情報省とともに、若年層および生産年齢労働者を対象としたスキル向上（アップスキリング）および再訓練（リスキリング）プログラムを強化している。政府は、AIが単に解雇（リストラ）の脅威としてのみ見なされるべきではなく、生産性向上の加速ツール（コパイロット）として捉えられるべきであると強調するとともに、高等教育カリキュラムに対して批判的思考力（クリティカルシンキング）、AI倫理、ならびに知能マシンによって容易には代替されない戦略的データリテラシーの開発に一段と重点を置くよう求めた。
+
+</div>
 
 ---
 

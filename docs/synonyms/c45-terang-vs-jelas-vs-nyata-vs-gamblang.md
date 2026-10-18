@@ -17,16 +17,16 @@ order: 45
 
 | 単語 | 明晰性の基盤 | 認識・感覚の領域 | 日本語の対応 | 代表例 |
 | :--- | :--- | :--- | :--- | :--- |
-| **terang** | **【光量・視覚的可視性・率直さ】** | 光が満ちている、明白、腹を割った | 明るい・明らかな・率直な | *lampu terang*, *terang benderang*, *terus terang* |
-| **jelas** | **【知覚・理解の明瞭さ】** | 音声、文字、説明がクリアで紛れなし | はっきりした・明瞭な・明確な | *suara jelas*, *tulisan jelas*, *penjelasan jelas* |
-| **nyata** | **【実在性・客観的現実・具現化】** | 仮想ではなくリアル、動かぬ証拠 | 現実の・実在する・明白な・具体的な | *bukti nyata*, *dunia nyata*, *hasil nyata* |
-| **gamblang** | **【平易・論理的明快さ・疑問ゼロ】** | 誰でも一目で納得できる透明な説明 | 明快な・あからさまな・一目瞭然の | *sangat gamblang*, *uraian gamblang* |
+| **terang** | 【**光量・視覚的可視性・率直さ**】 | 光が満ちている、明白、腹を割った | 明るい・明らかな・率直な | *lampu terang*, *terang benderang*, *terus terang* |
+| **jelas** | 【**知覚・理解の明瞭さ**】 | 音声、文字、説明がクリアで紛れなし | はっきりした・明瞭な・明確な | *suara jelas*, *tulisan jelas*, *penjelasan jelas* |
+| **nyata** | 【**実在性・客観的現実・具現化**】 | 仮想ではなくリアル、動かぬ証拠 | 現実の・実在する・明白な・具体的な | *bukti nyata*, *dunia nyata*, *hasil nyata* |
+| **gamblang** | 【**平易・論理的明快さ・疑問ゼロ**】 | 誰でも一目で納得できる透明な説明 | 明快な・あからさまな・一目瞭然の | *sangat gamblang*, *uraian gamblang* |
 
 ---
 
 ## 1. terang（明るい・光に満ちた・公然の・率直な）
 
-物理的な **「光の明るさ（bright / illuminated）」** を原義とし、そこから「白日の下に晒された明白さ」へと意味が広がります。
+物理的な 「**光の明るさ（bright / illuminated）**」 を原義とし、そこから「白日の下に晒された明白さ」へと意味が広がります。
 - *terang benderang*（煌々と明るい・光輝く）
 - *terus terang*（率直に言うと・ぶっちゃけ・単刀直入に）
 - *terang-terangan*（公然と・あからさまに）
@@ -52,7 +52,7 @@ order: 45
 
 ## 2. jelas（はっきりした・明瞭な・クリアな）
 
-知覚（視覚・聴覚）や論理が **「紛れもなくクリアで判別しやすい（clear / distinct）」** 状態です。
+知覚（視覚・聴覚）や論理が 「**紛れもなくクリアで判別しやすい（clear / distinct）**」 状態です。
 - 音声の聞き取りやすさ（*suara jelas*）
 - 文字の視認性（*tulisan terbaca dengan jelas*）
 - 方針やルールの明確さ（*instruksi yang jelas*）
@@ -79,7 +79,7 @@ order: 45
 
 ## 3. nyata（現実の・実在する・確たる・具体的な）
 
-サンスクリット語起源の語で、想像や仮想（maya）の対義語としての **「客観的現実、実在、具体的な証拠（real / tangible / evident）」** を指します。
+サンスクリット語起源の語で、想像や仮想（maya）の対義語としての 「**客観的現実、実在、具体的な証拠（real / tangible / evident）**」 を指します。
 - *dunia nyata*（現実世界：dunia maya[仮想世界/ネット世界]の対立項）
 - *bukti nyata*（動かぬ動員証拠・具体的証拠）
 - *hasil nyata*（目に見える具体的成果）
@@ -106,7 +106,7 @@ order: 45
 
 ## 4. gamblang（極めて明快な・一目瞭然の・疑問を挟む余地のない）
 
-ジャワ語起源の表現で、現代標準インドネシア語の論説やビジネスで極めて好まれる単語です。**「誰が聞いても・読んでも一発で理解でき、一切の疑念や曖昧さが残らない明快さ（crystal clear / lucid / unambiguous）」** を表します。
+ジャワ語起源の表現で、現代標準インドネシア語の論説やビジネスで極めて好まれる単語です。「**誰が聞いても・読んでも一発で理解でき、一切の疑念や曖昧さが残らない明快さ（crystal clear / lucid / unambiguous）**」 を表します。
 
 - *penjelasan yang gamblang*（明快で平易な解説）
 - *secara gamblang*（あからさまに、一切包み隠さず明快に）

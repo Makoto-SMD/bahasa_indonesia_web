@@ -67,7 +67,7 @@ D. <br>
 **正答: D**
 
 - **D（正解）**: 
-  - 動詞 `memberikan`（語根 `beri` ＋ 接尾辞 `-kan`）は、**「物を主たる対象（直接目的語）」**にとるため、動詞の直後に「物」が来ます。そして相手（受益者）を導くためには前置詞 **`kepada`** が必須です。
+  - 動詞 `memberikan`（語根 `beri` ＋ 接尾辞 `-kan`）は、「**物を主たる対象（直接目的語）**」にとるため、動詞の直後に「物」が来ます。そして相手（受益者）を導くためには前置詞 **`kepada`** が必須です。
   構造: `memberikan + [物] + kepada + [人]`（*memberikan bantuan kepada masyarakat*）
 
 - **A（誤り）**: `memberikan` の直後に「人（`masyarakat`）」を直接置くことはできません。人を直後に置くなら接頭辞・語根のみの `memberi` を使います（`Pemerintah memberi masyarakat miskin bantuan langsung tunai.`）。

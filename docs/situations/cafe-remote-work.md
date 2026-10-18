@@ -73,8 +73,8 @@
 
 > [!TIP]
 > **インドネシアの「Kopi Susu Gula Aren」ブーム**:
-> 現在インドネシアで最も愛されている飲み物が、エスプレッソ＋ミルクにパームシュガー（ヤシ樹液の黒糖：Gula Aren）を加えた**「Kopi Susu Gula Aren」**（Kulo, Tuku, Fore, Janji Jiwa等）です。
-> 日本人の味覚には標準のシロップ量だとかなり甘く感じられることが多いため、注文時に必ず**「gulanya sedikit saja（砂糖少なめ）」または「less sweet 25%〜50%」**と伝えるのが美味しく楽しむコツです。
+> 現在インドネシアで最も愛されている飲み物が、エスプレッソ＋ミルクにパームシュガー（ヤシ樹液の黒糖：Gula Aren）を加えた「**Kopi Susu Gula Aren**」（Kulo, Tuku, Fore, Janji Jiwa等）です。
+> 日本人の味覚には標準のシロップ量だとかなり甘く感じられることが多いため、注文時に必ず「**gulanya sedikit saja（砂糖少なめ）」または「less sweet 25%〜50%**」と伝えるのが美味しく楽しむコツです。
 
 ---
 

@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Badan Nasional Penanggulangan Bencana (BNPB) bersama Tentara Nasional Indonesia (TNI) dan Kepolisian Negara RI menyiagakan ribuan personel Satuan Tugas Gabungan guna mengantisipasi eskalasi kebakaran hutan dan lahan (karhutla) di sejumlah provinsi rawan di Pulau Sumatra dan Kalimantan. Peningkatan titik panas (*hotspot*) akibat fenomena cuaca kering ekstrem mendorong pemerintah daerah menetapkan status siaga darurat bencana asap demi mencegah terulangnya tragedi kabut asap lintas batas (*transboundary haze*) ke negara-negara tetangga.
-  </div>
-  <div class="id-translation">
-    国家防災庁（BNPB）はインドネシア国軍（TNI）および国家警察とともに、スマトラ島およびカリマンタン島の複数の多発危険州における森林・原野火災（カルフットラ）のエスカレーションを未然に防ぐため、数千人規模の合同タスクフォース要員を厳戒待機させている。極端な乾燥気象現象に伴う火災ホットスポット（高温点）の増加を受け、地方政府は近隣諸国への越境煙霧（トランスバウンダリー・ヘイズ）の悲劇の再発を防ぐため、煙霧災害非常警戒態勢を発令した。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Operasi penanggulangan difokuskan pada pembasahan kembali (*rewetting*) ekosistem lahan gambut yang sangat mudah terbakar dan sulit dipadamkan apabila terbakar di bawah permukaan (*underground fire*). Selain mengerahkan puluhan helikopter untuk pengeboman air (*water bombing*), pemerintah secara intensif melaksanakan Operasi Modifikasi Cuaca (OMC) dengan menyemaikan garam natrium klorida ke awan-awan potensial guna memicu hujan buatan di atas kantong-kantong kebakaran aktif, seraya menindak tegas korporasi perkebunan yang terbukti membuka lahan dengan cara membakar.
-  </div>
-  <div class="id-translation">
-    鎮火作戦は、極めて引火しやすく地表下で燃え広がる（地下火災）と消火が困難な泥炭地生態系の再湿潤化（リウェッティング）に重点が置かれている。空中消火（ウォーター・ボンビング）のために数十機のヘリコプターを投入することに加え、政府は活動中の火災密集地帯上空に人工降雨を発生させるため、有望な雲に塩化ナトリウムを散布する気象改変作戦（OMC）を集中的に実施するとともに、火入れ（野焼き）による土地開墾が証明された農園企業を断固として処罰している。
-  </div>
+Badan Nasional Penanggulangan Bencana (BNPB) bersama Tentara Nasional Indonesia (TNI) dan Kepolisian Negara RI menyiagakan ribuan personel Satuan Tugas Gabungan guna mengantisipasi eskalasi kebakaran hutan dan lahan (karhutla) di sejumlah provinsi rawan di Pulau Sumatra dan Kalimantan. Peningkatan titik panas (*hotspot*) akibat fenomena cuaca kering ekstrem mendorong pemerintah daerah menetapkan status siaga darurat bencana asap demi mencegah terulangnya tragedi kabut asap lintas batas (*transboundary haze*) ke negara-negara tetangga.
+
+Operasi penanggulangan difokuskan pada pembasahan kembali (*rewetting*) ekosistem lahan gambut yang sangat mudah terbakar dan sulit dipadamkan apabila terbakar di bawah permukaan (*underground fire*). Selain mengerahkan puluhan helikopter untuk pengeboman air (*water bombing*), pemerintah secara intensif melaksanakan Operasi Modifikasi Cuaca (OMC) dengan menyemaikan garam natrium klorida ke awan-awan potensial guna memicu hujan buatan di atas kantong-kantong kebakaran aktif, seraya menindak tegas korporasi perkebunan yang terbukti membuka lahan dengan cara membakar.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Pengeboman air (*water bombing*)** | 空中消火（ヘリによる散水） | ヘリコプターのバケットから水を投下する消火 |
 | **Pembasahan lahan (*rewetting*)** | 泥炭地の再湿潤化 | 運河を塞いで水位を戻し乾燥発火を防ぐ環境再生 |
 | **Membuka lahan dengan membakar** | 火入れ開墾（野焼き） | コスト削減のため意図的に火を放つ違法行為 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+国家防災庁（BNPB）はインドネシア国軍（TNI）および国家警察とともに、スマトラ島およびカリマンタン島の複数の多発危険州における森林・原野火災（カルフットラ）のエスカレーションを未然に防ぐため、数千人規模の合同タスクフォース要員を厳戒待機させている。極端な乾燥気象現象に伴う火災ホットスポット（高温点）の増加を受け、地方政府は近隣諸国への越境煙霧（トランスバウンダリー・ヘイズ）の悲劇の再発を防ぐため、煙霧災害非常警戒態勢を発令した。
+
+鎮火作戦は、極めて引火しやすく地表下で燃え広がる（地下火災）と消火が困難な泥炭地生態系の再湿潤化（リウェッティング）に重点が置かれている。空中消火（ウォーター・ボンビング）のために数十機のヘリコプターを投入することに加え、政府は活動中の火災密集地帯上空に人工降雨を発生させるため、有望な雲に塩化ナトリウムを散布する気象改変作戦（OMC）を集中的に実施するとともに、火入れ（野焼き）による土地開墾が証明された農園企業を断固として処罰している。
+
+</div>
 
 ---
 

@@ -17,16 +17,16 @@ order: 37
 
 | 単語 | 性質・制定主体 | 強制力と法的拘束力 | 日本語の対応 | 代表例 |
 | :--- | :--- | :--- | :--- | :--- |
-| **aturan** | **【一般的な決まり事・手順】** | 慣習的・社会的マナー、ゲームのルール | ルール・決まり事・作法・手順 | *aturan main*, *aturan pakai*（用法） |
-| **peraturan** | **【成文化された規則・政令・省令】** | 組織・行政単位での法的拘束力 | 規則・政令・省令・就業規則 | *Peraturan Pemerintah (PP)*, *peraturan perusahaan* |
-| **regulasi** | **【産業・金融・市場の公的規制】** | 行政監督官庁による政策的コントロール | 規制・レギュレーション・統制 | *regulasi perbankan*, *kebijakan deregulasi* |
-| **undang-undang** | **【国会制定の国家基本法律】** | 国家最高水準の法的拘束力（憲法直下） | 法律（法） | *Undang-Undang (UU)*, *UUD 1945*（憲法） |
+| **aturan** | 【**一般的な決まり事・手順**】 | 慣習的・社会的マナー、ゲームのルール | ルール・決まり事・作法・手順 | *aturan main*, *aturan pakai*（用法） |
+| **peraturan** | 【**成文化された規則・政令・省令**】 | 組織・行政単位での法的拘束力 | 規則・政令・省令・就業規則 | *Peraturan Pemerintah (PP)*, *peraturan perusahaan* |
+| **regulasi** | 【**産業・金融・市場の公的規制**】 | 行政監督官庁による政策的コントロール | 規制・レギュレーション・統制 | *regulasi perbankan*, *kebijakan deregulasi* |
+| **undang-undang** | 【**国会制定の国家基本法律**】 | 国家最高水準の法的拘束力（憲法直下） | 法律（法） | *Undang-Undang (UU)*, *UUD 1945*（憲法） |
 
 ---
 
 ## 1. aturan（ルール・決まり事・手順・作法）
 
-語根 `atur`（整える・配置する）に接尾辞 `-an` が付いた名詞で、最も身近な **「決まり、約束事、使い方の作法（rule / guideline / convention）」** を指します。
+語根 `atur`（整える・配置する）に接尾辞 `-an` が付いた名詞で、最も身近な 「**決まり、約束事、使い方の作法（rule / guideline / convention）**」 を指します。
 
 - ゲームや競技のルール（*aturan permainan*）
 - 薬や機器の使用方法・容量用法（*aturan pakai / aturan minum obat*）
@@ -53,7 +53,7 @@ order: 37
 
 ## 2. peraturan（成文化された規則・政令・就業規程）
 
-接頭辞 `per-...-an` によって、より制度的・法的に体系化された **「規則、規程、法令（regulation / decree / bylaws）」** を指します。公的機関や企業が公式に文書化して公布するものが該当します。
+接頭辞 `per-...-an` によって、より制度的・法的に体系化された 「**規則、規程、法令（regulation / decree / bylaws）**」 を指します。公的機関や企業が公式に文書化して公布するものが該当します。
 
 - *Peraturan Pemerintah (PP)*（政府令・政令）
 - *Peraturan Menteri (Permen)*（大臣令・省令）
@@ -82,7 +82,7 @@ order: 37
 
 ## 3. regulasi（市場・産業に対する公的規制・レギュレーション）
 
-英語の *regulation* から導入された語で、特に **「経済、金融、デジタル市場、環境などの特定セクターを行政官庁が監督・誘導するための公的規制政策（regulatory framework）」** を指します。
+英語の *regulation* から導入された語で、特に 「**経済、金融、デジタル市場、環境などの特定セクターを行政官庁が監督・誘導するための公的規制政策（regulatory framework）**」 を指します。
 
 - 金融庁（OJK）や中央銀行（BI）による銀行規制
 - 規制緩和（*deregulasi*）
@@ -109,7 +109,7 @@ order: 37
 
 ## 4. undang-undang (UU)（国会制定の国家法律）
 
-国会（DPR）と大統領（Presiden）が共同で制定する **「国家の基本法律（Law / Act / Statute）」** です。インドネシアの法規範ヒエラルキー（Tata Urutan Peraturan Perundang-undangan）において、1945年憲法（UUD 1945）および国民協議会決議（TAP MPR）に次ぐ最高ランクの成文法です。
+国会（DPR）と大統領（Presiden）が共同で制定する 「**国家の基本法律（Law / Act / Statute）**」 です。インドネシアの法規範ヒエラルキー（Tata Urutan Peraturan Perundang-undangan）において、1945年憲法（UUD 1945）および国民協議会決議（TAP MPR）に次ぐ最高ランクの成文法です。
 
 - *Undang-Undang Dasar 1945 (UUD 1945)*（インドネシア共和国1945年憲法）
 - *Undang-Undang Ketenagakerjaan*（労働法）

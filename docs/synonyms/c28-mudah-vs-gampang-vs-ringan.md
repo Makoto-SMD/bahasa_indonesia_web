@@ -67,7 +67,7 @@ order: 28
 
 ## 3. ringan（物理的な重量・負担・刑罰が「軽い」）
 
-`ringan`（対義語: *berat*「重い」）は、難易度ではなく **「重さ（Weight）や負担（Burden）が少ない」** ことを表します。
+`ringan`（対義語: *berat*「重い」）は、難易度ではなく 「**重さ（Weight）や負担（Burden）が少ない**」 ことを表します。
 
 ### (1) 物理的な重量が軽い
 - **Laptop modern ini sangat ringan sehingga praktis dibawa bepergian.**<br>

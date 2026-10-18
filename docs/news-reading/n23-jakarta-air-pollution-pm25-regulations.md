@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kualitas udara di wilayah DKI Jakarta dan kawasan aglomerasi sekitarnya kembali memburuk hingga mencapai kategori tidak sehat bagi kelompok rentan maupun populasi umum. Berdasarkan data pemantau Indeks Kualitas Udara (AQI), konsentrasi partikel halus PM2,5 melonjak jauh melampaui batas aman panduan Organisasi Kesehatan Dunia (WHO), memicu kekhawatiran meluas akan lonjakan kasus infeksi saluran pernapasan akut (ISPA) pada anak-anak dan lansia.
-  </div>
-  <div class="id-translation">
-    ジャカルタ首都特別州およびその周辺の広域都市圏における大気質が再び悪化し、脆弱層のみならず一般住民にとっても「不健康」なカテゴリーに達した。大気質指数（AQI）観測データによると、微小粒子状物質PM2.5の濃度が世界保健機関（WHO）ガイドラインの安全基準値を大幅に超えて急上昇し、子供や高齢者における急性呼吸器感染症（ISPA）症例の急増に対する懸念が広がっている。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Menanggapi krisis polusi udara ini, Pemerintah Provinsi DKI Jakarta bersama Kementerian Lingkungan Hidup dan Kehutanan (KLHK) memberlakukan sejumlah langkah darurat terpadu. Selain menerapkan sanksi tilang uji emisi bagi kendaraan bermotor roda dua dan roda empat yang tidak lolos standar kelayakan, pemerintah menginstruksikan penerapan kembali kebijakan bekerja dari rumah (*work from home*/WFH) bagi separuh aparatur sipil negara, serta memperketat pengawasan emisi cerobong pabrik manufaktur dan pembangkit listrik berbasis batu bara di sekitar kawasan penyangga ibu kota.
-  </div>
-  <div class="id-translation">
-    この大気汚染危機に対応して、ジャカルタ州政府は環境林業省（KLHK）とともに、複数の包括的緊急措置を施行した。適合基準に合格しない二輪車および四輪自動車に対する排ガス検査違反切符（制裁金）の適用に加え、政府は国家公務員の半数を対象とした在宅勤務（WFH）政策の再導入を指示し、首都周辺の衛星都市・緩衝地域に位置する製造工場や石炭火力発電所の煙突排出ガスの監視を強化した。
-  </div>
+Kualitas udara di wilayah DKI Jakarta dan kawasan aglomerasi sekitarnya kembali memburuk hingga mencapai kategori tidak sehat bagi kelompok rentan maupun populasi umum. Berdasarkan data pemantau Indeks Kualitas Udara (AQI), konsentrasi partikel halus PM2,5 melonjak jauh melampaui batas aman panduan Organisasi Kesehatan Dunia (WHO), memicu kekhawatiran meluas akan lonjakan kasus infeksi saluran pernapasan akut (ISPA) pada anak-anak dan lansia.
+
+Menanggapi krisis polusi udara ini, Pemerintah Provinsi DKI Jakarta bersama Kementerian Lingkungan Hidup dan Kehutanan (KLHK) memberlakukan sejumlah langkah darurat terpadu. Selain menerapkan sanksi tilang uji emisi bagi kendaraan bermotor roda dua dan roda empat yang tidak lolos standar kelayakan, pemerintah menginstruksikan penerapan kembali kebijakan bekerja dari rumah (*work from home*/WFH) bagi separuh aparatur sipil negara, serta memperketat pengawasan emisi cerobong pabrik manufaktur dan pembangkit listrik berbasis batu bara di sekitar kawasan penyangga ibu kota.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Standar kelayakan** | 適合基準 / 車検合格水準 | 排出ガス等の環境・保安基準 |
 | **Emisi cerobong pabrik** | 工場の煙突排出ガス | 産業由来の大気汚染源（cerobong = 煙突） |
 | **Kawasan penyangga** | 緩衝地域 / 周辺衛星都市 | ボゴール、タンゲラン、ブカシなどの外郭地域 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+ジャカルタ首都特別州およびその周辺の広域都市圏における大気質が再び悪化し、脆弱層のみならず一般住民にとっても「不健康」なカテゴリーに達した。大気質指数（AQI）観測データによると、微小粒子状物質PM2.5の濃度が世界保健機関（WHO）ガイドラインの安全基準値を大幅に超えて急上昇し、子供や高齢者における急性呼吸器感染症（ISPA）症例の急増に対する懸念が広がっている。
+
+この大気汚染危機に対応して、ジャカルタ州政府は環境林業省（KLHK）とともに、複数の包括的緊急措置を施行した。適合基準に合格しない二輪車および四輪自動車に対する排ガス検査違反切符（制裁金）の適用に加え、政府は国家公務員の半数を対象とした在宅勤務（WFH）政策の再導入を指示し、首都周辺の衛星都市・緩衝地域に位置する製造工場や石炭火力発電所の煙突排出ガスの監視を強化した。
+
+</div>
 
 ---
 

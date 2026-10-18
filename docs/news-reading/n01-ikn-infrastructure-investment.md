@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Pemerintah Indonesia terus mempercepat pembangunan infrastruktur dasar di Ibu Kota Nusantara (IKN), Kalimantan Timur, menjelang pemindahan aparatur sipil negara (ASN) secara bertahap. Otorita IKN melaporkan bahwa realisasi investasi dari sektor swasta domestik telah melampaui target awal, terutama di bidang perhotelan, pusat perbelanjaan, dan fasilitas kesehatan.
-  </div>
-  <div class="id-translation">
-    インドネシア政府は、国家公務員（ASN）の段階的移転を前に、東カリマンタン州の新首都ヌサンタラ（IKN）における基礎インフラ整備を引き続き加速させている。IKN庁は、国内民間部門からの投資実行額が、特にホテル、ショッピングセンター、医療施設の分野において当初の目標を上回ったと報告した。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kendati demikian, sejumlah pengamat ekonomi mengingatkan pentingnya menarik minat investor asing demi mengurangi beban Anggaran Pendapatan dan Belanja Negara (APBN). Pemerintah telah menawarkan berbagai insentif fiskal, termasuk pembebasan pajak penghasilan (*tax holiday*) hingga tiga puluh tahun, untuk menjamin kepastian berusaha dan keberlanjutan proyek jangka panjang tersebut.
-  </div>
-  <div class="id-translation">
-    それにもかかわらず、一部の経済アナリストは、国家歳入歳出予算（APBN）への負担を軽減するため、外国人投資家の関心を引きつける重要性を指摘している。政府は、事業の予見可能性と同長期プロジェクトの持続可能性を担保するため、最長30年間の法人所得税免除（タックスホリデー）を含む多様な財政インセンティブを提示している。
-  </div>
+Pemerintah Indonesia terus mempercepat pembangunan infrastruktur dasar di Ibu Kota Nusantara (IKN), Kalimantan Timur, menjelang pemindahan aparatur sipil negara (ASN) secara bertahap. Otorita IKN melaporkan bahwa realisasi investasi dari sektor swasta domestik telah melampaui target awal, terutama di bidang perhotelan, pusat perbelanjaan, dan fasilitas kesehatan.
+
+Kendati demikian, sejumlah pengamat ekonomi mengingatkan pentingnya menarik minat investor asing demi mengurangi beban Anggaran Pendapatan dan Belanja Negara (APBN). Pemerintah telah menawarkan berbagai insentif fiskal, termasuk pembebasan pajak penghasilan (*tax holiday*) hingga tiga puluh tahun, untuk menjamin kepastian berusaha dan keberlanjutan proyek jangka panjang tersebut.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Beban APBN** | 国家予算の負担 | 財政赤字（defisit anggaran）抑制に関わる重要指標 |
 | **Insentif fiskal** | 財政上の優遇措置 | 減税や免税措置（*tax holiday*, *tax allowance* 等） |
 | **Kepastian berusaha** | 事業・投資の確実性 / 予見可能性 | 法制度や許認可の安定性を指すビジネス頻出語 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア政府は、国家公務員（ASN）の段階的移転を前に、東カリマンタン州の新首都ヌサンタラ（IKN）における基礎インフラ整備を引き続き加速させている。IKN庁は、国内民間部門からの投資実行額が、特にホテル、ショッピングセンター、医療施設の分野において当初の目標を上回ったと報告した。
+
+それにもかかわらず、一部の経済アナリストは、国家歳入歳出予算（APBN）への負担を軽減するため、外国人投資家の関心を引きつける重要性を指摘している。政府は、事業の予見可能性と同長期プロジェクトの持続可能性を担保するため、最長30年間の法人所得税免除（タックスホリデー）を含む多様な財政インセンティブを提示している。
+
+</div>
 
 ---
 

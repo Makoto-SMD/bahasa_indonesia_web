@@ -34,7 +34,7 @@ order: 11
 - **Apakah Anda tahu jam berapa toko ini buka?**（この店が何時に開くか知っていますか？）
 
 ### kenal: 人と「面識・親交」がある
-`kenal` は、実際に会ったことがある、話したことがある、知り合いであるという **「人間関係のコネクション」** を表します。
+`kenal` は、実際に会ったことがある、話したことがある、知り合いであるという 「**人間関係のコネクション**」 を表します。
 - **Apakah kamu kenal dengan dokter yang bertugas di klinik itu?**<br>
   （あのクリニックに勤務している医師と知り合いですか？）
 - **Kami sudah saling kenal sejak masa sekolah dasar.**<br>
@@ -67,7 +67,7 @@ order: 11
 </div>
 
 ### paham: 体系、思想、背景まで「深く腹落ちしている」
-アラビア語起源の語で、表面的な意味を超えて、**「制度の仕組み、政治的意図、人生哲学、業界の裏事情などが完全に腹落ちして精通している」** という一段深い理解を表します。
+アラビア語起源の語で、表面的な意味を超えて、「**制度の仕組み、政治的意図、人生哲学、業界の裏事情などが完全に腹落ちして精通している**」 という一段深い理解を表します。
 
 <div class="id-example">
 <div class="id-example-header">

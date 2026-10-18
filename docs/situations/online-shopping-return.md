@@ -60,7 +60,7 @@
 
 > [!IMPORTANT]
 > **「Video Unboxing（開封動画）」は現代インドネシアの絶対鉄則**:
-> Tokopedia、Shopee、Lazadaなどインドネシアの全ECサイトでは、**「配達伝票（Resi）がはっきり映った未開封状態から、ハサミを入れて中身を取り出し、電源を入れて動作確認するまでを1本のノーカット動画（Video Unboxing tanpa jeda）で撮影すること」**が、クレーム時の公式必須要件（Syarat Wajib Komplain）に指定されています。
+> Tokopedia、Shopee、Lazadaなどインドネシアの全ECサイトでは、「**配達伝票（Resi）がはっきり映った未開封状態から、ハサミを入れて中身を取り出し、電源を入れて動作確認するまでを1本のノーカット動画（Video Unboxing tanpa jeda）で撮影すること**」が、クレーム時の公式必須要件（Syarat Wajib Komplain）に指定されています。
 > 高額な家電やパソコン、衣類が届いた際は、どんなに面倒でもスマホで開封動画を撮影しながら荷解きをする習慣を徹底しましょう。
 
 ---

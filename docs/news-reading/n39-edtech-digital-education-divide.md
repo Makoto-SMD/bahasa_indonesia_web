@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Sektor teknologi pendidikan (*education technology*/EdTech) di Indonesia tengah mengalami fase konsolidasi dan transformasi mendalam pascapandemi COVID-19. Kembalinya metode pembelajaran tatap muka secara penuh di sekolah mendorong platform bimbingan belajar daring terkemuka untuk merestrukturisasi model bisnis mereka dari sekadar penyedia konten video berbayar menjadi ekosistem pembelajaran hibrida (*hybrid learning*) dan pelatihan keterampilan vokasi yang terhubung dengan kebutuhan dunia industri.
-  </div>
-  <div class="id-translation">
-    インドネシアにおける教育テクノロジー（EdTech）セクターは、COVID-19パンデミック後に深い再編および変革のフェーズを経験している。学校における全面的な対面学習方式への回帰は、有力なオンライン学習塾プラットフォームに対し、単なる有料動画コンテンツ提供者から、ハイブリッド学習エコシステムや産業界の需要と直結した職業スキル訓練へとビジネスモデルを再構築することを促している。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Di sisi lain, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi terus mempersempit jurang kesenjangan mutu pendidikan antara kota besar dan daerah pelosok melalui digitalisasi sekolah berbasis Kurikulum Merdeka. Pemanfaatan Platform Merdeka Mengajar (PMM) yang diakses oleh jutaan guru, dipadukan dengan distribusi ratusan ribu perangkat laptop ramah anggaran dan kuota internet ke sekolah-sekolah di wilayah tertinggal, bertujuan memastikan pemerataan materi ajar berkualitas serta meningkatkan literasi numerasi siswa di seluruh nusantara.
-  </div>
-  <div class="id-translation">
-    他方で、教育・文化・研究・技術省は、「独立カリキュラム」に基づく学校のデジタル化を通じて、大都市と僻地との間の教育の質の格差の溝を引き続き狭めている。数百万人の教員によってアクセスされる「独立教育プラットフォーム（PMM）」の活用は、発展の遅れた地域の学校への数十万台にのぼる低価格ノートパソコン（Chromebook等）およびインターネット通信容量の配布と組み合わされ、質の高い教材の均等化および全群島の生徒における読解・計算リテラシーの向上を担保することを目指している。
-  </div>
+Sektor teknologi pendidikan (*education technology*/EdTech) di Indonesia tengah mengalami fase konsolidasi dan transformasi mendalam pascapandemi COVID-19. Kembalinya metode pembelajaran tatap muka secara penuh di sekolah mendorong platform bimbingan belajar daring terkemuka untuk merestrukturisasi model bisnis mereka dari sekadar penyedia konten video berbayar menjadi ekosistem pembelajaran hibrida (*hybrid learning*) dan pelatihan keterampilan vokasi yang terhubung dengan kebutuhan dunia industri.
+
+Di sisi lain, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi terus mempersempit jurang kesenjangan mutu pendidikan antara kota besar dan daerah pelosok melalui digitalisasi sekolah berbasis Kurikulum Merdeka. Pemanfaatan Platform Merdeka Mengajar (PMM) yang diakses oleh jutaan guru, dipadukan dengan distribusi ratusan ribu perangkat laptop ramah anggaran dan kuota internet ke sekolah-sekolah di wilayah tertinggal, bertujuan memastikan pemerataan materi ajar berkualitas serta meningkatkan literasi numerasi siswa di seluruh nusantara.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Platform Merdeka Mengajar (PMM)** | 独立教育プラットフォーム | 教員が指導案や研修動画を共有する政府公式アプリ |
 | **Pemerataan materi ajar** | 教材・教育機会の均等化 | 全国の学校へ公平にリソースを届けること |
 | **Literasi numerasi** | 読解力と数的思考力（基礎学力） | 国家学力評価（Asesmen Nasional）の主要測定指標 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシアにおける教育テクノロジー（EdTech）セクターは、COVID-19パンデミック後に深い再編および変革のフェーズを経験している。学校における全面的な対面学習方式への回帰は、有力なオンライン学習塾プラットフォームに対し、単なる有料動画コンテンツ提供者から、ハイブリッド学習エコシステムや産業界の需要と直結した職業スキル訓練へとビジネスモデルを再構築することを促している。
+
+他方で、教育・文化・研究・技術省は、「独立カリキュラム」に基づく学校のデジタル化を通じて、大都市と僻地との間の教育の質の格差の溝を引き続き狭めている。数百万人の教員によってアクセスされる「独立教育プラットフォーム（PMM）」の活用は、発展の遅れた地域の学校への数十万台にのぼる低価格ノートパソコン（Chromebook等）およびインターネット通信容量の配布と組み合わされ、質の高い教材の均等化および全群島の生徒における読解・計算リテラシーの向上を担保することを目指している。
+
+</div>
 
 ---
 

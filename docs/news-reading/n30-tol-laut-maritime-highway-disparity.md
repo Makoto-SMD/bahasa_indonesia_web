@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Perhubungan Republik Indonesia terus memperluas trayek kapal perintis dalam program tol laut guna menekan disparitas harga kebutuhan pokok antara wilayah barat dan wilayah timur Indonesia. Melalui subsidi ongkos angkut barang yang dioperasikan oleh BUMN pelayaran nasional PT Pelni dan badan usaha swasta, distribusi komoditas pangan seperti beras, gula, minyak goreng, dan bahan bangunan ke daerah terpencil kini menjadi lebih teratur dan terjangkau bagi masyarakat pesisir kepulauan.
-  </div>
-  <div class="id-translation">
-    インドネシア共和国運輸省は、インドネシア西部と東部地域の間における基本生活必需品の価格格差（ディスパリティ）を抑制するため、海上ハイウェイ（トル・ラウト）プログラムにおける開拓巡航船航路の拡大を引き続き推進している。国家海運国営企業PT Pelniおよび民間企業によって運航される貨物輸送運賃補助金を通じて、米、砂糖、食用油、建設資材といった食料品・コモディティの僻地への流通が、今や島嶼沿岸住民にとってより安定的かつ手頃なものとなっている。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kendati mencatatkan penurunan harga komoditas hingga tiga puluh persen di beberapa pelabuhan singgah di Maluku dan Papua, efektivitas tol laut masih menghadapi kendala klasik ketidakseimbangan muatan balik (*imbalance of return cargo*). Kapal logistik yang berangkat dari pelabuhan utama di Pulau Jawa dengan muatan penuh seringkali harus kembali dalam kondisi kosong akibat minimnya komoditas unggulan daerah yang siap dikirimkan kembali ke pasar barat. Pemerintah daerah didorong untuk mengoptimalkan potensi produk perikanan dan perkebunan lokal agar efisiensi rantai pasok maritim dapat tercapai secara berkelanjutan.
-  </div>
-  <div class="id-translation">
-    マルクやパプアの複数の寄港地においてコモディティ価格の最大30パーセントの引き下げを記録したものの、トル・ラウトの有効性は依然として「復路荷受の不均衡（空荷問題）」という古典的な障壁に直面している。ジャワ島の主要港から満載で出航した物流貨物船は、西部市場へ送り返す準備の整った地域特産品の不足が原因で、しばしば空荷の状態で戻らなければならない。海上サプライチェーンの効率性を持続可能な形で達成するため、地方政府には地元の水産物やプランテーション農産物の潜在力を最大化することが求められている。
-  </div>
+Kementerian Perhubungan Republik Indonesia terus memperluas trayek kapal perintis dalam program tol laut guna menekan disparitas harga kebutuhan pokok antara wilayah barat dan wilayah timur Indonesia. Melalui subsidi ongkos angkut barang yang dioperasikan oleh BUMN pelayaran nasional PT Pelni dan badan usaha swasta, distribusi komoditas pangan seperti beras, gula, minyak goreng, dan bahan bangunan ke daerah terpencil kini menjadi lebih teratur dan terjangkau bagi masyarakat pesisir kepulauan.
+
+Kendati mencatatkan penurunan harga komoditas hingga tiga puluh persen di beberapa pelabuhan singgah di Maluku dan Papua, efektivitas tol laut masih menghadapi kendala klasik ketidakseimbangan muatan balik (*imbalance of return cargo*). Kapal logistik yang berangkat dari pelabuhan utama di Pulau Jawa dengan muatan penuh seringkali harus kembali dalam kondisi kosong akibat minimnya komoditas unggulan daerah yang siap dikirimkan kembali ke pasar barat. Pemerintah daerah didorong untuk mengoptimalkan potensi produk perikanan dan perkebunan lokal agar efisiensi rantai pasok maritim dapat tercapai secara berkelanjutan.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Pelni (Pelayaran Nasional Indonesia)** | 国営インドネシア海運 | 旅客船・定期貨物船を運航する最大手国営船社 |
 | **Minimnya komoditas lokal** | 地元特産品の乏しさ | 復路の荷物が集まらない産業構造的要因 |
 | **Rantai pasok maritim** | 海上サプライチェーン | 群島国家を支える海運物流網 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア共和国運輸省は、インドネシア西部と東部地域の間における基本生活必需品の価格格差（ディスパリティ）を抑制するため、海上ハイウェイ（トル・ラウト）プログラムにおける開拓巡航船航路の拡大を引き続き推進している。国家海運国営企業PT Pelniおよび民間企業によって運航される貨物輸送運賃補助金を通じて、米、砂糖、食用油、建設資材といった食料品・コモディティの僻地への流通が、今や島嶼沿岸住民にとってより安定的かつ手頃なものとなっている。
+
+マルクやパプアの複数の寄港地においてコモディティ価格の最大30パーセントの引き下げを記録したものの、トル・ラウトの有効性は依然として「復路荷受の不均衡（空荷問題）」という古典的な障壁に直面している。ジャワ島の主要港から満載で出航した物流貨物船は、西部市場へ送り返す準備の整った地域特産品の不足が原因で、しばしば空荷の状態で戻らなければならない。海上サプライチェーンの効率性を持続可能な形で達成するため、地方政府には地元の水産物やプランテーション農産物の潜在力を最大化することが求められている。
+
+</div>
 
 ---
 

@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    PT Bank Syariah Indonesia Tbk (BSI) mencatatkan pertumbuhan kinerja keuangan yang impresif dengan total aset menembus lebih dari tiga ratus triliun rupiah, mengokohkan posisinya dalam jajaran sepuluh besar perbankan nasional. Sejak penggabungan tiga bank syariah milik BUMN, BSI terus memperluas penetrasi pasar perbankan syariah melalui pembiayaan konsumer berbasis akad syariah, digitalisasi layanan haji dan umrah, serta ekspansi pembiayaan bagi ekosistem industri halal global.
-  </div>
-  <div class="id-translation">
-    PT Bank Syariah Indonesia Tbk（BSI）は、総資産が300兆ルピアを突破するなど目覚ましい財務実績の成長を記録し、国家銀行業界トップ10における自らの地位を確固たるものにした。国営傘下の3つのイスラム銀行の合併以来、BSIはシャリア契約に基づく個人向け融資、ハッジ（大巡礼）およびウムラ（小巡礼）サービスのデジタル化、ならびにグローバル・ハラル産業エコシステムに対する融資拡大を通じて、イスラム銀行の市場浸透率を引き続き拡大させている。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Pertumbuhan industri perbankan syariah ini sejalan dengan pemberlakuan kewajiban sertifikasi halal tahap pertama oleh Badan Penyelenggara Jaminan Produk Halal (BPJPH) Kementerian Agama untuk produk makanan, minuman, dan hasil sembelihan. Pelaku usaha domestik maupun produk impor yang beredar di pasar Indonesia wajib mencantumkan label halal resmi demi memberikan kepastian hukum dan kenyamanan bagi konsumen muslim, sekaligus memposisikan Indonesia sebagai pusat produsen halal terkemuka di dunia (*global halal hub*).
-  </div>
-  <div class="id-translation">
-    このイスラム銀行業界の成長は、食品、飲料、および屠畜品を対象とした宗教省ハラル製品保証機関（BPJPH）による第1段階のハラル認証義務化の施行と軌を一にしている。インドネシア市場で流通する国内事業者および輸入製品は、ムスリム消費者に法的確実性と安心感を提供すると同時に、インドネシアを世界有数のハラル生産拠点（グローバル・ハラル・ハブ）として位置付けるため、公式のハラルラベルを表示することが義務付けられている。
-  </div>
+PT Bank Syariah Indonesia Tbk (BSI) mencatatkan pertumbuhan kinerja keuangan yang impresif dengan total aset menembus lebih dari tiga ratus triliun rupiah, mengokohkan posisinya dalam jajaran sepuluh besar perbankan nasional. Sejak penggabungan tiga bank syariah milik BUMN, BSI terus memperluas penetrasi pasar perbankan syariah melalui pembiayaan konsumer berbasis akad syariah, digitalisasi layanan haji dan umrah, serta ekspansi pembiayaan bagi ekosistem industri halal global.
+
+Pertumbuhan industri perbankan syariah ini sejalan dengan pemberlakuan kewajiban sertifikasi halal tahap pertama oleh Badan Penyelenggara Jaminan Produk Halal (BPJPH) Kementerian Agama untuk produk makanan, minuman, dan hasil sembelihan. Pelaku usaha domestik maupun produk impor yang beredar di pasar Indonesia wajib mencantumkan label halal resmi demi memberikan kepastian hukum dan kenyamanan bagi konsumen muslim, sekaligus memposisikan Indonesia sebagai pusat produsen halal terkemuka di dunia (*global halal hub*).
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Hasil sembelihan** | 屠畜品 / 食肉処理 | イスラムの作法（Bismillah）に則って屠殺された肉 |
 | **Mencantumkan label halal** | ハラルラベル（ロゴ）を表示する | パッケージへの公式ハラル認証マークの印字義務 |
 | **Global halal hub** | 世界のハラル産業ハブ | 単なる消費国から世界最大の輸出拠点を目指す国家目標 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+PT Bank Syariah Indonesia Tbk（BSI）は、総資産が300兆ルピアを突破するなど目覚ましい財務実績の成長を記録し、国家銀行業界トップ10における自らの地位を確固たるものにした。国営傘下の3つのイスラム銀行の合併以来、BSIはシャリア契約に基づく個人向け融資、ハッジ（大巡礼）およびウムラ（小巡礼）サービスのデジタル化、ならびにグローバル・ハラル産業エコシステムに対する融資拡大を通じて、イスラム銀行の市場浸透率を引き続き拡大させている。
+
+このイスラム銀行業界の成長は、食品、飲料、および屠畜品を対象とした宗教省ハラル製品保証機関（BPJPH）による第1段階のハラル認証義務化の施行と軌を一にしている。インドネシア市場で流通する国内事業者および輸入製品は、ムスリム消費者に法的確実性と安心感を提供すると同時に、インドネシアを世界有数のハラル生産拠点（グローバル・ハラル・ハブ）として位置付けるため、公式のハラルラベルを表示することが義務付けられている。
+
+</div>
 
 ---
 

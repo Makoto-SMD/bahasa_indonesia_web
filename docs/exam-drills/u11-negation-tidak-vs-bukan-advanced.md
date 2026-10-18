@@ -49,7 +49,7 @@
 > **文法法則: 対比構文「bukan A, melainkan B（AではなくBである）」の絶対法則**
 
 - 後半に **melainkan rekayasa politik**（むしろ政治工作である）という対比節があります。
-- インドネシア語の正書法・規範文法（Tata Bahasa Baku）において、**「AではなくむしろBだ」**という対比を行う接続構文は、直後の語類が動詞・形容詞であっても **bukan** を用います。
+- インドネシア語の正書法・規範文法（Tata Bahasa Baku）において、「**AではなくむしろBだ**」という対比を行う接続構文は、直後の語類が動詞・形容詞であっても **bukan** を用います。
   - **bukan A, melainkan B**
   - （※*tidak* と *melainkan* を組み合わせることは文法的に誤り）
 - 語根 *dasar* の派生動詞 *berdasarkan*（〜に基づく）の前に置かれていますが、*melainkan* と呼応しているため、正解は **(B) bukan** です。

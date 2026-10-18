@@ -17,10 +17,10 @@ order: 36
 
 | 単語（語根） | 誤りの本質・原因 | 責任の重さ・法的/道徳的次元 | 日本語の対応 | 代表例 |
 | :--- | :--- | :--- | :--- | :--- |
-| **kesalahan (salah)** | **【一般的誤謬・違反・ミス】** | 標準的責任（故意・過失を問わず） | 間違い・誤り・落ち度・過失 | *mengakui kesalahan*, *kesalahan teknis* |
-| **kekeliruan (keliru)** | **【勘違い・思い違い・手違い】** | 悪意はなく認識のずれによるミス | 勘違い・手違い・混同・転記ミス | *kekeliruan data*, *terjadi kekeliruan* |
-| **kealpaan (alpa)** | **【うっかり怠慢・不注意過失】** | 法的責任を伴う過失（刑法上の過失致死など） | 過失・不注意・うっかり・怠慢 | *karena kealpaan*, *kealpaan fatal* |
-| **dosa (dosa)** | **【宗教的戒律違反・道徳的大罪】** | 神や良心に対する罪悪（死後の応報） | 罪・大罪・罪悪・カルマ | *berbuat dosa*, *mengampuni dosa* |
+| **kesalahan (salah)** | 【**一般的誤謬・違反・ミス**】 | 標準的責任（故意・過失を問わず） | 間違い・誤り・落ち度・過失 | *mengakui kesalahan*, *kesalahan teknis* |
+| **kekeliruan (keliru)** | 【**勘違い・思い違い・手違い**】 | 悪意はなく認識のずれによるミス | 勘違い・手違い・混同・転記ミス | *kekeliruan data*, *terjadi kekeliruan* |
+| **kealpaan (alpa)** | 【**うっかり怠慢・不注意過失**】 | 法的責任を伴う過失（刑法上の過失致死など） | 過失・不注意・うっかり・怠慢 | *karena kealpaan*, *kealpaan fatal* |
+| **dosa (dosa)** | 【**宗教的戒律違反・道徳的大罪**】 | 神や良心に対する罪悪（死後の応報） | 罪・大罪・罪悪・カルマ | *berbuat dosa*, *mengampuni dosa* |
 
 ---
 
@@ -54,7 +54,7 @@ order: 36
 
 ## 2. kekeliruan（思い違い・勘違い・手違い）
 
-語根 `keliru`（取り違える・見誤る）から派生した名詞で、**「悪意や悪辣さはなく、見間違いや思い込みによって生じた勘違い・手違い（misunderstanding / error of judgment / inadvertent slip）」** を指します。
+語根 `keliru`（取り違える・見誤る）から派生した名詞で、「**悪意や悪辣さはなく、見間違いや思い込みによって生じた勘違い・手違い（misunderstanding / error of judgment / inadvertent slip）**」 を指します。
 
 - 相手を責め立てずに「行き違い・手違い」と柔らかく表現する際にも役立ちます。
 - *meluruskan kekeliruan*（誤解・手違いを正す）
@@ -80,7 +80,7 @@ order: 36
 
 ## 3. kealpaan（過失・うっかり怠慢・不注意）
 
-語根 `alpa`（うっかり忘れる・怠る）から派生した硬い語彙で、**「本来払うべき注意を怠ったことによる不注意・過失（negligence / inadvertence）」** を意味します。
+語根 `alpa`（うっかり忘れる・怠る）から派生した硬い語彙で、「**本来払うべき注意を怠ったことによる不注意・過失（negligence / inadvertence）**」 を意味します。
 
 - 法律用語として極めて重要：インドネシア刑法（KUHP）において「故意（kesengajaan）」と「過失（kealpaan）」は厳格に対置されます。
 - *kealpaan yang menyebabkan kematian*（過失致死）
@@ -106,7 +106,7 @@ order: 36
 
 ## 4. dosa（宗教的戒律違反・道徳的大罪）
 
-サンスクリット語起源の語彙で、**「神の教えや戒律に反する罪、道徳的・倫理的な罪悪（sin / transgression）」** を指します。世俗の法律違反（pelanggaran hukum）とは異なり、精神的・宗教的救済の対象となります。
+サンスクリット語起源の語彙で、「**神の教えや戒律に反する罪、道徳的・倫理的な罪悪（sin / transgression）**」 を指します。世俗の法律違反（pelanggaran hukum）とは異なり、精神的・宗教的救済の対象となります。
 
 - *dosa besar*（大罪）
 - *mengampuni dosa*（罪を許す・赦免する）

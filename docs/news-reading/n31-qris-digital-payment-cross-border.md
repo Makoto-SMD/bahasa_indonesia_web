@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Bank Indonesia mencatatkan rekor baru dalam akselerasi ekonomi dan keuangan digital nasional melalui perluasan adopsi Quick Response Code Indonesian Standard (QRIS). Jumlah pengguna QRIS telah menembus lebih dari lima puluh juta orang dengan puluhan juta pedagang (*merchants*), di mana sebagian besar di antaranya merupakan pelaku usaha mikro, kecil, dan menengah (UMKM) di berbagai pasar tradisional dan pusat jajanan rakyat.
-  </div>
-  <div class="id-translation">
-    インドネシア中央銀行（BI）は、QRコード統一規格「QRIS（クイック・レスポンス・コード・インドネシアン・スタンダード）」の採用拡大を通じて、国家のデジタル経済および金融の加速において新たな記録を打ち立てた。QRISのユーザー数は5,000万人を突破し、数千万の加盟店（マーチャント）を抱えており、その大部分は各地の伝統的市場や大衆屋台街における零細・中小企業（MSME）の事業者である。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Di kancah regional, inisiatif interkoneksi pembayaran lintas batas (*cross-border QR payment*) berbasis QRIS kini telah terhubung secara penuh dengan Thailand, Malaysia, dan Singapura. Melalui kerja sama bank sentral ASEAN ini, turis Indonesia dapat berbelanja di luar negeri secara langsung menggunakan aplikasi perbankan atau dompet digital domestik tanpa perlu menukar uang tunai atau menggunakan dolar AS, didukung oleh skema transaksi mata uang lokal (*Local Currency Transactions*/LCT) guna memperkuat stabilitas moneter kawasan.
-  </div>
-  <div class="id-translation">
-    地域舞台において、QRISをベースとした越境決済相互接続（クロスボーダーQR決済）イニシアチブは、現在タイ、マレーシア、シンガポールと完全に接続されている。このASEAN中央銀行間協力により、インドネシア人観光客は現金両替や米ドルの使用を必要とせず、国内の銀行アプリや電子マネー（デジタルウォレット）を直接使用して海外でショッピングすることが可能となっており、これは地域金融の安定性を強化するための自国通貨建て決済（LCT）スキームによって支えられている。
-  </div>
+Bank Indonesia mencatatkan rekor baru dalam akselerasi ekonomi dan keuangan digital nasional melalui perluasan adopsi Quick Response Code Indonesian Standard (QRIS). Jumlah pengguna QRIS telah menembus lebih dari lima puluh juta orang dengan puluhan juta pedagang (*merchants*), di mana sebagian besar di antaranya merupakan pelaku usaha mikro, kecil, dan menengah (UMKM) di berbagai pasar tradisional dan pusat jajanan rakyat.
+
+Di kancah regional, inisiatif interkoneksi pembayaran lintas batas (*cross-border QR payment*) berbasis QRIS kini telah terhubung secara penuh dengan Thailand, Malaysia, dan Singapura. Melalui kerja sama bank sentral ASEAN ini, turis Indonesia dapat berbelanja di luar negeri secara langsung menggunakan aplikasi perbankan atau dompet digital domestik tanpa perlu menukar uang tunai atau menggunakan dolar AS, didukung oleh skema transaksi mata uang lokal (*Local Currency Transactions*/LCT) guna memperkuat stabilitas moneter kawasan.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Dompet digital (*e-wallet*)** | 電子マネー / デジタルウォレット | GoPay, OVO, DANA, ShopeePay など |
 | **Local Currency Transactions (LCT)** | 現地通貨建て決済 | 米ドルを介さず自国通貨同士（ルピア⇄バーツ等）で直接清算 |
 | **Stabilitas moneter kawasan** | 地域金融の安定性 | 通貨危機への耐性を高める脱ドル化の枠組み |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア中央銀行（BI）は、QRコード統一規格「QRIS（クイック・レスポンス・コード・インドネシアン・スタンダード）」の採用拡大を通じて、国家のデジタル経済および金融の加速において新たな記録を打ち立てた。QRISのユーザー数は5,000万人を突破し、数千万の加盟店（マーチャント）を抱えており、その大部分は各地の伝統的市場や大衆屋台街における零細・中小企業（MSME）の事業者である。
+
+地域舞台において、QRISをベースとした越境決済相互接続（クロスボーダーQR決済）イニシアチブは、現在タイ、マレーシア、シンガポールと完全に接続されている。このASEAN中央銀行間協力により、インドネシア人観光客は現金両替や米ドルの使用を必要とせず、国内の銀行アプリや電子マネー（デジタルウォレット）を直接使用して海外でショッピングすることが可能となっており、これは地域金融の安定性を強化するための自国通貨建て決済（LCT）スキームによって支えられている。
+
+</div>
 
 ---
 

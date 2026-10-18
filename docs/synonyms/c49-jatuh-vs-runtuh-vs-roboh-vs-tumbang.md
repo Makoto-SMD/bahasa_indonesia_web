@@ -17,10 +17,10 @@ order: 49
 
 | 動詞 | 主語の適格対象 | 崩落・倒壊のメカニズム | 日本語の対応 | 代表例 |
 | :--- | :--- | :--- | :--- | :--- |
-| **jatuh** | **【物体・人間・数値・抽象】** | 高所からの落下、つまずき転倒、価格下落 | 落ちる・転ぶ・下落する・恋に落ちる | *jatuh dari tangga*, *harga jatuh*, *jatuh cinta* |
-| **runtuh** | **【天井・壁・山・土砂・帝国】** | 重力で粉々になって上から崩れ落ちる | 崩壊する・崩落する・瓦解する | *tanah runtuh*, *gedung runtuh*, *kekaisaran runtuh* |
-| **roboh** | **【建造物・家屋・塀・柱・橋】** | 直立していた構造物がへし折れ倒れる | 倒壊する・倒れる・ペシャンコに | *rumah roboh*, *jembatan roboh*, *tembok roboh* |
-| **tumbang** | **【大木・電柱・政権・横綱】** | 根元から巨体がドサリと倒れる・打倒 | （大木が）根こそぎ倒れる・政権打倒 | *pohon tumbang*, *rezim tumbang*, *juara tumbang* |
+| **jatuh** | 【**物体・人間・数値・抽象**】 | 高所からの落下、つまずき転倒、価格下落 | 落ちる・転ぶ・下落する・恋に落ちる | *jatuh dari tangga*, *harga jatuh*, *jatuh cinta* |
+| **runtuh** | 【**天井・壁・山・土砂・帝国**】 | 重力で粉々になって上から崩れ落ちる | 崩壊する・崩落する・瓦解する | *tanah runtuh*, *gedung runtuh*, *kekaisaran runtuh* |
+| **roboh** | 【**建造物・家屋・塀・柱・橋**】 | 直立していた構造物がへし折れ倒れる | 倒壊する・倒れる・ペシャンコに | *rumah roboh*, *jembatan roboh*, *tembok roboh* |
+| **tumbang** | 【**大木・電柱・政権・横綱**】 | 根元から巨体がドサリと倒れる・打倒 | （大木が）根こそぎ倒れる・政権打倒 | *pohon tumbang*, *rezim tumbang*, *juara tumbang* |
 
 ---
 
@@ -53,7 +53,7 @@ order: 49
 
 ## 2. runtuh（崩壊する・崩落する・瓦解する）
 
-天井、鉱山の坑道、崖、山の斜面などが **「構造を保てなくなり、ガラガラと崩れ落ちる（collapse / cave in / crumble）」** ことを指します。また、国家や帝国、独裁体制の「歴史的瓦解」にも多用されます。
+天井、鉱山の坑道、崖、山の斜面などが 「**構造を保てなくなり、ガラガラと崩れ落ちる（collapse / cave in / crumble）**」 ことを指します。また、国家や帝国、独裁体制の「歴史的瓦解」にも多用されます。
 
 - *plafon runtuh*（天井の崩落）
 - *tanah runtuh / longsor*（土砂崩れ・崖崩れ）
@@ -80,7 +80,7 @@ order: 49
 
 ## 3. roboh（（家屋・建物・橋が）倒壊する・ペシャンコに倒れる）
 
-直立していた **「家屋、ビル、塀、橋などの人工建造物がへし折れて倒壊する（collapse / fall down / topple [buildings]）」** ことを指します。地震や暴風雨の被災ニュースの定番語です。
+直立していた 「**家屋、ビル、塀、橋などの人工建造物がへし折れて倒壊する（collapse / fall down / topple [buildings]）**」 ことを指します。地震や暴風雨の被災ニュースの定番語です。
 
 - *rumah warga roboh*（民家が倒壊する）
 - *jembatan roboh diterjang banjir*（洪水に襲われて橋が崩落倒壊する）
@@ -107,7 +107,7 @@ order: 49
 
 ## 4. tumbang（大木が根こそぎ倒れる・長寿政権が打倒される）
 
-地面に根を張っていた **「大木や電柱が根元からドサリと倒れる（topple / fall down from roots）」** ことを指します。また、長年にわたり君臨した「独裁政権（rezim）の打倒・崩壊」や「無敗のチャンピオンの敗北」の比喩として非常に有名です。
+地面に根を張っていた 「**大木や電柱が根元からドサリと倒れる（topple / fall down from roots）**」 ことを指します。また、長年にわたり君臨した「独裁政権（rezim）の打倒・崩壊」や「無敗のチャンピオンの敗北」の比喩として非常に有名です。
 
 - *pohon tumbang menghalangi jalan*（倒木が道路を塞ぐ）
 - *tumbangnya rezim Orde Baru*（スハルト新秩序体制の打倒・崩壊）

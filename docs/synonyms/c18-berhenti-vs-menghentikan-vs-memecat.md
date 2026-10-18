@@ -26,7 +26,7 @@ order: 18
 
 ## 1. berhenti（自動詞：主語自身が止まる・退職する）
 
-`berhenti` は接頭辞 `ber-` を持つ自動詞です。中核義は **「動いていた主語自身がその場に静止する」**、あるいは **「習慣や仕事を自発的にやめる」** ことです。
+`berhenti` は接頭辞 `ber-` を持つ自動詞です。中核義は 「**動いていた主語自身がその場に静止する**」、あるいは 「**習慣や仕事を自発的にやめる**」 ことです。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -49,7 +49,7 @@ order: 18
 
 ## 2. menghentikan（他動詞：外部から他者を停止・中断させる）
 
-`menghentikan` は接尾辞 `-kan` の使役機能により、**「主語が、別の対象（車、機械、プロジェクト、暴徒）の動きを強制的にストップさせる（stop / suspend / halt）」** 他動詞です。
+`menghentikan` は接尾辞 `-kan` の使役機能により、「**主語が、別の対象（車、機械、プロジェクト、暴徒）の動きを強制的にストップさせる（stop / suspend / halt）**」 他動詞です。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -75,7 +75,7 @@ order: 18
 会社や公職を辞める場面において、この2つの法的・社会的ニュアンスの違いは決定的です。
 
 ### memecat: 会社都合・懲戒解雇（クビ）
-会社や上司が権限を行使して、従業員を **「強制的に免職・解雇する（fire / dismiss）」** ことです。労働法上の公式用語は **`pemutusan hubungan kerja (PHK)`** です。
+会社や上司が権限を行使して、従業員を 「**強制的に免職・解雇する（fire / dismiss）**」 ことです。労働法上の公式用語は **`pemutusan hubungan kerja (PHK)`** です。
 <div class="id-example">
 <div class="id-example-header">
 <span class="id-example-badge">Contoh 3A</span>
@@ -92,7 +92,7 @@ order: 18
 </div>
 
 ### mengundurkan diri: 自己都合・自発的退職（辞任）
-従業員や閣僚が **「自らの自由意志で辞表を提出し、職を退く（resign / step down）」** 格式高い公的表現です。
+従業員や閣僚が 「**自らの自由意志で辞表を提出し、職を退く（resign / step down）**」 格式高い公的表現です。
 <div class="id-example">
 <div class="id-example-header">
 <span class="id-example-badge">Contoh 3B</span>
@@ -114,7 +114,7 @@ order: 18
 
 | 状況 | インドネシア語の表現 | ニュアンス・法的性格 |
 | :--- | :--- | :--- |
-| **「仕事を辞めます」（会話的）** | *Saya mau berhenti kerja.* | 日常的・自己申告 |
+| 「**仕事を辞めます**」（**会話的**） | *Saya mau berhenti kerja.* | 日常的・自己申告 |
 | **正式な「退職届」を出す** | *Mengajukan surat pengunduran diri.* | 自己都合退職（公式手続き） |
 | **横領や不正でクビになる** | *Dipecat oleh perusahaan.* | 懲戒解雇（ペナルティ） |
 | **会社都合のリストラ・人員削減** | *Terkena PHK.* | 労働関係終了（法的用語） |

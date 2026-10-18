@@ -7,7 +7,7 @@ order: 17
 
 # G17：東カリマンタン州（Kaltim）— 新首都IKNヌサンタラ・マハカム川のイルカ・楽園デラワン
 
-インドネシア国家の未来を担う新首都 **「IKNヌサンタラ（Ibu Kota Nusantara）」** の建設地として世界中から熱い視線を集める **東カリマンタン州（Provinsi Kalimantan Timur / Kaltim）**。
+インドネシア国家の未来を担う新首都 「**IKNヌサンタラ（Ibu Kota Nusantara）**」 の建設地として世界中から熱い視線を集める **東カリマンタン州（Provinsi Kalimantan Timur / Kaltim）**。
 
 石炭、石油、天然ガスが豊富に埋蔵されるエネルギーの大動脈であり、4世紀末のインドネシア最古の碑文が残る **クタイ王国（Kerajaan Kutai）** の地でもあります。雄大な **マハカム川（Sungai Mahakam）** に棲む幻の淡水イルカ、そして手付かずのサンゴ礁と無毒クラゲが群れ泳ぐ **デラワン諸島（Kepulauan Derawan）**。東カリマンタンの歴史と未来を探訪しましょう。
 

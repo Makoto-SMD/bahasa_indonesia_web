@@ -8,16 +8,16 @@
 
 ## 1. 語根 tahu からの派生語ファミリー
 
-```mermaid
-graph TD
-    T["語根: tahu（知っている）"]
-    T --> M["mengetahui（他動詞: 知る、認識する、把握する）"]
-    T --> P1["pengetahuan（名詞: 知識、学識）"]
-    T --> K1["ketahuan（被害受動/自発: ばれる、発覚する、見つかる）"]
-    T --> MB["memberitahu / memberitahukan（複合動詞: 知らせる、通知する）"]
-    T --> PB["pemberitahuan（名詞: お知らせ、通知、告知）"]
-    T --> BP["berpengetahuan（形容詞的: 知識がある、博識な）"]
-```
+語根 **tahu**（意味: 知っている）から派生する主要な単語一覧です。
+
+| 派生語 | 品詞・分類 | 主な日本語の意味・ニュアンス |
+| :--- | :--- | :--- |
+| **mengetahui** | 他動詞 | 知る、認識する、把握する |
+| **pengetahuan** | 名詞 | 知識、学識 |
+| **ketahuan** | 被害受動/自発 | ばれる、発覚する、見つかる |
+| **memberitahu / memberitahukan** | 複合動詞 | 知らせる、通知する |
+| **pemberitahuan** | 名詞 | お知らせ、通知、告知 |
+| **berpengetahuan** | 形容詞的 | 知識がある、博識な |
 
 ---
 

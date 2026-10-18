@@ -9,7 +9,7 @@ order: 39
 
 インドネシア語の条件複文（**jika / kalau / apabila / jikalau**）や譲歩複文（**walaupun / meskipun / kendatipun / sungguhpun**）は、論理的な思考や公式見解を述べるための基幹構文です。
 
-しかし、日常の口語や無意識の文章作成では、**「条件節と主節の論理的接続の破綻」** や **「前置詞の不当な挿入による主語の消滅」** が頻発します。インドネシア語技能検定（A級・B級）や UKBI では、「一見すると流暢に見えるが、文法的に破綻している文（Kalimat Rancu / Tidak Baku）」を看破する能力が厳しく試されます。
+しかし、日常の口語や無意識の文章作成では、「**条件節と主節の論理的接続の破綻**」 や 「**前置詞の不当な挿入による主語の消滅**」 が頻発します。インドネシア語技能検定（A級・B級）や UKBI では、「一見すると流暢に見えるが、文法的に破綻している文（Kalimat Rancu / Tidak Baku）」を看破する能力が厳しく試されます。
 
 ---
 
@@ -79,7 +79,7 @@ D. Klausa kedua seharusnya didahului oleh kata *tetapi*.
 **正答: A**
 
 - **A（正解）**: 
-  動詞 **`mengatur`（他動詞）** は主語を必要とします。しかし、文頭に前置詞 **`pada`**（〜において）を置いたため、`pada pasal tersebut` は副詞句（修飾語 Keterangan）になってしまい、**従属節から主語が消滅（kehilangan fungsi subjek）** してしまっています。
+  動詞 **`mengatur`（他動詞）** は主語を必要とします。しかし、文頭に前置詞 **`pada`（**〜において）を置いたため、`pada pasal tersebut` は副詞句（修飾語 Keterangan）になってしまい、**従属節から主語が消滅（kehilangan fungsi subjek**） してしまっています。
   - 正しい形（能動態）: *"Meskipun **pasal tersebut** telah mengatur hak-hak pekerja, ..."*（前置詞 `pada` を削除し、`pasal tersebut` を直接主語にする）
   - または正しい形（受動態）: *"Meskipun dalam pasal tersebut telah **diatur** hak-hak pekerja, ..."*（動詞を受動態 `diatur` に変える）
 

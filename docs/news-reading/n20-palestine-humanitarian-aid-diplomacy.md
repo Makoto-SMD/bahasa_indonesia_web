@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Pemerintah Indonesia kembali mengirimkan puluhan ton bantuan logistik dan peralatan medis untuk masyarakat sipil yang terdampak krisis kemanusiaan di Jalur Gaza. Pengiriman bantuan kemanusiaan ini dilepas langsung oleh Presiden di Pangkalan Udara Halim Perdanakusuma, dengan menggunakan pesawat angkut berat C-130 Hercules milik TNI Angkatan Udara, yang merupakan kolaborasi antara pemerintah, Palang Merah Indonesia (PMI), dan berbagai lembaga filantropi masyarakat.
-  </div>
-  <div class="id-translation">
-    インドネシア政府は、ガザ地区における人道危機の影響を受けた一般市民に向けて、数十トンの後方支援物資および医療機材を再び送致した。この人道支援物資の輸送は、ハリム・ペルダナクスマ空軍基地において大統領自らの手で見送られ、インドネシア空軍所属の大型輸送機C-130ハーキュリーズを使用し、政府、インドネシア赤十字（PMI）、および多様な民間慈善団体との共同連携により実施された。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Di kancah diplomasi multilateral, Menteri Luar Negeri RI secara konsisten menyuarakan pembelaan gigih terhadap hak-hak rakyat Palestina di hadapan Sidang Majelis Umum Perserikatan Bangsa-Bangsa (PBB) dan Mahkamah Internasional (ICJ) di Den Haag. Indonesia mendesak gencatan senjata permanen, penghentian aneksasi ilegal, serta realisasi solusi dua negara (*two-state solution*) berdasarkan parameter internasional yang disepakati, seraya menegaskan bahwa kemerdekaan Palestina merupakan amanat konstitusi 1945 yang tak tergoyahkan.
-  </div>
-  <div class="id-translation">
-    多国間外交の舞台において、インドネシア外務大臣は国連総会やハーグの国際司法裁判所（ICJ）の前で、パレスチナ人民の権利に対する不屈の弁護を一貫して訴えている。インドネシアは恒久的な停戦、違法な併合の停止、および合意された国際的パラメーターに基づく「二国家解決（two-state solution）」の実現を強く要求するとともに、パレスチナの独立は揺るぎない1945年憲法の委任事項であると強調した。
-  </div>
+Pemerintah Indonesia kembali mengirimkan puluhan ton bantuan logistik dan peralatan medis untuk masyarakat sipil yang terdampak krisis kemanusiaan di Jalur Gaza. Pengiriman bantuan kemanusiaan ini dilepas langsung oleh Presiden di Pangkalan Udara Halim Perdanakusuma, dengan menggunakan pesawat angkut berat C-130 Hercules milik TNI Angkatan Udara, yang merupakan kolaborasi antara pemerintah, Palang Merah Indonesia (PMI), dan berbagai lembaga filantropi masyarakat.
+
+Di kancah diplomasi multilateral, Menteri Luar Negeri RI secara konsisten menyuarakan pembelaan gigih terhadap hak-hak rakyat Palestina di hadapan Sidang Majelis Umum Perserikatan Bangsa-Bangsa (PBB) dan Mahkamah Internasional (ICJ) di Den Haag. Indonesia mendesak gencatan senjata permanen, penghentian aneksasi ilegal, serta realisasi solusi dua negara (*two-state solution*) berdasarkan parameter internasional yang disepakati, seraya menegaskan bahwa kemerdekaan Palestina merupakan amanat konstitusi 1945 yang tak tergoyahkan.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Mahkamah Internasional (ICJ)** | 国際司法裁判所 | ハーグに所在する国連の主要司法機関 |
 | **Gencatan senjata permanen** | 恒久的停戦 | 一時休戦（jeda kemanusiaan）を超えた完全停戦 |
 | **Solusi dua negara (*two-state solution*)** | 二国家解決 | イスラエルとパレスチナが平和的に共存する枠組み |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア政府は、ガザ地区における人道危機の影響を受けた一般市民に向けて、数十トンの後方支援物資および医療機材を再び送致した。この人道支援物資の輸送は、ハリム・ペルダナクスマ空軍基地において大統領自らの手で見送られ、インドネシア空軍所属の大型輸送機C-130ハーキュリーズを使用し、政府、インドネシア赤十字（PMI）、および多様な民間慈善団体との共同連携により実施された。
+
+多国間外交の舞台において、インドネシア外務大臣は国連総会やハーグの国際司法裁判所（ICJ）の前で、パレスチナ人民の権利に対する不屈の弁護を一貫して訴えている。インドネシアは恒久的な停戦、違法な併合の停止、および合意された国際的パラメーターに基づく「二国家解決（two-state solution）」の実現を強く要求するとともに、パレスチナの独立は揺るぎない1945年憲法の委任事項であると強調した。
+
+</div>
 
 ---
 

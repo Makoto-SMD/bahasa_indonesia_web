@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Keuangan Republik Indonesia menegaskan bahwa posisi utang pemerintah masih berada dalam batas yang aman dan terkelola secara hati-hati (*prudent*). Hingga akhir kuartal terakhir, rasio utang pemerintah terhadap Produk Domestik Bruto (PDB) tercatat sekitar 38 persen, jauh di bawah ambang batas aman sebesar 60 persen sebagaimana diatur dalam Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara.
-  </div>
-  <div class="id-translation">
-    インドネシア共和国財務省は、政府債務残高のポジションが依然として安全な水準にあり、慎重かつ堅実（プルーデント）に管理されていると強調した。直近の四半期末時点で、国内総生産（GDP）に対する政府債務残高の比率は約38パーセントを記録しており、国家財政に関する2003年法律第17号に規定された安全上限基準の60パーセントを大幅に下回っている。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Menteri Keuangan memaparkan bahwa sebagian besar portofolio utang pemerintah didominasi oleh Surat Berharga Negara (SBN) berdenominasi rupiah yang dimiliki oleh investor domestik, sehingga meminimalisasi kerentanan terhadap volatilitas nilai tukar global. Pemerintah juga berkomitmen untuk menjaga defisit anggaran pendapatan dan belanja negara di bawah level tiga persen dari PDB guna memastikan keberlanjutan fiskal jangka menengah serta mempertahankan peringkat utang layak investasi (*investment grade*) dari lembaga pemeringkat internasional.
-  </div>
-  <div class="id-translation">
-    財務大臣は、政府債務ポートフォリオの大部分が国内投資家によって保有されるルピア建て国債（SBN）によって占められており、それによって世界的な為替変動に対する脆弱性が最小化されていると説明した。政府はまた、中期的な財政持続可能性を確保し、国際格付け機関からの投資適格（インベストメント・グレード）格付けを維持するため、国家歳入歳出予算の財政赤字をGDP比3パーセント未満のレベルに維持することを確約している。
-  </div>
+Kementerian Keuangan Republik Indonesia menegaskan bahwa posisi utang pemerintah masih berada dalam batas yang aman dan terkelola secara hati-hati (*prudent*). Hingga akhir kuartal terakhir, rasio utang pemerintah terhadap Produk Domestik Bruto (PDB) tercatat sekitar 38 persen, jauh di bawah ambang batas aman sebesar 60 persen sebagaimana diatur dalam Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara.
+
+Menteri Keuangan memaparkan bahwa sebagian besar portofolio utang pemerintah didominasi oleh Surat Berharga Negara (SBN) berdenominasi rupiah yang dimiliki oleh investor domestik, sehingga meminimalisasi kerentanan terhadap volatilitas nilai tukar global. Pemerintah juga berkomitmen untuk menjaga defisit anggaran pendapatan dan belanja negara di bawah level tiga persen dari PDB guna memastikan keberlanjutan fiskal jangka menengah serta mempertahankan peringkat utang layak investasi (*investment grade*) dari lembaga pemeringkat internasional.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Defisit anggaran** | 財政赤字 | 歳入が歳出を下回る差額（法定上限GDP比3%） |
 | **Peringkat layak investasi** | 投資適格格付け | S&P, Moody's, Fitch等によるBBB-以上の評価 |
 | **Lembaga pemeringkat** | 格付け機関 | 国債の信用力を評価する国際格付け会社 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア共和国財務省は、政府債務残高のポジションが依然として安全な水準にあり、慎重かつ堅実（プルーデント）に管理されていると強調した。直近の四半期末時点で、国内総生産（GDP）に対する政府債務残高の比率は約38パーセントを記録しており、国家財政に関する2003年法律第17号に規定された安全上限基準の60パーセントを大幅に下回っている。
+
+財務大臣は、政府債務ポートフォリオの大部分が国内投資家によって保有されるルピア建て国債（SBN）によって占められており、それによって世界的な為替変動に対する脆弱性が最小化されていると説明した。政府はまた、中期的な財政持続可能性を確保し、国際格付け機関からの投資適格（インベストメント・グレード）格付けを維持するため、国家歳入歳出予算の財政赤字をGDP比3パーセント未満のレベルに維持することを確約している。
+
+</div>
 
 ---
 

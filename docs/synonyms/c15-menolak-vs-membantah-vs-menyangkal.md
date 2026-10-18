@@ -26,7 +26,7 @@ order: 15
 
 ## 1. menolak（提案・要求・オファーを「拒否する・断る」）
 
-`menolak` の中核義は **「外部から差し出されたもの（提案、招待、就職応募、要求）を受け取らずに跳ね返す（refuse / reject）」** ことです。
+`menolak` の中核義は 「**外部から差し出されたもの（提案、招待、就職応募、要求）を受け取らずに跳ね返す（refuse / reject）**」 ことです。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -49,7 +49,7 @@ order: 15
 
 ## 2. membantah（言説・批判に対して言葉で「反論する」）
 
-`membantah` は、相手の発言や主張、非難に対して **「言葉で反撃し、反論・反駁する（counter / refute / argue back）」** 動作です。子供が親に口答えする場面から、報道での公的声明まで広く使われます。
+`membantah` は、相手の発言や主張、非難に対して 「**言葉で反撃し、反論・反駁する（counter / refute / argue back）**」 動作です。子供が親に口答えする場面から、報道での公的声明まで広く使われます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -72,7 +72,7 @@ order: 15
 
 ## 3. menyangkal（疑惑・事実を「否認する・身に覚えがないと言う」）
 
-`menyangkal`（語根: *sangkal*）は、自身への嫌疑や歴史的事実、明白な真実に対して **「それは事実ではない、自分は関与していないと主張する（deny / disown）」** 動作です。
+`menyangkal`（語根: *sangkal*）は、自身への嫌疑や歴史的事実、明白な真実に対して 「**それは事実ではない、自分は関与していないと主張する（deny / disown）**」 動作です。
 
 検定試験では慣用成句 **`tidak dapat disangkal lagi bahwa...`（〜であることは紛れもない事実である／否定できない）** が極めて頻出します。
 
@@ -95,7 +95,7 @@ order: 15
 
 ## 4. membatalkan（成立している予定や契約を「取り消す・キャンセルする」）
 
-`membatalkan` は、一度決まっていた約束、航空便、予約、売買契約を **「無効（batal）にして白紙撤回する（cancel / revoke）」** ことです。
+`membatalkan` は、一度決まっていた約束、航空便、予約、売買契約を 「**無効（batal）にして白紙撤回する（cancel / revoke）**」 ことです。
 
 <div class="id-example">
 <div class="id-example-header">

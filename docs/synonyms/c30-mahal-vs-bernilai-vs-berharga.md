@@ -26,7 +26,7 @@ order: 30
 
 ## 1. mahal（金銭的な価格の高さ・割高感）
 
-`mahal`（対義語: *murah*「安い」）は、純粋に **「商品の定価やサービスの値段（harga）が高いこと（expensive / costly）」** を指します。
+`mahal`（対義語: *murah*「安い」）は、純粋に 「**商品の定価やサービスの値段（harga）が高いこと（expensive / costly）**」 を指します。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -48,7 +48,7 @@ order: 30
 
 ## 2. bernilai（客観的・市場的・学術的な「価値がある」）
 
-`bernilai`（語根: *nilai*＝数値、点数、価値、評価）は、**「客観的な鑑定評価額がある、あるいは歴史的・学術的に高い意義を持つ（valuable / worth）」** ことを表します。
+`bernilai`（語根: *nilai*＝数値、点数、価値、評価）は、「**客観的な鑑定評価額がある、あるいは歴史的・学術的に高い意義を持つ（valuable / worth）**」 ことを表します。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -71,7 +71,7 @@ order: 30
 
 ## 3. berharga（精神的・人生における「貴重な・尊い」）
 
-`berharga` は、語根 `harga`（価格）に `ber-` が付いた形ですが、金銭的な高価さだけでなく、**「命、時間、友情、教訓など、お金には代えられないほど尊く、かけがえのないこと（precious / priceless）」** を表現する感情豊かな言葉です。
+`berharga` は、語根 `harga`（価格）に `ber-` が付いた形ですが、金銭的な高価さだけでなく、「**命、時間、友情、教訓など、お金には代えられないほど尊く、かけがえのないこと（precious / priceless）**」 を表現する感情豊かな言葉です。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -94,7 +94,7 @@ order: 30
 
 ## 4. mewah（外見的な「豪華絢爛・贅沢・ハイグレード」）
 
-`mewah`（対義語: *sederhana*「素朴な・質素な」）は、**「設備や装飾がゴージャスで贅沢、華美を極めていること（luxurious / fancy）」** を指します。
+`mewah`（対義語: *sederhana*「素朴な・質素な」）は、「**設備や装飾がゴージャスで贅沢、華美を極めていること（luxurious / fancy）**」 を指します。
 
 <div class="id-example">
 <div class="id-example-header">

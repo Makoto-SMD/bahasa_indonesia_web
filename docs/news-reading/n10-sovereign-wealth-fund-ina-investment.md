@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Lembaga Pengelola Investasi (LPI) atau yang dikenal sebagai Indonesia Investment Authority (INA) berhasil mengamankan komitmen investasi strategis senilai miliaran dolar AS dari konsorsium investor global. Melalui skema dana bersama (*master fund*) dan kemitraan jangka panjang, dana kekayaan negara (*sovereign wealth fund*) ini terus mengakselerasi pembiayaan pada aset-aset infrastruktur kritis nasional.
-  </div>
-  <div class="id-translation">
-    投資管理局（LPI）、通称インドネシア投資公社（INA）は、グローバル投資家コンソーシアムから数十億米ドル規模の戦略的投資コミットメントを確保することに成功した。マスターファンド・スキームおよび長期パートナーシップを通じ、このソブリン・ウェルス・ファンド（国家富裕ファンド）は、国家の重要インフラ資産に対する資金供給を加速させ続けている。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Portofolio investasi INA mencakup akuisisi ruas jalan tol strategis di Pulau Jawa dan Sumatra dari BUMN karya, modernisasi terminal peti kemas maritim, hingga ekspansi pusat data (*data center*) dan menara telekomunikasi. Dewan Direktur INA menegaskan bahwa keberadaan SWF ini bukan hanya berfungsi sebagai penyedia modal ekuitas, melainkan juga membawa transfer keahlian operasional dan penerapan tata kelola berstandar internasional demi memaksimalkan imbal hasil yang berkelanjutan bagi bangsa.
-  </div>
-  <div class="id-translation">
-    INAの投資ポートフォリオは、国営ゼネコンからのジャワ島およびスマトラ島の戦略的有料道路区間の買収、海運コンテナターミナルの近代化、さらにはデータセンターや通信タワーの拡張にまで及んでいる。INA取締役会は、同SWFの存在は単なる資本（エクイティ）の供給者として機能するだけでなく、国家に対する持続可能な投資リターンを最大化するため、事業運営ノウハウの移転や国際基準のガバナンス適用をもたらすものであると強調した。
-  </div>
+Lembaga Pengelola Investasi (LPI) atau yang dikenal sebagai Indonesia Investment Authority (INA) berhasil mengamankan komitmen investasi strategis senilai miliaran dolar AS dari konsorsium investor global. Melalui skema dana bersama (*master fund*) dan kemitraan jangka panjang, dana kekayaan negara (*sovereign wealth fund*) ini terus mengakselerasi pembiayaan pada aset-aset infrastruktur kritis nasional.
+
+Portofolio investasi INA mencakup akuisisi ruas jalan tol strategis di Pulau Jawa dan Sumatra dari BUMN karya, modernisasi terminal peti kemas maritim, hingga ekspansi pusat data (*data center*) dan menara telekomunikasi. Dewan Direktur INA menegaskan bahwa keberadaan SWF ini bukan hanya berfungsi sebagai penyedia modal ekuitas, melainkan juga membawa transfer keahlian operasional dan penerapan tata kelola berstandar internasional demi memaksimalkan imbal hasil yang berkelanjutan bagi bangsa.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Ruas jalan tol** | 有料道路区間 | 高速道路の特定管理区間（トランス・ジャワ等） |
 | **Transfer keahlian** | ノウハウ（専門技術）の移転 | 外資との協業による運営技術の習得 |
 | **Imbal hasil (*return/yield*)** | リターン / 投資利回り | 投資によって得られる収益率・配当等 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+投資管理局（LPI）、通称インドネシア投資公社（INA）は、グローバル投資家コンソーシアムから数十億米ドル規模の戦略的投資コミットメントを確保することに成功した。マスターファンド・スキームおよび長期パートナーシップを通じ、このソブリン・ウェルス・ファンド（国家富裕ファンド）は、国家の重要インフラ資産に対する資金供給を加速させ続けている。
+
+INAの投資ポートフォリオは、国営ゼネコンからのジャワ島およびスマトラ島の戦略的有料道路区間の買収、海運コンテナターミナルの近代化、さらにはデータセンターや通信タワーの拡張にまで及んでいる。INA取締役会は、同SWFの存在は単なる資本（エクイティ）の供給者として機能するだけでなく、国家に対する持続可能な投資リターンを最大化するため、事業運営ノウハウの移転や国際基準のガバナンス適用をもたらすものであると強調した。
+
+</div>
 
 ---
 

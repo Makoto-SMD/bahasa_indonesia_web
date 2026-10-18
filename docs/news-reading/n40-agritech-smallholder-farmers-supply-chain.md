@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Inovasi teknologi pertanian dan perikanan (*agritech*) semakin membuktikan perannya sebagai motor penggerak ketahanan pangan dan kesejahteraan petani di Indonesia. Kehadiran berbagai platform digital berbasis rantai pasok rantai dingin (*cold chain*) dan kecerdasan buatan berhasil memotong rantai distribusi pangan yang selama ini terlalu panjang dan didominasi oleh tengkulak, sehingga memungkinkan petani hortikultura dan pembudidaya ikan air tawar menjual hasil panen mereka secara langsung ke pasar konsumen perkotaan dengan harga yang jauh lebih kompetitif.
-  </div>
-  <div class="id-translation">
-    農業および水産業テクノロジー（アグリテック）のイノベーションは、インドネシアにおける食料安全保障および農民の福祉を牽引するエンジンとしての役割を一段と証明している。コールドチェーン（低温流通網）および人工知能をベースとした多様なデジタルプラットフォームの登場は、これまで長すぎかつ中間仲買人（トゥンクラック）によって支配されてきた食料流通チェーンを断ち切ることに成功し、園芸農家や淡水魚養殖家が自らの収穫物を、はるかに競争力のある価格で都市部の消費者市場へ直接販売することを可能にしている。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Selain efisiensi logistik, adopsi teknologi internet untuk segala (*Internet of Things*/IoT) di sektor hulu, seperti alat pemberi pakan pintar otomatis (*smart autofeeder*) dan sensor pemantau kelembapan tanah presisi tinggi, terbukti meningkatkan efisiensi biaya operasional dan produktivitas panen hingga puluhan persen. Kementerian Pertanian terus mendukung kemitraan strategis antara korporasi *agritech* dengan bank-bank BUMN guna menyalurkan pembiayaan inklusif Kredit Usaha Rakyat (KUR) mikro bagi para petani gurem yang selama ini tidak memiliki akses ke perbankan formal (*unbanked*).
-  </div>
-  <div class="id-translation">
-    物流効率化に加えて、自動スマート給餌機や高精度土壌水分センサーといった上流セクターにおけるモノのインターネット（IoT）技術の採用は、運用のコスト効率および収穫生産性を数十パーセント向上させることが実証されている。農業省は、これまで正規の銀行サービスへのアクセスを持たなかった（アンバンクド層の）零細小作農に向けて、零細国民事業ローン（KUR）という包括的融資を提供するため、アグリテック企業と国営銀行との間の戦略的パートナーシップを引き続き支援している。
-  </div>
+Inovasi teknologi pertanian dan perikanan (*agritech*) semakin membuktikan perannya sebagai motor penggerak ketahanan pangan dan kesejahteraan petani di Indonesia. Kehadiran berbagai platform digital berbasis rantai pasok rantai dingin (*cold chain*) dan kecerdasan buatan berhasil memotong rantai distribusi pangan yang selama ini terlalu panjang dan didominasi oleh tengkulak, sehingga memungkinkan petani hortikultura dan pembudidaya ikan air tawar menjual hasil panen mereka secara langsung ke pasar konsumen perkotaan dengan harga yang jauh lebih kompetitif.
+
+Selain efisiensi logistik, adopsi teknologi internet untuk segala (*Internet of Things*/IoT) di sektor hulu, seperti alat pemberi pakan pintar otomatis (*smart autofeeder*) dan sensor pemantau kelembapan tanah presisi tinggi, terbukti meningkatkan efisiensi biaya operasional dan produktivitas panen hingga puluhan persen. Kementerian Pertanian terus mendukung kemitraan strategis antara korporasi *agritech* dengan bank-bank BUMN guna menyalurkan pembiayaan inklusif Kredit Usaha Rakyat (KUR) mikro bagi para petani gurem yang selama ini tidak memiliki akses ke perbankan formal (*unbanked*).
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Alat pemberi pakan pintar (*autofeeder*)** | 自動スマート給餌機 | eFisheryが開発した魚・エビ向けIoT自動餌やり機 |
 | **Kredit Usaha Rakyat (KUR)** | 国民事業ローン（低利公的融資） | 政府が利子補給を行う低所得事業者・農家向け融資 |
 | **Kelompok *unbanked*** | 銀行口座を持たない無銀行層 | 担保や信用履歴がなく金融機関を使えない層 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+農業および水産業テクノロジー（アグリテック）のイノベーションは、インドネシアにおける食料安全保障および農民の福祉を牽引するエンジンとしての役割を一段と証明している。コールドチェーン（低温流通網）および人工知能をベースとした多様なデジタルプラットフォームの登場は、これまで長すぎかつ中間仲買人（トゥンクラック）によって支配されてきた食料流通チェーンを断ち切ることに成功し、園芸農家や淡水魚養殖家が自らの収穫物を、はるかに競争力のある価格で都市部の消費者市場へ直接販売することを可能にしている。
+
+物流効率化に加えて、自動スマート給餌機や高精度土壌水分センサーといった上流セクターにおけるモノのインターネット（IoT）技術の採用は、運用のコスト効率および収穫生産性を数十パーセント向上させることが実証されている。農業省は、これまで正規の銀行サービスへのアクセスを持たなかった（アンバンクド層の）零細小作農に向けて、零細国民事業ローン（KUR）という包括的融資を提供するため、アグリテック企業と国営銀行との間の戦略的パートナーシップを引き続き支援している。
+
+</div>
 
 ---
 

@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    PT MRT Jakarta (Perseroda) terus mempercepat pengerjaan konstruksi fase 2A yang menghubungkan Bundaran HI hingga kawasan Kota Tua, meskipun menghadapi tantangan teknis kompleksitas struktur bawah tanah di cagar budaya Jakarta Pusat. Manajemen memastikan bahwa mesin bor terowongan bawah tanah (*tunnel boring machine*) telah berhasil menembus sejumlah stasiun bawah tanah dengan menerapkan standar keselamatan dan preservasi arkeologi yang ketat.
-  </div>
-  <div class="id-translation">
-    PT MRT Jakarta（地方公社）は、中央ジャカルタの文化財指定保護区における地下構造の複雑さという技術的課題に直面しながらも、ホテル・インドネシア前ロータリー（Bundaran HI）から旧市街（Kota Tua）地域を結ぶフェーズ2Aの建設工事を引き続き加速させている。経営陣は、厳格な安全基準と考古学的保存基準を適用しながら、シールドトンネル掘削機（TBM）が複数の地下駅区間の貫通に成功したことを確認した。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Di saat bersamaan, pemerintah pusat dan Pemerintah Provinsi DKI Jakarta telah memulai tahap awal pembangunan MRT koridor Timur-Barat (*East-West Line*) yang membentang sepanjang puluhan kilometer dari Cikarang di Jawa Barat hingga Balaraja di Banten. Proyek strategis bernilai ratusan triliun rupiah yang kembali didanai oleh konsorsium Badan Kerja Sama Internasional Jepang (JICA) dan mitra internasional ini diharapkan dapat mengurai kemacetan parah di koridor komuter antarprovinsi sekaligus mengurangi emisi karbon kendaraan pribadi di wilayah aglomerasi Jabodetabek.
-  </div>
-  <div class="id-translation">
-    これと同時に、中央政府およびジャカルタ首都特別州政府は、西ジャワ州チカランからバンテン州バララジャまで数十キロメートルにわたって伸びるMRT東西線（イースト・ウエスト・ライン）回廊の建設の初期段階を開始した。国際協力機構（JICA）コンソーシアムおよび国際パートナーによって再び資金拠出される総額数百兆ルピア規模のこの戦略的プロジェクトは、州をまたぐ通勤回廊における深刻な交通渋滞を解消すると同時に、首都圏（ジャボデタベック）広域都市圏における自家用車の炭素排出量を削減することが期待されている。
-  </div>
+PT MRT Jakarta (Perseroda) terus mempercepat pengerjaan konstruksi fase 2A yang menghubungkan Bundaran HI hingga kawasan Kota Tua, meskipun menghadapi tantangan teknis kompleksitas struktur bawah tanah di cagar budaya Jakarta Pusat. Manajemen memastikan bahwa mesin bor terowongan bawah tanah (*tunnel boring machine*) telah berhasil menembus sejumlah stasiun bawah tanah dengan menerapkan standar keselamatan dan preservasi arkeologi yang ketat.
+
+Di saat bersamaan, pemerintah pusat dan Pemerintah Provinsi DKI Jakarta telah memulai tahap awal pembangunan MRT koridor Timur-Barat (*East-West Line*) yang membentang sepanjang puluhan kilometer dari Cikarang di Jawa Barat hingga Balaraja di Banten. Proyek strategis bernilai ratusan triliun rupiah yang kembali didanai oleh konsorsium Badan Kerja Sama Internasional Jepang (JICA) dan mitra internasional ini diharapkan dapat mengurai kemacetan parah di koridor komuter antarprovinsi sekaligus mengurangi emisi karbon kendaraan pribadi di wilayah aglomerasi Jabodetabek.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Aglomerasi Jabodetabek** | ジャボデタベック広域都市圏 | ジャカルタ、ボゴール、デポック、タンゲラン、ブカシ |
 | **Mengurai kemacetan** | 渋滞を解消する / ほぐす | *urai*（ほどく・解きほぐす）から転じた都市問題用語 |
 | **Emisi karbon kendaraan pribadi** | 自家用車の炭素排出量 | 排気ガスと温室効果ガスの原因 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+PT MRT Jakarta（地方公社）は、中央ジャカルタの文化財指定保護区における地下構造の複雑さという技術的課題に直面しながらも、ホテル・インドネシア前ロータリー（Bundaran HI）から旧市街（Kota Tua）地域を結ぶフェーズ2Aの建設工事を引き続き加速させている。経営陣は、厳格な安全基準と考古学的保存基準を適用しながら、シールドトンネル掘削機（TBM）が複数の地下駅区間の貫通に成功したことを確認した。
+
+これと同時に、中央政府およびジャカルタ首都特別州政府は、西ジャワ州チカランからバンテン州バララジャまで数十キロメートルにわたって伸びるMRT東西線（イースト・ウエスト・ライン）回廊の建設の初期段階を開始した。国際協力機構（JICA）コンソーシアムおよび国際パートナーによって再び資金拠出される総額数百兆ルピア規模のこの戦略的プロジェクトは、州をまたぐ通勤回廊における深刻な交通渋滞を解消すると同時に、首都圏（ジャボデタベック）広域都市圏における自家用車の炭素排出量を削減することが期待されている。
+
+</div>
 
 ---
 

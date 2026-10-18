@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) terus memodernisasi sistem pemantauan gempa bumi dan peringatan dini tsunami nasional, Indonesia Tsunami Early Warning System (InaTEWS), guna memperkuat mitigasi bencana di sepanjang zona subduksi megathrust aktif. Terletak di pertemuan tiga lempeng tektonik utama dunia dan jalur Cincin Api Pasifik (*Pacific Ring of Fire*), Indonesia menghadapi ancaman konstan dari aktivitas seismik dahsyat yang menuntut kecepatan diseminasi informasi darurat dalam hitungan menit kepada masyarakat pesisir.
-  </div>
-  <div class="id-translation">
-    気象気候地球物理庁（BMKG）は、活動的なメガスラスト沈み込み帯沿いにおける防災・減災を強化するため、国家地震監視・津波早期警報システム「InaTEWS」の近代化を引き続き推進している。世界の主要な3つのテクトニックプレートの合流点および環太平洋火山帯（パシフィック・リング・オブ・ファイア）に位置するインドネシアは、沿岸住民に対して数分以内の緊急情報伝達速度を要求する激しい地震活動の絶え間ない脅威に直面している。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kepala BMKG menjelaskan bahwa pembaruan sistem InaTEWS kini memanfaatkan algoritma kecerdasan buatan dan pemodelan matematis berbasis komputasi kinerja tinggi (*High-Performance Computing*) untuk memprediksi ketinggian gelombang tsunami dan waktu tiba (*estimated time of arrival*) secara otomatis dalam waktu kurang dari tiga menit pascagempa. Namun demikian, keberhasilan mitigasi struktural tersebut harus diimbangi dengan mitigasi non-struktural melalui edukasi evakuasi mandiri berbasis kearifan lokal seperti tradisi *Smong* di Simeulue, pembentukan Desa Tangguh Bencana (Destana), serta sertifikasi kesiapsiagaan tsunami komunitas pesisir berstandar UNESCO-IOC (*Tsunami Ready Community*).
-  </div>
-  <div class="id-translation">
-    BMKG長官は、InaTEWSシステムの刷新が現在、地震発生後3分未満で津波の波高および到達予想時刻（ETA）を自動予測するため、人工知能アルゴリズムおよびハイパフォーマンス・コンピューティング（HPC）に基づく数学的モデリングを活用していると説明した。しかしながら、この構造的減災の成功は、シムル島の「スモン（Smong）」伝承のような地域の伝統的知恵に基づく自力避難教育、防災レジリエンス村落（Destana）の形成、ならびにユネスコ政府間海洋学委員会基準の沿岸コミュニティ津波即応認定（ツナミ・レディ・コミュニティ）を通じた非構造的減災とバランスよく連動しなければならない。
-  </div>
+Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) terus memodernisasi sistem pemantauan gempa bumi dan peringatan dini tsunami nasional, Indonesia Tsunami Early Warning System (InaTEWS), guna memperkuat mitigasi bencana di sepanjang zona subduksi megathrust aktif. Terletak di pertemuan tiga lempeng tektonik utama dunia dan jalur Cincin Api Pasifik (*Pacific Ring of Fire*), Indonesia menghadapi ancaman konstan dari aktivitas seismik dahsyat yang menuntut kecepatan diseminasi informasi darurat dalam hitungan menit kepada masyarakat pesisir.
+
+Kepala BMKG menjelaskan bahwa pembaruan sistem InaTEWS kini memanfaatkan algoritma kecerdasan buatan dan pemodelan matematis berbasis komputasi kinerja tinggi (*High-Performance Computing*) untuk memprediksi ketinggian gelombang tsunami dan waktu tiba (*estimated time of arrival*) secara otomatis dalam waktu kurang dari tiga menit pascagempa. Namun demikian, keberhasilan mitigasi struktural tersebut harus diimbangi dengan mitigasi non-struktural melalui edukasi evakuasi mandiri berbasis kearifan lokal seperti tradisi *Smong* di Simeulue, pembentukan Desa Tangguh Bencana (Destana), serta sertifikasi kesiapsiagaan tsunami komunitas pesisir berstandar UNESCO-IOC (*Tsunami Ready Community*).
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Tradisi *Smong*** | スモンの伝承 | アチェ・シムル島で1907年以来「潮が引いたら山へ逃げろ」と語り継がれる知恵 |
 | **Desa Tangguh Bencana (Destana)** | 防災レジリエンス村落 | 住民自らが避難計画と自主防災組織を構築した村 |
 | **Tsunami Ready Community** | ユネスコ津波即応認定コミュニティ | 避難訓練や標識整備の国際基準を満たした地域 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+気象気候地球物理庁（BMKG）は、活動的なメガスラスト沈み込み帯沿いにおける防災・減災を強化するため、国家地震監視・津波早期警報システム「InaTEWS」の近代化を引き続き推進している。世界の主要な3つのテクトニックプレートの合流点および環太平洋火山帯（パシフィック・リング・オブ・ファイア）に位置するインドネシアは、沿岸住民に対して数分以内の緊急情報伝達速度を要求する激しい地震活動の絶え間ない脅威に直面している。
+
+BMKG長官は、InaTEWSシステムの刷新が現在、地震発生後3分未満で津波の波高および到達予想時刻（ETA）を自動予測するため、人工知能アルゴリズムおよびハイパフォーマンス・コンピューティング（HPC）に基づく数学的モデリングを活用していると説明した。しかしながら、この構造的減災の成功は、シムル島の「スモン（Smong）」伝承のような地域の伝統的知恵に基づく自力避難教育、防災レジリエンス村落（Destana）の形成、ならびにユネスコ政府間海洋学委員会基準の沿岸コミュニティ津波即応認定（ツナミ・レディ・コミュニティ）を通じた非構造的減災とバランスよく連動しなければならない。
+
+</div>
 
 ---
 

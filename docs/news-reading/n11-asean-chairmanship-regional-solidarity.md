@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Sebagai salah satu negara pendiri dan kekuatan ekonomi terbesar di kawasan, Indonesia terus menegaskan sentralitas ASEAN dalam menjaga perdamaian, stabilitas, dan kemakmuran regional di tengah meningkatnya rivalitas geopolitik antara kekuatan-kekuatan besar dunia. Dalam Konferensi Tingkat Tinggi (KTT) ASEAN, Menteri Luar Negeri Republik Indonesia menyerukan agar blok kawasan ini tidak menjadi proksi bagi kekuatan mana pun.
-  </div>
-  <div class="id-translation">
-    地域の創立メンバー国であり最大の経済大国として、インドネシアは世界の主要大国間の地政学的対立が高まる中で、地域の平和、安定、繁栄を維持する上での「ASEAN中心性（ASEAN Centrality）」を引き続き強調している。ASEAN首脳会議（KTT）において、インドネシア共和国外務大臣は、この地域同盟がいかなる大国の代理（プロキシ）ともならないよう呼びかけた。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Terkait penanganan krisis di Myanmar, Indonesia secara konsisten mendorong implementasi Konsensus Lima Poin (*Five-Point Consensus*) yang telah disepakati oleh para pemimpin ASEAN. Melalui diplomasi senyap (*quiet diplomacy*) dan keterlibatan non-diskriminatif dengan seluruh pemangku kepentingan (*stakeholders*), Jakarta terus mengupayakan penyaluran bantuan kemanusiaan serta pembukaan ruang dialog inklusif demi tercapainya solusi politik yang damai dan berkelanjutan.
-  </div>
-  <div class="id-translation">
-    ミャンマー危機の対応に関連して、インドネシアはASEAN首脳らによって合意された「5項目の合意（Five-Point Consensus）」の履行を一貫して推進している。水面下の静かな外交（クワイエット・ディプロマシー）やすべての利害関係者（ステークホルダー）との無差別な対話関与を通じて、ジャカルタは人道支援の提供および、平和的で持続可能な政治的解決の達成に向けた包括的対話の場を開く努力を続けている。
-  </div>
+Sebagai salah satu negara pendiri dan kekuatan ekonomi terbesar di kawasan, Indonesia terus menegaskan sentralitas ASEAN dalam menjaga perdamaian, stabilitas, dan kemakmuran regional di tengah meningkatnya rivalitas geopolitik antara kekuatan-kekuatan besar dunia. Dalam Konferensi Tingkat Tinggi (KTT) ASEAN, Menteri Luar Negeri Republik Indonesia menyerukan agar blok kawasan ini tidak menjadi proksi bagi kekuatan mana pun.
+
+Terkait penanganan krisis di Myanmar, Indonesia secara konsisten mendorong implementasi Konsensus Lima Poin (*Five-Point Consensus*) yang telah disepakati oleh para pemimpin ASEAN. Melalui diplomasi senyap (*quiet diplomacy*) dan keterlibatan non-diskriminatif dengan seluruh pemangku kepentingan (*stakeholders*), Jakarta terus mengupayakan penyaluran bantuan kemanusiaan serta pembukaan ruang dialog inklusif demi tercapainya solusi politik yang damai dan berkelanjutan.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Diplomasi senyap** | 静かな外交（水面下交渉） | メディア露出を抑え当事者間の実務的妥協を図る手法 |
 | **Pemangku kepentingan (*stakeholders*)** | 利害関係者 | 政策や和平合意に関与する諸アクター |
 | **Dialog inklusif** | 包括的な対話 | 特定勢力を排除せず全当事者を巻き込む対話 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+地域の創立メンバー国であり最大の経済大国として、インドネシアは世界の主要大国間の地政学的対立が高まる中で、地域の平和、安定、繁栄を維持する上での「ASEAN中心性（ASEAN Centrality）」を引き続き強調している。ASEAN首脳会議（KTT）において、インドネシア共和国外務大臣は、この地域同盟がいかなる大国の代理（プロキシ）ともならないよう呼びかけた。
+
+ミャンマー危機の対応に関連して、インドネシアはASEAN首脳らによって合意された「5項目の合意（Five-Point Consensus）」の履行を一貫して推進している。水面下の静かな外交（クワイエット・ディプロマシー）やすべての利害関係者（ステークホルダー）との無差別な対話関与を通じて、ジャカルタは人道支援の提供および、平和的で持続可能な政治的解決の達成に向けた包括的対話の場を開く努力を続けている。
+
+</div>
 
 ---
 

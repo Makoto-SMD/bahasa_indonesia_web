@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Ribuan buruh dari berbagai konfederasi serikat pekerja menggelar aksi unjuk rasa di depan gedung kementerian ketenagakerjaan dan kantor gubernur di sejumlah daerah industri. Mereka menuntut kenaikan Upah Minimum Provinsi (UMP) dan Upah Minimum Kabupaten/Kota (UMK) sebesar delapan hingga sepuluh persen untuk tahun depan, guna mengimbangi lonjakan harga kebutuhan pokok dan daya beli yang kian tergerus.
-  </div>
-  <div class="id-translation">
-    多様な労働組合総連盟に所属する数千人の労働者が、労働省庁舎前および複数の工業地域の州知事オフィス前で抗議デモ集会を開催した。彼らは、基本必需品の高騰と一段と削り取られた購買力を補うため、来年度の州最低賃金（UMP）および県・市最低賃金（UMK）の8〜10パーセント引き上げを要求している。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Di sisi lain, kalangan pengusaha yang tergabung dalam Asosiasi Pengusaha Indonesia (APINDO) menegaskan bahwa penetapan upah minimum harus mengacu secara ketat pada formula Peraturan Pemerintah tentang Pengupahan yang diturunkan dari Undang-Undang Cipta Kerja. Pengusaha memperingatkan bahwa kenaikan upah yang melebihi batas kemampuan industri padat karya berisiko memicu gelombang pemutusan hubungan kerja (PHK) serta menurunkan daya saing investasi nasional.
-  </div>
-  <div class="id-translation">
-    他方で、インドネシア経営者協会（APINDO）に所属する経済界・経営者層は、最低賃金の策定は雇用創出法に基づく賃金に関する政府規則（PP）の計算式に厳格に準拠しなければならないと主張している。経営者側は、労働集約型産業の負担能力の限界を超える賃上げは、大量解雇（PHK）の波を誘発し、国家の投資競争力を低下させるリスクがあると警告している。
-  </div>
+Ribuan buruh dari berbagai konfederasi serikat pekerja menggelar aksi unjuk rasa di depan gedung kementerian ketenagakerjaan dan kantor gubernur di sejumlah daerah industri. Mereka menuntut kenaikan Upah Minimum Provinsi (UMP) dan Upah Minimum Kabupaten/Kota (UMK) sebesar delapan hingga sepuluh persen untuk tahun depan, guna mengimbangi lonjakan harga kebutuhan pokok dan daya beli yang kian tergerus.
+
+Di sisi lain, kalangan pengusaha yang tergabung dalam Asosiasi Pengusaha Indonesia (APINDO) menegaskan bahwa penetapan upah minimum harus mengacu secara ketat pada formula Peraturan Pemerintah tentang Pengupahan yang diturunkan dari Undang-Undang Cipta Kerja. Pengusaha memperingatkan bahwa kenaikan upah yang melebihi batas kemampuan industri padat karya berisiko memicu gelombang pemutusan hubungan kerja (PHK) serta menurunkan daya saing investasi nasional.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Asosiasi Pengusaha Indonesia (APINDO)** | インドネシア経営者協会 | 労使協議（三者協議）における使用者側の代表組織 |
 | **Industri padat karya** | 労働集約型産業 | 縫製（*tekstil/garmen*）や履物（*alas kaki*）など雇用規模の大きい産業 |
 | **Gelombang PHK** | 解雇（リストラ）の波 | 工場閉鎖や減産に伴う人員整理の急増 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+多様な労働組合総連盟に所属する数千人の労働者が、労働省庁舎前および複数の工業地域の州知事オフィス前で抗議デモ集会を開催した。彼らは、基本必需品の高騰と一段と削り取られた購買力を補うため、来年度の州最低賃金（UMP）および県・市最低賃金（UMK）の8〜10パーセント引き上げを要求している。
+
+他方で、インドネシア経営者協会（APINDO）に所属する経済界・経営者層は、最低賃金の策定は雇用創出法に基づく賃金に関する政府規則（PP）の計算式に厳格に準拠しなければならないと主張している。経営者側は、労働集約型産業の負担能力の限界を超える賃上げは、大量解雇（PHK）の波を誘発し、国家の投資競争力を低下させるリスクがあると警告している。
+
+</div>
 
 ---
 

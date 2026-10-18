@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kebijakan hilirisasi nikel yang dicanangkan pemerintah Indonesia dinilai berhasil mendongkrak nilai tambah ekspor secara signifikan. Dengan melarang ekspor bijih nikel mentah dan mewajibkan pembangunan fasilitas pemurnian (*smelter*) di dalam negeri, ekspor produk turunan nikel seperti feronikel dan *nickel pig iron* mencatatkan lonjakan devisa negara hingga puluhan kali lipat.
-  </div>
-  <div class="id-translation">
-    インドネシア政府が打ち出したニッケル下流化（ヒリルサシ）政策は、輸出の付加価値を大幅に押し上げることに成功したと評価されている。未加工のニッケル原鉱の輸出を禁止し、国内での製錬所（スメルター）建設を義務付けたことで、フェロニッケルやニッケル銑鉄（NPI）などのニッケル派生製品の輸出は、国家の外貨獲得額を数十倍へと急増させた。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Meski demikian, tantangan transisi energi ramah lingkungan masih membayangi industri pengolahan mineral ini. Ketergantungan *smelter* terhadap pasokan listrik dari pembangkit listrik tenaga uap (PLTU) batu bara memicu sorotan global mengenai aspek keberlanjutan. Pemerintah kini mendorong adopsi teknologi hidrometalurgi High Pressure Acid Leach (HPAL) yang lebih efisien untuk memproduksi bahan baku baterai kendaraan listrik.
-  </div>
-  <div class="id-translation">
-    しかしながら、環境に優しいエネルギー移行の課題が、依然としてこの鉱物加工産業に影を落としている。製錬所が石炭火力発電所（PLTU）からの電力供給に依存していることが、持続可能性の側面に関して世界的な注目・批判を招いている。政府は現在、電気自動車用バッテリーの原料を生産するため、より効率的な高圧酸浸出（HPAL）湿式製錬技術の採用を推進している。
-  </div>
+Kebijakan hilirisasi nikel yang dicanangkan pemerintah Indonesia dinilai berhasil mendongkrak nilai tambah ekspor secara signifikan. Dengan melarang ekspor bijih nikel mentah dan mewajibkan pembangunan fasilitas pemurnian (*smelter*) di dalam negeri, ekspor produk turunan nikel seperti feronikel dan *nickel pig iron* mencatatkan lonjakan devisa negara hingga puluhan kali lipat.
+
+Meski demikian, tantangan transisi energi ramah lingkungan masih membayangi industri pengolahan mineral ini. Ketergantungan *smelter* terhadap pasokan listrik dari pembangkit listrik tenaga uap (PLTU) batu bara memicu sorotan global mengenai aspek keberlanjutan. Pemerintah kini mendorong adopsi teknologi hidrometalurgi High Pressure Acid Leach (HPAL) yang lebih efisien untuk memproduksi bahan baku baterai kendaraan listrik.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Pembangkit Listrik Tenaga Uap (PLTU)** | 石炭火力発電所 | インドネシアの産業用自家発電（Captive Power）の主流 |
 | **Teknologi HPAL** | HPAL技術（高圧酸浸出法） | 低品位ニッケル（リモナイト）からMHP（EV電池原料）を抽出する技術 |
 | **Bahan baku baterai** | バッテリー原材料 | リチウムイオン電池に必要な正極材原料など |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア政府が打ち出したニッケル下流化（ヒリルサシ）政策は、輸出の付加価値を大幅に押し上げることに成功したと評価されている。未加工のニッケル原鉱の輸出を禁止し、国内での製錬所（スメルター）建設を義務付けたことで、フェロニッケルやニッケル銑鉄（NPI）などのニッケル派生製品の輸出は、国家の外貨獲得額を数十倍へと急増させた。
+
+しかしながら、環境に優しいエネルギー移行の課題が、依然としてこの鉱物加工産業に影を落としている。製錬所が石炭火力発電所（PLTU）からの電力供給に依存していることが、持続可能性の側面に関して世界的な注目・批判を招いている。政府は現在、電気自動車用バッテリーの原料を生産するため、より効率的な高圧酸浸出（HPAL）湿式製錬技術の採用を推進している。
+
+</div>
 
 ---
 

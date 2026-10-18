@@ -4,7 +4,7 @@
 
 四半期・年度末の決算期において、監査人（Auditor Eksternal）は実査・立会（Stock Opname / Cash Count）、取引残高確認書（Konfirmasi Piutang/Utang/Bank）、経営者確認書（Surat Representasi Manajemen）、および監査証拠（Bukti Audit）の提出を要求します。
 
-目標は、財務諸表が適正に表示されていることを証明する**「無限定適正意見（Opini Wajar Tanpa Pengecualian - WTP / Unqualified Opinion）」**を獲得することです。本記事では、監査スケジュール（Interim & Year-End Audit）、PBCリスト（Provided by Client）、監査修正仕訳（Management Letter / Adjustment Entry）に関する実務インドネシア語を体系的に解説します。
+目標は、財務諸表が適正に表示されていることを証明する「**無限定適正意見（Opini Wajar Tanpa Pengecualian - WTP / Unqualified Opinion）**」を獲得することです。本記事では、監査スケジュール（Interim & Year-End Audit）、PBCリスト（Provided by Client）、監査修正仕訳（Management Letter / Adjustment Entry）に関する実務インドネシア語を体系的に解説します。
 
 ---
 

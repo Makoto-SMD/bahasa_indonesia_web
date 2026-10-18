@@ -71,7 +71,7 @@
 
 > [!IMPORTANT]
 > **BMKGアプリと「Info BMKG」の常備**:
-> インドネシアの地震情報や津波警報、気象予報は、公式機関である気象気候地球物理庁（BMKG）の公式アプリ**「Info BMKG」**や公式X（旧Twitter: @infoBMKG）が最も迅速かつ正確です。
+> インドネシアの地震情報や津波警報、気象予報は、公式機関である気象気候地球物理庁（BMKG）の公式アプリ「**Info BMKG**」や公式X（旧Twitter: @infoBMKG）が最も迅速かつ正確です。
 > 大きな揺れを感じた際は、デマやフェイクニュース（hoaks）に惑わされず、直ちにアプリを開いて震源地（pusat gempa）、深さ（kedalaman）、津波警報の有無（tidak berpotensi tsunami / berpotensi tsunami）を1分以内に確認する習慣を身につけましょう。
 
 ---

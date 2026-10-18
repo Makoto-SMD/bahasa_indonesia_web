@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Fenomena musim dingin industri teknologi (*Tech Winter*) masih terus membayangi ekosistem *startup* di Indonesia dan kawasan Asia Tenggara. Kenaikan suku bunga acuan global serta pengetatan likuiditas oleh pemodal ventura (*venture capital*) memaksa jajaran manajemen perusahaan rintisan untuk mengakhiri era bakar uang (*burn rate*) yang selama ini diandalkan demi mendongkrak pangsa pasar dan pertumbuhan pengguna secara agresif.
-  </div>
-  <div class="id-translation">
-    テクノロジー産業の冬の時代（テック・ウィンター）という現象が、インドネシアおよび東南アジア地域のスタートアップエコシステムに依然として影を落とし続けている。世界的な政策金利の上昇およびベンチャーキャピタル（VC）投資家による流動性の引き締まりは、市場シェアとユーザー数の急成長を押し上げるためにこれまで依存されてきた「資金燃焼（キャッシュバーン / bakar uang）」の時代を終わらせることを、新興企業（スタートアップ）の経営陣に迫っている。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Demi mempertahankan kelangsungan hidup (*runway*) perusahaan, sejumlah entitas *startup* terkemuka, mulai dari sektor teknologi finansial, e-commerce, hingga logistik, mengambil keputusan sulit untuk melakukan efisiensi operasional menyeluruh dan perampingan karyawan (*layoff*/PHK). Asosiasi Modal Ventura untuk Startup Indonesia (AMVESINDO) mencatat bahwa arah valuasi investor kini bergeser secara fundamental dari metrik pertumbuhan semu (*Gross Merchandise Value*/GMV) menuju jalur profitabilitas nyata (*positive adjusted EBITDA*) dan penciptaan arus kas operasional yang berkelanjutan.
-  </div>
-  <div class="id-translation">
-    企業の事業継続期間（ランウェイ）を維持するため、金融テクノロジー、Eコマース、物流セクターに至る複数の有力スタートアップ企業が、包括的な業務効率化と人員削減（レイオフ / PHK）を実施するという困難な決断を下した。インドネシア・スタートアップ・ベンチャーキャピタル協会（AMVESINDO）は、投資家の評価指標（バリュエーション）の方向性が、見かけの成長指標（流通取引総額 / GMV）から、真の黒字化路線（調整後EBITDAの黒字化）および持続可能な営業キャッシュフローの創出へと根本的にシフトしたと指摘している。
-  </div>
+Fenomena musim dingin industri teknologi (*Tech Winter*) masih terus membayangi ekosistem *startup* di Indonesia dan kawasan Asia Tenggara. Kenaikan suku bunga acuan global serta pengetatan likuiditas oleh pemodal ventura (*venture capital*) memaksa jajaran manajemen perusahaan rintisan untuk mengakhiri era bakar uang (*burn rate*) yang selama ini diandalkan demi mendongkrak pangsa pasar dan pertumbuhan pengguna secara agresif.
+
+Demi mempertahankan kelangsungan hidup (*runway*) perusahaan, sejumlah entitas *startup* terkemuka, mulai dari sektor teknologi finansial, e-commerce, hingga logistik, mengambil keputusan sulit untuk melakukan efisiensi operasional menyeluruh dan perampingan karyawan (*layoff*/PHK). Asosiasi Modal Ventura untuk Startup Indonesia (AMVESINDO) mencatat bahwa arah valuasi investor kini bergeser secara fundamental dari metrik pertumbuhan semu (*Gross Merchandise Value*/GMV) menuju jalur profitabilitas nyata (*positive adjusted EBITDA*) dan penciptaan arus kas operasional yang berkelanjutan.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Perampingan karyawan (*layoff*)** | 人員削減 / レイオフ | 組織のスリム化（ramping = スリムな・引き締まった） |
 | **Gross Merchandise Value (GMV)** | 流通取引総額 | プラットフォーム上で取引された商品・サービスの総額 |
 | **Kelangsungan hidup (*runway*)** | 手元資金残存期間（ランウェイ） | 追加調達なしに会社が生き残れる月数 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+テクノロジー産業の冬の時代（テック・ウィンター）という現象が、インドネシアおよび東南アジア地域のスタートアップエコシステムに依然として影を落とし続けている。世界的な政策金利の上昇およびベンチャーキャピタル（VC）投資家による流動性の引き締まりは、市場シェアとユーザー数の急成長を押し上げるためにこれまで依存されてきた「資金燃焼（キャッシュバーン / bakar uang）」の時代を終わらせることを、新興企業（スタートアップ）の経営陣に迫っている。
+
+企業の事業継続期間（ランウェイ）を維持するため、金融テクノロジー、Eコマース、物流セクターに至る複数の有力スタートアップ企業が、包括的な業務効率化と人員削減（レイオフ / PHK）を実施するという困難な決断を下した。インドネシア・スタートアップ・ベンチャーキャピタル協会（AMVESINDO）は、投資家の評価指標（バリュエーション）の方向性が、見かけの成長指標（流通取引総額 / GMV）から、真の黒字化路線（調整後EBITDAの黒字化）および持続可能な営業キャッシュフローの創出へと根本的にシフトしたと指摘している。
+
+</div>
 
 ---
 

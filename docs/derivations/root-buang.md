@@ -6,16 +6,16 @@
 
 ## 1. 語根 buang からの派生語ファミリー
 
-```mermaid
-graph TD
-    B["語根: buang（捨てる、投げ出す）"]
-    B --> M["membuang（他動詞: 捨てる、廃棄する、無駄にする）"]
-    B --> T["terbuang（受動/偶発動詞: 捨てられた、無駄になった）"]
-    B --> P["pembuangan（名詞: ゴミ処理場、排出口、追放、流刑地）"]
-    B --> BS["buang sampah（生活表現: ゴミを捨てる）"]
-    B --> BW["buang-buang waktu（慣用表現: 時間の無駄遣いをする）"]
-    B --> BA["buang air（生理表現: 用を足す / buang air besar＝大便, buang air kecil＝小便）"]
-```
+語根 **buang**（意味: 捨てる、投げ出す）から派生する主要な単語一覧です。
+
+| 派生語 | 品詞・分類 | 主な日本語の意味・ニュアンス |
+| :--- | :--- | :--- |
+| **membuang** | 他動詞 | 捨てる、廃棄する、無駄にする |
+| **terbuang** | 受動/偶発動詞 | 捨てられた、無駄になった |
+| **pembuangan** | 名詞 | ゴミ処理場、排出口、追放、流刑地 |
+| **buang sampah** | 生活表現 | ゴミを捨てる |
+| **buang-buang waktu** | 慣用表現 | 時間の無駄遣いをする |
+| **buang air** | 生理表現 | 用を足す / buang air besar＝大便, buang air kecil＝小便 |
 
 ---
 

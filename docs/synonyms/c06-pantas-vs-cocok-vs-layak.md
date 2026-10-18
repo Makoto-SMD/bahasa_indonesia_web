@@ -25,7 +25,7 @@ order: 6
 
 ## 1. cocok（適合・相性・似合う）
 
-`cocok` の中核義は **「AとBの2つの要素がぴったり調和・一致すること（match / fit / suitable）」** です。主観的・感覚的な相性の良さに最も広く使われます。
+`cocok` の中核義は 「**AとBの2つの要素がぴったり調和・一致すること（match / fit / suitable）**」 です。主観的・感覚的な相性の良さに最も広く使われます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -48,7 +48,7 @@ order: 6
 
 ## 2. pantas（道徳的妥当・相応しい・当然だ）
 
-`pantas` の中核義は **「社会規範、倫理、努力、身分に照らして道理にかなっていること（proper / worthy / appropriate）」** です。
+`pantas` の中核義は 「**社会規範、倫理、努力、身分に照らして道理にかなっていること（proper / worthy / appropriate）**」 です。
 
 ### (1) 「〜にふさわしい・値する」
 - **Dengan kerja kerasnya selama bertahun-tahun, dia pantas menjadi direktur.**<br>
@@ -65,7 +65,7 @@ order: 6
 
 ## 3. layak（客観的基準・公的適格・人道的水準）
 
-`layak` の中核義は **「公的規格、安全基準、人権、あるいは法定基準を満たして適格であること（eligible / decent / qualified）」** です。公式な政策や法律、基準判定で多用されます。
+`layak` の中核義は 「**公的規格、安全基準、人権、あるいは法定基準を満たして適格であること（eligible / decent / qualified）**」 です。公式な政策や法律、基準判定で多用されます。
 
 <div class="id-example">
 <div class="id-example-header">

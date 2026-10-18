@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Pemerintah pusat terus memperkuat komitmen percepatan pembangunan kesejahteraan dan keadilan sosial di Tanah Papua melalui implementasi Undang-Undang Otonomi Khusus (Otsus) Jilid II. Pembentukan empat Daerah Otonomi Baru (DOB), yaitu Provinsi Papua Selatan, Papua Tengah, Papua Pegunungan, dan Papua Barat Daya, dirancang untuk mendekatkan rentang kendali pelayanan publik, memperbaiki akses kesehatan dan pendidikan, serta mempercepat pengentasan kemiskinan di wilayah pedalaman.
-  </div>
-  <div class="id-translation">
-    中央政府は、第2期パプア特別自治（オツス）法の履行を通じて、パプアの地における福祉の加速と社会的正義の実現に向けたコミットメントを引き続き強化している。南パプア州、中部パプア州、高地パプア州、南西パプア州という4つの新設自治地域（DOB）の設立は、公共サービスの統括範囲（スパン・オブ・コントロール）を住民に近づけ、医療および教育へのアクセスを改善し、内陸・山岳地域における貧困撲滅を加速させるよう設計された。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Di samping percepatan pembangunan infrastruktur fisik seperti Jalan Trans-Papua, stabilitas keamanan tetap menjadi tantangan krusial. Panglima TNI dan Kepala Kepolisian RI (Kapolri) menegaskan pendekatan terpadu yang memadukan operasi penegakan hukum terhadap kelompok kriminal bersenjata (KKB) dengan pendekatan humanis (*soft approach*) melalui program pembinaan teritorial, pelibatan tokoh adat, dan dialog damai demi melindungi keselamatan warga sipil dan aparat di garis depan.
-  </div>
-  <div class="id-translation">
-    トランス・パプア幹線道路などの物理的インフラ整備の加速に加えて、治安の安定は依然として極めて重要な課題である。国軍司令官および国家警察長官（Kapolri）は、武装犯罪集団（KKB）に対する法執行作戦と、前線の一般市民および公務員の安全を守るための領土育成プログラム、伝統的先住民族指導者（トコー・アダット）の関与、平和的対話を通じた人道的アプローチ（ソフト・アプローチ）を統合させた包括的方針を強調した。
-  </div>
+Pemerintah pusat terus memperkuat komitmen percepatan pembangunan kesejahteraan dan keadilan sosial di Tanah Papua melalui implementasi Undang-Undang Otonomi Khusus (Otsus) Jilid II. Pembentukan empat Daerah Otonomi Baru (DOB), yaitu Provinsi Papua Selatan, Papua Tengah, Papua Pegunungan, dan Papua Barat Daya, dirancang untuk mendekatkan rentang kendali pelayanan publik, memperbaiki akses kesehatan dan pendidikan, serta mempercepat pengentasan kemiskinan di wilayah pedalaman.
+
+Di samping percepatan pembangunan infrastruktur fisik seperti Jalan Trans-Papua, stabilitas keamanan tetap menjadi tantangan krusial. Panglima TNI dan Kepala Kepolisian RI (Kapolri) menegaskan pendekatan terpadu yang memadukan operasi penegakan hukum terhadap kelompok kriminal bersenjata (KKB) dengan pendekatan humanis (*soft approach*) melalui program pembinaan teritorial, pelibatan tokoh adat, dan dialog damai demi melindungi keselamatan warga sipil dan aparat di garis depan.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Kelompok Kriminal Bersenjata (KKB)** | 武装犯罪集団 | 分離独立派武装勢力（OPM/TPNPB）を指す政府公式用語 |
 | **Pendekatan humanis (*soft approach*)** | 人道主義的・ソフトなアプローチ | 軍事力一辺倒ではなく住民との信頼構築を重視する手法 |
 | **Tokoh adat** | 慣習法指導者 / 伝統的長老 | パプア社会において絶大な社会的影響力を持つ有力者 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+中央政府は、第2期パプア特別自治（オツス）法の履行を通じて、パプアの地における福祉の加速と社会的正義の実現に向けたコミットメントを引き続き強化している。南パプア州、中部パプア州、高地パプア州、南西パプア州という4つの新設自治地域（DOB）の設立は、公共サービスの統括範囲（スパン・オブ・コントロール）を住民に近づけ、医療および教育へのアクセスを改善し、内陸・山岳地域における貧困撲滅を加速させるよう設計された。
+
+トランス・パプア幹線道路などの物理的インフラ整備の加速に加えて、治安の安定は依然として極めて重要な課題である。国軍司令官および国家警察長官（Kapolri）は、武装犯罪集団（KKB）に対する法執行作戦と、前線の一般市民および公務員の安全を守るための領土育成プログラム、伝統的先住民族指導者（トコー・アダット）の関与、平和的対話を通じた人道的アプローチ（ソフト・アプローチ）を統合させた包括的方針を強調した。
+
+</div>
 
 ---
 

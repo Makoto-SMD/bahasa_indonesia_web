@@ -17,10 +17,10 @@ order: 39
 
 | 単語 | 知覚の器官・次元 | ニュアンスと意味範囲 | 日本語の対応 | 代表例 |
 | :--- | :--- | :--- | :--- | :--- |
-| **rasa** | **【舌の味覚・身体感覚・直感】** | 甘辛などの味、肌感覚、〜の気がする | 味・感覚・気がする・気味 | *rasa manis*, *rasa sakit*, *rasanya...* |
-| **perasaan** | **【心の内面・感情・心情】** | 喜怒哀楽、予感、相手を思いやる気持ち | 感情・気持ち・フィーリング・胸中 | *perasaan sedih*, *menjaga perasaan* |
-| **cita rasa** | **【料理の風味・グルメの洗練度】** | 香り・コク・食文化的な深みとテイスト | 風味・味わい・美味・テイスト | *cita rasa khas*, *memanjakan cita rasa* |
-| **hawa** | **【大気の温度・気配・空気感】** | 気候の寒暖、空間の不気味さ、情欲 | 気配・空気感・熱気/冷気・情欲 | *hawa dingin*, *hawa panas*, *hawa nafsu* |
+| **rasa** | 【**舌の味覚・身体感覚・直感**】 | 甘辛などの味、肌感覚、〜の気がする | 味・感覚・気がする・気味 | *rasa manis*, *rasa sakit*, *rasanya...* |
+| **perasaan** | 【**心の内面・感情・心情**】 | 喜怒哀楽、予感、相手を思いやる気持ち | 感情・気持ち・フィーリング・胸中 | *perasaan sedih*, *menjaga perasaan* |
+| **cita rasa** | 【**料理の風味・グルメの洗練度**】 | 香り・コク・食文化的な深みとテイスト | 風味・味わい・美味・テイスト | *cita rasa khas*, *memanjakan cita rasa* |
+| **hawa** | 【**大気の温度・気配・空気感**】 | 気候の寒暖、空間の不気味さ、情欲 | 気配・空気感・熱気/冷気・情欲 | *hawa dingin*, *hawa panas*, *hawa nafsu* |
 
 ---
 
@@ -52,7 +52,7 @@ order: 39
 
 ## 2. perasaan（感情・心情・フィーリング・胸の内）
 
-接頭辞・接尾辞 `per-...-an` によって、心の内面で生じる精神的・心理的状態である **「感情、心情、フィーリング（emotion / feeling / sentiment）」** を表します。
+接頭辞・接尾辞 `per-...-an` によって、心の内面で生じる精神的・心理的状態である 「**感情、心情、フィーリング（emotion / feeling / sentiment）**」 を表します。
 
 - 相手の気持ちを傷つけない配慮（*menjaga perasaan orang lain*）
 - 虫の知らせ・直感（*firasat / perasaan hati*）
@@ -79,7 +79,7 @@ order: 39
 
 ## 3. cita rasa（料理の風味・コク・味わい）
 
-サンスクリット語の *citta*（心・意向）と *rasa*（味）が結合した表現で、単なる舌先の甘辛（rasa）を超えた、**「スパイスの調和、香り、食感、伝統が融合した総合的な風味・洗練された味わい（flavor / culinary savor / aroma）」** を指します。
+サンスクリット語の *citta*（心・意向）と *rasa*（味）が結合した表現で、単なる舌先の甘辛（rasa）を超えた、「**スパイスの調和、香り、食感、伝統が融合した総合的な風味・洗練された味わい（flavor / culinary savor / aroma）**」 を指します。
 
 - 高級レストランやグルメ批評、観光PRで多用
 - *cita rasa autentik Nusantara*（本物のインドネシア群島風味）
@@ -106,7 +106,7 @@ order: 39
 
 ## 4. hawa（大気・気温・気配・情欲）
 
-アラビア語起源（hawā’）の言葉で、**「空気、気温、周囲を包む気配（air / climate / atmospheric aura）」** を指します。また、宗教・倫理的文脈では「情欲・欲望（*hawa nafsu*）」を表すことでも知られます。
+アラビア語起源（hawā’）の言葉で、「**空気、気温、周囲を包む気配（air / climate / atmospheric aura）**」 を指します。また、宗教・倫理的文脈では「情欲・欲望（*hawa nafsu*）」を表すことでも知られます。
 
 - *hawa sejuk / dingin*（涼しい空気・冷気）
 - *hawa panas*（熱気・暑い大気）

@@ -32,7 +32,24 @@ Pekerjaan selesai pada pukul lima sore. Terkadang hujan deras tiba-tiba turun di
 
 ---
 
-## 3. 段落ごとの対訳と読解ポイント
+## 3. 重要語彙・表現一覧 (Kosakata Penting)
+
+| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
+| :--- | :--- | :--- | :--- |
+| **pemasaran** | 名詞 | マーケティング、販売促進 | `pasar`（市場） |
+| **swasta** | 形容詞/名詞 | 民間の、私立の | - |
+| **sarapan** | 動詞/名詞 | 朝食をとる、朝食 | `sarap` |
+| **berangkat** | 動詞 | 出発する | `angkat` |
+| **membutuhkan** | 他動詞 | 必要とする、要する | `butuh`（必要） |
+| **padat** | 形容詞 | 密集した、すし詰めの | - |
+| **daring** | 形容詞 | オンラインの（*dalam jaringan*） | 対義語: `luring`（オフライン） |
+| **rekan kerja** | 名詞句 | 同僚、仕事仲間 | `rekan`（仲間） |
+| **antrean** | 名詞 | 列、行列、順番待ち | `antre`（並ぶ） |
+| **seharian** | 副詞 | 1日中、終日 | `hari`（日） |
+
+---
+
+## 4. 段落ごとの対訳と読解ポイント (Terjemahan & Poin Bacaan)
 
 ### 第1段落: 朝の起床と身支度
 
@@ -114,23 +131,6 @@ Pekerjaan selesai pada pukul lima sore. Terkadang hujan deras tiba-tiba turun di
 
 ---
 
-## 4. 重要語彙・表現一覧
-
-| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
-| :--- | :--- | :--- | :--- |
-| **pemasaran** | 名詞 | マーケティング、販売促進 | `pasar`（市場） |
-| **swasta** | 形容詞/名詞 | 民間の、私立の | - |
-| **sarapan** | 動詞/名詞 | 朝食をとる、朝食 | `sarap` |
-| **berangkat** | 動詞 | 出発する | `angkat` |
-| **membutuhkan** | 他動詞 | 必要とする、要する | `butuh`（必要） |
-| **padat** | 形容詞 | 密集した、すし詰めの | - |
-| **daring** | 形容詞 | オンラインの（*dalam jaringan*） | 対義語: `luring`（オフライン） |
-| **rekan kerja** | 名詞句 | 同僚、仕事仲間 | `rekan`（仲間） |
-| **antrean** | 名詞 | 列、行列、順番待ち | `antre`（並ぶ） |
-| **seharian** | 副詞 | 1日中、終日 | `hari`（日） |
-
----
-
 ## 5. 文法・構文の徹底解説
 
 ### ① 乗り物に乗る表現：`naik + 乗り物`
@@ -159,7 +159,7 @@ Pekerjaan selesai pada pukul lima sore. Terkadang hujan deras tiba-tiba turun di
 
 次の設問に答え、本文の内容を正確に理解できているか確認しましょう。
 
-**【問1】** Budi berangkat ke kantor menggunakan apa jika kereta tidak terlambat?
+【**問1**】 Budi berangkat ke kantor menggunakan apa jika kereta tidak terlambat?
 - A. Mobil pribadi
 - B. Kereta komuter (KRL)
 - C. Bus kota
@@ -171,7 +171,7 @@ Pekerjaan selesai pada pukul lima sore. Terkadang hujan deras tiba-tiba turun di
 
 ---
 
-**【問2】** Apa yang dilakukan Budi bersama rekan kerjanya sebelum mulai bekerja?
+【**問2**】 Apa yang dilakukan Budi bersama rekan kerjanya sebelum mulai bekerja?
 - A. Sarapan roti isi di kantin
 - B. Rapat formal di ruang pertemuan
 - C. Menyapa satu sama lain dan minum kopi bersama
@@ -183,7 +183,7 @@ Pekerjaan selesai pada pukul lima sore. Terkadang hujan deras tiba-tiba turun di
 
 ---
 
-**【問3】** Mengapa jalanan di Jakarta terkadang menjadi macet pada sore hari?
+【**問3**】 Mengapa jalanan di Jakarta terkadang menjadi macet pada sore hari?
 - A. Karena ada festival budaya
 - B. Karena hujan deras tiba-tiba turun
 - C. Karena kereta komuter mogok

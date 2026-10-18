@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kereta Cepat Jakarta-Bandung yang diberi jenama "Whoosh" mencatatkan tonggak sejarah baru dalam modernisasi sistem transportasi massal di Asia Tenggara. Sejak diresmikan oleh Presiden, PT Kereta Cepat Indonesia China (KCIC) melaporkan lonjakan volume penumpang harian yang konsisten, dengan tingkat keterisian kursi (*load factor*) melampaui delapan puluh persen pada akhir pekan, memangkas waktu tempuh antarkota dari tiga jam menjadi hanya empat puluh lima menit.
-  </div>
-  <div class="id-translation">
-    「Whoosh」というブランド名が冠されたジャカルタ・バンドン高速鉄道は、東南アジアにおける大量輸送システムの近代化において新たな歴史的マイルストーンを記録した。大統領による開通式以降、PT Kereta Cepat Indonesia China（KCIC）は、週末に座席稼働率（ロードファクター）が80パーセントを超えるなど、一貫した日次乗客数の急増を報告しており、都市間移動時間を3時間からわずか45分へと短縮した。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kendati antusiasme publik sangat tinggi, tantangan finansial jangka panjang tetap menjadi sorotan para analis ekonomi dan Dewan Perwakilan Rakyat (DPR). Pengembalian pinjaman pembiayaan proyek kepada China Development Bank yang membengkak akibat pembengkakan biaya (*cost overrun*) menuntut KCIC untuk memaksimalkan pendapatan non-tiket (*non-farebox revenue*), seperti pengembangan kawasan berorientasi transit (TOD) di sekitar stasiun Padalarang dan Tegalluar, serta mematangkan kajian kelayakan perpanjangan rute hingga ke Surabaya.
-  </div>
-  <div class="id-translation">
-    一般市民の関心・利用意欲は極めて高いものの、長期的な財務課題は依然として経済アナリストや国民協議会・国会（DPR）の注目の的となっている。建設費超過（コストオーバーラン）によって膨張した中国国家開発銀行へのプロジェクト融資返済は、パダララン駅やテガルアール駅周辺での公共交通指向型開発（TOD）など、非運賃収入（ノンフェアボックス・レベニュー）を最大化すること、ならびにスラバヤへの路線延伸に関するフィージビリティ・スタディ（妥当性調査）を成熟させることをKCICに求めている。
-  </div>
+Kereta Cepat Jakarta-Bandung yang diberi jenama "Whoosh" mencatatkan tonggak sejarah baru dalam modernisasi sistem transportasi massal di Asia Tenggara. Sejak diresmikan oleh Presiden, PT Kereta Cepat Indonesia China (KCIC) melaporkan lonjakan volume penumpang harian yang konsisten, dengan tingkat keterisian kursi (*load factor*) melampaui delapan puluh persen pada akhir pekan, memangkas waktu tempuh antarkota dari tiga jam menjadi hanya empat puluh lima menit.
+
+Kendati antusiasme publik sangat tinggi, tantangan finansial jangka panjang tetap menjadi sorotan para analis ekonomi dan Dewan Perwakilan Rakyat (DPR). Pengembalian pinjaman pembiayaan proyek kepada China Development Bank yang membengkak akibat pembengkakan biaya (*cost overrun*) menuntut KCIC untuk memaksimalkan pendapatan non-tiket (*non-farebox revenue*), seperti pengembangan kawasan berorientasi transit (TOD) di sekitar stasiun Padalarang dan Tegalluar, serta mematangkan kajian kelayakan perpanjangan rute hingga ke Surabaya.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Pendapatan non-tiket (*non-farebox*)** | 非運賃収入 | 駅構内商業施設、広告、不動産開発等による収益 |
 | **Kawasan Berorientasi Transit (TOD)** | 公共交通指向型開発（TOD） | 駅を中心に商業・住宅を高密度開発する都市計画 |
 | **Kajian kelayakan (*feasibility study*)** | 実現可能性調査 / F/S | 採算性や技術的妥当性を事前検証する調査 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+「Whoosh」というブランド名が冠されたジャカルタ・バンドン高速鉄道は、東南アジアにおける大量輸送システムの近代化において新たな歴史的マイルストーンを記録した。大統領による開通式以降、PT Kereta Cepat Indonesia China（KCIC）は、週末に座席稼働率（ロードファクター）が80パーセントを超えるなど、一貫した日次乗客数の急増を報告しており、都市間移動時間を3時間からわずか45分へと短縮した。
+
+一般市民の関心・利用意欲は極めて高いものの、長期的な財務課題は依然として経済アナリストや国民協議会・国会（DPR）の注目の的となっている。建設費超過（コストオーバーラン）によって膨張した中国国家開発銀行へのプロジェクト融資返済は、パダララン駅やテガルアール駅周辺での公共交通指向型開発（TOD）など、非運賃収入（ノンフェアボックス・レベニュー）を最大化すること、ならびにスラバヤへの路線延伸に関するフィージビリティ・スタディ（妥当性調査）を成熟させることをKCICに求めている。
+
+</div>
 
 ---
 

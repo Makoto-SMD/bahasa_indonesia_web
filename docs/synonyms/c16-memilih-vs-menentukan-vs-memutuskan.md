@@ -26,7 +26,7 @@ order: 16
 
 ## 1. memilih（複数肢からの選択・投票）
 
-`memilih` の中核義は **「目の前に複数のオプション（選択肢）が存在し、その中から最も良いものを取り出す（choose / select）」** ことです。民主的な選挙での「投票」にもこの語が使われます。
+`memilih` の中核義は 「**目の前に複数のオプション（選択肢）が存在し、その中から最も良いものを取り出す（choose / select）**」 ことです。民主的な選挙での「投票」にもこの語が使われます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -49,7 +49,7 @@ order: 16
 
 ## 2. menentukan（不確定な事柄を特定・確定する）
 
-`menentukan`（語根: *tentu*＝確実な・一定の）の中核義は **「まだ確定していない日時、場所、要因、方向性を明確に特定する（determine / fix）」** ことです。また「勝敗を決定づける（*faktor penentu*）」という因果関係にも使われます。
+`menentukan`（語根: *tentu*＝確実な・一定の）の中核義は 「**まだ確定していない日時、場所、要因、方向性を明確に特定する（determine / fix）**」 ことです。また「勝敗を決定づける（*faktor penentu*）」という因果関係にも使われます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -72,7 +72,7 @@ order: 16
 
 ## 3. memutuskan（迷いや議論の末に「最終決断を下す」）
 
-`memutuskan`（語根: *putus*＝切る、断ち切る）の中核義は **「迷い、議論、裁判審理を経て、一つの結論に断を下す（decide / conclude / make a decision）」** ことです。
+`memutuskan`（語根: *putus*＝切る、断ち切る）の中核義は 「**迷い、議論、裁判審理を経て、一つの結論に断を下す（decide / conclude / make a decision）**」 ことです。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -95,7 +95,7 @@ order: 16
 
 ## 4. menetapkan（公的権限をもって「公式制定・規定する」）
 
-`menetapkan`（語根: *tetap*＝不変の、確固たる）の中核義は **「国家、大臣、組織のトップが、公的な法的効力や恒久的な拘束力を持たせて制度や価格を制定・公布する（establish / enact / stipulate）」** ことです。
+`menetapkan`（語根: *tetap*＝不変の、確固たる）の中核義は 「**国家、大臣、組織のトップが、公的な法的効力や恒久的な拘束力を持たせて制度や価格を制定・公布する（establish / enact / stipulate）**」 ことです。
 
 <div class="id-example">
 <div class="id-example-header">

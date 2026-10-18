@@ -4,7 +4,7 @@
 
 現地で巨額の外貨建て原材料輸入や日本親会社からの外貨借入（Utang Luar Negeri / ULN）を抱える日系企業にとって、為替変動リスクを回避する**ヘッジ取引（Lindung Nilai / Hedging）**と、**インドネシア中央銀行（Bank Indonesia - BI）**が定める厳格な外為規制の遵守は財務管理の生命線です。
 
-中央銀行規則（PBI: Peraturan Bank Indonesia）では、**「インドネシア国内取引におけるルピア使用義務（Kewajiban Penggunaan Rupiah）」**、一定額以上の外貨購入時における**基礎的取引（Underlying Transaction）書類の提出義務**、および民間非銀行企業の外貨債務に対する**ヘッジ比率・流動性比率の規制（Rasio Lindung Nilai & KPP）**が課されています。本記事では、為替先渡取引（Forward）、為替スワップ（Swap）、中銀への対外債務報告（Laporan ULN）に関する実務インドネシア語を体系的に解説します。
+中央銀行規則（PBI: Peraturan Bank Indonesia）では、「**インドネシア国内取引におけるルピア使用義務（Kewajiban Penggunaan Rupiah）**」、一定額以上の外貨購入時における**基礎的取引（Underlying Transaction）書類の提出義務**、および民間非銀行企業の外貨債務に対する**ヘッジ比率・流動性比率の規制（Rasio Lindung Nilai & KPP）**が課されています。本記事では、為替先渡取引（Forward）、為替スワップ（Swap）、中銀への対外債務報告（Laporan ULN）に関する実務インドネシア語を体系的に解説します。
 
 ---
 

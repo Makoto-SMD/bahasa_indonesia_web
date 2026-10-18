@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Pemerintah Indonesia mengambil langkah agresif untuk memberantas maraknya praktik perjudian daring (*judi online*) yang telah menjangkiti jutaan warga dari berbagai lapisan sosial ekonomi. Melalui Satuan Tugas (Satgas) Pemberantasan Perjudian Daring yang dibentuk langsung oleh Presiden, Kementerian Komunikasi dan Informatika bersama Kepolisian Negara Republik Indonesia (Polri) telah memblokir ratusan ribu situs web dan konten promosi judi slot yang beroperasi secara ilegal.
-  </div>
-  <div class="id-translation">
-    インドネシア政府は、多様な社会経済階層の数百万人におよぶ市民を蝕んでいる違法オンライン賭博（ジュディ・オンライン）の横行を撲滅するため、積極的な強硬措置を講じた。大統領直属で設置された「オンライン賭博撲滅タスクフォース」を通じ、通信情報省は国家警察（Polri）とともに、違法に運営されていた数十万件のウェブサイトおよびスロット賭博のプロモーションコンテンツを遮断した。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) mengungkapkan bahwa perputaran dana judi online nasional telah mencapai ratusan triliun rupiah, dengan sebagian besar korban berasal dari kelompok masyarakat berpenghasilan rendah, buruh, hingga kalangan pelajar. Untuk memutus urat nadi keuangan sindikat kriminal ini, Otoritas Jasa Keuangan (OJK) menginstruksikan perbankan nasional untuk memblokir ribuan rekening penampung (*rekening nomine*) serta memperketat pengawasan terhadap transaksi mencurigakan yang memanfaatkan dompet digital dan fasilitas transfer antarbank.
-  </div>
-  <div class="id-translation">
-    金融取引報告分析センター（PPATK）は、全国のオンライン賭博の資金循環が数百兆ルピアに達しており、被害者の大部分が低所得層、労働者、さらには学生層から出ていると明らかにした。この犯罪シンジケートの資金の流れの動脈（命綱）を断ち切るため、金融サービス庁（OJK）は全国の銀行に対し、数千件の名義貸し受取口座（名義人口座）を凍結するとともに、電子マネーや銀行間送金機能を悪用した不審な取引の監視を強化するよう指示した。
-  </div>
+Pemerintah Indonesia mengambil langkah agresif untuk memberantas maraknya praktik perjudian daring (*judi online*) yang telah menjangkiti jutaan warga dari berbagai lapisan sosial ekonomi. Melalui Satuan Tugas (Satgas) Pemberantasan Perjudian Daring yang dibentuk langsung oleh Presiden, Kementerian Komunikasi dan Informatika bersama Kepolisian Negara Republik Indonesia (Polri) telah memblokir ratusan ribu situs web dan konten promosi judi slot yang beroperasi secara ilegal.
+
+Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) mengungkapkan bahwa perputaran dana judi online nasional telah mencapai ratusan triliun rupiah, dengan sebagian besar korban berasal dari kelompok masyarakat berpenghasilan rendah, buruh, hingga kalangan pelajar. Untuk memutus urat nadi keuangan sindikat kriminal ini, Otoritas Jasa Keuangan (OJK) menginstruksikan perbankan nasional untuk memblokir ribuan rekening penampung (*rekening nomine*) serta memperketat pengawasan terhadap transaksi mencurigakan yang memanfaatkan dompet digital dan fasilitas transfer antarbank.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Rekening penampung (*nominee*)** | 名義人口座 / 受け皿口座 | 他人の名義を買い取って犯罪収益をプールする口座 |
 | **Transaksi mencurigakan** | 不審な取引（STR） | マネロン疑いとして銀行が当局に報告する取引 |
 | **Otoritas Jasa Keuangan (OJK)** | 金融サービス庁 | 銀行・証券・保険を監督する金融監督機関 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア政府は、多様な社会経済階層の数百万人におよぶ市民を蝕んでいる違法オンライン賭博（ジュディ・オンライン）の横行を撲滅するため、積極的な強硬措置を講じた。大統領直属で設置された「オンライン賭博撲滅タスクフォース」を通じ、通信情報省は国家警察（Polri）とともに、違法に運営されていた数十万件のウェブサイトおよびスロット賭博のプロモーションコンテンツを遮断した。
+
+金融取引報告分析センター（PPATK）は、全国のオンライン賭博の資金循環が数百兆ルピアに達しており、被害者の大部分が低所得層、労働者、さらには学生層から出ていると明らかにした。この犯罪シンジケートの資金の流れの動脈（命綱）を断ち切るため、金融サービス庁（OJK）は全国の銀行に対し、数千件の名義貸し受取口座（名義人口座）を凍結するとともに、電子マネーや銀行間送金機能を悪用した不審な取引の監視を強化するよう指示した。
+
+</div>
 
 ---
 

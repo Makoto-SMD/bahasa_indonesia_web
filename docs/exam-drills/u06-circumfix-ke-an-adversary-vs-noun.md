@@ -48,7 +48,7 @@
 
 > **文法法則: 被害受動（adversatif）の `ke-...-an`**
 
-- 語根 **habis**（尽きる・無くなる）に `ke-...-an` が付いた **kehabisan** は、「（必要なものを失って）〜が切れる・品切れを被る」という**被害・不利益（tertimpa hal tidak menyenangkan）**を表す述語動詞として機能します。
+- 語根 **habis**（尽きる・無くなる）に `ke-...-an` が付いた **kehabisan** は、「（必要なものを失って）〜が切れる・品切れを被る」という**被害・不利益**（tertimpa hal tidak menyenangkan）を表す述語動詞として機能します。
   - 主語: *motor kami*
   - 補語: *bensin*（目的語ではなく主語が奪われた対象）
 - 類例:

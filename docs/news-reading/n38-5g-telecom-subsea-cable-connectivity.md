@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Komunikasi dan Informatika Republik Indonesia bersiap menggelar lelang spektrum frekuensi radio 700 MHz dan 2,6 GHz guna mempercepat komersialisasi jaringan telekomunikasi generasi kelima (5G) secara nasional. Pengalokasian pita frekuensi emas (*golden frequency*) yang sebelumnya digunakan untuk siaran televisi analog ini menjadi momentum strategis bagi operator seluler seperti Telkomsel, Indosat Ooredoo Hutchison, dan XL Axiata untuk memperluas jangkauan layanan internet berkecepatan tinggi dengan latensi rendah.
-  </div>
-  <div class="id-translation">
-    インドネシア共和国通信情報省は、第5世代（5G）通信ネットワークの全国的な商業化を加速するため、700MHz帯および2.6GHz帯の電波周波数オークションの実施準備を進めている。かつてアナログテレビ放送に使用されていた「ゴールデン周波数」帯の再割り当ては、テルコムセル、インドサット、XLアクシアタといった携帯通信キャリアにとって、低遅延の高速インターネットサービスのカバーエリアを拡大するための戦略的契機となる。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Di samping ekspansi jaringan seluler di kawasan perkotaan, pemerintah terus memperkuat infrastruktur tulang punggung (*backbone*) digital melalui proyek integrasi kabel serat optik bawah laut Palapa Ring dan peluncuran satelit multifungsi SATRIA-1. Sinergi antara kabel laut berkapasitas terabita dan konektivitas satelit orbit rendah (*Low Earth Orbit*/LEO) ini dirancang untuk menuntaskan titik buta (*blank spot*) telekomunikasi di ribuan fasilitas layanan publik, puskesmas, dan sekolah di pulau-pulau terpencil demi mewujudkan kedaulatan digital nasional.
-  </div>
-  <div class="id-translation">
-    都市部におけるセルラー網の拡張に加えて、政府は海底光ファイバーケーブル統合プロジェクト「パラパ・リング」および多目的通信衛星SATRIA-1の打ち上げを通じ、国家のデジタル基幹（バックボーン）インフラを引き続き強化している。テラビット級容量の海底ケーブルと低軌道（LEO）衛星コネクティビティとの相乗効果は、国家のデジタル主権を実現するため、離島の数千におよぶ公共サービス施設、地域保健所（Puskesmas）、学校における通信空白地帯（ブランクスポット）を解消するよう設計されている。
-  </div>
+Kementerian Komunikasi dan Informatika Republik Indonesia bersiap menggelar lelang spektrum frekuensi radio 700 MHz dan 2,6 GHz guna mempercepat komersialisasi jaringan telekomunikasi generasi kelima (5G) secara nasional. Pengalokasian pita frekuensi emas (*golden frequency*) yang sebelumnya digunakan untuk siaran televisi analog ini menjadi momentum strategis bagi operator seluler seperti Telkomsel, Indosat Ooredoo Hutchison, dan XL Axiata untuk memperluas jangkauan layanan internet berkecepatan tinggi dengan latensi rendah.
+
+Di samping ekspansi jaringan seluler di kawasan perkotaan, pemerintah terus memperkuat infrastruktur tulang punggung (*backbone*) digital melalui proyek integrasi kabel serat optik bawah laut Palapa Ring dan peluncuran satelit multifungsi SATRIA-1. Sinergi antara kabel laut berkapasitas terabita dan konektivitas satelit orbit rendah (*Low Earth Orbit*/LEO) ini dirancang untuk menuntaskan titik buta (*blank spot*) telekomunikasi di ribuan fasilitas layanan publik, puskesmas, dan sekolah di pulau-pulau terpencil demi mewujudkan kedaulatan digital nasional.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Satelit SATRIA-1** | サトリア1号衛星 | インドネシア政府が打ち上げた最大級の静止通信衛星 |
 | **Titik buta (*blank spot*)** | 電波圏外地域 / 通信空白地帯 | 基地局がなく電波が届かない僻地 |
 | **Kedaulatan digital** | デジタル主権 | 通信網を自国で掌握し国民の平等アクセスを保障する理念 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア共和国通信情報省は、第5世代（5G）通信ネットワークの全国的な商業化を加速するため、700MHz帯および2.6GHz帯の電波周波数オークションの実施準備を進めている。かつてアナログテレビ放送に使用されていた「ゴールデン周波数」帯の再割り当ては、テルコムセル、インドサット、XLアクシアタといった携帯通信キャリアにとって、低遅延の高速インターネットサービスのカバーエリアを拡大するための戦略的契機となる。
+
+都市部におけるセルラー網の拡張に加えて、政府は海底光ファイバーケーブル統合プロジェクト「パラパ・リング」および多目的通信衛星SATRIA-1の打ち上げを通じ、国家のデジタル基幹（バックボーン）インフラを引き続き強化している。テラビット級容量の海底ケーブルと低軌道（LEO）衛星コネクティビティとの相乗効果は、国家のデジタル主権を実現するため、離島の数千におよぶ公共サービス施設、地域保健所（Puskesmas）、学校における通信空白地帯（ブランクスポット）を解消するよう設計されている。
+
+</div>
 
 ---
 

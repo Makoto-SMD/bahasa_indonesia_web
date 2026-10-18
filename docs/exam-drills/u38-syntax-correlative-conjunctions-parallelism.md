@@ -9,7 +9,7 @@ order: 38
 
 インドネシア語の相関接続詞（**Konjungsi Korelatif**）は、2つの文要素を対比・補足するためにセットで使用される接続詞群です。
 
-検定試験（UKBI・技能検定A級・B級）では、**「否定詞（bukan vs tidak）と後続接続詞（melainkan vs tetapi）の照応の乱れ」** や、日常会話で多用される非標準的な混ぜこぜ表現（例: *bukan hanya... tetapi juga...*）を誤りとして見抜く問題が頻繁に出題されます。格式高い公的基準（Bahasa Baku）に即した正確なペアリングを確立しましょう。
+検定試験（UKBI・技能検定A級・B級）では、「**否定詞（bukan vs tidak）と後続接続詞（melainkan vs tetapi）の照応の乱れ**」 や、日常会話で多用される非標準的な混ぜこぜ表現（例: *bukan hanya... tetapi juga...*）を誤りとして見抜く問題が頻繁に出題されます。格式高い公的基準（Bahasa Baku）に即した正確なペアリングを確立しましょう。
 
 ---
 

@@ -17,10 +17,10 @@ order: 13
 
 | 動詞（語根） | 中核的ニュアンス | 文体・レジスター | 日本語の対応 | 代表例 |
 | :--- | :--- | :--- | :--- | :--- |
-| **bekerja (kerja)** | **「職業労働・機能する」**<br>給与や対価を得るための日常の仕事 | 一般日常・実務 | 働く・勤務する・機能する | *bekerja di bank*, *mesin bekerja baik* |
-| **berusaha (usaha)** | **「努力する・試みる・起業する」**<br>目標達成や困難克服のためにエネルギーを注ぐ | 日常会話〜一般ビジネス | 努力する・頑張る・起業する | *berusaha keras*, *perusahaan*（会社） |
-| **berupaya (upaya)** | **「戦略的努力・施策を講じる」**<br>組織や政府が多角的な手段を尽くして取り組む | 公的文書・報道・学術（格調高い） | 尽力する・施策を尽くす・奮闘する | *pemerintah berupaya menekan inflasi* |
-| **berikhtiar (ikhtiar)** | **「人知を尽くす・全力を尽くす」**<br>結果を神（神意）に委ねつつ人間のベストを尽くす | 宗教的・倫理的・格調高い文脈 | 人事を尽くす・全力を尽くす | *berikhtiar semaksimal mungkin dan berdoa* |
+| **bekerja (kerja)** | 「**職業労働・機能する**」<br>給与や対価を得るための日常の仕事 | 一般日常・実務 | 働く・勤務する・機能する | *bekerja di bank*, *mesin bekerja baik* |
+| **berusaha (usaha)** | 「**努力する・試みる・起業する**」<br>目標達成や困難克服のためにエネルギーを注ぐ | 日常会話〜一般ビジネス | 努力する・頑張る・起業する | *berusaha keras*, *perusahaan*（会社） |
+| **berupaya (upaya)** | 「**戦略的努力・施策を講じる**」<br>組織や政府が多角的な手段を尽くして取り組む | 公的文書・報道・学術（格調高い） | 尽力する・施策を尽くす・奮闘する | *pemerintah berupaya menekan inflasi* |
+| **berikhtiar (ikhtiar)** | 「**人知を尽くす・全力を尽くす**」<br>結果を神（神意）に委ねつつ人間のベストを尽くす | 宗教的・倫理的・格調高い文脈 | 人事を尽くす・全力を尽くす | *berikhtiar semaksimal mungkin dan berdoa* |
 
 ---
 
@@ -51,7 +51,7 @@ order: 13
 
 ## 2. berusaha（目標達成に向けて努力する・起業する）
 
-`berusaha` は、語根 `usaha`（努力、試み、事業）から派生した動詞で、**「困難な障害や課題に対して、意志を持って一生懸命取り組む（strive / try / make an effort）」** ことを表します。また「商売・ビジネスを興す」という意味も持ちます。
+`berusaha` は、語根 `usaha`（努力、試み、事業）から派生した動詞で、「**困難な障害や課題に対して、意志を持って一生懸命取り組む（strive / try / make an effort）**」 ことを表します。また「商売・ビジネスを興す」という意味も持ちます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -74,7 +74,7 @@ order: 13
 
 ## 3. berupaya（公的・戦略的に施策を尽くす）
 
-`berupaya` は `berusaha` のフォーマル・文語的（Ragam Resmi）な類義語です。新聞記事、社説、公的政策声明などで、**「政府、機関、企業経営陣が目標達成のために多角的な手立てや戦略を講じる」** 際に好んで用いられます。
+`berupaya` は `berusaha` のフォーマル・文語的（Ragam Resmi）な類義語です。新聞記事、社説、公的政策声明などで、「**政府、機関、企業経営陣が目標達成のために多角的な手立てや戦略を講じる**」 際に好んで用いられます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -98,7 +98,7 @@ order: 13
 ## 4. berikhtiar（人事を尽くす・神への祈りと連動する最善の努力）
 
 アラビア語 *ikhtiyār*（選択、自由意志の行使）に由来する格調高い宗教的・倫理的語彙です。
-イスラム文化圏における重要な概念「**Tawakal（結果を神に委ねる）**」とペアで用いられ、**「人間としてできる限りの最善を尽くし、その上で最終的な結果は神の采配を信じる」** という崇高な努力を意味します。
+イスラム文化圏における重要な概念「**Tawakal（結果を神に委ねる）**」とペアで用いられ、「**人間としてできる限りの最善を尽くし、その上で最終的な結果は神の采配を信じる**」 という崇高な努力を意味します。
 
 <div class="id-example">
 <div class="id-example-header">

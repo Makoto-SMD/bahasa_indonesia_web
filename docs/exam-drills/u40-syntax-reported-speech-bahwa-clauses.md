@@ -9,7 +9,7 @@ order: 40
 
 報道記事（Berita）、公的議事録（Notula Rapat）、法廷記録、そして検定試験（UKBI・インドネシア語技能検定）の長文読解では、他者の発言や決定を報告する **直接話法（Kalimat Langsung）から間接話法（Kalimat Tak Langsung）への書き換え** が頻繁に登場します。
 
-間接話法では、名詞節を導く接続詞 **`bahwa`**（〜ということ）が中心となりますが、直接話法から間接話法に移行する際に、**人称代名詞（saya → ia/dia/beliau）** や **指示詞・時制副詞（sekarang → saat itu / waktu itu, besok → keesokan harinya, di sini → di sana）** の転換規則を厳格に適用しなければなりません。
+間接話法では、名詞節を導く接続詞 **`bahwa`（**〜ということ）が中心となりますが、直接話法から間接話法に移行する際に、「**人称代名詞**」（saya → ia/dia/beliau） や **指示詞・時制副詞（sekarang → saat itu / waktu itu, besok → keesokan harinya, di sini → di sana**） の転換規則を厳格に適用しなければなりません。
 
 ---
 

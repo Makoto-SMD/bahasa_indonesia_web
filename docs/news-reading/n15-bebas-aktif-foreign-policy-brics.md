@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Pemerintah Republik Indonesia secara resmi menyatakan keinginan untuk bergabung dengan blok ekonomi negara-negara berkembang, BRICS. Langkah diplomasi ini ditegaskan kembali oleh Kementerian Luar Negeri sebagai perwujudan konkret dari prinsip politik luar negeri "Bebas dan Aktif" yang diamanatkan oleh konstitusi, di mana Indonesia tidak memihak pada blok kekuatan militer atau politik mana pun di panggung internasional.
-  </div>
-  <div class="id-translation">
-    インドネシア共和国政府は、新興国経済ブロックであるBRICSへの加盟希望を正式に表明した。この外交的措置は、憲法によって委任された「自由にして能動的（Bebas dan Aktif）」な外交原則の具体的な具現化として外務省により再確認されたものであり、国際舞台においてインドネシアはいかなる軍事・政治的勢力ブロックにも偏らない。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Menteri Luar Negeri menegaskan bahwa keikutsertaan dalam proses BRICS tidak berarti Indonesia menjauhkan diri dari negara-negara Barat atau meninggalkan komitmen aksesi OECD. Sebaliknya, Indonesia memposisikan diri sebagai jembatan (*bridge-builder*) antara negara-negara maju dan negara-negara berkembang (*Global South*), guna memperjuangkan reformasi tata kelola ekonomi global yang lebih adil, memperluas diversifikasi mitra dagang, serta memajukan solidaritas antarnegara berkembang demi perdamaian dunia.
-  </div>
-  <div class="id-translation">
-    外務大臣は、BRICSプロセスへの参加はインドネシアが西側諸国から距離を置くことや、OECD加盟コミットメントを放棄することを意味するものではないと強調した。むしろ、インドネシアはより公平な世界経済秩序の改革を訴え、貿易相手国の多角化を推し進め、世界平和のための発展途上国間の連帯を前進させるため、先進国と新興・途上国（グローバルサウス）との間の架け橋（ブリッジ・ビルダー）として自らを位置付けている。
-  </div>
+Pemerintah Republik Indonesia secara resmi menyatakan keinginan untuk bergabung dengan blok ekonomi negara-negara berkembang, BRICS. Langkah diplomasi ini ditegaskan kembali oleh Kementerian Luar Negeri sebagai perwujudan konkret dari prinsip politik luar negeri "Bebas dan Aktif" yang diamanatkan oleh konstitusi, di mana Indonesia tidak memihak pada blok kekuatan militer atau politik mana pun di panggung internasional.
+
+Menteri Luar Negeri menegaskan bahwa keikutsertaan dalam proses BRICS tidak berarti Indonesia menjauhkan diri dari negara-negara Barat atau meninggalkan komitmen aksesi OECD. Sebaliknya, Indonesia memposisikan diri sebagai jembatan (*bridge-builder*) antara negara-negara maju dan negara-negara berkembang (*Global South*), guna memperjuangkan reformasi tata kelola ekonomi global yang lebih adil, memperluas diversifikasi mitra dagang, serta memajukan solidaritas antarnegara berkembang demi perdamaian dunia.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Bridge-builder** | 架け橋 / 橋渡し役 | 対立する陣営の間を取り持つ外交的役割 |
 | **Global South** | グローバルサウス | アジア、アフリカ、中南米の新興国・途上国の総称 |
 | **Diversifikasi mitra dagang** | 貿易相手国の多角化 | 特定国への過度な依存を回避する通商戦略 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア共和国政府は、新興国経済ブロックであるBRICSへの加盟希望を正式に表明した。この外交的措置は、憲法によって委任された「自由にして能動的（Bebas dan Aktif）」な外交原則の具体的な具現化として外務省により再確認されたものであり、国際舞台においてインドネシアはいかなる軍事・政治的勢力ブロックにも偏らない。
+
+外務大臣は、BRICSプロセスへの参加はインドネシアが西側諸国から距離を置くことや、OECD加盟コミットメントを放棄することを意味するものではないと強調した。むしろ、インドネシアはより公平な世界経済秩序の改革を訴え、貿易相手国の多角化を推し進め、世界平和のための発展途上国間の連帯を前進させるため、先進国と新興・途上国（グローバルサウス）との間の架け橋（ブリッジ・ビルダー）として自らを位置付けている。
+
+</div>
 
 ---
 

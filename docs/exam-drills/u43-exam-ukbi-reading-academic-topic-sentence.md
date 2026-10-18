@@ -9,7 +9,7 @@ order: 43
 
 UKBIの **Seksi III: Membaca（読解）** では、社会、経済、自然科学、文化人類学など多岐にわたる学術論文や専門的社説から長文が出題されます。
 
-設問の核心となるのは、常に **「各段落の要旨（Ide Pokok / Gagasan Utama）」** と **「トピックセンテンス（Kalimat Utama）」** の迅速な特定です。インドネシア語の文章構成法（Paragraf Deduktif, Induktif, Campuran）の構造的特徴を知っていれば、長文全体を精読することなく、筆者の論旨を正確に射抜くことができます。
+設問の核心となるのは、常に 「**各段落の要旨（Ide Pokok / Gagasan Utama）**」 と 「**トピックセンテンス（Kalimat Utama）**」 の迅速な特定です。インドネシア語の文章構成法（Paragraf Deduktif, Induktif, Campuran）の構造的特徴を知っていれば、長文全体を精読することなく、筆者の論旨を正確に射抜くことができます。
 
 ---
 

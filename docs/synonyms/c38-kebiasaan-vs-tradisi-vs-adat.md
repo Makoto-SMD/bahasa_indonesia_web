@@ -17,16 +17,16 @@ order: 38
 
 | 単語 | 主体と形成基盤 | 拘束力・サンクション | 日本語の対応 | 代表例 |
 | :--- | :--- | :--- | :--- | :--- |
-| **kebiasaan** | **【個人・集団の日常的ルーティン】** | 拘束力なし（個人の癖や行動様式） | 習慣・癖・日常の習わし | *kebiasaan buruk*, *membiasakan diri* |
-| **tradisi** | **【歴史的・世代間の継承】** | 社会的・文化的価値観（精神的継承） | 伝統・伝承・しきたり | *tradisi mudik*, *tradisi lisan* |
-| **adat** | **【民族・地域コミュニティの慣習規範】** | 地域社会での強い制裁力（慣習法・儀礼） | 慣習・しきたり・アダット・掟 | *adat istiadat*, *hukum adat*, *baju adat* |
-| **budaya** | **【民族・国家全体の総合的文化体系】** | 価値観・思考様式・芸術・言語を含む総体 | 文化・文明・文化的風土 | *kebudayaan Indonesia*, *budaya kerja* |
+| **kebiasaan** | 【**個人・集団の日常的ルーティン**】 | 拘束力なし（個人の癖や行動様式） | 習慣・癖・日常の習わし | *kebiasaan buruk*, *membiasakan diri* |
+| **tradisi** | 【**歴史的・世代間の継承**】 | 社会的・文化的価値観（精神的継承） | 伝統・伝承・しきたり | *tradisi mudik*, *tradisi lisan* |
+| **adat** | 【**民族・地域コミュニティの慣習規範**】 | 地域社会での強い制裁力（慣習法・儀礼） | 慣習・しきたり・アダット・掟 | *adat istiadat*, *hukum adat*, *baju adat* |
+| **budaya** | 【**民族・国家全体の総合的文化体系**】 | 価値観・思考様式・芸術・言語を含む総体 | 文化・文明・文化的風土 | *kebudayaan Indonesia*, *budaya kerja* |
 
 ---
 
 ## 1. kebiasaan（個人の習慣・日課・日常の癖）
 
-語根 `biasa`（普段の・普通の）から派生した名詞で、**「個人または小さな集団が日常的に繰り返す行動パターン（habit / custom / routine）」** を指します。
+語根 `biasa`（普段の・普通の）から派生した名詞で、「**個人または小さな集団が日常的に繰り返す行動パターン（habit / custom / routine）**」 を指します。
 
 - *kebiasaan bangun pagi*（早起きの習慣）
 - *kebiasaan buruk*（悪い癖・悪習）
@@ -53,7 +53,7 @@ order: 38
 
 ## 2. tradisi（世代を超えて受け継がれる伝統・伝承）
 
-ラテン語起源（traditio）の西洋近代概念で、**「過去の世代から現代へ、そして未来へと受け継がれていく歴史的・社会的な行事や慣行（tradition / folklore）」** を指します。
+ラテン語起源（traditio）の西洋近代概念で、「**過去の世代から現代へ、そして未来へと受け継がれていく歴史的・社会的な行事や慣行（tradition / folklore）**」 を指します。
 
 - レバラン前の帰省ラッシュ（*tradisi mudik lebaran*）
 - 口承文芸・口承伝統（*tradisi lisan*）
@@ -80,7 +80,7 @@ order: 38
 
 ## 3. adat（民族のしきたり・慣習法・伝統儀礼）
 
-アラビア語起源（'ādah）の極めて重みのある概念で、インドネシアの各民族（スンダ、ジャワ、バリ、ミナンカバウ、バタクなど）に固有の **「伝統儀礼、民族の掟、慣習法（adat / customary law / traditional rites）」** を指します。
+アラビア語起源（'ādah）の極めて重みのある概念で、インドネシアの各民族（スンダ、ジャワ、バリ、ミナンカバウ、バタクなど）に固有の 「**伝統儀礼、民族の掟、慣習法（adat / customary law / traditional rites）**」 を指します。
 
 インドネシア憲法（UUD 1945第18条B項）でも「伝統的慣習法共同体（Masyarakat Hukum Adat）」の権利が明確に保障されています。
 
@@ -111,7 +111,7 @@ order: 38
 
 ## 4. budaya / kebudayaan（文化・文明・価値観の総体）
 
-サンスクリット語の *buddhi*（理性・知性）に由来し、人間の思考、芸術、言語、宗教、社会規範などを含む **「総合的な文化体系（culture / civilization）」** を指します。
+サンスクリット語の *buddhi*（理性・知性）に由来し、人間の思考、芸術、言語、宗教、社会規範などを含む 「**総合的な文化体系（culture / civilization）**」 を指します。
 
 - *kebudayaan nasional*（国民文化）
 - *budaya kerja*（企業文化・職場風土）

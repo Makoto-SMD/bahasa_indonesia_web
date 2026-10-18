@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Pertahanan Republik Indonesia terus mengakselerasi modernisasi alat utama sistem persenjataan (alutsista) Tentara Nasional Indonesia (TNI) guna menghadapi eskalasi ancaman keamanan regional. Pemerintah telah merampungkan kontrak pengadaan jet tempur generasi 4,5 buatan Prancis, Dassault Rafale, serta kapal selam kelas canggih, seraya menegaskan kewajiban imbal dagang (*countertrade*) dan alih teknologi dalam setiap pembelian peralatan militer strategis dari luar negeri.
-  </div>
-  <div class="id-translation">
-    インドネシア共和国国防省は、地域の安全保障脅威のエスカレーションに対処するため、インドネシア国軍（TNI）の主要防衛装備システム（アルチスタ）の近代化を引き続き加速させている。政府は、フランス製第4.5世代戦闘機ダッソー・ラファールや最新鋭潜水艦の調達契約を完了させるとともに、海外からの戦略的軍事機器購入のすべてにおいて見返り貿易（カウンター・トレード）および技術移転（トランスファー・オブ・テクノロジー）の義務を強調した。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Sejalan dengan program modernisasi tersebut, konsorsium industri pertahanan nasional, Defend ID, yang dipimpin oleh PT Len Industri bersama PT Pindad, PT PAL Indonesia, dan PT Dirgantara Indonesia, didorong untuk meningkatkan Tingkat Komponen Dalam Negeri (TKDN). Kolaborasi strategis ini bertujuan membangun kemandirian industri pertahanan dalam negeri, mulai dari perakitan kendaraan taktis Maung, pembangunan kapal perang fregat secara mandiri, hingga pemeliharaan sistem propulsi dan aviotronik berteknologi tinggi.
-  </div>
-  <div class="id-translation">
-    同近代化プログラムと足並みを揃え、PT Len IndustriがPT Pindad、PT PAL Indonesia、PT Dirgantara Indonesiaとともに主導する国家防衛産業コンソーシアム「Defend ID」は、国内部品調達率（TKDN）の引き上げが推進されている。この戦略的協業は、戦術車両マウン（Maung）の組立、独自でのフリゲート護衛艦の建造、先端技術を要する推進システムやアビオニクスの整備に至るまで、国内防衛産業の自立体制を構築することを目標としている。
-  </div>
+Kementerian Pertahanan Republik Indonesia terus mengakselerasi modernisasi alat utama sistem persenjataan (alutsista) Tentara Nasional Indonesia (TNI) guna menghadapi eskalasi ancaman keamanan regional. Pemerintah telah merampungkan kontrak pengadaan jet tempur generasi 4,5 buatan Prancis, Dassault Rafale, serta kapal selam kelas canggih, seraya menegaskan kewajiban imbal dagang (*countertrade*) dan alih teknologi dalam setiap pembelian peralatan militer strategis dari luar negeri.
+
+Sejalan dengan program modernisasi tersebut, konsorsium industri pertahanan nasional, Defend ID, yang dipimpin oleh PT Len Industri bersama PT Pindad, PT PAL Indonesia, dan PT Dirgantara Indonesia, didorong untuk meningkatkan Tingkat Komponen Dalam Negeri (TKDN). Kolaborasi strategis ini bertujuan membangun kemandirian industri pertahanan dalam negeri, mulai dari perakitan kendaraan taktis Maung, pembangunan kapal perang fregat secara mandiri, hingga pemeliharaan sistem propulsi dan aviotronik berteknologi tinggi.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Tingkat Komponen Dalam Negeri (TKDN)** | 国産部品比率 / ローカルコンテント | 国内製造・サプライヤー活用度を測る必須基準 |
 | **Kemandirian industri pertahanan** | 防衛産業の自立・国産化 | 兵器禁輸制裁を回避し有事に自給できる体制 |
 | **Kendaraan taktis (rantis)** | 戦術車両 | 軽装甲車・軍用高機動車（Pindad製MaungやKomodoなど） |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア共和国国防省は、地域の安全保障脅威のエスカレーションに対処するため、インドネシア国軍（TNI）の主要防衛装備システム（アルチスタ）の近代化を引き続き加速させている。政府は、フランス製第4.5世代戦闘機ダッソー・ラファールや最新鋭潜水艦の調達契約を完了させるとともに、海外からの戦略的軍事機器購入のすべてにおいて見返り貿易（カウンター・トレード）および技術移転（トランスファー・オブ・テクノロジー）の義務を強調した。
+
+同近代化プログラムと足並みを揃え、PT Len IndustriがPT Pindad、PT PAL Indonesia、PT Dirgantara Indonesiaとともに主導する国家防衛産業コンソーシアム「Defend ID」は、国内部品調達率（TKDN）の引き上げが推進されている。この戦略的協業は、戦術車両マウン（Maung）の組立、独自でのフリゲート護衛艦の建造、先端技術を要する推進システムやアビオニクスの整備に至るまで、国内防衛産業の自立体制を構築することを目標としている。
+
+</div>
 
 ---
 

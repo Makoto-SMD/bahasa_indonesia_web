@@ -17,16 +17,16 @@ order: 50
 
 | 単語 | 損傷・破壊のレベル | 修理・再生の可逆性 | 日本語の対応 | 代表例 |
 | :--- | :--- | :--- | :--- | :--- |
-| **rusak** | **【機能停止・破損・変質】** | 修理・修復可能な場合が多い | 壊れる・故障する・傷む・腐敗 | *mobil rusak*, *jalan rusak*, *rusak parah* |
-| **hancur** | **【粉砕・原型喪失・心の崩壊】** | 原型がなく再生困難（粉々・失恋） | 粉々になる・粉砕される・崩壊 | *hancur lebur*, *hancur berkeping-keping* |
-| **punah** | **【生物種・言語・文化の根絶】** | 完全不可逆（DNA・系統の断絶） | 絶滅する・途絶える・死に絶える | *hewan punah*, *terancam punah*, *kepunahan* |
-| **binasa** | **【天罰・破滅・全滅・滅亡】** | 存在そのものの抹殺・悪の滅亡 | 滅びる・破滅する・全滅する | *hancur binasa*, *membinasakan musuh* |
+| **rusak** | 【**機能停止・破損・変質**】 | 修理・修復可能な場合が多い | 壊れる・故障する・傷む・腐敗 | *mobil rusak*, *jalan rusak*, *rusak parah* |
+| **hancur** | 【**粉砕・原型喪失・心の崩壊**】 | 原型がなく再生困難（粉々・失恋） | 粉々になる・粉砕される・崩壊 | *hancur lebur*, *hancur berkeping-keping* |
+| **punah** | 【**生物種・言語・文化の根絶**】 | 完全不可逆（DNA・系統の断絶） | 絶滅する・途絶える・死に絶える | *hewan punah*, *terancam punah*, *kepunahan* |
+| **binasa** | 【**天罰・破滅・全滅・滅亡**】 | 存在そのものの抹殺・悪の滅亡 | 滅びる・破滅する・全滅する | *hancur binasa*, *membinasakan musuh* |
 
 ---
 
 ## 1. rusak（壊れる・故障する・傷む・道徳の頽廃）
 
-機能や形態の一部が損なわれた **「故障、破損、損傷（broken / damaged / spoiled）」** を表す最も基本語です。修理（memperbaiki）によって直せる余地が残されていることが多々あります。
+機能や形態の一部が損なわれた 「**故障、破損、損傷（broken / damaged / spoiled）**」 を表す最も基本語です。修理（memperbaiki）によって直せる余地が残されていることが多々あります。
 - *mesin rusak*（機械の故障）
 - *jalan rusak*（舗装が傷んだ凸凹道路）
 - *makanan rusak*（傷んだ食べ物）
@@ -53,7 +53,7 @@ order: 50
 
 ## 2. hancur（粉々に砕ける・粉砕される・心が崩壊する）
 
-衝撃や爆発、圧力によって **「粉々・木端微塵になり、原型をとどめない（crushed / shattered / ruined）」** 状態です。また、激しい失恋や絶望で「心が粉々に砕け散る」比喩表現として定番です。
+衝撃や爆発、圧力によって 「**粉々・木端微塵になり、原型をとどめない（crushed / shattered / ruined）**」 状態です。また、激しい失恋や絶望で「心が粉々に砕け散る」比喩表現として定番です。
 
 - *hancur lebur*（粉骨砕身・粉微塵に崩壊する）
 - *hancur berkeping-keping*（破片となって粉々に砕ける）
@@ -80,7 +80,7 @@ order: 50
 
 ## 3. punah（（生物・言語・文化が）絶滅する・途絶える）
 
-生物の種（spesies）や言語（bahasa）、民族の伝統文化が **「最後の一体・一人までいなくなり、地球上から完全に途絶える（extinct / die out）」** ことを指します。
+生物の種（spesies）や言語（bahasa）、民族の伝統文化が 「**最後の一体・一人までいなくなり、地球上から完全に途絶える（extinct / die out）**」 ことを指します。
 
 - *hewan yang terancam punah*（絶滅危惧種の動物：Harimau Sumatraなど）
 - *kepunahan massal*（大量絶滅）
@@ -107,7 +107,7 @@ order: 50
 
 ## 4. binasa（滅びる・破滅する・全滅する・根絶やしになる）
 
-サンスクリット語起源の重厚な語彙で、**「悪や国家、軍勢、傲慢な人間が、天罰や激しい力によって命運を断たれ、跡形もなく滅び去る（perish / be annihilated / destroyed utterly）」** 宗教的・神話的・歴史的破滅を意味します。
+サンスクリット語起源の重厚な語彙で、「**悪や国家、軍勢、傲慢な人間が、天罰や激しい力によって命運を断たれ、跡形もなく滅び去る（perish / be annihilated / destroyed utterly）**」 宗教的・神話的・歴史的破滅を意味します。
 
 - *hancur binasa*（粉々に壊滅し滅び去る）
 - *membinasakan kejahatan*（悪を根絶やしにする・滅ぼす）

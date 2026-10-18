@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Badan Keamanan Laut Republik Indonesia (Bakamla RI) bersama Tentara Nasional Indonesia Angkatan Laut (TNI AL) meningkatkan intensitas patroli gabungan di wilayah perairan Laut Natuna Utara. Langkah strategis ini diambil guna menegakkan kedaulatan hukum dan melindungi hak berdaulat atas sumber daya kelautan di Zona Ekonomi Eksklusif (ZEE) Indonesia dari ancaman kapal nelayan asing ilegal dan intrusi kapal penjaga pantai asing.
-  </div>
-  <div class="id-translation">
-    インドネシア共和国海上保安庁（Bakamla RI）は、インドネシア海軍（TNI AL）とともに、北ナトゥナ海域における合同パトロールの強度を引き上げた。この戦略的措置は、法的主権を執行し、違法な外国漁船の脅威や外国沿岸警備船の侵入から、インドネシアの排他的経済水域（ZEE）における海洋資源に対する主権的権利を防衛するために講じられた。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Luar Negeri RI menegaskan kembali bahwa posisi Indonesia tidak memiliki sengketa tumpang tindih kepemilikan pulau dengan negara mana pun di Laut Natuna Utara, serta menolak keras klaim sembilan garis putus-putus (*nine-dash line*) yang tidak memiliki dasar hukum di bawah Konvensi PBB tentang Hukum Laut (UNCLOS 1982). Selain memperkuat armada kapal patroli dan radar maritim, pemerintah terus mendorong peningkatan aktivitas nelayan tradisional lokal untuk memperkuat kehadiran fisik negara di garis terdepan perbatasan laut.
-  </div>
-  <div class="id-translation">
-    インドネシア共和国外務省は、インドネシアが北ナトゥナ海においていかなる国とも島嶼領有権の重複紛争を抱えていない立場を再確認するとともに、国連海洋法条約（1982年 UNCLOS）の下で法的根拠を持たない「九段線（nine-dash line）」の主張を断固として拒絶した。巡視船隊や海洋レーダーの強化に加え、政府は海洋国境の最前線における国家の物理的存在感を高めるため、地元伝統漁民の操業活動の拡大を引き続き推進している。
-  </div>
+Badan Keamanan Laut Republik Indonesia (Bakamla RI) bersama Tentara Nasional Indonesia Angkatan Laut (TNI AL) meningkatkan intensitas patroli gabungan di wilayah perairan Laut Natuna Utara. Langkah strategis ini diambil guna menegakkan kedaulatan hukum dan melindungi hak berdaulat atas sumber daya kelautan di Zona Ekonomi Eksklusif (ZEE) Indonesia dari ancaman kapal nelayan asing ilegal dan intrusi kapal penjaga pantai asing.
+
+Kementerian Luar Negeri RI menegaskan kembali bahwa posisi Indonesia tidak memiliki sengketa tumpang tindih kepemilikan pulau dengan negara mana pun di Laut Natuna Utara, serta menolak keras klaim sembilan garis putus-putus (*nine-dash line*) yang tidak memiliki dasar hukum di bawah Konvensi PBB tentang Hukum Laut (UNCLOS 1982). Selain memperkuat armada kapal patroli dan radar maritim, pemerintah terus mendorong peningkatan aktivitas nelayan tradisional lokal untuk memperkuat kehadiran fisik negara di garis terdepan perbatasan laut.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Intrusi kapal asing** | 外国船の無断侵入 / 領海侵犯 | 警告を無視した進入 |
 | **Klaim sembilan garis putus-putus** | 九段線の主張 | 中国が南シナ海のほぼ全域に主張する境界線 |
 | **Konvensi PBB tentang Hukum Laut (UNCLOS 1982)** | 国連海洋法条約 | 国際海洋秩序の基本法体系 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア共和国海上保安庁（Bakamla RI）は、インドネシア海軍（TNI AL）とともに、北ナトゥナ海域における合同パトロールの強度を引き上げた。この戦略的措置は、法的主権を執行し、違法な外国漁船の脅威や外国沿岸警備船の侵入から、インドネシアの排他的経済水域（ZEE）における海洋資源に対する主権的権利を防衛するために講じられた。
+
+インドネシア共和国外務省は、インドネシアが北ナトゥナ海においていかなる国とも島嶼領有権の重複紛争を抱えていない立場を再確認するとともに、国連海洋法条約（1982年 UNCLOS）の下で法的根拠を持たない「九段線（nine-dash line）」の主張を断固として拒絶した。巡視船隊や海洋レーダーの強化に加え、政府は海洋国境の最前線における国家の物理的存在感を高めるため、地元伝統漁民の操業活動の拡大を引き続き推進している。
+
+</div>
 
 ---
 

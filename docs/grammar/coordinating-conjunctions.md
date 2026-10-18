@@ -78,7 +78,7 @@ Bahasa Indonesia tata bahasanya sederhana, tetapi kosakatanya sangat kaya.
 
 「しかし」にあたる言葉として、インドネシア語には `tetapi` のほかに **`melainkan`** があります。この2つは直前の否定語（`tidak` か `bukan` か）によって**数学のように厳格に組み合わせが決定**されます。
 
-> **【相関の黄金公式】**
+> 【**相関の黄金公式**】
 > - **`tidak ... , tetapi ...`** （〜しない / 〜ではない、しかし…）
 > - **`bukan ... , melainkan ...`** （〜ではなくて、むしろ…だ）
 

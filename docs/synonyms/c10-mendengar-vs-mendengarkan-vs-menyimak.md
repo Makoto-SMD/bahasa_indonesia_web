@@ -25,7 +25,7 @@ order: 10
 
 ## 1. mendengar（受動的に「聞こえる・耳にする」）
 
-`mendengar` は、特別な意志を持たなくても **「自然に耳に音や声が入ってくる状態」** です。また「噂やニュースを風の便りに耳にする」場合にも使われます。
+`mendengar` は、特別な意志を持たなくても 「**自然に耳に音や声が入ってくる状態**」 です。また「噂やニュースを風の便りに耳にする」場合にも使われます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -48,7 +48,7 @@ order: 10
 
 ## 2. mendengarkan（意志を持って「耳を傾ける・聴く」）
 
-接尾辞 `-kan` が付いた `mendengarkan` は、対象に注意を向けて **「自発的に耳を傾ける（listen to）」** 動作です。音楽を聴く、ラジオを聴く、親や医師の忠告に従って耳を傾ける場合に使います。
+接尾辞 `-kan` が付いた `mendengarkan` は、対象に注意を向けて 「**自発的に耳を傾ける（listen to）**」 動作です。音楽を聴く、ラジオを聴く、親や医師の忠告に従って耳を傾ける場合に使います。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -71,7 +71,7 @@ order: 10
 
 ## 3. menyimak（内容を吟味しながら「傾聴・精聴する」）
 
-`menyimak` は、語根 `simak`（注意深く見守る・吟味する）から派生した高度な動詞です。単に音を拾うだけでなく、**「話の論理、要点、細部を頭の中で咀嚼・分析しながら、一言一句集中して聴く（pay close attention to / scrutinize）」** という学術的・知的な聴取動作です。
+`menyimak` は、語根 `simak`（注意深く見守る・吟味する）から派生した高度な動詞です。単に音を拾うだけでなく、「**話の論理、要点、細部を頭の中で咀嚼・分析しながら、一言一句集中して聴く（pay close attention to / scrutinize）**」 という学術的・知的な聴取動作です。
 
 UKBIのリスニング問題の指示文には、必ずこの `menyimak` が使われます（例: *Simaklah rekaman audio berikut ini!*「以下の音声を精聴しなさい」）。
 

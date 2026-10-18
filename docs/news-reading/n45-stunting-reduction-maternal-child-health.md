@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Kesehatan Republik Indonesia bersama Badan Kependudukan dan Keluarga Berencana Nasional (BKKBN) terus mengintensifkan gerakan terpadu percepatan penurunan prevalensi tengkes (*stunting*) nasional. Melalui Survei Kesehatan Indonesia (SKI), pemerintah menargetkan angka prevalensi stunting pada balita dapat ditekan hingga di bawah empat belas persen, guna mencegah dampak permanen gagal tumbuh dan hambatan perkembangan kognitif otak anak bangsa.
-  </div>
-  <div class="id-translation">
-    インドネシア共和国保健省は、国家人口家族計画庁（BKKBN）とともに、全国のスタンティング（発育不全）罹患率低減を加速させる包括的運動を引き続き強化している。インドネシア健康調査（SKI）を通じ、政府は国家の子どもの恒久的な成長障害や脳の認知発達障害を防ぐため、5歳未満児におけるスタンティング発生率を14パーセント未満に抑え込むことを目標としている。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Intervensi gizi spesifik difokuskan pada periode emas seribu hari pertama kehidupan (1000 HPK), mulai dari pemenuhan tablet tambah darah bagi remaja putri dan ibu hamil, pemantauan kurva pertumbuhan rutin balita di Posyandu dengan alat antropometri terstandar, hingga penyediaan pangan olahan untuk keperluan medis khusus (PKMK) bagi balita dengan indikasi berat badan tidak naik (*weight faltering*). Di samping itu, kementerian terkait memperkuat intervensi sensitif berupa penyediaan akses sanitasi layak dan air minum bersih di desa-desa lokus stunting guna memutus siklus infeksi berulang yang mengganggu penyerapan nutrisi anak.
-  </div>
-  <div class="id-translation">
-    具体的栄養介入は、女子青年および妊婦への鉄分補給錠剤の支給、標準化された身体計測器を用いた統合保健ポスト（ポスヤンドゥ）での乳幼児の定期的な成長曲線モニタリングから、体重増加不良の兆候がある乳幼児に対する特殊医療用調整食品（PKMK）の提供に至るまで、「生命の最初の1000日（1000 HPK）」の黄金期に焦点が当てられている。これに加えて、関係省庁は子どもの栄養吸収を阻害する反復感染の連鎖を断ち切るため、スタンティング重点指定村落における適切な衛生環境（トイレ）および安全な飲料水アクセスの整備という間接的介入を強化している。
-  </div>
+Kementerian Kesehatan Republik Indonesia bersama Badan Kependudukan dan Keluarga Berencana Nasional (BKKBN) terus mengintensifkan gerakan terpadu percepatan penurunan prevalensi tengkes (*stunting*) nasional. Melalui Survei Kesehatan Indonesia (SKI), pemerintah menargetkan angka prevalensi stunting pada balita dapat ditekan hingga di bawah empat belas persen, guna mencegah dampak permanen gagal tumbuh dan hambatan perkembangan kognitif otak anak bangsa.
+
+Intervensi gizi spesifik difokuskan pada periode emas seribu hari pertama kehidupan (1000 HPK), mulai dari pemenuhan tablet tambah darah bagi remaja putri dan ibu hamil, pemantauan kurva pertumbuhan rutin balita di Posyandu dengan alat antropometri terstandar, hingga penyediaan pangan olahan untuk keperluan medis khusus (PKMK) bagi balita dengan indikasi berat badan tidak naik (*weight faltering*). Di samping itu, kementerian terkait memperkuat intervensi sensitif berupa penyediaan akses sanitasi layak dan air minum bersih di desa-desa lokus stunting guna memutus siklus infeksi berulang yang mengganggu penyerapan nutrisi anak.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Alat antropometri** | 身体測定器（身長計・体重計） | 誤差をなくすためデジタル化された公式計測器具 |
 | **Pos Pelayanan Terpadu (Posyandu)** | 統合保健ポスト | 村・町内会単位で月1回開かれる地域母子保健活動 |
 | **Desa lokus stunting** | スタンティング重点対策村 | 発生率が高く政府が集中的に予算投入する指定村落 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア共和国保健省は、国家人口家族計画庁（BKKBN）とともに、全国のスタンティング（発育不全）罹患率低減を加速させる包括的運動を引き続き強化している。インドネシア健康調査（SKI）を通じ、政府は国家の子どもの恒久的な成長障害や脳の認知発達障害を防ぐため、5歳未満児におけるスタンティング発生率を14パーセント未満に抑え込むことを目標としている。
+
+具体的栄養介入は、女子青年および妊婦への鉄分補給錠剤の支給、標準化された身体計測器を用いた統合保健ポスト（ポスヤンドゥ）での乳幼児の定期的な成長曲線モニタリングから、体重増加不良の兆候がある乳幼児に対する特殊医療用調整食品（PKMK）の提供に至るまで、「生命の最初の1000日（1000 HPK）」の黄金期に焦点が当てられている。これに加えて、関係省庁は子どもの栄養吸収を阻害する反復感染の連鎖を断ち切るため、スタンティング重点指定村落における適切な衛生環境（トイレ）および安全な飲料水アクセスの整備という間接的介入を強化している。
+
+</div>
 
 ---
 

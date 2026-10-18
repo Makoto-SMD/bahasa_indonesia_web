@@ -25,7 +25,7 @@ order: 14
 
 ## 1. mengajak（気軽に「一緒に〜しよう」と誘う・呼びかける）
 
-`mengajak` の中核義は **「相手に同行を促し、一緒に同じ行動をとるよう誘いかける（invite casually / ask along）」** です。口頭でのカジュアルな誘いに最も自然に使われます。
+`mengajak` の中核義は 「**相手に同行を促し、一緒に同じ行動をとるよう誘いかける（invite casually / ask along）**」 です。口頭でのカジュアルな誘いに最も自然に使われます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -48,7 +48,7 @@ order: 14
 
 ## 2. mengundang（招待状を出して公式に「招く・招聘する」）
 
-`mengundang` は、**「結婚式（kondangan）、セミナー、祝賀会、公式晩餐会などに、敬意を込めて正式に客として招く（invite officially）」** 儀礼的・公式な動詞です。名詞 **`undangan`（招待状・招待客）** と直結しています。
+`mengundang` は、「**結婚式（kondangan）、セミナー、祝賀会、公式晩餐会などに、敬意を込めて正式に客として招く（invite officially）**」 儀礼的・公式な動詞です。名詞 **`undangan`（招待状・招待客）** と直結しています。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -71,7 +71,7 @@ order: 14
 
 ## 3. meminta（何かを「求める・頼む・要請する」）
 
-`meminta`（口語では `minta`）は、同行や招待ではなく、**「相手から物、金銭、時間、労力、許可、助けを提供してもらうよう求める（ask for / request）」** 行為です。
+`meminta`（口語では `minta`）は、同行や招待ではなく、「**相手から物、金銭、時間、労力、許可、助けを提供してもらうよう求める（ask for / request）**」 行為です。
 
 <div class="id-example">
 <div class="id-example-header">

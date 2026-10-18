@@ -31,7 +31,7 @@ hari (日)        + -an = harian (日刊・日々の)
 
 ## 2. 用法①：動作の結果・対象（動詞 ＋ -an）
 
-動詞の語根に `-an` が付くと、**「その動作を行った結果として生じたもの」**、または**「その動作の対象となるもの」**を表す名詞になります。
+動詞の語根に `-an` が付くと、「**その動作を行った結果として生じたもの**」、または「**その動作の対象となるもの**」を表す名詞になります。
 
 <div class="id-example">
 <div class="id-sentence">Makanan Indonesia sangat enak dan kaya akan rempah-rempah.</div>
@@ -64,7 +64,7 @@ hari (日)        + -an = harian (日刊・日々の)
 
 ## 3. 用法②：道具・器具・手段（動詞 ＋ -an）
 
-動作を行うために使用する**「道具・器具・設備」**を表します。
+動作を行うために使用する「**道具・器具・設備**」を表します。
 
 <div class="id-example">
 <div class="id-sentence">Boleh saya pinjam gantungan baju untuk jas ini?</div>
@@ -125,7 +125,7 @@ hari (日)        + -an = harian (日刊・日々の)
 
 ## 5. 用法④：集合・総称（語根の重複 ＋ -an）
 
-名詞や動詞を重複（kata ulang）させ、後ろに `-an` を添えることで、**「〜類全般（集合名詞）」**や**「〜に似せたおもちゃ・模倣」**を表現します。
+名詞や動詞を重複（kata ulang）させ、後ろに `-an` を添えることで、「**〜類全般（集合名詞）**」や「**〜に似せたおもちゃ・模倣**」を表現します。
 
 ### 集合名詞（〜類・多種多様なもの）
 - **sayur**（野菜） $\rightarrow$ **sayur-sayuran**（野菜類・様々な野菜）

@@ -72,7 +72,7 @@ Dokter spesialis itu berhasil mengobati penyakit pasiennya.
 ## 3. 受動態構文（di-...-i）
 
 接尾辞 `-i` を伴う動詞も、三人称受動態 `di-...-i` として日常的に頻出します。
-受動態になると、**「その場所や対象が〜される」**という構文になります。
+受動態になると、「**その場所や対象が〜される**」という構文になります。
 
 - `Lokasi itu **didatangi** ribuan wisatawan.`  
   （その場所は何千人もの観光客によって**訪れられました**。）

@@ -17,16 +17,16 @@ order: 46
 
 | 単語 | 暗さの基盤・性質 | 時間軸・比喩の適用先 | 日本語の対応 | 代表例 |
 | :--- | :--- | :--- | :--- | :--- |
-| **gelap** | **【光量ゼロ・物理的暗闇・非公認】** | 現在・物理空間・不法な闇世界 | 暗い・闇・裏の・非合法な | *kamar gelap*, *pasar gelap*, *gelap gulita* |
-| **suram** | **【光量不足・陰鬱・将来不透明】** | 未来・経済見通し・顔色・どんより | 薄暗い・陰鬱な・前途多難な | *masa depan suram*, *prospek suram* |
-| **kelam** | **【陰惨・悲劇的暗雲・暗黒の過去】** | 過去・歴史のトラウマ・夕暮れ時 | 暗雲立ち込める・陰惨な・薄暗がり | *masa lalu kelam*, *lembaran kelam* |
-| **pekat** | **【高密度・濃厚・充満した暗黒】** | 液体、霧、煙、濃密な夜気 | 濃厚な・ドロリとした・漆黒の | *kopi pekat*, *kabut pekat*, *malam pekat* |
+| **gelap** | 【**光量ゼロ・物理的暗闇・非公認**】 | 現在・物理空間・不法な闇世界 | 暗い・闇・裏の・非合法な | *kamar gelap*, *pasar gelap*, *gelap gulita* |
+| **suram** | 【**光量不足・陰鬱・将来不透明**】 | 未来・経済見通し・顔色・どんより | 薄暗い・陰鬱な・前途多難な | *masa depan suram*, *prospek suram* |
+| **kelam** | 【**陰惨・悲劇的暗雲・暗黒の過去**】 | 過去・歴史のトラウマ・夕暮れ時 | 暗雲立ち込める・陰惨な・薄暗がり | *masa lalu kelam*, *lembaran kelam* |
+| **pekat** | 【**高密度・濃厚・充満した暗黒**】 | 液体、霧、煙、濃密な夜気 | 濃厚な・ドロリとした・漆黒の | *kopi pekat*, *kabut pekat*, *malam pekat* |
 
 ---
 
 ## 1. gelap（暗い・光のない・非合法の闇）
 
-光がない **「物理的な暗闇（dark）」** を表す最も基本語です。
+光がない 「**物理的な暗闇（dark）**」 を表す最も基本語です。
 - *gelap gulita*（一寸先も見えない漆黒の闇）
 - 非合法・アンダーグラウンドの比喩：*pasar gelap*（ブラックマーケット・闇市）、*transaksi gelap*（裏取引）、*tenaga kerja gelap*（不法就労者）
 
@@ -51,7 +51,7 @@ order: 46
 
 ## 2. suram（薄暗い・陰鬱な・前途多難な・見通しの暗い）
 
-光がぼんやりと遮られ、すっきりと晴れない **「薄暗さ、陰鬱さ（dim / gloomy / bleak）」** です。特に **未来の見通し（prospek / masa depan）** や人の表情に対して多用されます。
+光がぼんやりと遮られ、すっきりと晴れない 「**薄暗さ、陰鬱さ（dim / gloomy / bleak）**」 です。特に **未来の見通し（prospek / masa depan）** や人の表情に対して多用されます。
 
 - *masa depan suram*（暗い未来・前途多難）
 - *wajah suram*（曇った表情・陰鬱な顔つき）
@@ -78,7 +78,7 @@ order: 46
 
 ## 3. kelam（陰惨な・薄暗がり・歴史や過去の暗部）
 
-文学的で重みのある語で、**「悲劇やトラウマ、悪行に塗れた暗い過去や歴史（somber / sinister / dark past）」** を指す際に定番として使われます。
+文学的で重みのある語で、「**悲劇やトラウマ、悪行に塗れた暗い過去や歴史（somber / sinister / dark past）**」 を指す際に定番として使われます。
 - *masa lalu yang kelam*（消し去りたい暗い過去・陰惨な過去）
 - *catatan kelam sejarah*（歴史の暗黒の1ページ）
 - *remang-remang kelam*（黄昏の薄暗がり）
@@ -104,7 +104,7 @@ order: 46
 
 ## 4. pekat（濃厚な・ドロリとした・濃密な闇）
 
-物質や空気が **「ぎっしりと高密度で凝縮している（thick / concentrated / dense）」** ことを表します。
+物質や空気が 「**ぎっしりと高密度で凝縮している（thick / concentrated / dense）**」 ことを表します。
 1. **液体の濃度**: *kopi pekat*（濃いブラックコーヒー）、*larutan pekat*（濃厚溶液）
 2. **空気や煙の密度**: *kabut pekat*（濃霧）、*asap pekat*（立ち込める濃煙）
 3. **闇の深さ**: *malam yang pekat*（濃密な漆黒の夜）

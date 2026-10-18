@@ -32,7 +32,24 @@ Keberhasilan IKN pada akhirnya tidak semata-mata diukur dari kemegahan fisik ged
 
 ---
 
-## 3. 段落ごとの対訳と読解ポイント
+## 3. 重要語彙・表現一覧 (Kosakata Penting)
+
+| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
+| :--- | :--- | :--- | :--- |
+| **transformatif** | 形容詞 | 変革的な、構造を変える | 英語由来借用語 |
+| **penurunan tanah** | 名詞句 | 地盤沈下 | `turun` + `tanah` |
+| **banjir rob** | 名詞句 | 潮汐洪水、満潮による冠水 | ジャワ語 `rob`（満潮） |
+| **ketimpangan** | 名詞 | 不均衡、格差、不公平 | `timpang` |
+| **mencolok** | 形容詞 | 顕著な、目立つ | `colok` |
+| **pemerataan** | 名詞 | 均等化、偏りの是正 | `rata`（平らな・等しい） |
+| **kolosal** | 形容詞 | 壮大な、超巨大な | 英語 *colossal* |
+| **kepastian hukum** | 名詞句 | 法的確実性、法的安定性 | `pasti` + `hukum` |
+| **masyarakat adat** | 名詞句 | 先住民族共同体、慣習社会 | `adat`（慣習） |
+| **menyongsong** | 他動詞 | （記念日・新時代を）出迎える | `songsong` |
+
+---
+
+## 4. 段落ごとの対訳と読解ポイント (Terjemahan & Poin Bacaan)
 
 ### 第1段落: 首都移転の背景：過密・地盤沈下と地域間格差
 
@@ -122,23 +139,6 @@ IKNの成否は、結局のところ政府庁舎建築の物理的な壮大さ�
 
 ---
 
-## 4. 重要語彙・表現一覧
-
-| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
-| :--- | :--- | :--- | :--- |
-| **transformatif** | 形容詞 | 変革的な、構造を変える | 英語由来借用語 |
-| **penurunan tanah** | 名詞句 | 地盤沈下 | `turun` + `tanah` |
-| **banjir rob** | 名詞句 | 潮汐洪水、満潮による冠水 | ジャワ語 `rob`（満潮） |
-| **ketimpangan** | 名詞 | 不均衡、格差、不公平 | `timpang` |
-| **mencolok** | 形容詞 | 顕著な、目立つ | `colok` |
-| **pemerataan** | 名詞 | 均等化、偏りの是正 | `rata`（平らな・等しい） |
-| **kolosal** | 形容詞 | 壮大な、超巨大な | 英語 *colossal* |
-| **kepastian hukum** | 名詞句 | 法的確実性、法的安定性 | `pasti` + `hukum` |
-| **masyarakat adat** | 名詞句 | 先住民族共同体、慣習社会 | `adat`（慣習） |
-| **menyongsong** | 他動詞 | （記念日・新時代を）出迎える | `songsong` |
-
----
-
 ## 5. 文法・構文の徹底解説
 
 ### ① 抽象政策用語を作る接辞体系：`peN-...-an` vs `per-...-an`
@@ -164,7 +164,7 @@ IKNの成否は、結局のところ政府庁舎建築の物理的な壮大さ�
 
 ## 6. 読解力チェッククイズ
 
-**【問1】** Apa alasan utama pemindahan ibu kota dari Jakarta menurut paragraf pertama?
+【**問1**】 Apa alasan utama pemindahan ibu kota dari Jakarta menurut paragraf pertama?
 - A. Karena wilayah Jakarta akan dijual kepada investor asing
 - B. Masalah ekologis dan demografis Jakarta seperti penurunan tanah, banjir rob, dan ketimpangan pembangunan barat-timur
 - C. Keinginan pemerintah untuk membangun pelabuhan laut terbesar di Asia
@@ -176,7 +176,7 @@ IKNの成否は、結局のところ政府庁舎建築の物理的な壮大さ�
 
 ---
 
-**【問2】** Berapa persen kawasan IKN yang direncanakan sebagai ruang terbuka hijau?
+【**問2**】 Berapa persen kawasan IKN yang direncanakan sebagai ruang terbuka hijau?
 - A. Kurang dari 20 persen
 - B. Sekitar 50 persen
 - C. Lebih dari 70 persen
@@ -188,7 +188,7 @@ IKNの成否は、結局のところ政府庁舎建築の物理的な壮大さ�
 
 ---
 
-**【問3】** Apa tantangan fiskal utama dalam pembangunan IKN menurut paragraf ketiga?
+【**問3**】 Apa tantangan fiskal utama dalam pembangunan IKN menurut paragraf ketiga?
 - A. Tidak ada mata uang yang sah di Kalimantan Timur
 - B. Ketergantungan pada pembiayaan non-APBN yang menuntut kepastian hukum di tengah pergantian kepemimpinan politik
 - C. Seluruh anggaran APBN habis untuk subsidi BBM
@@ -202,6 +202,6 @@ IKNの成否は、結局のところ政府庁舎建築の物理的な壮大さ�
 
 ## 7. 背景知識コラム：「Indonesia Emas 2045」と首都移転の歴史
 
-インドネシアは1945年8月17日の独立宣言から数えて、2045年に**独立100周年（Satu Abad Kemerdekaan）**を迎えます。政府はこの年に向けて、世界のトップ5に入る経済大国・高所得国への飛躍を目指す国家長期ビジョン **「Indonesia Emas 2045（黄金のインドネシア2045）」** を掲げています。
+インドネシアは1945年8月17日の独立宣言から数えて、2045年に**独立100周年（Satu Abad Kemerdekaan）**を迎えます。政府はこの年に向けて、世界のトップ5に入る経済大国・高所得国への飛躍を目指す国家長期ビジョン 「**Indonesia Emas 2045（黄金のインドネシア2045）**」 を掲げています。
 
 実は、首都をカリマンタン島へ移転する構想はスカルノ初代大統領の時代（1950年代の中央カリマンタン州パランカラヤ遷都構想）から幾度となく議論されてきた悲願でした。巨大なジャワ偏重から脱却し、広大な多島海国家全体のポテンシャルを解き放つ象徴として、IKNヌサンタラは国家の命運を賭けた壮大な挑戦となっています。

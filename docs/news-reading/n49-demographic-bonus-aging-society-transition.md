@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Badan Pusat Statistik (BPS) memproyeksikan bahwa Indonesia tengah berada di puncak jendela peluang (*window of opportunity*) fenomena bonus demografi, di mana proporsi penduduk usia produktif (15-64 tahun) mencapai hampir tujuh puluh persen dari total populasi. Momentum emas yang diperkirakan akan berlangsung hingga pertengahan dekade 2030-an ini menjadi penentu krusial apakah Indonesia mampu bertransformasi menjadi negara maju berpendapatan tinggi atau justru terperangkap dalam jebakan pendapatan menengah (*middle-income trap*).
-  </div>
-  <div class="id-translation">
-    中央統計庁（BPS）は、インドネシアが生産年齢人口（15〜64歳）の割合が総人口のほぼ70パーセントに達する「人口ボーナスの好機の窓（ウィンドウ・オブ・オポチュニティ）」のピークにあると予測した。2030年代半ばまで続くと予想されるこの黄金のマイルストーンは、インドネシアが高所得先進国へと変革を遂げることができるか、それとも「中所得国の罠（ミドル・インカム・トラップ）」に囚われてしまうのかを分ける極めて重要な決定打となる。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Perencanaan Pembangunan Nasional (Bappenas) mengingatkan bahwa bonus demografi bukanlah jaminan otomatis pertumbuhan ekonomi apabila tidak dibarengi dengan penciptaan lapangan kerja berkualitas dan peningkatan mutu pendidikan vokasi. Selain itu, tren penurunan angka kelahiran total (*Total Fertility Rate*/TFR) di berbagai provinsi perkotaan mengisyaratkan percepatan transisi menuju masyarakat menua (*aging society*), sehingga pemerintah perlu merancang sistem jaminan pensiun universal dan perawatan kesehatan lansia sejak dini demi mencegah ancaman fenomena menjadi tua sebelum kaya (*getting old before getting rich*).
-  </div>
-  <div class="id-translation">
-    国家開発計画省（Bappenas）は、質の高い雇用の創出および職業教育の質の向上を伴わない限り、人口ボーナスは自動的な経済成長の保証ではないと警告した。さらに、大都市の各州における合計特殊出生率（TFR）の低下傾向は、高齢化社会への移行の加速を示唆しており、それゆえ政府は「豊かになる前に老いる（getting old before getting rich）」という現象の脅威を防ぐため、国民皆年金制度および高齢者医療ケア体制を早期から設計する必要がある。
-  </div>
+Badan Pusat Statistik (BPS) memproyeksikan bahwa Indonesia tengah berada di puncak jendela peluang (*window of opportunity*) fenomena bonus demografi, di mana proporsi penduduk usia produktif (15-64 tahun) mencapai hampir tujuh puluh persen dari total populasi. Momentum emas yang diperkirakan akan berlangsung hingga pertengahan dekade 2030-an ini menjadi penentu krusial apakah Indonesia mampu bertransformasi menjadi negara maju berpendapatan tinggi atau justru terperangkap dalam jebakan pendapatan menengah (*middle-income trap*).
+
+Kementerian Perencanaan Pembangunan Nasional (Bappenas) mengingatkan bahwa bonus demografi bukanlah jaminan otomatis pertumbuhan ekonomi apabila tidak dibarengi dengan penciptaan lapangan kerja berkualitas dan peningkatan mutu pendidikan vokasi. Selain itu, tren penurunan angka kelahiran total (*Total Fertility Rate*/TFR) di berbagai provinsi perkotaan mengisyaratkan percepatan transisi menuju masyarakat menua (*aging society*), sehingga pemerintah perlu merancang sistem jaminan pensiun universal dan perawatan kesehatan lansia sejak dini demi mencegah ancaman fenomena menjadi tua sebelum kaya (*getting old before getting rich*).
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Masyarakat menua (*aging society*)** | 高齢化社会 | 65歳以上人口比率が7%を超えた社会 |
 | **Tua sebelum kaya** | 豊かになる前に老いる | 高所得国入りする前に少子高齢化と社会保障破綻に直面する罠 |
 | **Jaminan pensiun universal** | 国民皆年金制度 | 全労働者・非正規就労者を網羅する老後所得保障 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+中央統計庁（BPS）は、インドネシアが生産年齢人口（15〜64歳）の割合が総人口のほぼ70パーセントに達する「人口ボーナスの好機の窓（ウィンドウ・オブ・オポチュニティ）」のピークにあると予測した。2030年代半ばまで続くと予想されるこの黄金のマイルストーンは、インドネシアが高所得先進国へと変革を遂げることができるか、それとも「中所得国の罠（ミドル・インカム・トラップ）」に囚われてしまうのかを分ける極めて重要な決定打となる。
+
+国家開発計画省（Bappenas）は、質の高い雇用の創出および職業教育の質の向上を伴わない限り、人口ボーナスは自動的な経済成長の保証ではないと警告した。さらに、大都市の各州における合計特殊出生率（TFR）の低下傾向は、高齢化社会への移行の加速を示唆しており、それゆえ政府は「豊かになる前に老いる（getting old before getting rich）」という現象の脅威を防ぐため、国民皆年金制度および高齢者医療ケア体制を早期から設計する必要がある。
+
+</div>
 
 ---
 

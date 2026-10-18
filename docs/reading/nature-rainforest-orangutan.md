@@ -32,7 +32,24 @@ Menghadapi ancaman kepunahan ini, berbagai lembaga konservasi dan pemerintah bek
 
 ---
 
-## 3. 段落ごとの対訳と読解ポイント
+## 3. 重要語彙・表現一覧 (Kosakata Penting)
+
+| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
+| :--- | :--- | :--- | :--- |
+| **keanekaragaman** | 名詞 | 多様性 | `aneka ragam` |
+| **endemik** | 形容詞 | 固有の（その地域特有の） | 学術借用語 |
+| **satwa langka** | 名詞句 | 希少野生動物 | `satwa`（動物）+ `langka`（稀な） |
+| **tajuk pohon** | 名詞句 | 樹冠、梢（木のてっぺん） | `tajuk`（冠） |
+| **mengkhawatirkan**| 他動詞/形容詞 | 懸念させる、憂慮すべき | `khawatir`（心配する） |
+| **alih fungsi** | 名詞句 | 用途転換、機能変更 | `alih` + `fungsi` |
+| **masif** | 形容詞 | 大規模な、圧倒的な | 英語 *massive* 由来 |
+| **terisolasi** | 形容詞/受動動詞 | 孤立した、隔離された | `isolasi` |
+| **kepunahan** | 名詞 | 絶滅 | `punah` |
+| **kelestarian** | 名詞 | （自然・環境の）保全、持続性 | `lestari` |
+
+---
+
+## 4. 段落ごとの対訳と読解ポイント (Terjemahan & Poin Bacaan)
 
 ### 第1段落: 地球の肺と固有種の宝庫
 
@@ -117,23 +134,6 @@ Menghadapi ancaman kepunahan ini, berbagai lembaga konservasi dan pemerintah bek
 
 ---
 
-## 4. 重要語彙・表現一覧
-
-| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
-| :--- | :--- | :--- | :--- |
-| **keanekaragaman** | 名詞 | 多様性 | `aneka ragam` |
-| **endemik** | 形容詞 | 固有の（その地域特有の） | 学術借用語 |
-| **satwa langka** | 名詞句 | 希少野生動物 | `satwa`（動物）+ `langka`（稀な） |
-| **tajuk pohon** | 名詞句 | 樹冠、梢（木のてっぺん） | `tajuk`（冠） |
-| **mengkhawatirkan**| 他動詞/形容詞 | 懸念させる、憂慮すべき | `khawatir`（心配する） |
-| **alih fungsi** | 名詞句 | 用途転換、機能変更 | `alih` + `fungsi` |
-| **masif** | 形容詞 | 大規模な、圧倒的な | 英語 *massive* 由来 |
-| **terisolasi** | 形容詞/受動動詞 | 孤立した、隔離された | `isolasi` |
-| **kepunahan** | 名詞 | 絶滅 | `punah` |
-| **kelestarian** | 名詞 | （自然・環境の）保全、持続性 | `lestari` |
-
----
-
 ## 5. 文法・構文の徹底解説
 
 ### ① 複合動詞の受動態：`dilepasliarkan`
@@ -156,7 +156,7 @@ Menghadapi ancaman kepunahan ini, berbagai lembaga konservasi dan pemerintah bek
 
 ## 6. 読解力チェッククイズ
 
-**【問1】** Mengapa orangutan sering dijuluki sebagai "petani hutan"?
+【**問1**】 Mengapa orangutan sering dijuluki sebagai "petani hutan"?
 - A. Karena orangutan suka menanam pohon bersama manusia
 - B. Karena sebagai pemakan buah, orangutan berperan menyebarkan biji di seluruh hutan
 - C. Karena orangutan tinggal di desa pertanian dekat hutan
@@ -168,7 +168,7 @@ Menghadapi ancaman kepunahan ini, berbagai lembaga konservasi dan pemerintah bek
 
 ---
 
-**【問2】** Faktor apa yang menjadi ancaman terbesar bagi kelangsungan hidup orangutan di Kalimantan?
+【**問2**】 Faktor apa yang menjadi ancaman terbesar bagi kelangsungan hidup orangutan di Kalimantan?
 - A. Terlalu banyak wisatawan yang datang ke hutan
 - B. Kurangnya air hujan di hutan hujan tropis
 - C. Alih fungsi lahan menjadi kelapa sawit, pertambangan, kebakaran hutan, dan perburuan liar
@@ -180,7 +180,7 @@ Menghadapi ancaman kepunahan ini, berbagai lembaga konservasi dan pemerintah bek
 
 ---
 
-**【問3】** Apa yang dilakukan di pusat rehabilitasi satwa sebelum bayi orangutan dilepasliarkan?
+【**問3**】 Apa yang dilakukan di pusat rehabilitasi satwa sebelum bayi orangutan dilepasliarkan?
 - A. Diberi makan makanan manusia dan dilatih sirkus
 - B. Diajari keterampilan bertahan hidup di alam
 - C. Dipelihara selamanya di dalam kandang kebun binatang

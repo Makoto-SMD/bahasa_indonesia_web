@@ -7,7 +7,7 @@ order: 1
 
 # G01：アチェ州（Aceh）— メッカのベランダ・シャリーア法・珈琲と津波復興の歴史
 
-スマトラ島の北西端、インドネシア最西端に位置する **アチェ特別州（Provinsi Aceh）**。古くからインド洋交易の要衝として栄え、東南アジアで最も早くイスラム教を受け入れたことから **「メッカのベランダ（Serambi Mekkah）」** と称されます。
+スマトラ島の北西端、インドネシア最西端に位置する **アチェ特別州（Provinsi Aceh）**。古くからインド洋交易の要衝として栄え、東南アジアで最も早くイスラム教を受け入れたことから 「**メッカのベランダ（Serambi Mekkah）**」 と称されます。
 
 独自の自治権（シャリーア法 / Hukum Syariah）を持つ唯一の州であり、世界的に名高いガヨ・アラビカ珈琲の産地、そして2004年スマトラ島沖地震津波（Tsunami Aceh）からの不屈の復興を遂げた地でもあります。アチェの豊かな文化と歴史を学びましょう。
 
@@ -54,7 +54,7 @@ order: 1
 
 アチェ中央部の高原地帯（Dataran Tinggi Gayo）で栽培される **Kopi Arabika Gayo** は、有機栽培によるフルーティな酸味と芳醇なアロマで世界中のコーヒー愛好家を魅了しています。
 
-また、北端に浮かぶウェイ島（Pulau Weh）のサバン（Sabang）には **「インドネシア最西端ゼロキロ地点記念碑（Monumen Titik Nol Kilometer Indonesia）」** があり、国歌『Dari Sabang sampai Merauke』の歌い出しとして国民に親しまれています。
+また、北端に浮かぶウェイ島（Pulau Weh）のサバン（Sabang）には 「**インドネシア最西端ゼロキロ地点記念碑（Monumen Titik Nol Kilometer Indonesia）**」 があり、国歌『Dari Sabang sampai Merauke』の歌い出しとして国民に親しまれています。
 
 <div class="id-example">
 <div class="id-example-header">

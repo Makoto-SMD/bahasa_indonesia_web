@@ -72,7 +72,7 @@ D. Pasal peralihan yang mengatur masa transisi berlakunya undang-undang.
 
 - **B（正解＝条件付き違憲の正確な解釈）**: 
   本文の主文（Amar Putusan）に `tidak mempunyai kekuatan hukum mengikat secara bersyarat, sepanjang tidak dimaknai bahwa pengawasan tersebut wajib mengikutsertakan representasi lembaga swadaya masyarakat independen` と明記されています。
-  これは憲法裁判所判決の典型的な **「条件付き違憲（Inkonstitusional Bersyarat）」** です。条文そのものを全面破棄（Batal Mutlak）するのではなく、「独立系NGOの代表を含めると解釈されない限りは違憲（＝含めると解釈される限りにおいては合憲・有効）」という法的判断です。
+  これは憲法裁判所判決の典型的な 「**条件付き違憲（Inkonstitusional Bersyarat）**」 です。条文そのものを全面破棄（Batal Mutlak）するのではなく、「独立系NGOの代表を含めると解釈されない限りは違憲（＝含めると解釈される限りにおいては合憲・有効）」という法的判断です。
 
 - **A（事実誤認）**: `beralasan menurut hukum untuk sebagian`（一部に法的理由がある）とされており、全棄却（ditolak seluruhnya）ではありません。
 - **C（事実誤認）**: 絶対的無効（batal mutlak）ではなく、解釈を付与した条件付き違憲です。

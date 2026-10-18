@@ -2,7 +2,7 @@
 
 社内ミーティング、プロジェクト推進会議、対面またはZoomでの会議進行（ファシリテーション）を行い、参加者の発言を促し、議論を結論へと導くためのパターン構文です。
 
-司会者（Moderator / Pemandu rapat）として会議を円滑に進行するには、**「開会の宣言（Mari kita mulai）」「意見の募集（Ada yang ingin menambahkan?）」「議論の整理（Sebagai rangkuman）」「閉会のまとめ（Kesimpulannya）」**というフェーズごとの定型句を押さえておくことが不可欠です。
+司会者（Moderator / Pemandu rapat）として会議を円滑に進行するには、「**開会の宣言（Mari kita mulai）」「意見の募集（Ada yang ingin menambahkan?）」「議論の整理（Sebagai rangkuman）」「閉会のまとめ（Kesimpulannya）**」というフェーズごとの定型句を押さえておくことが不可欠です。
 
 本記事では、会議進行・司会ファシリテーションの4大パターン構文を演習します。
 

@@ -32,7 +32,24 @@ Pada akhirnya, investasi waktu untuk membangun kedekatan emosional melalui obrol
 
 ---
 
-## 3. 段落ごとの対訳と読解ポイント
+## 3. 重要語彙・表現一覧 (Kosakata Penting)
+
+| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
+| :--- | :--- | :--- | :--- |
+| **antarbudaya** | 形容詞 | 異文化間の、文化相互の | `antar-` + `budaya` |
+| **gesekan** | 名詞 | 摩擦、軋轢 | `gesek` |
+| **mempermalukan** | 他動詞 | 恥をかかせる、屈辱を与える | `malu`（恥ずかしい） |
+| **empat mata** | 成句 | サシで、1対1で、内密に | `mata`（目） |
+| **musyawarah** | 名詞 | 話し合い、熟議 | アラビア語由来 |
+| **mufakat** | 名詞/動詞 | 合意、満場一致 | アラビア語由来 |
+| **sepihak** | 形容詞 | 一方的な、単独の | `pihak`（側） |
+| **mengayomi** | 他動詞 | 庇護する、包容する、温かく守る | ジャワ語 `ayom` |
+| **mengedepankan** | 他動詞 | 前面に押し出す、優先する | `depan`（前） |
+| **kemitraan** | 名詞 | パートナーシップ、提携関係 | `mitra`（パートナー） |
+
+---
+
+## 4. 段落ごとの対訳と読解ポイント (Terjemahan & Poin Bacaan)
 
 ### 第1段落: 異文化コミュニケーションと人間関係の重要性
 
@@ -118,23 +135,6 @@ Pada akhirnya, investasi waktu untuk membangun kedekatan emosional melalui obrol
 
 ---
 
-## 4. 重要語彙・表現一覧
-
-| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
-| :--- | :--- | :--- | :--- |
-| **antarbudaya** | 形容詞 | 異文化間の、文化相互の | `antar-` + `budaya` |
-| **gesekan** | 名詞 | 摩擦、軋轢 | `gesek` |
-| **mempermalukan** | 他動詞 | 恥をかかせる、屈辱を与える | `malu`（恥ずかしい） |
-| **empat mata** | 成句 | サシで、1対1で、内密に | `mata`（目） |
-| **musyawarah** | 名詞 | 話し合い、熟議 | アラビア語由来 |
-| **mufakat** | 名詞/動詞 | 合意、満場一致 | アラビア語由来 |
-| **sepihak** | 形容詞 | 一方的な、単独の | `pihak`（側） |
-| **mengayomi** | 他動詞 | 庇護する、包容する、温かく守る | ジャワ語 `ayom` |
-| **mengedepankan** | 他動詞 | 前面に押し出す、優先する | `depan`（前） |
-| **kemitraan** | 名詞 | パートナーシップ、提携関係 | `mitra`（パートナー） |
-
----
-
 ## 5. 文法・構文の徹底解説
 
 ### ① 方向・位置からの使役動詞化：`mengedepankan`
@@ -157,7 +157,7 @@ Pada akhirnya, investasi waktu untuk membangun kedekatan emosional melalui obrol
 
 ## 6. 読解力チェッククイズ
 
-**【問1】** Mengapa menegur bawahan di depan rekan kerjanya dianggap tidak bijak di Indonesia?
+【**問1**】 Mengapa menegur bawahan di depan rekan kerjanya dianggap tidak bijak di Indonesia?
 - A. Karena dapat mempermalukan dan merusak harga diri serta motivasi kerja bawahan
 - B. Karena membuang-buang waktu rapat kerja
 - C. Karena melanggar hukum perburuhan nasional
@@ -169,7 +169,7 @@ Pada akhirnya, investasi waktu untuk membangun kedekatan emosional melalui obrol
 
 ---
 
-**【問2】** Pendekatan kepemimpinan seperti apa yang dipandang lebih efektif dalam budaya kerja Indonesia?
+【**問2**】 Pendekatan kepemimpinan seperti apa yang dipandang lebih efektif dalam budaya kerja Indonesia?
 - A. Kepemimpinan instruktif yang sangat kaku dan dingin
 - B. Kepemimpinan kekeluargaan di mana atasan mampu mengayomi dan peduli pada bawahan
 - C. Mengabaikan komunikasi antarpribadi demi efisiensi waktu
@@ -181,7 +181,7 @@ Pada akhirnya, investasi waktu untuk membangun kedekatan emosional melalui obrol
 
 ---
 
-**【問3】** Apa manfaat dari obrolan santai (*ngobrol-ngobrol*) sebelum rapat formal dimulai?
+【**問3**】 Apa manfaat dari obrolan santai (*ngobrol-ngobrol*) sebelum rapat formal dimulai?
 - A. Untuk menunda waktu bekerja selama mungkin
 - B. Sebagai fondasi penting bagi terbentuknya rasa saling percaya (trust) antarrekan kerja
 - C. Untuk membicarakan gosip tentang perusahaan pesaing

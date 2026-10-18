@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Rencana penyesuaian tarif Pajak Pertambahan Nilai (PPN) dari 11 persen menjadi 12 persen yang dijadwalkan berlaku mulai awal tahun depan menuai beragam respons dari kalangan pelaku usaha dan masyarakat luas. Kebijakan ini merupakan amanat dari Undang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan (UU HPP) yang dirancang untuk memperkuat penerimaan pajak dan menyehatkan postur APBN pascapandemi.
-  </div>
-  <div class="id-translation">
-    来年初頭から適用が予定されている付加価値税（PPN）税率の11パーセントから12パーセントへの改定計画は、事業者層や広く一般社会から多様な反応を呼んでいる。この政策は、パンデミック後の国家歳入歳出予算（APBN）構造を健全化し税収を強化するために策定された、税制調和に関する2021年法律第7号（UU HPP）の規定・委任事項である。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kendati demikian, sejumlah ekonom dan asosiasi ritel mengkhawatirkan bahwa kenaikan tarif pajak konsumsi tersebut dapat menekan daya beli kelas menengah yang saat ini belum sepenuhnya pulih. Peningkatan harga barang dan jasa berpotensi memperlambat laju konsumsi rumah tangga yang selama ini menjadi motor utama pertumbuhan ekonomi domestik. Pemerintah memastikan bahwa barang kebutuhan pokok, layanan kesehatan, dan pendidikan tetap dibebaskan dari pengenaan PPN untuk melindungi kelompok masyarakat rentan.
-  </div>
-  <div class="id-translation">
-    それにもかかわらず、一部の経済学者や小売業協会は、消費課税の税率引き上げが、現在まだ完全に回復していない中間層の購買力を圧迫しかねないと懸念している。財・サービスの価格上昇は、これまで国内経済成長の主エンジンとなってきた家計最終消費支出の勢いを鈍化させる潜在的リスクがある。政府は、社会的脆弱層を保護するため、基礎生活必需品、医療サービス、教育は引き続きPPNの課税対象から免除されることを明言・担保している。
-  </div>
+Rencana penyesuaian tarif Pajak Pertambahan Nilai (PPN) dari 11 persen menjadi 12 persen yang dijadwalkan berlaku mulai awal tahun depan menuai beragam respons dari kalangan pelaku usaha dan masyarakat luas. Kebijakan ini merupakan amanat dari Undang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan (UU HPP) yang dirancang untuk memperkuat penerimaan pajak dan menyehatkan postur APBN pascapandemi.
+
+Kendati demikian, sejumlah ekonom dan asosiasi ritel mengkhawatirkan bahwa kenaikan tarif pajak konsumsi tersebut dapat menekan daya beli kelas menengah yang saat ini belum sepenuhnya pulih. Peningkatan harga barang dan jasa berpotensi memperlambat laju konsumsi rumah tangga yang selama ini menjadi motor utama pertumbuhan ekonomi domestik. Pemerintah memastikan bahwa barang kebutuhan pokok, layanan kesehatan, dan pendidikan tetap dibebaskan dari pengenaan PPN untuk melindungi kelompok masyarakat rentan.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Konsumsi rumah tangga** | 家計消費（個人消費） | インドネシアGDPの50%以上を占める最大構成要素 |
 | **Barang kebutuhan pokok** | 基礎生活必需品 | 米、肉、卵、野菜など課税免除（bebas PPN）の対象品目 |
 | **Masyarakat rentan** | 脆弱層 / 低所得者層 | 景気後退や物価高の打撃を最も受けやすい層 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+来年初頭から適用が予定されている付加価値税（PPN）税率の11パーセントから12パーセントへの改定計画は、事業者層や広く一般社会から多様な反応を呼んでいる。この政策は、パンデミック後の国家歳入歳出予算（APBN）構造を健全化し税収を強化するために策定された、税制調和に関する2021年法律第7号（UU HPP）の規定・委任事項である。
+
+それにもかかわらず、一部の経済学者や小売業協会は、消費課税の税率引き上げが、現在まだ完全に回復していない中間層の購買力を圧迫しかねないと懸念している。財・サービスの価格上昇は、これまで国内経済成長の主エンジンとなってきた家計最終消費支出の勢いを鈍化させる潜在的リスクがある。政府は、社会的脆弱層を保護するため、基礎生活必需品、医療サービス、教育は引き続きPPNの課税対象から免除されることを明言・担保している。
+
+</div>
 
 ---
 

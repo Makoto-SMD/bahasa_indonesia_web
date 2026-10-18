@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Pemerintah Indonesia bersama Malaysia yang tergabung dalam Dewan Negara-Negara Penghasil Minyak Sawit (*Council of Palm Oil Producing Countries*/CPOPC) terus melancarkan diplomasi bersama untuk menentang penerapan Regulasi Bebas Deforestasi Uni Eropa (*European Union Deforestation Regulation*/EUDR). Jakarta menilai bahwa regulasi sepihak tersebut bersifat diskriminatif dan berpotensi menjadi hambatan non-tarif yang mengecualikan jutaan petani kecil kelapa sawit (*smallholders*) dari rantai pasok perdagangan global.
-  </div>
-  <div class="id-translation">
-    パーム油生産国評議会（CPOPC）に加盟するインドネシア政府はマレーシアとともに、欧州連合の「森林破壊防止規則（EUDR）」の適用に反対するため共同外交を展開し続けている。ジャカルタは、この一方的な規制が差別的であり、数百万の零細パーム油小規模農家をグローバル貿易サプライチェーンから締め出す非関税障壁となりかねないと評価している。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Koordinator Bidang Perekonomian menegaskan bahwa Indonesia telah memiliki standar sertifikasi nasional yang ketat melalui Indonesia Sustainable Palm Oil (ISPO), yang menjamin bahwa komoditas minyak kelapa sawit mentah (*crude palm oil*/CPO) diproduksi tanpa merusak kawasan hutan lindung dan mematuhi prinsip keberlanjutan. Pemerintah mendesak Uni Eropa untuk mengakui sertifikasi lokal serta memberikan fleksibilitas tenggat waktu implementasi dan bantuan teknis pemetaan geolokasi poligon lahan, agar petani swadaya tidak terbebani biaya sertifikasi yang mahal dan kehilangan akses ke pasar Eropa.
-  </div>
-  <div class="id-translation">
-    経済担当調整省は、インドネシアが「インドネシア持続可能パーム油（ISPO）」を通じて厳格な国家認証基準をすでに保持しており、これが未加工パーム油（CPO）コモディティが保護林地域を破壊することなく生産され、持続可能性の原則を遵守していることを担保していると強調した。政府は欧州連合に対し、地元認証を相互承認すること、ならびに自主小規模農家が高額な認証費用を背負わされ欧州市場へのアクセスを失うことがないよう、施行猶予期間の柔軟性および農地ポリゴンの地理情報（ジオロケーション）マッピングに関する技術支援を提供するよう強く求めている。
-  </div>
+Pemerintah Indonesia bersama Malaysia yang tergabung dalam Dewan Negara-Negara Penghasil Minyak Sawit (*Council of Palm Oil Producing Countries*/CPOPC) terus melancarkan diplomasi bersama untuk menentang penerapan Regulasi Bebas Deforestasi Uni Eropa (*European Union Deforestation Regulation*/EUDR). Jakarta menilai bahwa regulasi sepihak tersebut bersifat diskriminatif dan berpotensi menjadi hambatan non-tarif yang mengecualikan jutaan petani kecil kelapa sawit (*smallholders*) dari rantai pasok perdagangan global.
+
+Kementerian Koordinator Bidang Perekonomian menegaskan bahwa Indonesia telah memiliki standar sertifikasi nasional yang ketat melalui Indonesia Sustainable Palm Oil (ISPO), yang menjamin bahwa komoditas minyak kelapa sawit mentah (*crude palm oil*/CPO) diproduksi tanpa merusak kawasan hutan lindung dan mematuhi prinsip keberlanjutan. Pemerintah mendesak Uni Eropa untuk mengakui sertifikasi lokal serta memberikan fleksibilitas tenggat waktu implementasi dan bantuan teknis pemetaan geolokasi poligon lahan, agar petani swadaya tidak terbebani biaya sertifikasi yang mahal dan kehilangan akses ke pasar Eropa.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Hutan lindung** | 保安林 / 保護林 | 伐採や農地転換が法律で禁止されている森林 |
 | **Pemetaan geolokasi poligon** | ポリゴン地理位置マッピング | EUDRが求めるGPS農地境界座標データの取得 |
 | **CPOPC** | パーム油生産国評議会 | 世界のパーム油の85%を牛耳る印・馬主導の国際カルテル組織 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+パーム油生産国評議会（CPOPC）に加盟するインドネシア政府はマレーシアとともに、欧州連合の「森林破壊防止規則（EUDR）」の適用に反対するため共同外交を展開し続けている。ジャカルタは、この一方的な規制が差別的であり、数百万の零細パーム油小規模農家をグローバル貿易サプライチェーンから締め出す非関税障壁となりかねないと評価している。
+
+経済担当調整省は、インドネシアが「インドネシア持続可能パーム油（ISPO）」を通じて厳格な国家認証基準をすでに保持しており、これが未加工パーム油（CPO）コモディティが保護林地域を破壊することなく生産され、持続可能性の原則を遵守していることを担保していると強調した。政府は欧州連合に対し、地元認証を相互承認すること、ならびに自主小規模農家が高額な認証費用を背負わされ欧州市場へのアクセスを失うことがないよう、施行猶予期間の柔軟性および農地ポリゴンの地理情報（ジオロケーション）マッピングに関する技術支援を提供するよう強く求めている。
+
+</div>
 
 ---
 

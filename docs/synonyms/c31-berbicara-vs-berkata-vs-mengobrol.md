@@ -51,7 +51,7 @@ order: 31
 
 ## 2. berkata（言葉・発言内容を口にして「言う」）
 
-`berkata` は、語根 `kata`（言葉・単語）から派生した動詞で、**「具体的な内容を言葉にして言う、述べる（say / utter）」** 動作です。直接話法（鍵括弧の前の発言動詞）や間接話法で極めて頻繁に使われます。
+`berkata` は、語根 `kata`（言葉・単語）から派生した動詞で、「**具体的な内容を言葉にして言う、述べる（say / utter）**」 動作です。直接話法（鍵括弧の前の発言動詞）や間接話法で極めて頻繁に使われます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -74,7 +74,7 @@ order: 31
 
 ## 3. bercakap（双方向で言葉を交わす「対話・会話」）
 
-`bercakap`（重ね言葉の **`bercakap-cakap`** で多用）は、2人以上の人間が **「双方向で言葉をキャッチボールする（converse / chat）」** ことを表します。教科書のタイトル「日常会話（*Percakapan Sehari-hari*）」の基幹単語です。
+`bercakap`（重ね言葉の **`bercakap-cakap`** で多用）は、2人以上の人間が 「**双方向で言葉をキャッチボールする（converse / chat）**」 ことを表します。教科書のタイトル「日常会話（*Percakapan Sehari-hari*）」の基幹単語です。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -95,7 +95,7 @@ order: 31
 
 ## 4. mengobrol（気楽な雑談・おしゃべり・世間話）
 
-`mengobrol`（口語では **`ngobrol`**）は、堅苦しいビジネスや議論ではなく、**「カフェや休憩室で、取り留めのない話題をリラックスして楽しむおしゃべり（chit-chat / hanging out）」** です。親しい友人や同僚との交流を象徴する語です。
+`mengobrol`（口語では **`ngobrol`**）は、堅苦しいビジネスや議論ではなく、「**カフェや休憩室で、取り留めのない話題をリラックスして楽しむおしゃべり（chit-chat / hanging out）**」 です。親しい友人や同僚との交流を象徴する語です。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -120,7 +120,7 @@ order: 31
 | 場面 | 最適な動詞 | 理由 |
 | :--- | :---: | :--- |
 | **外国語を操る（言語能力）** | **berbicara** | *Bisa berbicara bahasa Jepang.* |
-| **「正直に言いなさい」** | **berkata** | 具体的な発話内容（*Berkata jujur.*） |
+| 「**正直に言いなさい**」 | **berkata** | 具体的な発話内容（*Berkata jujur.*） |
 | **教科書の「会話文」** | **percakapan (cakap)** | 双方向の言葉のやり取り |
 | **カフェで友達とダベる** | **mengobrol / ngobrol** | リラックスした無目的の雑談 |
 | **セミナーの講師・演説者** | **pembicara (bicara)** | 公の場での発信者 |

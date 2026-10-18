@@ -25,8 +25,8 @@ order: 32
 
 ## 1. menengok（首を向けて見る・実家や親戚に立ち寄る）
 
-`menengok` の原義は **「首を横や後ろに向けて見る（turn the head to look / glance）」** です。
-そこから派生して、**「遠方の実家の両親や親戚の家へ立ち寄り、元気でやっているか様子を見に行く（visit / look in on）」** という親愛の情を込めた訪問を表します。
+`menengok` の原義は 「**首を横や後ろに向けて見る（turn the head to look / glance）**」 です。
+そこから派生して、「**遠方の実家の両親や親戚の家へ立ち寄り、元気でやっているか様子を見に行く（visit / look in on）**」 という親愛の情を込めた訪問を表します。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -49,7 +49,7 @@ order: 32
 
 ## 2. menjenguk（病気・入院・被災者の「お見舞いに行く」）
 
-`menjenguk` は、相手が **「病気、怪我、入院、拘置所収容、あるいは災害に遭っている」** 時に、回復や安否を気遣って訪問する **「病気見舞い・慰問（visit the sick）」** の専用動詞です。
+`menjenguk` は、相手が 「**病気、怪我、入院、拘置所収容、あるいは災害に遭っている**」 時に、回復や安否を気遣って訪問する 「**病気見舞い・慰問（visit the sick）**」 の専用動詞です。
 
 手土産（果物やお見舞い金）を持参して病室を訪ねる場面では、必ずこの語を使います。
 
@@ -74,7 +74,7 @@ order: 32
 
 ## 3. melayat（葬儀・通夜・遺族への「弔問に行く」）
 
-`melayat` は、人間が **「亡くなった（meninggal dunia）」** 際に、遺体安置所や自宅（*rumah duka*）を訪れ、**「故人を悼み、遺族にお悔やみを述べる（pay condolences / attend a funeral）」** 弔問専用の格式高い動詞です。
+`melayat` は、人間が 「**亡くなった（meninggal dunia）**」 際に、遺体安置所や自宅（*rumah duka*）を訪れ、「**故人を悼み、遺族にお悔やみを述べる（pay condolences / attend a funeral）**」 弔問専用の格式高い動詞です。
 
 会葬者や弔問客は **`pelayat`** と呼ばれます。
 

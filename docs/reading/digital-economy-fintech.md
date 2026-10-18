@@ -32,7 +32,24 @@ Keberhasilan implementasi QRIS memberikan dampak sosial-ekonomi yang sangat sign
 
 ---
 
-## 3. 段落ごとの対訳と読解ポイント
+## 3. 重要語彙・表現一覧 (Kosakata Penting)
+
+| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
+| :--- | :--- | :--- | :--- |
+| **lokapasar** | 名詞 | オンライン市場、ECマーケットプレイス | `loka`（場所）+ `pasar`（市場） |
+| **penetrasi** | 名詞 | 浸透、普及率 | 借用語 |
+| **katalisator** | 名詞 | 触媒、起爆剤 | - |
+| **pembayaran non-tunai**| 名詞句 | キャッシュレス決済 | `tunai`（現金） |
+| **memindai** | 他動詞 | スキャンする、読み取る | `pindai` |
+| **pedagang kaki lima** | 名詞句 | 屋台商人、露天商（PKL） | 歩道の幅5フィートに由来 |
+| **inklusi keuangan** | 名詞句 | 金融包摂（金融サービスへのアクセス機会） | `inklusi` |
+| **rekening bank** | 名詞句 | 銀行口座 | オランダ語 *rekening* 由来 |
+| **modal usaha** | 名詞句 | 運転資金、事業資本 | `modal`（資本） |
+| **berdaya saing** | 形容詞 | 競争力を持った | `daya`（力）+ `saing`（競う） |
+
+---
+
+## 4. 段落ごとの対訳と読解ポイント (Terjemahan & Poin Bacaan)
 
 ### 第1段落: 若年層とスマホが牽引する巨大デジタル市場
 
@@ -119,23 +136,6 @@ QRIS導入の成功は、とりわけ零細・中小企業（MSME/UMKM）の事�
 
 ---
 
-## 4. 重要語彙・表現一覧
-
-| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
-| :--- | :--- | :--- | :--- |
-| **lokapasar** | 名詞 | オンライン市場、ECマーケットプレイス | `loka`（場所）+ `pasar`（市場） |
-| **penetrasi** | 名詞 | 浸透、普及率 | 借用語 |
-| **katalisator** | 名詞 | 触媒、起爆剤 | - |
-| **pembayaran non-tunai**| 名詞句 | キャッシュレス決済 | `tunai`（現金） |
-| **memindai** | 他動詞 | スキャンする、読み取る | `pindai` |
-| **pedagang kaki lima** | 名詞句 | 屋台商人、露天商（PKL） | 歩道の幅5フィートに由来 |
-| **inklusi keuangan** | 名詞句 | 金融包摂（金融サービスへのアクセス機会） | `inklusi` |
-| **rekening bank** | 名詞句 | 銀行口座 | オランダ語 *rekening* 由来 |
-| **modal usaha** | 名詞句 | 運転資金、事業資本 | `modal`（資本） |
-| **berdaya saing** | 形容詞 | 競争力を持った | `daya`（力）+ `saing`（競う） |
-
----
-
 ## 5. 文法・構文の徹底解説
 
 ### ① 外来語の純インドネシア語訳：Padanan Istilah
@@ -153,14 +153,14 @@ QRIS導入の成功は、とりわけ零細・中小企業（MSME/UMKM）の事�
 
 ### ③ 略語の読み方規則：Akronim
 単語として発音できる略語（Akronim）は、アルファベットを1字ずつ読まずに1つの単語として発音します。
-- **QRIS** は「キュー・アール・アイ・エス」ではなく、**「クリス（Kris）」** と読みます。
+- **QRIS** は「キュー・アール・アイ・エス」ではなく、「**クリス（Kris）**」 と読みます。
 - **UMKM** は各文字を「ウー・エム・カー・エム」と頭字語（Singkatan）として発音します。
 
 ---
 
 ## 6. 読解力チェッククイズ
 
-**【問1】** Apa masalah utama yang terjadi sebelum hadirnya sistem pembayaran QRIS?
+【**問1**】 Apa masalah utama yang terjadi sebelum hadirnya sistem pembayaran QRIS?
 - A. Transaksi pembayaran non-tunai dilarang oleh pemerintah
 - B. Setiap penyedia dompet digital memiliki kode QR masing-masing yang tidak saling terhubung sehingga membingungkan
 - C. Biaya transaksi menggunakan uang tunai jauh lebih murah
@@ -172,7 +172,7 @@ QRIS導入の成功は、とりわけ零細・中小企業（MSME/UMKM）の事�
 
 ---
 
-**【問2】** Di manakah pemanfaatan QRIS dapat ditemukan di Indonesia saat ini menurut teks?
+【**問2**】 Di manakah pemanfaatan QRIS dapat ditemukan di Indonesia saat ini menurut teks?
 - A. Hanya di bank sentral Indonesia
 - B. Hanya di toko daring internasional
 - C. Dari mall mewah hingga pedagang kecil, warung, kaki lima, dan tempat ibadah
@@ -184,7 +184,7 @@ QRIS導入の成功は、とりわけ零細・中小企業（MSME/UMKM）の事�
 
 ---
 
-**【問3】** Apa manfaat QRIS bagi pelaku Usaha Mikro, Kecil, dan Menengah (UMKM)?
+【**問3**】 Apa manfaat QRIS bagi pelaku Usaha Mikro, Kecil, dan Menengah (UMKM)?
 - A. Mereka tidak perlu membayar pajak lagi
 - B. Dapat mencatat riwayat transaksi secara digital dan lebih mudah mengakses pembiayaan modal usaha
 - C. Diberikan pinjaman uang tunai gratis oleh pelanggan

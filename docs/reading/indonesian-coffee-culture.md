@@ -32,7 +32,24 @@ Bagi masyarakat perkotaan, kafe telah menjadi ruang sosial penting untuk "nongkr
 
 ---
 
-## 3. 段落ごとの対訳と読解ポイント
+## 3. 重要語彙・表現一覧 (Kosakata Penting)
+
+| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
+| :--- | :--- | :--- | :--- |
+| **penghasil** | 名詞 | 生産者、産出地 | `hasil`（成果・産出） |
+| **subur** | 形容詞 | 肥沃な、よく育つ | 対義語: `tandus`（不毛な） |
+| **cita rasa** | 名詞句 | 風味、味わい | `cita`（感情）+ `rasa`（味） |
+| **rempah** | 名詞 | 香辛料、スパイス | `rempah-rempah` |
+| **menyeduh** | 他動詞 | （湯を注いで）淹れる、抽出する | `seduh` |
+| **mengendap** | 自動詞 | 沈殿する、沈む | `endap` |
+| **bermunculan** | 自動詞 | 次々と現れる、乱立する | `muncul`（現れる） |
+| **nongkrong** | 自動詞（口語） | たむろする、おしゃべりして過ごす | ジャカルタ口語から定着 |
+| **pelepas dahaga** | 名詞句 | 渇きを癒すもの | `lepas` + `dahaga`（渇き） |
+| **kebersamaan** | 名詞 | 連帯感、共に過ごすこと | `sama`（同じ） |
+
+---
+
+## 4. 段落ごとの対訳と読解ポイント (Terjemahan & Poin Bacaan)
 
 ### 第1段落: 世界有数の産地と多様な豆の個性
 
@@ -116,23 +133,6 @@ Bagi masyarakat perkotaan, kafe telah menjadi ruang sosial penting untuk "nongkr
 
 ---
 
-## 4. 重要語彙・表現一覧
-
-| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
-| :--- | :--- | :--- | :--- |
-| **penghasil** | 名詞 | 生産者、産出地 | `hasil`（成果・産出） |
-| **subur** | 形容詞 | 肥沃な、よく育つ | 対義語: `tandus`（不毛な） |
-| **cita rasa** | 名詞句 | 風味、味わい | `cita`（感情）+ `rasa`（味） |
-| **rempah** | 名詞 | 香辛料、スパイス | `rempah-rempah` |
-| **menyeduh** | 他動詞 | （湯を注いで）淹れる、抽出する | `seduh` |
-| **mengendap** | 自動詞 | 沈殿する、沈む | `endap` |
-| **bermunculan** | 自動詞 | 次々と現れる、乱立する | `muncul`（現れる） |
-| **nongkrong** | 自動詞（口語） | たむろする、おしゃべりして過ごす | ジャカルタ口語から定着 |
-| **pelepas dahaga** | 名詞句 | 渇きを癒すもの | `lepas` + `dahaga`（渇き） |
-| **kebersamaan** | 名詞 | 連帯感、共に過ごすこと | `sama`（同じ） |
-
----
-
 ## 5. 文法・構文の徹底解説
 
 ### ① 否定の対比構文：`bukan ..., melainkan ...`
@@ -157,7 +157,7 @@ Bagi masyarakat perkotaan, kafe telah menjadi ruang sosial penting untuk "nongkr
 
 ## 6. 読解力チェッククイズ
 
-**【問1】** Apa ciri khas dari Kopi Aceh Gayo menurut teks bacaan di atas?
+【**問1**】 Apa ciri khas dari Kopi Aceh Gayo menurut teks bacaan di atas?
 - A. Memiliki cita rasa buah-buahan yang sangat manis
 - B. Memiliki aroma rempah yang kuat
 - C. Sangat murah dan mudah ditemukan di warung
@@ -169,7 +169,7 @@ Bagi masyarakat perkotaan, kafe telah menjadi ruang sosial penting untuk "nongkr
 
 ---
 
-**【問2】** Bagaimanakah cara minum kopi tubruk yang benar berdasarkan teks?
+【**問2**】 Bagaimanakah cara minum kopi tubruk yang benar berdasarkan teks?
 - A. Diminum segera sebelum bubuk kopinya mengendap
 - B. Disaring dengan kertas saring sebelum diminum
 - C. Diminum secara perlahan setelah ampas kopinya mengendap di dasar cangkir
@@ -181,7 +181,7 @@ Bagi masyarakat perkotaan, kafe telah menjadi ruang sosial penting untuk "nongkr
 
 ---
 
-**【問3】** Apa arti dari tradisi "nongkrong" bagi masyarakat perkotaan di Indonesia?
+【**問3**】 Apa arti dari tradisi "nongkrong" bagi masyarakat perkotaan di Indonesia?
 - A. Bekerja keras di kantor lembur hingga larut malam
 - B. Berolahraga pagi bersama di taman kota
 - C. Kebiasaan berkumpul santai bersama teman untuk mengobrol berjam-jam tanpa terburu-buru

@@ -17,10 +17,10 @@ order: 9
 
 | 動詞（語根） | 視線の性質と集中度 | 主な対象 | 日本語の対応 | 代表例 |
 | :--- | :--- | :--- | :--- | :--- |
-| **melihat (lihat)** | **「一般的な視覚・目撃」**<br>無意識〜意識的な視覚全般（see / look） | あらゆる人・物・出来事 | 見る・目撃する・会う | *melihat pemandangan*, *melihat kecelakaan* |
-| **menonton (tonton)** | **「娯楽・ショーの鑑賞」**<br>動く映像やパフォーマンスを楽しむ（watch） | 映画、テレビ、試合、劇 | 観る・鑑賞する・観戦する | *menonton film*, *menonton sepak bola di TV* |
-| **memandang (pandang)** | **「広角的な眺望・見渡す」**<br>風景や人物を情緒的・客観的に眺める | 風景、空、水平線、評価 | 眺める・見晴らす・見なす | *memandang laut*, *memandang remeh*（見下す） |
-| **menatap (tatap)** | **「焦点的凝視・直視」**<br>相手の目や一点をじっと見つめる（stare） | 相手の目、顔、写真、一点 | 見つめる・凝視する・直視する | *menatap mata lawan*, *tatap muka*（対面） |
+| **melihat (lihat)** | 「**一般的な視覚・目撃**」<br>無意識〜意識的な視覚全般（see / look） | あらゆる人・物・出来事 | 見る・目撃する・会う | *melihat pemandangan*, *melihat kecelakaan* |
+| **menonton (tonton)** | 「**娯楽・ショーの鑑賞**」<br>動く映像やパフォーマンスを楽しむ（watch） | 映画、テレビ、試合、劇 | 観る・鑑賞する・観戦する | *menonton film*, *menonton sepak bola di TV* |
+| **memandang (pandang)** | 「**広角的な眺望・見渡す**」<br>風景や人物を情緒的・客観的に眺める | 風景、空、水平線、評価 | 眺める・見晴らす・見なす | *memandang laut*, *memandang remeh*（見下す） |
+| **menatap (tatap)** | 「**焦点的凝視・直視**」<br>相手の目や一点をじっと見つめる（stare） | 相手の目、顔、写真、一点 | 見つめる・凝視する・直視する | *menatap mata lawan*, *tatap muka*（対面） |
 
 ---
 
@@ -49,7 +49,7 @@ order: 9
 
 ## 2. menonton（娯楽・パフォーマンスを「観る」）
 
-`menonton` は、映画、演劇、スポーツの試合、YouTube動画、テレビ番組など、**「エンターテインメントや動的な催し物を鑑賞する」** 場合に限定して使われます（英語の *watch a show*）。
+`menonton` は、映画、演劇、スポーツの試合、YouTube動画、テレビ番組など、「**エンターテインメントや動的な催し物を鑑賞する**」 場合に限定して使われます（英語の *watch a show*）。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -75,7 +75,7 @@ order: 9
 
 ## 3. memandang（遠くの景色や人を「眺める」）
 
-`memandang` は、**「視界を広く取って、風景や情景、あるいは人物を感慨深く眺める」** 動作です。また比喩的に「物事をどう捉えるか、どう評価するか（view as）」という意味にも発展します。
+`memandang` は、「**視界を広く取って、風景や情景、あるいは人物を感慨深く眺める**」 動作です。また比喩的に「物事をどう捉えるか、どう評価するか（view as）」という意味にも発展します。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -98,7 +98,7 @@ order: 9
 
 ## 4. menatap（視線を固定して「見つめる・凝視する」）
 
-`menatap` は、**「視線を一点、特に相手の目や顔に集中させて、真剣に・じっと見つめる（gaze / stare）」** 動作です。愛、怒り、決意、疑念などの強い感情が伴います。
+`menatap` は、「**視線を一点、特に相手の目や顔に集中させて、真剣に・じっと見つめる（gaze / stare）**」 動作です。愛、怒り、決意、疑念などの強い感情が伴います。
 
 <div class="id-example">
 <div class="id-example-header">

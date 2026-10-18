@@ -10,7 +10,7 @@
 
 ## 1. 体調不良・痛みの基本構文（sakit ...）
 
-「痛い」「病気だ」を表す万能な単語が **sakit**（サキッ）です。**「sakit ＋ 体の部位」**で、どこが痛むのかを即座に説明できます。
+「痛い」「病気だ」を表す万能な単語が **sakit**（サキッ）です。「**sakit ＋ 体の部位**」で、どこが痛むのかを即座に説明できます。
 
 <div class="id-example">
 <div class="id-sentence">Saya merasa kurang sehat / tidak enak badan.</div>
@@ -59,7 +59,7 @@
 
 ## 3. 【インドネシア特有の健康概念】Masuk Angin とは？
 
-インドネシアで体調が悪いと話すと、現地の人から100%の確率で**「Pasti masuk angin ya!（きっと風が入ったんだね！）」**と言われます。
+インドネシアで体調が悪いと話すと、現地の人から100%の確率で「**Pasti masuk angin ya!（きっと風が入ったんだね！）**」と言われます。
 
 ```text
 【Masuk Angin（風邪気味・冷え・胃腸の張り）】

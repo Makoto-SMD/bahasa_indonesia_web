@@ -90,7 +90,7 @@
 ---
 
 > [!IMPORTANT]
-> **「清掃は点検なり（Membersihkan adalah Memeriksa）」**  
+> 「**清掃は点検なり（Membersihkan adalah Memeriksa）**」  
 > 自主保全（Jishu Hozen）の核心は、オペレーター自身が自分の使う機械を雑巾で拭くことにあります。手で機械を拭くことで、「ボルトの緩み」「油のにじみ」「異常な熱」「かすかな異音」など、重大故障につながる初期の微欠陥（cacat mikro）を五感で察知できるようになります。
 
 ---

@@ -6,15 +6,15 @@
 
 ## 1. 語根 tumbuh からの派生語ファミリー
 
-```mermaid
-graph TD
-    T["語根: tumbuh（成長する、生える）"]
-    T --> B["bertumbuh / tumbuh（自動詞: 育つ、生える、成長する）"]
-    T --> M["menumbuhkan（他動詞: 育てる、生えさせる、培う、促す）"]
-    T --> PT["pertumbuhan（名詞: 成長、伸び率、増加）"]
-    T --> PN["penumbuh（名詞: 成長促進剤、育毛剤など）"]
-    T --> TT["tumbuh-tumbuhan（名詞: 植物全般、草木）"]
-```
+語根 **tumbuh**（意味: 成長する、生える）から派生する主要な単語一覧です。
+
+| 派生語 | 品詞・分類 | 主な日本語の意味・ニュアンス |
+| :--- | :--- | :--- |
+| **bertumbuh / tumbuh** | 自動詞 | 育つ、生える、成長する |
+| **menumbuhkan** | 他動詞 | 育てる、生えさせる、培う、促す |
+| **pertumbuhan** | 名詞 | 成長、伸び率、増加 |
+| **penumbuh** | 名詞 | 成長促進剤、育毛剤など |
+| **tumbuh-tumbuhan** | 名詞 | 植物全般、草木 |
 
 ---
 

@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Pemerintah Indonesia terus mendesak negara-negara maju yang tergabung dalam International Partners Group (IPG) untuk merealisasikan komitmen pendanaan transisi energi senilai 20 miliar dolar AS dalam kerangka Just Energy Transition Partnership (JETP). Sekretariat JETP Indonesia menekankan bahwa porsi hibah (*grant*) dan pinjaman lunak (*concessional loan*) harus diperbesar agar tidak membebani ruang fiskal negara berkembang.
-  </div>
-  <div class="id-translation">
-    インドネシア政府は、公正なエネルギー移行パートナーシップ（JETP）の枠組みにおける総額200億米ドルのエネルギー移行資金支援コミットメントを実行するよう、国際パートナーグループ（IPG）を構成する先進諸国に対して引き続き強く求めている。インドネシアJETP事務局は、発展途上国の財政余地を圧迫しないよう、無償資金協力（グラント）および譲許的融資（低利ソフトローン）の割合を拡大すべきであると強調した。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Rencana Investasi dan Kebijakan Komprehensif (CIPP) JETP memprioritaskan pensiun dini sejumlah pembangkit listrik tenaga uap (PLTU) batu bara serta pembangunan jaringan transmisi untuk mengintegrasikan potensi energi baru dan terbarukan (EBT), seperti tenaga surya, panas bumi, dan hidro. Namun, negosiasi kompensasi pengakhiran kontrak sewa daya (*Power Purchase Agreement*) dengan produsen listrik swasta (IPP) masih menghadapi proses negosiasi yang rumit dan membutuhkan kepastian skema pembiayaan campuran (*blended finance*).
-  </div>
-  <div class="id-translation">
-    JETPの「包括的投資・政策計画（CIPP）」は、複数の石炭火力発電所（PLTU）の早期退役（早期閉鎖）と、太陽光、地熱、水力などの再生可能エネルギー（EBT）の潜在力を統合するための送電網整備を最優先課題としている。しかし、民間発電事業者（IPP）との長期売電契約（PPA）解約に伴う補償交渉は依然として難航しており、混合融資（ブレンデッド・ファイナンス）スキームの確実な確立が求められている。
-  </div>
+Pemerintah Indonesia terus mendesak negara-negara maju yang tergabung dalam International Partners Group (IPG) untuk merealisasikan komitmen pendanaan transisi energi senilai 20 miliar dolar AS dalam kerangka Just Energy Transition Partnership (JETP). Sekretariat JETP Indonesia menekankan bahwa porsi hibah (*grant*) dan pinjaman lunak (*concessional loan*) harus diperbesar agar tidak membebani ruang fiskal negara berkembang.
+
+Rencana Investasi dan Kebijakan Komprehensif (CIPP) JETP memprioritaskan pensiun dini sejumlah pembangkit listrik tenaga uap (PLTU) batu bara serta pembangunan jaringan transmisi untuk mengintegrasikan potensi energi baru dan terbarukan (EBT), seperti tenaga surya, panas bumi, dan hidro. Namun, negosiasi kompensasi pengakhiran kontrak sewa daya (*Power Purchase Agreement*) dengan produsen listrik swasta (IPP) masih menghadapi proses negosiasi yang rumit dan membutuhkan kepastian skema pembiayaan campuran (*blended finance*).
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Pensiun dini PLTU** | 石炭火力の早期退役・廃炉 | 耐用年数前の発電所を繰り上げ停止すること |
 | **Energi baru dan terbarukan (EBT)** | 新・再生可能エネルギー | インドネシア政府の公式エネルギー分類用語 |
 | **Pembiayaan campuran (*blended finance*)** | 混合融資 | 公的資金・民間資本・慈善資金を組み合わせた融資 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア政府は、公正なエネルギー移行パートナーシップ（JETP）の枠組みにおける総額200億米ドルのエネルギー移行資金支援コミットメントを実行するよう、国際パートナーグループ（IPG）を構成する先進諸国に対して引き続き強く求めている。インドネシアJETP事務局は、発展途上国の財政余地を圧迫しないよう、無償資金協力（グラント）および譲許的融資（低利ソフトローン）の割合を拡大すべきであると強調した。
+
+JETPの「包括的投資・政策計画（CIPP）」は、複数の石炭火力発電所（PLTU）の早期退役（早期閉鎖）と、太陽光、地熱、水力などの再生可能エネルギー（EBT）の潜在力を統合するための送電網整備を最優先課題としている。しかし、民間発電事業者（IPP）との長期売電契約（PPA）解約に伴う補償交渉は依然として難航しており、混合融資（ブレンデッド・ファイナンス）スキームの確実な確立が求められている。
+
+</div>
 
 ---
 

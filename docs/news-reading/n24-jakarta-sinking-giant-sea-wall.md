@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Ancaman tenggelamnya wilayah pesisir utara Jakarta akibat kombinasi laju penurunan muka tanah (*land subsidence*) yang ekstrem dan kenaikan permukaan air laut global kian mendesak pemerintah untuk mengambil tindakan terobosan. Sejumlah kawasan di Jakarta Utara dilaporkan telah mengalami penurunan tanah hingga belasan sentimeter per tahun, terutama dipicu oleh masifnya ekstraksi air tanah dalam oleh sektor industri dan permukiman akibat belum meratanya jaringan pipa air minum perpipaan (PAM).
-  </div>
-  <div class="id-translation">
-    極端な地盤沈下（ランド・サブシデンス）の進行と世界的な海面上昇との複合要因によるジャカルタ北部沿岸地域の水没の脅威は、政府に対して突破口となる抜本的措置を講じることを一段と迫っている。水道配水管網（PAM）の未普及が原因で産業界や住宅地による深層地下水の過剰な汲み上げが多発していることが主因となり、北ジャカルタの複数の地域では年間十数センチメートルもの地盤沈下を記録していると報告されている。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Untuk membendung banjir rob dan menyelamatkan kawasan metropolitan yang menampung jutaan penduduk serta pusat perputaran ekonomi nasional, Kementerian Koordinator Bidang Perekonomian kembali mematangkan mega proyek Tanggul Laut Raksasa (*Giant Sea Wall*). Proyek yang masuk dalam rencana Pembangunan Pesisir Terpadu Ibukota Negara (NCICD) ini dirancang membentang di sepanjang Teluk Jakarta, mengombinasikan pembangunan tanggul pantai darurat fase A, tanggul laut lepas pantai fase B, serta pengembangan kawasan reklamasi terpadu berbasis kemitraan pemerintah dan badan usaha (KPBU).
-  </div>
-  <div class="id-translation">
-    高潮洪水（ロブ洪水）を食い止め、数百万人もの人口と国家経済の循環中枢を抱える首都圏を救済するため、経済担当調整省は巨大防潮堤（ジャイアント・シー・ウォール）メガプロジェクトの具体化・成熟を再び進めている。首都沿岸統合開発（NCICD）計画に組み込まれたこのプロジェクトは、ジャカルタ湾沿いに建設されるよう設計されており、緊急海岸堤防フェーズA、沖合海上防潮堤フェーズB、ならびに公私連携（KPBU）スキームに基づく複合埋立地開発を組み合わせている。
-  </div>
+Ancaman tenggelamnya wilayah pesisir utara Jakarta akibat kombinasi laju penurunan muka tanah (*land subsidence*) yang ekstrem dan kenaikan permukaan air laut global kian mendesak pemerintah untuk mengambil tindakan terobosan. Sejumlah kawasan di Jakarta Utara dilaporkan telah mengalami penurunan tanah hingga belasan sentimeter per tahun, terutama dipicu oleh masifnya ekstraksi air tanah dalam oleh sektor industri dan permukiman akibat belum meratanya jaringan pipa air minum perpipaan (PAM).
+
+Untuk membendung banjir rob dan menyelamatkan kawasan metropolitan yang menampung jutaan penduduk serta pusat perputaran ekonomi nasional, Kementerian Koordinator Bidang Perekonomian kembali mematangkan mega proyek Tanggul Laut Raksasa (*Giant Sea Wall*). Proyek yang masuk dalam rencana Pembangunan Pesisir Terpadu Ibukota Negara (NCICD) ini dirancang membentang di sepanjang Teluk Jakarta, mengombinasikan pembangunan tanggul pantai darurat fase A, tanggul laut lepas pantai fase B, serta pengembangan kawasan reklamasi terpadu berbasis kemitraan pemerintah dan badan usaha (KPBU).
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Proyek NCICD** | 首都沿岸統合開発 | National Capital Integrated Coastal Development |
 | **Teluk Jakarta** | ジャカルタ湾 | ジャカルタ北部に広がる湾岸水域 |
 | **Kawasan reklamasi** | 人工埋立造成地域 | 湾内に造成された人工島などの再開発エリア |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+極端な地盤沈下（ランド・サブシデンス）の進行と世界的な海面上昇との複合要因によるジャカルタ北部沿岸地域の水没の脅威は、政府に対して突破口となる抜本的措置を講じることを一段と迫っている。水道配水管網（PAM）の未普及が原因で産業界や住宅地による深層地下水の過剰な汲み上げが多発していることが主因となり、北ジャカルタの複数の地域では年間十数センチメートルもの地盤沈下を記録していると報告されている。
+
+高潮洪水（ロブ洪水）を食い止め、数百万人もの人口と国家経済の循環中枢を抱える首都圏を救済するため、経済担当調整省は巨大防潮堤（ジャイアント・シー・ウォール）メガプロジェクトの具体化・成熟を再び進めている。首都沿岸統合開発（NCICD）計画に組み込まれたこのプロジェクトは、ジャカルタ湾沿いに建設されるよう設計されており、緊急海岸堤防フェーズA、沖合海上防潮堤フェーズB、ならびに公私連携（KPBU）スキームに基づく複合埋立地開発を組み合わせている。
+
+</div>
 
 ---
 

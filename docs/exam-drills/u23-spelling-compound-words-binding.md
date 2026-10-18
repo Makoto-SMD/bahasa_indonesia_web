@@ -83,7 +83,7 @@
 
 | 語根複合語 (Dasar) | 片側接辞 (Awalan saja) | 両側接辞 (Awalan + Akhiran) |
 | :--- | :--- | :--- |
-| **【原則: 分かち書き】** | **【分かち書きを維持！】** | **【完全に1語に結合！】** |
+| 【**原則: 分かち書き**】 | 【**分かち書きを維持！**】 | 【**完全に1語に結合！**】 |
 | **tanggung jawab** (責任) | **bertanggung jawab** | **mempertanggungjawabkan** / **pertanggungjawaban** |
 | **kerja sama** (協力) | **bekerja sama** | **mengerjasamakan** / **perkerjasamaaan** |
 | **tanda tangan** (署名) | **bertanda tangan** | **menandatangani** / **penandatanganan** |

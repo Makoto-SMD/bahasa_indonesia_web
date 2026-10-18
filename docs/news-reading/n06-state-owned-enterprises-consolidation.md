@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Badan Usaha Milik Negara (BUMN) terus melanjutkan agenda transformasi dan konsolidasi korporasi pelat merah guna menciptakan ekosistem bisnis yang lebih sehat dan berdaya saing global. Menteri BUMN menyatakan bahwa jumlah perusahaan negara telah dipangkas secara drastis melalui skema penggabungan (*merger*) dan pembentukan *holding* sektoral, dari sebelumnya lebih dari seratus entitas menjadi puluhan induk usaha strategis.
-  </div>
-  <div class="id-translation">
-    国営企業省（Kementerian BUMN）は、より健全でグローバルな競争力を持つビジネスエコシステムを創出するため、国営企業（pelat merah）の変革および企業統合アジェンダを引き続き推進している。国営企業相は、合併（マージャー）やセクター別持株会社（ホールディング）の形成スキームを通じ、かつての100社以上におよぶ事業主体から数十社の戦略的持株親会社へと、国営企業の総数が劇的に削減されたと表明した。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Restrukturisasi ini juga difokuskan pada penyehatan neraca keuangan sejumlah BUMN karya yang terbebani utang infrastruktur serta penguatan tata kelola perusahaan yang baik (*Good Corporate Governance*). Di samping itu, pemerintah mendorong privatisasi parsial melalui penawaran umum perdana saham (*Initial Public Offering*/IPO) bagi anak-anak usaha yang memiliki fundamental solid di Bursa Efek Indonesia (BEI) demi meningkatkan transparansi dan akuntabilitas publik.
-  </div>
-  <div class="id-translation">
-    この再編はまた、インフラ投資による債務負担を抱えた複数の国営建設企業（BUMN Karya）の財務バランスシート健全化や、コーポレートガバナンス（GCG）の強化にも重点が置かれている。さらに政府は、透明性と公的アカウンタビリティを高めるため、強固なファンダメンタルズを有する優良子会社を対象に、インドネシア証券取引所（BEI）での新規株式公開（IPO）を通じた部分的な民営化を推進している。
-  </div>
+Kementerian Badan Usaha Milik Negara (BUMN) terus melanjutkan agenda transformasi dan konsolidasi korporasi pelat merah guna menciptakan ekosistem bisnis yang lebih sehat dan berdaya saing global. Menteri BUMN menyatakan bahwa jumlah perusahaan negara telah dipangkas secara drastis melalui skema penggabungan (*merger*) dan pembentukan *holding* sektoral, dari sebelumnya lebih dari seratus entitas menjadi puluhan induk usaha strategis.
+
+Restrukturisasi ini juga difokuskan pada penyehatan neraca keuangan sejumlah BUMN karya yang terbebani utang infrastruktur serta penguatan tata kelola perusahaan yang baik (*Good Corporate Governance*). Di samping itu, pemerintah mendorong privatisasi parsial melalui penawaran umum perdana saham (*Initial Public Offering*/IPO) bagi anak-anak usaha yang memiliki fundamental solid di Bursa Efek Indonesia (BEI) demi meningkatkan transparansi dan akuntabilitas publik.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Neraca keuangan** | 貸借対照表 / バランスシート | 債務超過や流動性危機の文脈で頻出 |
 | **Bursa Efek Indonesia (BEI)** | インドネシア証券取引所 | IDX（Indonesia Stock Exchange） |
 | **Penawaran umum perdana saham (IPO)** | 新規株式公開 | 国有株式の一部を市場売却する資本調達 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+国営企業省（Kementerian BUMN）は、より健全でグローバルな競争力を持つビジネスエコシステムを創出するため、国営企業（pelat merah）の変革および企業統合アジェンダを引き続き推進している。国営企業相は、合併（マージャー）やセクター別持株会社（ホールディング）の形成スキームを通じ、かつての100社以上におよぶ事業主体から数十社の戦略的持株親会社へと、国営企業の総数が劇的に削減されたと表明した。
+
+この再編はまた、インフラ投資による債務負担を抱えた複数の国営建設企業（BUMN Karya）の財務バランスシート健全化や、コーポレートガバナンス（GCG）の強化にも重点が置かれている。さらに政府は、透明性と公的アカウンタビリティを高めるため、強固なファンダメンタルズを有する優良子会社を対象に、インドネシア証券取引所（BEI）での新規株式公開（IPO）を通じた部分的な民営化を推進している。
+
+</div>
 
 ---
 

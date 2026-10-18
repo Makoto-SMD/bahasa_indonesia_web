@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Pelestarian warisan budaya takbenda (*intangible cultural heritage*) UNESCO di Indonesia kian menemukan napas baru berkat keterlibatan aktif generasi muda dan komunitas kreatif perkotaan. Tradisi batik tulis yang sarat filosofi leluhur dan orkestra musik tradisional gamelan kini tidak lagi dipandang sebagai kesenian kuno yang kaku, melainkan bermutasi menjadi tren gaya hidup modern melalui peragaan busana kontemporer, festival musik fusi, dan diplomasi budaya digital di panggung global.
-  </div>
-  <div class="id-translation">
-    インドネシアにおけるユネスコ無形文化遺産の保護・継承は、若年世代および都市部クリエイティブ・コミュニティの積極的な参加のおかげで、新たな息吹を見出しつつある。先祖の深遠な哲学に満ちた手描きバティック（バティック・トゥリス）の伝統やガムラン伝統音楽オーケストラは、今や硬直した古臭い芸術としては見なされておらず、現代ファッションショー、フュージョン音楽フェスティバル、そして世界舞台でのデジタル文化外交を通じて、モダンなライフスタイルの潮流へと変貌を遂げている。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Pariwisata dan Ekonomi Kreatif (Kemenparekraf) terus memfasilitasi perlindungan hak kekayaan intelektual (HKI) serta akses pembiayaan bagi para perajin lokal dan perancang busana muda yang menggabungkan motif tradisional daerah dengan teknik pewarnaan alami ramah lingkungan. Pemerintah menekankan bahwa regenerasi maestro seni tradisional dan digitalisasi arsip pola batik nusantara sangat mendesak demi melindungi identitas budaya bangsa dari klaim sepihak negara lain, sekaligus memperkuat daya saing industri kreatif nasional di pasar ekspor internasional.
-  </div>
-  <div class="id-translation">
-    観光・創造経済省（Kemenparekraf）は、地域の伝統模様と環境配慮型の天然染色技術を融合させる地元職人や若手ファッションデザイナーに対し、知的財産権（IP/HKI）の保護および資金調達アクセスを引き続き支援している。政府は、伝統芸術のマエストロ（巨匠）の世代交代と全群島バティック文様アーカイブのデジタル化が、他国による一方的な領有主張から国家の文化的アイデンティティを守ると同時に、国際輸出市場における国家クリエイティブ産業の競争力を強化するために極めて急務であると強調した。
-  </div>
+Pelestarian warisan budaya takbenda (*intangible cultural heritage*) UNESCO di Indonesia kian menemukan napas baru berkat keterlibatan aktif generasi muda dan komunitas kreatif perkotaan. Tradisi batik tulis yang sarat filosofi leluhur dan orkestra musik tradisional gamelan kini tidak lagi dipandang sebagai kesenian kuno yang kaku, melainkan bermutasi menjadi tren gaya hidup modern melalui peragaan busana kontemporer, festival musik fusi, dan diplomasi budaya digital di panggung global.
+
+Kementerian Pariwisata dan Ekonomi Kreatif (Kemenparekraf) terus memfasilitasi perlindungan hak kekayaan intelektual (HKI) serta akses pembiayaan bagi para perajin lokal dan perancang busana muda yang menggabungkan motif tradisional daerah dengan teknik pewarnaan alami ramah lingkungan. Pemerintah menekankan bahwa regenerasi maestro seni tradisional dan digitalisasi arsip pola batik nusantara sangat mendesak demi melindungi identitas budaya bangsa dari klaim sepihak negara lain, sekaligus memperkuat daya saing industri kreatif nasional di pasar ekspor internasional.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Pewarnaan alami** | 天然染色（草木染め） | 化学染料ではなく藍やインディゴ等の植物染料 |
 | **Regenerasi maestro** | 伝統芸術の巨匠の世代交代 | 高齢化した職人・奏者から若手への技術伝承 |
 | **Klaim sepihak** | 一方的な領有権・起源主張 | 近隣国との文化起源をめぐる論争（klaim batik/reog等） |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシアにおけるユネスコ無形文化遺産の保護・継承は、若年世代および都市部クリエイティブ・コミュニティの積極的な参加のおかげで、新たな息吹を見出しつつある。先祖の深遠な哲学に満ちた手描きバティック（バティック・トゥリス）の伝統やガムラン伝統音楽オーケストラは、今や硬直した古臭い芸術としては見なされておらず、現代ファッションショー、フュージョン音楽フェスティバル、そして世界舞台でのデジタル文化外交を通じて、モダンなライフスタイルの潮流へと変貌を遂げている。
+
+観光・創造経済省（Kemenparekraf）は、地域の伝統模様と環境配慮型の天然染色技術を融合させる地元職人や若手ファッションデザイナーに対し、知的財産権（IP/HKI）の保護および資金調達アクセスを引き続き支援している。政府は、伝統芸術のマエストロ（巨匠）の世代交代と全群島バティック文様アーカイブのデジタル化が、他国による一方的な領有主張から国家の文化的アイデンティティを守ると同時に、国際輸出市場における国家クリエイティブ産業の競争力を強化するために極めて急務であると強調した。
+
+</div>
 
 ---
 

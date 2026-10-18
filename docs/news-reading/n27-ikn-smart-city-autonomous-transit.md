@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Otorita Ibu Kota Nusantara (OIKN) bersama Kementerian Perhubungan mulai menguji coba sistem transportasi cerdas terintegrasi di Kawasan Inti Pusat Pemerintahan (KIPP) Nusantara, Kalimantan Timur. Uji coba keandalan teknologi (*proof of concept*) ini berfokus pada pengoperasian kereta otonom tanpa rel (*Autonomous Rail Rapid Transit*/ART) bertenaga listrik murni serta armada bus listrik tanpa pengemudi yang dipandu oleh marka jalan virtual berbasis sensor optik dan satelit navigasi.
-  </div>
-  <div class="id-translation">
-    新首都ヌサンタラ庁（OIKN）は運輸省とともに、東カリマンタン州ヌサンタラの政府中心部（KIPP）において統合型スマート交通システムの実証実験を開始した。この技術信頼性実証（プルーフ・オブ・コンセプト）は、光学センサーと衛星測位に基づく仮想道路標識によって誘導される純電気駆動の軌道レス自律走行鉄道（ART）および自動運転EVバス車両群の運行に焦点を当てている。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kepala Otorita IKN menegaskan bahwa Nusantara dirancang sebagai kota masa depan yang mengusung konsep kota hutan cerdas (*smart forest city*) dengan komitmen netralitas karbon pada tahun 2045. Untuk mewujudkan prinsip keberlanjutan tersebut, pemerintah menetapkan bahwa seluruh mobilitas penduduk di KIPP wajib berbasis pada transportasi publik ramah lingkungan dan kendaraan listrik (*electric vehicle*), didukung oleh jaringan pejalan kaki terpadu (*walkability*) dan pusat kendali terpadu (*Integrated Command Center*) yang memanfaatkan kecerdasan buatan untuk mengoptimalkan efisiensi energi dan arus lalu lintas.
-  </div>
-  <div class="id-translation">
-    IKN庁長官は、ヌサンタラが2045年のカーボンニュートラルへの確約を伴う「スマート・フォレスト・シティ（知能型森林都市）」のコンセプトを掲げる未来都市として設計されていると強調した。その持続可能性の原則を実現するため、政府はKIPP内の全住民の移動手段が環境配慮型公共交通機関および電気自動車（EV）をベースとすることを義務付けており、これは統合歩行者空間網（ウォーカビリティ）およびエネルギー効率と交通流を最適化するために人工知能を活用する統合司令センター（ICC）によって支えられている。
-  </div>
+Otorita Ibu Kota Nusantara (OIKN) bersama Kementerian Perhubungan mulai menguji coba sistem transportasi cerdas terintegrasi di Kawasan Inti Pusat Pemerintahan (KIPP) Nusantara, Kalimantan Timur. Uji coba keandalan teknologi (*proof of concept*) ini berfokus pada pengoperasian kereta otonom tanpa rel (*Autonomous Rail Rapid Transit*/ART) bertenaga listrik murni serta armada bus listrik tanpa pengemudi yang dipandu oleh marka jalan virtual berbasis sensor optik dan satelit navigasi.
+
+Kepala Otorita IKN menegaskan bahwa Nusantara dirancang sebagai kota masa depan yang mengusung konsep kota hutan cerdas (*smart forest city*) dengan komitmen netralitas karbon pada tahun 2045. Untuk mewujudkan prinsip keberlanjutan tersebut, pemerintah menetapkan bahwa seluruh mobilitas penduduk di KIPP wajib berbasis pada transportasi publik ramah lingkungan dan kendaraan listrik (*electric vehicle*), didukung oleh jaringan pejalan kaki terpadu (*walkability*) dan pusat kendali terpadu (*Integrated Command Center*) yang memanfaatkan kecerdasan buatan untuk mengoptimalkan efisiensi energi dan arus lalu lintas.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Jaringan pejalan kaki (*walkability*)** | 歩行者ネットワーク / 歩行環境 | 車優先から人優先への都市空間デザイン |
 | **Pusat kendali terpadu (*Command Center*)** | 統合指令管制センター | カメラやIoTデータを一元管理するスマートシティ中枢 |
 | **Arus lalu lintas** | 交通流 / 車両の流れ | 渋滞検知や信号最適制御の対象 |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+新首都ヌサンタラ庁（OIKN）は運輸省とともに、東カリマンタン州ヌサンタラの政府中心部（KIPP）において統合型スマート交通システムの実証実験を開始した。この技術信頼性実証（プルーフ・オブ・コンセプト）は、光学センサーと衛星測位に基づく仮想道路標識によって誘導される純電気駆動の軌道レス自律走行鉄道（ART）および自動運転EVバス車両群の運行に焦点を当てている。
+
+IKN庁長官は、ヌサンタラが2045年のカーボンニュートラルへの確約を伴う「スマート・フォレスト・シティ（知能型森林都市）」のコンセプトを掲げる未来都市として設計されていると強調した。その持続可能性の原則を実現するため、政府はKIPP内の全住民の移動手段が環境配慮型公共交通機関および電気自動車（EV）をベースとすることを義務付けており、これは統合歩行者空間網（ウォーカビリティ）およびエネルギー効率と交通流を最適化するために人工知能を活用する統合司令センター（ICC）によって支えられている。
+
+</div>
 
 ---
 

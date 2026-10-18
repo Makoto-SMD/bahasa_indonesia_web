@@ -17,9 +17,9 @@ order: 7
 
 | 単語 | 正統な語義（KBBI準拠） | よくある口語の誤解 | 肯定文での意味 | 代表的な表現 |
 | :--- | :--- | :--- | :--- | :--- |
-| **acuh** | **「気にかける」「注意を払う」「関心を持つ」** | × 「無視する」と誤解されがち | 気にする・配慮する | *acuh tak acuh*（無関心・そっけない） |
-| **abai (mengabaikan)** | **「無視する」「放置する」「怠る」「軽視する」** | 誤解なし（常に否定的） | 無視する・見捨てる | *mengabaikan peringatan*, *terabaikan* |
-| **peduli** | **「配慮する」「気遣う」「関心を持つ」** | 誤解なし（社会通念上ポジティブ） | 思いやる・関心がある | *peduli lingkungan*, *tidak peduli* |
+| **acuh** | 「**気にかける**」「**注意を払う**」「**関心を持つ**」 | × 「無視する」と誤解されがち | 気にする・配慮する | *acuh tak acuh*（無関心・そっけない） |
+| **abai (mengabaikan)** | 「**無視する**」「**放置する**」「**怠る**」「**軽視する**」 | 誤解なし（常に否定的） | 無視する・見捨てる | *mengabaikan peringatan*, *terabaikan* |
+| **peduli** | 「**配慮する**」「**気遣う**」「**関心を持つ**」 | 誤解なし（社会通念上ポジティブ） | 思いやる・関心がある | *peduli lingkungan*, *tidak peduli* |
 
 ---
 
@@ -46,7 +46,7 @@ KBBI（Kamus Besar Bahasa Indonesia）によると、`acuh` の第一義は **`p
 
 ## 2. abai（無視する・義務を怠る・放置する）
 
-`abai` は明確に **「否定的なニュアンス（ネグレクト・無視・軽視）」** を表す語根です。動詞 **`mengabaikan`** は公的ニュースや社説で毎日使われます。
+`abai` は明確に 「**否定的なニュアンス（ネグレクト・無視・軽視）**」 を表す語根です。動詞 **`mengabaikan`** は公的ニュースや社説で毎日使われます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -69,7 +69,7 @@ KBBI（Kamus Besar Bahasa Indonesia）によると、`acuh` の第一義は **`p
 
 ## 3. peduli（配慮する・気遣う・関心を持つ）
 
-`peduli` は、他者や社会問題、環境に対して **「共感や関心、思いやりを持って接すること（care / pay attention）」** です。肯定的に使えば美徳となり、否定（`tidak peduli`）にすれば無関心・冷淡を表します。
+`peduli` は、他者や社会問題、環境に対して 「**共感や関心、思いやりを持って接すること（care / pay attention）**」 です。肯定的に使えば美徳となり、否定（`tidak peduli`）にすれば無関心・冷淡を表します。
 
 <div class="id-example">
 <div class="id-example-header">

@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Rapat Dewan Gubernur (RDG) Bank Indonesia memutuskan untuk menaikkan suku bunga acuan BI-Rate sebesar 25 basis poin menjadi 6,25 persen. Langkah *pre-emptive* dan *forward-looking* ini ditempuh demi memperkuat stabilitas nilai tukar rupiah dari dampak memburuknya risiko geopolitik global serta ketidakpastian arah kebijakan moneter bank sentral Amerika Serikat, The Federal Reserve.
-  </div>
-  <div class="id-translation">
-    インドネシア中央銀行（BI）の理事会（RDG）は、政策金利であるBIレートを25ベーシスポイント引き上げ、6.25パーセントとすることを決定した。この先手を打った（先見的な）措置は、世界的な地政学リスクの悪化や米連邦準備制度理事会（FRB）の金融政策の方向性に関する不透明感による影響から、ルピア為替レートの安定性を強化するために講じられた。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Gubernur Bank Indonesia menegaskan bahwa selain penyesuaian suku bunga, bank sentral terus mengoptimalkan instrumen moneter pro-pasar, seperti Sekuritas Rupiah Bank Indonesia (SRBI) dan Sekuritas Valas Bank Indonesia (SVBI), guna menarik aliran masuk modal asing (*capital inflow*). Langkah intervensi di pasar valuta asing dan pasar surat berharga negara (SBN) juga tetap dilakukan untuk memastikan ketersediaan likuiditas serta membendung pelemahan nilai tukar yang berlebihan.
-  </div>
-  <div class="id-translation">
-    インドネシア中央銀行総裁は、金利調整に加えて、海外からの資金流入（キャピタル・インフロー）を呼び込むため、インドネシア中銀ルピア証券（SRBI）やインドネシア中銀外貨証券（SVBI）といった市場志向の金融商品を引き続き最適化していくと強調した。また、流動性の確保を確実なものとし過度な為替下落を食い止めるため、外国為替市場および国債（SBN）市場での介入措置も引き続き実施される。
-  </div>
+Rapat Dewan Gubernur (RDG) Bank Indonesia memutuskan untuk menaikkan suku bunga acuan BI-Rate sebesar 25 basis poin menjadi 6,25 persen. Langkah *pre-emptive* dan *forward-looking* ini ditempuh demi memperkuat stabilitas nilai tukar rupiah dari dampak memburuknya risiko geopolitik global serta ketidakpastian arah kebijakan moneter bank sentral Amerika Serikat, The Federal Reserve.
+
+Gubernur Bank Indonesia menegaskan bahwa selain penyesuaian suku bunga, bank sentral terus mengoptimalkan instrumen moneter pro-pasar, seperti Sekuritas Rupiah Bank Indonesia (SRBI) dan Sekuritas Valas Bank Indonesia (SVBI), guna menarik aliran masuk modal asing (*capital inflow*). Langkah intervensi di pasar valuta asing dan pasar surat berharga negara (SBN) juga tetap dilakukan untuk memastikan ketersediaan likuiditas serta membendung pelemahan nilai tukar yang berlebihan.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Instrumen moneter pro-pasar** | 市場志向の金融調節手段 | SRBI/SVBIなどの短期証券発行による吸収・供給オペ |
 | **Surat Berharga Negara (SBN)** | 国債 / 政府発行有価証券 | インドネシア政府が発行する債券 |
 | **Pelemahan nilai tukar** | 通貨安 / 為替の下落 | 逆は *penguatan nilai tukar*（通貨高 / 為替上昇） |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+インドネシア中央銀行（BI）の理事会（RDG）は、政策金利であるBIレートを25ベーシスポイント引き上げ、6.25パーセントとすることを決定した。この先手を打った（先見的な）措置は、世界的な地政学リスクの悪化や米連邦準備制度理事会（FRB）の金融政策の方向性に関する不透明感による影響から、ルピア為替レートの安定性を強化するために講じられた。
+
+インドネシア中央銀行総裁は、金利調整に加えて、海外からの資金流入（キャピタル・インフロー）を呼び込むため、インドネシア中銀ルピア証券（SRBI）やインドネシア中銀外貨証券（SVBI）といった市場志向の金融商品を引き続き最適化していくと強調した。また、流動性の確保を確実なものとし過度な為替下落を食い止めるため、外国為替市場および国債（SBN）市場での介入措置も引き続き実施される。
+
+</div>
 
 ---
 

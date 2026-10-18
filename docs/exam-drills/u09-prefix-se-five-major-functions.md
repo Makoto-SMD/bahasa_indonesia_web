@@ -62,7 +62,7 @@
 
 > **文法法則: `se-` + 形容詞 は「〜と同じくらい（同等比較: ekualitatif）」**
 
-- 形容詞の前に `se-` が付くと、**「sama + [形容詞] + dengan（〜と同じくらい〜だ）」**という同等比較（ekualitatif）を表します。
+- 形容詞の前に `se-` が付くと、「**sama + [形容詞] + dengan（〜と同じくらい〜だ）**」という同等比較（ekualitatif）を表します。
   - **setinggi Menara Monas** = *sama tingginya dengan Menara Monas*（モナス塔と同じ高さ）
   - **sebesar gajah** = *sama besarnya dengan gajah*（ゾウと同じ大きさ）
   - **sepandai kakaknya** = *sama pandainya dengan kakaknya*（兄と同じくらい賢い）

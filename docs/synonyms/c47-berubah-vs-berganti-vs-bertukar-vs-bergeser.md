@@ -17,16 +17,16 @@ order: 47
 
 | 動詞（語根） | 変化のメカニズム | 対象の移動・交代関係 | 日本語の対応 | 代表例 |
 | :--- | :--- | :--- | :--- | :--- |
-| **berubah (ubah)** | **【内在的変質・形状変化】** | 同一の対象の性質・状態が変化 | 変わる・変化する・変身する | *berubah pikiran*, *perubahan iklim* |
-| **berganti (ganti)** | **【個体交代・周期的一新】** | 古いものが去り、新しいものに交代 | 入れ替わる・交代する・着替える | *berganti baju*, *pergantian tahun* |
-| **bertukar (tukar)** | **【二者間の双方向交換】** | AとBの間でモノや情報をトレード | 交換する・取り交わす・やり取り | *bertukar pikiran*, *bertukar cincin* |
-| **bergeser (geser)** | **【位置のスライド・焦点シフト】** | 連続的に位置・関心・時代が移行 | ずれる・シフトする・移行する | *bergeser ke online*, *jam tayang bergeser* |
+| **berubah (ubah)** | 【**内在的変質・形状変化**】 | 同一の対象の性質・状態が変化 | 変わる・変化する・変身する | *berubah pikiran*, *perubahan iklim* |
+| **berganti (ganti)** | 【**個体交代・周期的一新**】 | 古いものが去り、新しいものに交代 | 入れ替わる・交代する・着替える | *berganti baju*, *pergantian tahun* |
+| **bertukar (tukar)** | 【**二者間の双方向交換**】 | AとBの間でモノや情報をトレード | 交換する・取り交わす・やり取り | *bertukar pikiran*, *bertukar cincin* |
+| **bergeser (geser)** | 【**位置のスライド・焦点シフト**】 | 連続的に位置・関心・時代が移行 | ずれる・シフトする・移行する | *bergeser ke online*, *jam tayang bergeser* |
 
 ---
 
 ## 1. berubah（変わる・変化する・変容する）
 
-語根 `ubah`（変える）から派生した自動詞で、**「ある対象そのものの性質、外見、状態、考え方が別のものへ変質する（change / transform / alter）」** ことを指します。入れ替わるのではなく、同一物が変態・変化します。
+語根 `ubah`（変える）から派生した自動詞で、「**ある対象そのものの性質、外見、状態、考え方が別のものへ変質する（change / transform / alter）**」 ことを指します。入れ替わるのではなく、同一物が変態・変化します。
 
 - *berubah pikiran*（考えが変わる・心変わりする）
 - *perubahan iklim*（気候変動）
@@ -53,7 +53,7 @@ order: 47
 
 ## 2. berganti（入れ替わる・交代する・着替える）
 
-語根 `ganti`（替える）から派生した自動詞で、**「ある物が別の物に取って代わられる、人が交代する（replace / substitute / take turns）」** ことを表します。
+語根 `ganti`（替える）から派生した自動詞で、「**ある物が別の物に取って代わられる、人が交代する（replace / substitute / take turns）**」 ことを表します。
 - *berganti pakaian / baju*（服を着替える）
 - *berganti peran*（役割を交代する）
 - *pergantian tahun*（年の交代・年越し）
@@ -80,7 +80,7 @@ order: 47
 
 ## 3. bertukar（互いに交換する・取り交わす）
 
-語根 `tukar`（交換する）から派生した動詞で、**「二者（あるいは複数人）の間で、互いが持っている物や情報を渡し合い、引き換える（exchange / swap / trade）」** 行為です。
+語根 `tukar`（交換する）から派生した動詞で、「**二者（あるいは複数人）の間で、互いが持っている物や情報を渡し合い、引き換える（exchange / swap / trade）**」 行為です。
 - *bertukar pikiran*（意見交換する・ブレインストーミング）
 - *bertukar cincin*（指輪を交換する＝結婚式）
 - *bertukar kontak / nomor telepon*（連絡先・電話番号を交換する）
@@ -106,7 +106,7 @@ order: 47
 
 ## 4. bergeser（位置がずれる・シフトする・関心が移行する）
 
-語根 `geser`（擦らす・ずらす）から派生し、**「物体の位置が少しずつ動くこと、あるいはトレンドや関心の焦点が段階的に移行・シフトすること（shift / slide / drift）」** を表します。
+語根 `geser`（擦らす・ずらす）から派生し、「**物体の位置が少しずつ動くこと、あるいはトレンドや関心の焦点が段階的に移行・シフトすること（shift / slide / drift）**」 を表します。
 - 物理的位置のずれ（*bergeser beberapa sentimeter*）
 - デジタルや新市場へのシフト（*preferensi konsumen bergeser ke belanja online*）
 - 放映時間の繰り下げ・変更（*jam tayang bergeser*）

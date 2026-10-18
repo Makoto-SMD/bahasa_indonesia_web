@@ -26,7 +26,7 @@ order: 12
 
 ## 1. belajar（自動詞：勉強する・練習する）
 
-`belajar` は、接頭辞 `ber-` が付いた自動詞です。中核義は **「学習者自身が何らかの知識、言語、スポーツ、運転技術を学ぶ動作」** です。日常会話で最も一般的に使われます。
+`belajar` は、接頭辞 `ber-` が付いた自動詞です。中核義は 「**学習者自身が何らかの知識、言語、スポーツ、運転技術を学ぶ動作**」 です。日常会話で最も一般的に使われます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -49,7 +49,7 @@ order: 12
 
 ## 2. mengajar（他動詞：教える・指導する）
 
-`mengajar` は、接頭辞 `meN-` が付いた能動他動詞です。中核義は **「教師や先輩が、生徒や受講生に知識や技術を教授する（teach）」** ことです。
+`mengajar` は、接頭辞 `meN-` が付いた能動他動詞です。中核義は 「**教師や先輩が、生徒や受講生に知識や技術を教授する（teach）**」 ことです。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -72,7 +72,7 @@ order: 12
 ## 3. mempelajari（他動詞：対象を深く研究・調査・精読する）
 
 `mempelajari` は、特殊な複合接辞 **`mem-per-...-i`** を持つ他動詞です。
-単なる生徒の日常学習（belajar）を超えて、**「特定の課題、契約書、技術、文化、学説を深く掘り下げて調査・精読・分析・習得する（study closely / analyze / examine）」** 専門的・実務的なニュアンスを帯びます。
+単なる生徒の日常学習（belajar）を超えて、「**特定の課題、契約書、技術、文化、学説を深く掘り下げて調査・精読・分析・習得する（study closely / analyze / examine）**」 専門的・実務的なニュアンスを帯びます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -95,7 +95,7 @@ order: 12
 
 ## 4. menuntut ilmu（成句：学問を修める・志す）
 
-ことわざ *Tuntutlah ilmu sampai ke negeri Cina*（中国まで行ってでも学問を求めよ）で有名な格式高い表現です。大学進学、海外留学、学術研究など、**「知識や真理を求めて高等教育の道を究める」** 人生の崇高な営みを指します。
+ことわざ *Tuntutlah ilmu sampai ke negeri Cina*（中国まで行ってでも学問を求めよ）で有名な格式高い表現です。大学進学、海外留学、学術研究など、「**知識や真理を求めて高等教育の道を究める**」 人生の崇高な営みを指します。
 
 - **Banyak pemuda berprestasi dari daerah yang merantau ke ibu kota demi menuntut ilmu.**<br>
   （学問を修めるため、地方から首都へ上京する優秀な若者が多い。）

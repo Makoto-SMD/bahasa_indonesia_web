@@ -9,7 +9,7 @@ order: 8
 
 物流、交通、日常の買い物、引っ越しなどにおいて、「荷物を運ぶ」「トラックに積む」「内容を掲載する」を表現する動詞が **`membawa`**、**`mengangkut`**、**`memuat`** の3つです。
 
-日本語ではすべて「運ぶ」や「積む」で済ませがちですが、インドネシア語では **「人間が手で持っているのか（小規模携行）」「トラックや船などの輸送機関が大量に運搬しているのか（輸送・移送）」「容器や乗り物が内部に収納・積載しているのか（容量・掲載）」** によって動詞が厳格に分かれます。
+日本語ではすべて「運ぶ」や「積む」で済ませがちですが、インドネシア語では 「**人間が手で持っているのか（小規模携行）」「トラックや船などの輸送機関が大量に運搬しているのか（輸送・移送）」「容器や乗り物が内部に収納・積載しているのか（容量・掲載）**」 によって動詞が厳格に分かれます。
 
 ---
 
@@ -17,15 +17,15 @@ order: 8
 
 | 動詞（語根） | 中核的機能 | 運搬の手段と規模 | 日本語の対応 | 代表的なコロケーション |
 | :--- | :--- | :--- | :--- | :--- |
-| **membawa (bawa)** | **「携行・所持」**<br>身体や手に持って移動する、同伴する | 個人レベル・手荷物・同伴者 | 持っていく・連れていく・運ぶ | *membawa tas*, *membawa payung*, *membawa dampak* |
-| **mengangkut (angkut)** | **「大量輸送・搬送」**<br>乗り物や労働力を用いて荷や人を運搬する | 車両、船舶、航空機、組織的大量輸送 | 輸送する・搬送する・運搬する | *truk mengangkut beras*, *kereta mengangkut penumpang* |
-| **memuat (muat)** | **「積載・収容・掲載」**<br>内部に荷を収める、記事を載せる | 乗り物の積載量、メディアの掲載 | 積む・収容できる・掲載する | *kapal memuat kontainer*, *koran memuat berita*, *daya muat* |
+| **membawa (bawa)** | 「**携行・所持**」<br>身体や手に持って移動する、同伴する | 個人レベル・手荷物・同伴者 | 持っていく・連れていく・運ぶ | *membawa tas*, *membawa payung*, *membawa dampak* |
+| **mengangkut (angkut)** | 「**大量輸送・搬送**」<br>乗り物や労働力を用いて荷や人を運搬する | 車両、船舶、航空機、組織的大量輸送 | 輸送する・搬送する・運搬する | *truk mengangkut beras*, *kereta mengangkut penumpang* |
+| **memuat (muat)** | 「**積載・収容・掲載**」<br>内部に荷を収める、記事を載せる | 乗り物の積載量、メディアの掲載 | 積む・収容できる・掲載する | *kapal memuat kontainer*, *koran memuat berita*, *daya muat* |
 
 ---
 
 ## 1. membawa（手荷物の携行・持参・連行）
 
-`membawa` は最も基本的で守備範囲の広い動詞です。個人が身の回りのものを **「手や鞄に入れて移動する」**、あるいは比喩的に **「結果や影響をもたらす（*membawa dampak*）」** 際に使います。
+`membawa` は最も基本的で守備範囲の広い動詞です。個人が身の回りのものを 「**手や鞄に入れて移動する**」、あるいは比喩的に 「**結果や影響をもたらす（*membawa dampak*）**」 際に使います。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -48,7 +48,7 @@ order: 8
 
 ## 2. mengangkut（乗り物による大量輸送・移送）
 
-`mengangkut` の中核義は **「車両、列車、船舶などの輸送機関（alat transportasi）を用いて、大量の物資や大勢の乗客を別の場所へ輸送すること」** です。物流や公共交通の専門用語として多用されます。
+`mengangkut` の中核義は 「**車両、列車、船舶などの輸送機関（alat transportasi）を用いて、大量の物資や大勢の乗客を別の場所へ輸送すること**」 です。物流や公共交通の専門用語として多用されます。
 
 <div class="id-example">
 <div class="id-example-header">
@@ -71,7 +71,7 @@ order: 8
 
 ## 3. memuat（積載する・収容力がある・記事を掲載する）
 
-`memuat` の中核義は **「乗り物や容器、あるいは媒体（新聞・雑誌）の内部に、対象物を格納・配置すること（load / accommodate / publish）」** です。
+`memuat` の中核義は 「**乗り物や容器、あるいは媒体（新聞・雑誌）の内部に、対象物を格納・配置すること（load / accommodate / publish）**」 です。
 
 ### (1) 「乗り物・船に荷物を積む（積載）」
 - **Kapal kargo itu memuat ribuan ton batu bara menuju Cina.**<br>

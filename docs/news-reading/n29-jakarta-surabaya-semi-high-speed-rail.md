@@ -6,22 +6,12 @@
 
 ## ニュース記事本文 (Teks Berita)
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kajian proyek pembangunan kereta api cepat koridor Jakarta-Surabaya kembali menjadi perdebatan hangat di kalangan pembuat kebijakan dan pengamat transportasi nasional. Pemerintah Indonesia tengah mengevaluasi dua opsi strategis, yakni memperpanjang jalur kereta cepat "Whoosh" berkecepatan 350 km/jam dari Tegalluar (Bandung) melintasi Kertajati, Purwokerto, Yogyakarta, dan Solo, atau merevitalisasi jalur rel kereta api eksisting di jalur pantura menjadi kereta semi-cepat dengan kecepatan rata-rata 160 km/jam.
-  </div>
-  <div class="id-translation">
-    ジャカルタ〜スラバヤ回廊における高速鉄道建設計画の調査検討が、政策決定者や国家交通アナリストの間で再び熱い議論となっている。インドネシア政府は、テガルアール（バンドン）からクルタジャティ、プルウォケルト、ジョグジャカルタ、ソロを経由して時速350kmの高速鉄道「Whoosh」路線を延伸する案か、あるいはジャワ島北部沿岸（パントゥラ）の既存鉄道路線を改修・電化して平均時速160kmの準高速鉄道とする案という、2つの戦略的選択肢を評価している。
-  </div>
-</div>
+<div class="id-article" markdown>
 
-<div class="id-example">
-  <div class="id-sentence">
-    Kementerian Perencanaan Pembangunan Nasional (Bappenas) menekankan bahwa keputusan final mengenai skema proyek dan mitra teknologi internasional harus memperhitungkan kelayakan finansial secara komprehensif tanpa membebani keuangan negara. Di satu sisi, perpanjangan Whoosh menawarkan efisiensi waktu tempuh Jakarta-Surabaya menjadi kurang dari empat jam, namun menuntut investasi masif dan pembebasan lahan yang rumit. Di sisi lain, modernisasi jalur eksisting dianggap lebih hemat biaya, namun memiliki keterbatasan dalam mengatasi perlintasan sebidang yang rawan kecelakaan.
-  </div>
-  <div class="id-translation">
-    国家開発計画省（Bappenas）は、プロジェクトスキームおよび国際技術パートナーに関する最終決定は、国家財政に負担をかけることなく包括的な財務採算性を考慮しなければならないと強調した。一方においてWhooshの延伸は、ジャカルタ〜スラバヤ間の移動時間を4時間未満へと短縮する時間効率性を提供するが、巨額の投資と複雑な用地買収を要求する。他方において在来線の近代化はより低コストとみなされるものの、事故が多発しやすい平面交差（踏切）の解消において限界を抱えている。
-  </div>
+Kajian proyek pembangunan kereta api cepat koridor Jakarta-Surabaya kembali menjadi perdebatan hangat di kalangan pembuat kebijakan dan pengamat transportasi nasional. Pemerintah Indonesia tengah mengevaluasi dua opsi strategis, yakni memperpanjang jalur kereta cepat "Whoosh" berkecepatan 350 km/jam dari Tegalluar (Bandung) melintasi Kertajati, Purwokerto, Yogyakarta, dan Solo, atau merevitalisasi jalur rel kereta api eksisting di jalur pantura menjadi kereta semi-cepat dengan kecepatan rata-rata 160 km/jam.
+
+Kementerian Perencanaan Pembangunan Nasional (Bappenas) menekankan bahwa keputusan final mengenai skema proyek dan mitra teknologi internasional harus memperhitungkan kelayakan finansial secara komprehensif tanpa membebani keuangan negara. Di satu sisi, perpanjangan Whoosh menawarkan efisiensi waktu tempuh Jakarta-Surabaya menjadi kurang dari empat jam, namun menuntut investasi masif dan pembebasan lahan yang rumit. Di sisi lain, modernisasi jalur eksisting dianggap lebih hemat biaya, namun memiliki keterbatasan dalam mengatasi perlintasan sebidang yang rawan kecelakaan.
+
 </div>
 
 ---
@@ -38,6 +28,18 @@
 | **Pembebasan lahan** | 用地収用 / 土地買収 | インフラ工事で最大の遅延要因となる地権者交渉 |
 | **Perlintasan sebidang** | 平面交差（踏切） | 道路と線路が同じ平面で交差する危険箇所 |
 | **Rawan kecelakaan** | 事故多発の / 危険な | 語根 *rawan*（脆弱な・危険に晒された） |
+
+---
+
+## 日本語訳 (Terjemahan Berita)
+
+<div class="id-translation-article" markdown>
+
+ジャカルタ〜スラバヤ回廊における高速鉄道建設計画の調査検討が、政策決定者や国家交通アナリストの間で再び熱い議論となっている。インドネシア政府は、テガルアール（バンドン）からクルタジャティ、プルウォケルト、ジョグジャカルタ、ソロを経由して時速350kmの高速鉄道「Whoosh」路線を延伸する案か、あるいはジャワ島北部沿岸（パントゥラ）の既存鉄道路線を改修・電化して平均時速160kmの準高速鉄道とする案という、2つの戦略的選択肢を評価している。
+
+国家開発計画省（Bappenas）は、プロジェクトスキームおよび国際技術パートナーに関する最終決定は、国家財政に負担をかけることなく包括的な財務採算性を考慮しなければならないと強調した。一方においてWhooshの延伸は、ジャカルタ〜スラバヤ間の移動時間を4時間未満へと短縮する時間効率性を提供するが、巨額の投資と複雑な用地買収を要求する。他方において在来線の近代化はより低コストとみなされるものの、事故が多発しやすい平面交差（踏切）の解消において限界を抱えている。
+
+</div>
 
 ---
 

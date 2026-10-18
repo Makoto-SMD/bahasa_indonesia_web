@@ -32,7 +32,24 @@ Transformasi sistem transportasi massal ini membuktikan komitmen pemerintah dala
 
 ---
 
-## 3. 段落ごとの対訳と読解ポイント
+## 3. 重要語彙・表現一覧 (Kosakata Penting)
+
+| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
+| :--- | :--- | :--- | :--- |
+| **pemborosan** | 名詞 | 浪費、無駄遣い | `boros`（浪費する） |
+| **ditaksir** | 受動動詞 | 見積もられる、試算される | `taksir`（査定・見積） |
+| **memperburuk** | 他動詞 | 悪化させる、より悪くする | `buruk`（悪い） |
+| **beroperasi** | 自動詞 | 運行する、操業する | `operasi` |
+| **memangkas** | 他動詞 | 大幅に削る、カットする | `pangkas` |
+| **berkecepatan** | 自動詞 | 速度を持っている | `cepat` → `kecepatan`（速度） |
+| **beralih** | 自動詞 | 切り替わる、移る | `alih` |
+| **antarmoda** | 名詞/形容詞 | 交通機関相互間の、マルチモーダル | `antar-` + `moda` |
+| **pembiasaan** | 名詞 | 習慣づけ、定着 | `biasa`（普段・慣れる） |
+| **berkelanjutan** | 形容詞 | 持続可能な（サステナブルな） | `lanjut`（続く） |
+
+---
+
+## 4. 段落ごとの対訳と読解ポイント (Terjemahan & Poin Bacaan)
 
 ### 第1段落: 慢性的な渋滞問題と経済・環境損失
 
@@ -118,23 +135,6 @@ Transformasi sistem transportasi massal ini membuktikan komitmen pemerintah dala
 
 ---
 
-## 4. 重要語彙・表現一覧
-
-| 単語 / フレーズ | 品詞 | 日本語の意味 | 語根・関連語 |
-| :--- | :--- | :--- | :--- |
-| **pemborosan** | 名詞 | 浪費、無駄遣い | `boros`（浪費する） |
-| **ditaksir** | 受動動詞 | 見積もられる、試算される | `taksir`（査定・見積） |
-| **memperburuk** | 他動詞 | 悪化させる、より悪くする | `buruk`（悪い） |
-| **beroperasi** | 自動詞 | 運行する、操業する | `operasi` |
-| **memangkas** | 他動詞 | 大幅に削る、カットする | `pangkas` |
-| **berkecepatan** | 自動詞 | 速度を持っている | `cepat` → `kecepatan`（速度） |
-| **beralih** | 自動詞 | 切り替わる、移る | `alih` |
-| **antarmoda** | 名詞/形容詞 | 交通機関相互間の、マルチモーダル | `antar-` + `moda` |
-| **pembiasaan** | 名詞 | 習慣づけ、定着 | `biasa`（普段・慣れる） |
-| **berkelanjutan** | 形容詞 | 持続可能な（サステナブルな） | `lanjut`（続く） |
-
----
-
 ## 5. 文法・構文の徹底解説
 
 ### ① 接頭辞 `antar-`（〜間の、相互の）
@@ -159,7 +159,7 @@ Transformasi sistem transportasi massal ini membuktikan komitmen pemerintah dala
 
 ## 6. 読解力チェッククイズ
 
-**【問1】** Apa dampak negatif dari kemacetan parah di Jakarta menurut paragraf pertama?
+【**問1**】 Apa dampak negatif dari kemacetan parah di Jakarta menurut paragraf pertama?
 - A. Menurunnya jumlah kendaraan pribadi di jalan raya
 - B. Pemborosan bahan bakar, kerugian ekonomi triliunan rupiah, dan polusi udara
 - C. Penutupan seluruh jalan tol di wilayah metropolitan
@@ -171,7 +171,7 @@ Transformasi sistem transportasi massal ini membuktikan komitmen pemerintah dala
 
 ---
 
-**【問2】** Berapa waktu tempuh Kereta Cepat "Whoosh" antara Jakarta dan Bandung?
+【**問2**】 Berapa waktu tempuh Kereta Cepat "Whoosh" antara Jakarta dan Bandung?
 - A. Sekitar tiga jam
 - B. Sekitar satu jam setengah
 - C. Sekitar 45 menit
@@ -183,7 +183,7 @@ Transformasi sistem transportasi massal ini membuktikan komitmen pemerintah dala
 
 ---
 
-**【問3】** Apa tujuan utama pemerintah dalam mengembangkan sistem transportasi massal modern ini?
+【**問3**】 Apa tujuan utama pemerintah dalam mengembangkan sistem transportasi massal modern ini?
 - A. Menjual lebih banyak mobil pribadi kepada masyarakat
 - B. Mendorong masyarakat beralih dari kendaraan pribadi ke transportasi umum yang ramah lingkungan
 - C. Menghentikan seluruh operasi bus Transjakarta
