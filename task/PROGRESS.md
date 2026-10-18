@@ -382,6 +382,21 @@
 - [x] `[完了]` B49: 為替リスクヘッジ（Hedging）と中銀外為規制（PBI） (`docs/business-sectors/finance-fx-hedging-bi-regulations.md`)
 - [x] `[完了]` B50: 内部監査（Audit Internal）と不正防止・コンプライアンス (`docs/business-sectors/finance-internal-audit-compliance.md`)
 
+---
+
+## 14. ニュース・時事インドネシア語リーディング (News Reading) [50記事予定: 10/50完了]
+- [x] `[完了]` N01: 新首都IKN建設の進捗と投資誘致 (`docs/news-reading/n01-ikn-infrastructure-investment.md`)
+- [x] `[完了]` N02: ニッケル鉱石の下流化とEVサプライチェーン (`docs/news-reading/n02-nickel-downstreaming-ev-battery.md`)
+- [x] `[完了]` N03: 中銀の政策金利引き上げとルピア為替安定化策 (`docs/news-reading/n03-central-bank-bi-rate-rupiah.md`)
+- [x] `[完了]` N04: 米価高騰と国家食料安全保障政策 (`docs/news-reading/n04-rice-inflation-food-security.md`)
+- [x] `[完了]` N05: 最低賃金改定と労働組合の要求運動 (`docs/news-reading/n05-minimum-wage-labor-union-protests.md`)
+- [x] `[完了]` N06: 国営企業（BUMN）の持ち株会社化と経営再編 (`docs/news-reading/n06-state-owned-enterprises-consolidation.md`)
+- [x] `[完了]` N07: 公正なエネルギー移行（JETP）と脱石炭の挑戦 (`docs/news-reading/n07-energy-transition-jetp-coal-phaseout.md`)
+- [x] `[完了]` N08: 付加価値税（PPN）12%引き上げと家計消費への影響 (`docs/news-reading/n08-vat-hike-household-consumption.md`)
+- [x] `[完了]` N09: 政府債務残高の推移と財政赤字規律 (`docs/news-reading/n09-government-debt-fiscal-discipline.md`)
+- [x] `[完了]` N10: ソブリン・ウェルス・ファンド（INA）と外資共同投資 (`docs/news-reading/n10-sovereign-wealth-fund-ina-investment.md`)
+
+
 
 
 

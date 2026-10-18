@@ -342,6 +342,18 @@ nav = [
     { "為替リスクヘッジと中央銀行外為規制実務" = "business-sectors/finance-fx-hedging-bi-regulations.md" },
     { "内部監査と不正防止・コンプライアンス実務" = "business-sectors/finance-internal-audit-compliance.md" },
   ] },
+  { "時事ニュース読解" = [
+    { "新首都IKN建設の進捗と投資誘致" = "news-reading/n01-ikn-infrastructure-investment.md" },
+    { "ニッケル鉱石の下流化とEVサプライチェーン" = "news-reading/n02-nickel-downstreaming-ev-battery.md" },
+    { "中銀の政策金利引き上げとルピア為替安定化策" = "news-reading/n03-central-bank-bi-rate-rupiah.md" },
+    { "米価高騰と国家食料安全保障政策" = "news-reading/n04-rice-inflation-food-security.md" },
+    { "最低賃金改定と労働組合の要求運動" = "news-reading/n05-minimum-wage-labor-union-protests.md" },
+    { "国営企業（BUMN）の持ち株会社化と経営再編" = "news-reading/n06-state-owned-enterprises-consolidation.md" },
+    { "公正なエネルギー移行（JETP）と脱石炭の挑戦" = "news-reading/n07-energy-transition-jetp-coal-phaseout.md" },
+    { "付加価値税（PPN）12%引き上げと家計消費への影響" = "news-reading/n08-vat-hike-household-consumption.md" },
+    { "政府債務残高の推移と財政赤字規律" = "news-reading/n09-government-debt-fiscal-discipline.md" },
+    { "ソブリン・ウェルス・ファンド（INA）と外資共同投資" = "news-reading/n10-sovereign-wealth-fund-ina-investment.md" },
+  ] },
 ]
 
 
