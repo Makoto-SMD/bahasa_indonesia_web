@@ -492,7 +492,7 @@
 
 ---
 
-## 16. 類義語・ニュアンス徹底比較事典 (Synonyms & Nuances) [50記事予定: 40/50完了]
+## 16. 類義語・ニュアンス徹底比較事典 (Synonyms & Nuances) [50記事完了: 50/50 コンプリート]
 - [x] `[完了]` C01: tinggal vs diam（住む・滞在する・黙るの境界線） (`docs/synonyms/c01-tinggal-vs-diam.md`)
 - [x] `[完了]` C02: antar vs jemput vs bawa（移動の方向と対象） (`docs/synonyms/c02-antar-vs-jemput-vs-bawa.md`)
 - [x] `[完了]` C03: bantu vs tolong（助ける・手伝うの機能差） (`docs/synonyms/c03-bantu-vs-tolong.md`)
@@ -533,6 +533,17 @@
 - [x] `[完了]` C38: kebiasaan vs tradisi vs adat vs budaya（習慣・伝統・慣習法・文化） (`docs/synonyms/c38-kebiasaan-vs-tradisi-vs-adat.md`)
 - [x] `[完了]` C39: rasa vs perasaan vs cita rasa vs hawa（味・感情・風味・気配感覚） (`docs/synonyms/c39-rasa-vs-perasaan-vs-cita-rasa.md`)
 - [x] `[完了]` C40: mati vs meninggal vs wafat vs tewas vs gugur（死・逝去・他界・事故死・殉職） (`docs/synonyms/c40-mati-vs-meninggal-vs-wafat-vs-tewas-vs-gugur.md`)
+- [x] `[完了]` C41: panas vs hangat vs pedas vs terik（熱い・温かい・辛い・照りつける暑さ） (`docs/synonyms/c41-panas-vs-hangat-vs-pedas-vs-terik.md`)
+- [x] `[完了]` C42: dingin vs sejuk vs beku（冷たい/寒い・涼しい・凍結/フリーズ） (`docs/synonyms/c42-dingin-vs-sejuk-vs-beku.md`)
+- [x] `[完了]` C43: basah vs lembap vs kuyup（濡れた・湿気/じめじめ・ずぶ濡れ） (`docs/synonyms/c43-basah-vs-lembap-vs-kuyup.md`)
+- [x] `[完了]` C44: kering vs gersang vs tandus（乾いた・不毛な・荒廃した大地） (`docs/synonyms/c44-kering-vs-gersang-vs-tandus.md`)
+- [x] `[完了]` C45: terang vs jelas vs nyata vs gamblang（明るい・明瞭・明白/現実・明快） (`docs/synonyms/c45-terang-vs-jelas-vs-nyata-vs-gamblang.md`)
+- [x] `[完了]` C46: gelap vs suram vs kelam vs pekat（暗い・薄暗い/前途多難・暗雲/過去の陰惨・濃密な闇） (`docs/synonyms/c46-gelap-vs-suram-vs-kelam-vs-pekat.md`)
+- [x] `[完了]` C47: berubah vs berganti vs bertukar vs bergeser（変わる・交代する・交換する・移行シフト） (`docs/synonyms/c47-berubah-vs-berganti-vs-bertukar-vs-bergeser.md`)
+- [x] `[完了]` C48: hilang vs lenyap vs musnah vs sirna（紛失・かき消える・壊滅滅亡・霧散する） (`docs/synonyms/c48-hilang-vs-lenyap-vs-musnah-vs-sirna.md`)
+- [x] `[完了]` C49: jatuh vs runtuh vs roboh vs tumbang（落ちる・崩壊する・倒壊する・大木根こそぎ/打倒） (`docs/synonyms/c49-jatuh-vs-runtuh-vs-roboh-vs-tumbang.md`)
+- [x] `[完了]` C50: rusak vs hancur vs punah vs binasa（壊れる/故障・粉砕/破滅・絶滅・滅亡） (`docs/synonyms/c50-rusak-vs-hancur-vs-punah-vs-binasa.md`)
+
 
 
 
