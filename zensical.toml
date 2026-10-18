@@ -148,6 +148,16 @@ nav = [
     { "サイズ・色・交換要求のパターン構文" = "patterns/shopping-exchange.md" },
     { "移動・道順・目的地指示のパターン構文" = "patterns/navigation-directions.md" },
     { "ホテル・宿泊施設のリクエストパターン構文" = "patterns/hotel-requests.md" },
+    { "身体の痛み・体調不良の訴えパターン構文" = "patterns/illness-symptoms.md" },
+    { "機器・設備の故障・トラブル申告パターン構文" = "patterns/breakdown-complaints.md" },
+    { "紛失・盗難・遺失物のパターン構文" = "patterns/lost-stolen.md" },
+    { "誤解・行き違い・訂正のパターン構文" = "patterns/misunderstandings-corrections.md" },
+    { "緊急援助要請・危険回避のパターン構文" = "patterns/emergency-help.md" },
+    { "業務報告・進捗連絡のパターン構文" = "patterns/progress-reporting.md" },
+    { "連絡・日程調整・アポイントのパターン構文" = "patterns/scheduling-appointments.md" },
+    { "質問・確認・指示仰ぎのパターン構文" = "patterns/clarifications-instructions.md" },
+    { "納期・締め切り・優先順位のパターン構文" = "patterns/deadlines-priorities.md" },
+    { "提案・企画・改善要求のパターン構文" = "patterns/proposals-improvements.md" },
   ] },
 ]
 
