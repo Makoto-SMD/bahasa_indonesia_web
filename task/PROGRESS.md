@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,140 / 1,500 記事 (76.0% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,150 / 1,500 記事 (76.7% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1214,16 +1214,16 @@
 - [x] `[完了]` 1138: 【恋愛・交際スラング】PDKT, nembak, jadian, ghosting, bucin (`docs/diglossia/38-dating-pdkt-romance-slang.md`)
 - [x] `[完了]` 1139: 【感情爆発の感嘆詞】anjir, anjay, gokil, mantul, parah の度合いとTPO (`docs/diglossia/39-emotion-exclamations-gokil.md`)
 - [x] `[完了]` 1140: 【ウワサ・人物批評】kepo, julid, nyinyir, toxic, red flag (`docs/diglossia/40-workplace-gossip-character.md`)
-- [ ] `[未着手]` 1141: 【怒りのレジスター】Kami sangat menyayangkan ⇄ Parah banget sih (`docs/diglossia/41-anger-formal-to-informal.md`)
-- [ ] `[未着手]` 1142: 【賞賛のレジスター】Prestasi yang luar biasa ⇄ Keren abis / Gila sih (`docs/diglossia/42-praise-formal-to-informal.md`)
-- [ ] `[未着手]` 1143: 【助言のレジスター】Sebaiknya Saudara... ⇄ Mendingan lu... (`docs/diglossia/43-advice-formal-to-informal.md`)
-- [ ] `[未着手]` 1144: 【意見のレジスター】Menurut pandangan saya ⇄ Kalo menurut gue sih (`docs/diglossia/44-opinion-formal-to-informal.md`)
-- [ ] `[未着手]` 1145: 【フィラーのレジスター】Kira-kira... ⇄ Gimana ya, anu, kayak... (`docs/diglossia/45-hesitation-fillers-register.md`)
-- [ ] `[未着手]` 1146: 【南ジャカルタ言葉】Which is, literally, basically を混ぜる若者会話 (`docs/diglossia/46-jaksel-slang-code-mixing.md`)
-- [ ] `[未着手]` 1147: 【流行語・新語】kepo, curcol, bucin, fomo, red flag のリアルな使い方 (`docs/diglossia/47-slang-idioms-curcol-kepo.md`)
-- [ ] `[未着手]` 1148: 【コードスイッチング作法】失礼にならない切り替えタイミングと相手の見極め (`docs/diglossia/48-code-switching-etiquette.md`)
-- [ ] `[未着手]` 1149: 【同一シナリオ対比】同じ商談・会話を Baku と Gaul で完全パラレル対比 (`docs/diglossia/49-complete-dialogue-baku-gaul-paired.md`)
-- [ ] `[未着手]` 1150: 総合コード変換テスト：標準語 ⇄ 街角口語 相互書き換え50問 (`docs/diglossia/50-comprehensive-transformation-test.md`)
+- [x] `[完了]` 1141: 【怒りのレジスター】Kami sangat menyayangkan ⇄ Parah banget sih (`docs/diglossia/41-anger-formal-to-informal.md`)
+- [x] `[完了]` 1142: 【賞賛のレジスター】Prestasi yang luar biasa ⇄ Keren abis / Gila sih (`docs/diglossia/42-praise-formal-to-informal.md`)
+- [x] `[完了]` 1143: 【助言のレジスター】Sebaiknya Saudara... ⇄ Mendingan lu... (`docs/diglossia/43-advice-formal-to-informal.md`)
+- [x] `[完了]` 1144: 【意見のレジスター】Menurut pandangan saya ⇄ Kalo menurut gue sih (`docs/diglossia/44-opinion-formal-to-informal.md`)
+- [x] `[完了]` 1145: 【フィラーのレジスター】Kira-kira... ⇄ Gimana ya, anu, kayak... (`docs/diglossia/45-hesitation-fillers-register.md`)
+- [x] `[完了]` 1146: 【南ジャカルタ言葉】Which is, literally, basically を混ぜる若者会話 (`docs/diglossia/46-jaksel-slang-code-mixing.md`)
+- [x] `[完了]` 1147: 【世代間ギャップ口語】Gen Z vs ミレニアル（fomo, yolo, salty, spill, salfok, cuaks） (`docs/diglossia/47-gen-z-millennial-slang-drift.md`)
+- [x] `[完了]` 1148: 【コードスイッチング作法】相手・場面・関係性に応じた切り替え境界と失礼回避術 (`docs/diglossia/48-code-switching-etiquette.md`)
+- [x] `[完了]` 1149: 【同一シナリオ対比】同じ商談・会話を Baku と Gaul で完全パラレル対比 (`docs/diglossia/49-complete-dialogue-baku-gaul-paired.md`)
+- [x] `[完了]` 1150: 【二重言語総括】標準語（Baku）⇄ 街角口語（Gaul）50問総合変換診断 (`docs/diglossia/50-diglossia-comprehensive-drill.md`)
 
 ## 28. 【戦略会話】意味交渉＆サバイバル・コミュニケーション術 [30記事]
 - [ ] `[未着手]` 1151: 【聞き返し】聞き取れなかった時に相手を不快にさせず聞き直す技術 (`docs/strategies/01-clarification-request.md`)
