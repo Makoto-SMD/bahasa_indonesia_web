@@ -103,6 +103,16 @@ nav = [
     { "天気・気象・災害の単語集" = "vocabulary/weather-disaster.md" },
     { "旅・観光・レジャーの単語集" = "vocabulary/travel-tourism.md" },
   ] },
+  { "スラング・口語・若者言葉" = [
+    { "ジャカルタ口語の文法特徴と基本語" = "slang-culture/bahasa-gaul-basics.md" },
+    { "文末詞（dong, sih, deh等）のニュアンス事典" = "slang-culture/particle-nuances.md" },
+    { "チャット・SNSの頻出略語" = "slang-culture/chat-abbreviations.md" },
+    { "若者言葉の造語法（逆さ言葉・混種語）" = "slang-culture/slang-word-formation.md" },
+    { "日常会話でウケる最新スラング" = "slang-culture/trending-slang.md" },
+    { "冗談・からかい・感情の口語表現" = "slang-culture/jokes-teasing.md" },
+    { "必須慣用句・ことわざ名選" = "slang-culture/idioms-proverbs.md" },
+    { "ゴム時間（Jam Karet）と付き合い方" = "slang-culture/jam-karet.md" },
+  ] },
   { "万能フレーズ型・文章パターンドリル" = [
     { "依頼・許可・希望のパターン構文" = "patterns/requests-permissions.md" },
     { "場所・存在・移動・交通のパターン構文" = "patterns/location-movement.md" },
@@ -119,6 +129,16 @@ nav = [
     { "習慣・頻度・反復のパターン構文" = "patterns/habits-frequency.md" },
     { "偶発・自然発生・無意図のパターン構文" = "patterns/unintentional-actions.md" },
     { "継続・進行・維持のパターン構文" = "patterns/continuous-states.md" },
+    { "あいまいな返答・相槌・同調のパターン構文" = "patterns/conversational-responses.md" },
+    { "話題転換・前置きのパターン構文" = "patterns/topic-transitions.md" },
+    { "説明・言い換え・要約のパターン構文" = "patterns/clarifications-summaries.md" },
+    { "提案・勧誘・アドバイスのパターン構文" = "patterns/suggestions-advice.md" },
+    { "依頼の念押し・催促・リマインドのパターン構文" = "patterns/reminders-urging.md" },
+    { "注文・味の好み・アレルギー指定のパターン構文" = "patterns/food-preferences.md" },
+    { "値段交渉・割引要求・条件確認のパターン構文" = "patterns/bargaining-prices.md" },
+    { "サイズ・色・交換要求のパターン構文" = "patterns/shopping-exchange.md" },
+    { "移動・道順・目的地指示のパターン構文" = "patterns/navigation-directions.md" },
+    { "ホテル・宿泊施設のリクエストパターン構文" = "patterns/hotel-requests.md" },
   ] },
 ]
 
