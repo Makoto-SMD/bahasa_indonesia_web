@@ -492,7 +492,7 @@
 
 ---
 
-## 16. 類義語・ニュアンス徹底比較事典 (Synonyms & Nuances) [50記事予定: 10/50完了]
+## 16. 類義語・ニュアンス徹底比較事典 (Synonyms & Nuances) [50記事予定: 20/50完了]
 - [x] `[完了]` C01: tinggal vs diam（住む・滞在する・黙るの境界線） (`docs/synonyms/c01-tinggal-vs-diam.md`)
 - [x] `[完了]` C02: antar vs jemput vs bawa（移動の方向と対象） (`docs/synonyms/c02-antar-vs-jemput-vs-bawa.md`)
 - [x] `[完了]` C03: bantu vs tolong（助ける・手伝うの機能差） (`docs/synonyms/c03-bantu-vs-tolong.md`)
@@ -503,6 +503,16 @@
 - [x] `[完了]` C08: membawa vs mengangkut vs memuat（運ぶ・輸送・積載） (`docs/synonyms/c08-membawa-vs-mengangkut-vs-memuat.md`)
 - [x] `[完了]` C09: melihat vs menonton vs memandang vs menatap（視線・意識の「見る」） (`docs/synonyms/c09-melihat-vs-menonton-vs-memandang.md`)
 - [x] `[完了]` C10: mendengar vs mendengarkan vs menyimak（集中度の「聞く」） (`docs/synonyms/c10-mendengar-vs-mendengarkan-vs-menyimak.md`)
+- [x] `[完了]` C11: tahu vs kenal vs mengerti vs paham（知る・面識・理解・把握） (`docs/synonyms/c11-tahu-vs-kenal-vs-mengerti-vs-paham.md`)
+- [x] `[完了]` C12: belajar vs mengajar vs mempelajari vs menuntut ilmu（学ぶ・教える・習得） (`docs/synonyms/c12-belajar-vs-mengajar-vs-mempelajari.md`)
+- [x] `[完了]` C13: bekerja vs berusaha vs berupaya vs berikhtiar（労働・努力・奮闘・人知の最善） (`docs/synonyms/c13-bekerja-vs-berusaha-vs-berupaya.md`)
+- [x] `[完了]` C14: mengajak vs mengundang vs meminta（誘う・正式招待・要請依頼） (`docs/synonyms/c14-mengajak-vs-mengundang-vs-meminta.md`)
+- [x] `[完了]` C15: menolak vs membantah vs menyangkal vs membatalkan（拒絶・反論・否認・取消） (`docs/synonyms/c15-menolak-vs-membantah-vs-menyangkal.md`)
+- [x] `[完了]` C16: memilih vs menentukan vs memutuskan vs menetapkan（選択・特定・決断・公的制定） (`docs/synonyms/c16-memilih-vs-menentukan-vs-memutuskan.md`)
+- [x] `[完了]` C17: bertemu vs menemui vs menemukan vs berjumpa（会う・面会・発見・遭遇） (`docs/synonyms/c17-bertemu-vs-menemui-vs-menemukan.md`)
+- [x] `[完了]` C18: berhenti vs menghentikan vs memecat vs mengundurkan diri（停止・中断・解雇・辞職） (`docs/synonyms/c18-berhenti-vs-menghentikan-vs-memecat.md`)
+- [x] `[完了]` C19: marah vs kesal vs jengkel vs murka（怒り・苛立ち・不快・激怒） (`docs/synonyms/c19-marah-vs-kesal-vs-jengkel.md`)
+- [x] `[完了]` C20: sedih vs kecewa vs duka vs putus asa（悲しみ・失望・哀悼・絶望） (`docs/synonyms/c20-sedih-vs-kecewa-vs-duka.md`)
 
 
 
