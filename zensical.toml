@@ -1180,6 +1180,18 @@ nav = [
       { "49: 「開ける・閉める」の buka と tutup、membukakan の使役" = "clinic/49-buka-tutup-membukakan-doors.md" },
       { "50: 【誤用克服総括】日本人特有の不自然な表現・50問総合診断" = "clinic/50-clinic-comprehensive-drill.md" },
     ] },
+    { "標準語（Baku）⇄ 街角口語（Gaul）変換マスター" = [
+      { "01: 日常動作動詞の標準語 ⇄ 街角口語変換" = "diglossia/01-daily-actions-baku-gaul.md" },
+      { "02: 動詞接頭辞 meN- 脱落の会話文法規則と自然な発音" = "diglossia/02-verbs-prefix-men-dropping.md" },
+      { "03: 受動態の変換規則：フォーマル di-/ter- ⇄ 口語 ke-/ke-...-an" = "diglossia/03-passive-di-vs-ke-an.md" },
+      { "04: 人称代名詞の3大レジスター（saya/Anda ⇄ aku/kamu ⇄ gue/lu）" = "diglossia/04-pronouns-saya-aku-gue.md" },
+      { "05: 否定詞の変換：tidak ⇄ nggak / ndak / kagak の使い分け" = "diglossia/05-negation-tidak-nggak-ndak.md" },
+      { "06: アスペクト副詞の口語短縮（sudah → udah, belum → belom, sedang → lagi）" = "diglossia/06-aspect-sudah-udah-belum-belom.md" },
+      { "07: 疑問詞の口語変換：bagaimana → gimana, mengapa → kenapa, apakah → apa/apaan" = "diglossia/07-question-apakah-apaan-gimana.md" },
+      { "08: 時間表現の口語短縮：sekarang → skrg / bentar, nanti → ntar" = "diglossia/08-time-sekarang-skrg-ntar.md" },
+      { "09: 接続詞の口語変換：tetapi → tapi, kalau → kalo, karena → soalnya" = "diglossia/09-conjunction-kalau-kalo-tapi.md" },
+      { "10: 魔法の文末詞「sih」完全攻略：疑問の和らげ、控えめな主張、意外性" = "diglossia/10-particle-sih-in-action.md" },
+    ] },
   ] },
 ]
 
