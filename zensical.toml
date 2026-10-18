@@ -1,8 +1,11 @@
 [project]
-site_url = "https://example.com/bahasa_indonesia/"
+site_url = "https://makoto-smd.github.io/bahasa_indonesia_web/"
 site_name = "インドネシア語学習ナレッジベース"
 site_description = "日本人のためのインドネシア語（文字・発音・文法・接辞・語彙・日常会話・文化）体系的オープンナレッジベース"
 site_author = "Indonesian Learning Project"
+
+# 独自スタイルシートの正しい配置（project直下）
+extra_css = ["stylesheets/extra.css"]
 
 nav = [
   { "ホーム・案内" = [
@@ -1083,7 +1086,7 @@ features = [
   "content.footnote.tooltips",
   "content.tabs.link",
   "content.tooltips",
-  "navigation.expand",
+  "navigation.prune",
   "navigation.footer",
   "navigation.indexes",
   "navigation.instant",
@@ -1125,8 +1128,6 @@ primary = "teal"
 accent = "teal"
 toggle.icon = "lucide/moon"
 toggle.name = "システム設定に連動"
-
-extra_css = ["stylesheets/extra.css"]
 
 [project.markdown_extensions]
 ruby_extension = {}
