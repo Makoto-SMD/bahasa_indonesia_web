@@ -384,7 +384,7 @@
 
 ---
 
-## 14. ニュース・時事インドネシア語リーディング (News Reading) [50記事予定: 30/50完了]
+## 14. ニュース・時事インドネシア語リーディング (News Reading) [50記事予定: 40/50完了]
 - [x] `[完了]` N01: 新首都IKN建設の進捗と投資誘致 (`docs/news-reading/n01-ikn-infrastructure-investment.md`)
 - [x] `[完了]` N02: ニッケル鉱石の下流化とEVサプライチェーン (`docs/news-reading/n02-nickel-downstreaming-ev-battery.md`)
 - [x] `[完了]` N03: 中銀の政策金利引き上げとルピア為替安定化策 (`docs/news-reading/n03-central-bank-bi-rate-rupiah.md`)
@@ -415,6 +415,17 @@
 - [x] `[完了]` N28: 地方空港の国際線指定見直しと航空ハブ＆スポーク (`docs/news-reading/n28-regional-airports-international-status-hub.md`)
 - [x] `[完了]` N29: ジャカルタ〜スラバヤ鉄道高速化構想と技術選定 (`docs/news-reading/n29-jakarta-surabaya-semi-high-speed-rail.md`)
 - [x] `[完了]` N30: 海上ハイウェイ（Tol Laut）と東部物価格差是正 (`docs/news-reading/n30-tol-laut-maritime-highway-disparity.md`)
+- [x] `[完了]` N31: デジタル決済QRISの爆発的普及とASEAN越境連携 (`docs/news-reading/n31-qris-digital-payment-cross-border.md`)
+- [x] `[完了]` N32: ソーシャルコマース規制とTikTok・Tokopedia提携 (`docs/news-reading/n32-social-commerce-tiktok-tokopedia.md`)
+- [x] `[完了]` N33: 東南アジア初のEVバッテリーセル工場と国内統合 (`docs/news-reading/n33-ev-battery-ecosystem-hyundai-lg.md`)
+- [x] `[完了]` N34: テック・ウィンターとスタートアップの黒字化シフト (`docs/news-reading/n34-tech-winter-startup-layoffs-profitability.md`)
+- [x] `[完了]` N35: 個人データ保護法（UU PDP）全面施行とセキュリティ義務 (`docs/news-reading/n35-data-privacy-law-uu-pdp-compliance.md`)
+- [x] `[完了]` N36: 生成AIの台頭と雇用・リスキリングの波 (`docs/news-reading/n36-generative-ai-workforce-reskilling.md`)
+- [x] `[完了]` N37: オンライン賭博撲滅タスクフォースと口座凍結作戦 (`docs/news-reading/n37-online-gambling-judi-online-taskforce.md`)
+- [x] `[完了]` N38: 5G周波数の解放と国家海底光ファイバー網の拡張 (`docs/news-reading/n38-5g-telecom-subsea-cable-connectivity.md`)
+- [x] `[完了]` N39: 教育テック（EdTech）の再編と地方デジタル教育格差 (`docs/news-reading/n39-edtech-digital-education-divide.md`)
+- [x] `[完了]` N40: アグリテックと農産物流通のサプライチェーン改革 (`docs/news-reading/n40-agritech-smallholder-farmers-supply-chain.md`)
+
 
 
 
