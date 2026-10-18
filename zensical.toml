@@ -267,8 +267,31 @@ nav = [
     { "朝の伝統市場での食材仕入れ・鮮度見極め" = "situations/wet-market-groceries.md" },
     { "仕立て屋でのバティック採寸・オーダーメイド" = "situations/tailor-batik.md" },
     { "レンタカー手配・ガソリン代精算・ドライバー指名" = "situations/car-rental-driver.md" },
+    { "引っ越し業者への見積もり・荷造り指示" = "situations/house-moving.md" },
+    { "タクシー・配車での忘れ物捜索・回収" = "situations/lost-item-taxi.md" },
+    { "警察署での無犯罪証明書（SKCK）申請" = "situations/police-skck.md" },
+    { "コンビニでの各種公共料金・Eマネーチャージ" = "situations/indomaret-alfamart-services.md" },
+    { "動物病院でのペット健康診断・ワクチン" = "situations/pet-veterinary.md" },
+    { "洪水・冠水・地震発生時の避難・安否確認" = "situations/flood-earthquake-disaster.md" },
+    { "国民健康保険（BPJS Kesehatan）利用手続き" = "situations/bpjs-kesehatan.md" },
+    { "博物館・遺跡でのガイド手配・歴史質問" = "situations/museum-tourist-guide.md" },
+    { "大使館・領事館での手続き（署名証明・婚姻届・出生届）" = "situations/embassy-notarization.md" },
+    { "喜捨とチャリティ（Zakat・Sedekah・孤児院支援）" = "situations/charity-zakat.md" },
+  ] },
+  { "長文読解・リーディング練習" = [
+    { "ジャカルタでの平日の1日" = "reading/daily-routine-jakarta.md" },
+    { "初めてのバリ島旅行と伝統文化体験" = "reading/travel-bali-culture.md" },
+    { "インドネシアの豊かなコーヒー文化とカフェ時間" = "reading/indonesian-coffee-culture.md" },
+    { "ラマダンの夕暮れとレバラン大帰省の熱気" = "reading/ramadan-lebaran-mudik.md" },
+    { "ジャカルタの交通革命：MRTと高速鉄道Whoosh" = "reading/modern-transport-whoosh-mrt.md" },
+    { "カリマンタンの熱帯雨林とオランウータンの保護" = "reading/nature-rainforest-orangutan.md" },
+    { "急成長するデジタル経済とQRISキャッシュレス社会" = "reading/digital-economy-fintech.md" },
+    { "ボロブドゥール遺跡の壮大さとバティックの哲学" = "reading/history-borobudur-batik.md" },
+    { "インドネシアでのビジネス協働と異文化コミュニケーション" = "reading/business-communication-culture.md" },
+    { "新首都ヌサンタラ計画：持続可能な未来都市への展望" = "reading/new-capital-ikn-nusantara.md" },
   ] },
 ]
+
 
 [project.theme]
 language = "ja"
