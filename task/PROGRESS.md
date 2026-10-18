@@ -318,6 +318,70 @@
 - [x] `[完了]` R09: インドネシアでのビジネス協働と異文化コミュニケーション (`docs/reading/business-communication-culture.md`)
 - [x] `[完了]` R10: 新首都ヌサンタラ（IKN）計画：持続可能な未来都市への展望 (`docs/reading/new-capital-ikn-nusantara.md`)
 
+---
+
+## 13. 業界別・実務特化ビジネスインドネシア語 [全50記事: B01〜B50]
+
+### 製造業・工場管理・安全衛生・品質管理 (B01〜B10)
+- [x] `[完了]` B01: 製造現場の5S活動（Ringkas, Rapi, Resik, Rawat, Rajin）と改善活動 (`docs/business-sectors/manufacturing-5s-kaizen.md`)
+- [x] `[完了]` B02: 労働安全衛生（K3）と個人用保護具（APD）の徹底管理 (`docs/business-sectors/manufacturing-k3-safety.md`)
+- [x] `[完了]` B03: 生産計画（Rencana Produksi）とラインタクトタイム管理 (`docs/business-sectors/manufacturing-production-planning.md`)
+- [x] `[完了]` B04: 不良品（Barang Cacat）の原因分析と再発防止（QC・ポカヨケ） (`docs/business-sectors/manufacturing-quality-control.md`)
+- [x] `[完了]` B05: 生産設備の定期保守点検（Maintenance）と突発故障対応（TPM） (`docs/business-sectors/manufacturing-maintenance-tpm.md`)
+- [x] `[完了]` B06: ISO 9001/14001 監査対応と標準作業手順書（SOP）の遵守 (`docs/business-sectors/manufacturing-iso-sop.md`)
+- [x] `[完了]` B07: 原材料受入検査（IQC）と歩留まり（Yield）管理 (`docs/business-sectors/manufacturing-incoming-yield.md`)
+- [x] `[完了]` B08: 工場作業員の朝礼（Briefing Pagi）とシフト引継ぎ連絡 (`docs/business-sectors/manufacturing-morning-briefing.md`)
+- [x] `[完了]` B09: 産業廃棄物（Limbah B3）の適正処理と環境規制遵守 (`docs/business-sectors/manufacturing-environmental-waste.md`)
+- [x] `[完了]` B10: サプライヤー工場監査（Audit Vendor）と品質是正要求（CAR） (`docs/business-sectors/manufacturing-supplier-audit.md`)
+
+### IT・システム開発・ソフトウェアエンジニアリング (B11〜B20)
+- [ ] `[未着手]` B11: システム開発の要件定義（Definisi Kebutuhan）と仕様書レビュー (`docs/business-sectors/it-requirements-specifications.md`)
+- [ ] `[未着手]` B12: アジャイル／スクラム開発のスプリント計画とデイリースタンドアップ (`docs/business-sectors/it-agile-scrum.md`)
+- [ ] `[未着手]` B13: バグ報告・障害トリアージ（Bug Report & Severity）と緊急パッチ (`docs/business-sectors/it-bug-report-triage.md`)
+- [ ] `[未着手]` B14: クラウドインフラ（AWS/GCP）の保守運用とセキュリティ要件 (`docs/business-sectors/it-cloud-infrastructure.md`)
+- [ ] `[未着手]` B15: API連携・データベース設計とデータ移行（Data Migration） (`docs/business-sectors/it-api-database-migration.md`)
+- [ ] `[未着手]` B16: UI/UXデザインのレビューとユーザビリティテスト (`docs/business-sectors/it-ui-ux-design-review.md`)
+- [ ] `[未着手]` B17: ITベンダー・アウトソーシング選定とSLA交渉 (`docs/business-sectors/it-vendor-sla-negotiation.md`)
+- [ ] `[未着手]` B18: サイバーセキュリティインシデント対応と情報漏洩対策 (`docs/business-sectors/it-cybersecurity-incident.md`)
+- [ ] `[未着手]` B19: 社内DX（デジタル変革）推進とERPシステム導入 (`docs/business-sectors/it-dx-erp-implementation.md`)
+- [ ] `[未着手]` B20: テスト自動化・コードレビュー・デプロイパイプライン（CI/CD） (`docs/business-sectors/it-qa-cicd-pipeline.md`)
+
+### 物流・サプライチェーン・輸出入・通関 (B21〜B30)
+- [ ] `[未着手]` B21: 輸出入通関手続き（Kepabeanan / Bea Cukai）とHSコード分類 (`docs/business-sectors/logistics-customs-clearance.md`)
+- [ ] `[未着手]` B22: 輸入許可証（PI）とSNI（インドネシア国家規格）認証 (`docs/business-sectors/logistics-import-permits-sni.md`)
+- [ ] `[未着手]` B23: 海上輸送・航空便ブッキングと船荷証券（B/L）・原産地証明書 (`docs/business-sectors/logistics-shipping-bl-coo.md`)
+- [ ] `[未着手]` B24: 保税区（Kawasan Berikat）制度の活用と税制優遇 (`docs/business-sectors/logistics-bonded-zone-kb.md`)
+- [ ] `[未着手]` B25: 倉庫入出庫管理・在庫差異（Stock Opname）と先入れ先出し (`docs/business-sectors/logistics-warehouse-fifo-stock.md`)
+- [ ] `[未着手]` B26: フォワーダー・物流業者との運賃交渉とコンテナ不足対応 (`docs/business-sectors/logistics-freight-forwarder-rates.md`)
+- [ ] `[未着手]` B27: インコタームズ（FOB, CIF, DDP等）とリスク移転の明確化 (`docs/business-sectors/logistics-incoterms-liability.md`)
+- [ ] `[未着手]` B28: 港湾滞船料（Demurrage / Detention）防止と港湾手続き (`docs/business-sectors/logistics-demurrage-port-handling.md`)
+- [ ] `[未着手]` B29: 国内幹線輸送（陸送トラック便）の手配と配送遅延トラブル (`docs/business-sectors/logistics-domestic-trucking-delays.md`)
+- [ ] `[未着手]` B30: コールドチェーン（低温物流）管理と品質劣化防止対策 (`docs/business-sectors/logistics-cold-chain-quality.md`)
+
+### 人事・労務管理・労働法・社会保障 (B31〜B40)
+- [ ] `[未着手]` B31: 雇用契約書（PKWT有期契約 vs PKWTT無期契約）の締結実務 (`docs/business-sectors/hr-employment-contracts-pkwt.md`)
+- [ ] `[未着手]` B32: 就業規則（PP）と労働協約（PKB）の作成・届出 (`docs/business-sectors/hr-company-regulations-pp.md`)
+- [ ] `[未着手]` B33: 最低賃金（UMR / UMK）改定と賃金構造・給与計算実務 (`docs/business-sectors/hr-minimum-wage-payroll.md`)
+- [ ] `[未着手]` B34: 残業手当（Lembur）の計算基準と労働時間管理 (`docs/business-sectors/hr-overtime-calculation-regulations.md`)
+- [ ] `[未着手]` B35: 宗教大祭手当（THR）の支給義務と規定・トラブル対応 (`docs/business-sectors/hr-thr-religious-allowance.md`)
+- [ ] `[未着手]` B36: 労働組合（Serikat Pekerja）との労使協議とストライキ回避 (`docs/business-sectors/hr-labor-unions-collective-bargaining.md`)
+- [ ] `[未着手]` B37: 人事評価（Evaluasi Kinerja / KPI）面談と昇進昇給 (`docs/business-sectors/hr-performance-evaluation-kpi.md`)
+- [ ] `[未着手]` B38: 懲戒処分（Surat Peringatan: SP1, SP2, SP3）の発行要件 (`docs/business-sectors/hr-disciplinary-warning-letters-sp.md`)
+- [ ] `[未着手]` B39: 解雇（PHK）手続き・退職金（Pesangon）計算と労働裁判所 (`docs/business-sectors/hr-severance-pay-layoffs-phk.md`)
+- [ ] `[未着手]` B40: 労災・社会保障（BPJS Ketenagakerjaan: JKK, JKM, JHT, JP, JKP） (`docs/business-sectors/hr-bpjs-ketenagakerjaan-claims.md`)
+
+### 会計・財務・税務申告・法務ガバナンス (B41〜B50)
+- [ ] `[未着手]` B41: 法人所得税（PPh Badan）確定申告と源泉税（PPh 21/23/4(2)） (`docs/business-sectors/finance-corporate-tax-pph.md`)
+- [ ] `[未着手]` B42: 付加価値税（PPN）と電子納税証明書（e-Faktur）の発行管理 (`docs/business-sectors/finance-vat-ppn-efaktur.md`)
+- [ ] `[未着手]` B43: 移転価格税制（Transfer Pricing: TP Doc）と関連当事者取引 (`docs/business-sectors/finance-transfer-pricing-tpdoc.md`)
+- [ ] `[未着手]` B44: 財務諸表（Laporan Keuangan: 貸借対照表・損益・キャッシュフロー） (`docs/business-sectors/finance-financial-statements-analysis.md`)
+- [ ] `[未着手]` B45: 公認会計士監査（Audit KAP）対応と監査調書提出 (`docs/business-sectors/finance-external-audit-kap.md`)
+- [ ] `[未着手]` B46: 株主総会（RUPS）の招集・決議・公正証書議事録作成 (`docs/business-sectors/finance-shareholders-meeting-rups.md`)
+- [ ] `[未着手]` B47: 取締役会（Direksi）と監査役会（Komisaris）の法的権限と責任 (`docs/business-sectors/finance-board-directors-komisaris.md`)
+- [ ] `[未着手]` B48: 現地法人設立（PT PMA）と投資調整庁（BKPM/OSS）許認可 (`docs/business-sectors/finance-foreign-investment-pt-pma.md`)
+- [ ] `[未着手]` B49: 為替リスクヘッジ（Hedging）と中銀外為規制（PBI） (`docs/business-sectors/finance-fx-hedging-bi-regulations.md`)
+- [ ] `[未着手]` B50: 内部監査（Audit Internal）と不正防止・コンプライアンス (`docs/business-sectors/finance-internal-audit-compliance.md`)
+
 
 
 

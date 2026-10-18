@@ -290,6 +290,18 @@ nav = [
     { "インドネシアでのビジネス協働と異文化コミュニケーション" = "reading/business-communication-culture.md" },
     { "新首都ヌサンタラ計画：持続可能な未来都市への展望" = "reading/new-capital-ikn-nusantara.md" },
   ] },
+  { "業界別・実務特化ビジネスインドネシア語" = [
+    { "製造現場の5S活動と改善活動" = "business-sectors/manufacturing-5s-kaizen.md" },
+    { "労働安全衛生（K3）と個人用保護具（APD）" = "business-sectors/manufacturing-k3-safety.md" },
+    { "生産計画とラインタクトタイム管理" = "business-sectors/manufacturing-production-planning.md" },
+    { "不良品の原因分析と再発防止（QC・ポカヨケ）" = "business-sectors/manufacturing-quality-control.md" },
+    { "生産設備の定期保守点検と突発故障対応（TPM）" = "business-sectors/manufacturing-maintenance-tpm.md" },
+    { "ISO 9001/14001 監査対応とSOP遵守" = "business-sectors/manufacturing-iso-sop.md" },
+    { "原材料受入検査と歩留まり（Yield）管理" = "business-sectors/manufacturing-incoming-yield.md" },
+    { "工場作業員の朝礼とシフト引継ぎ連絡" = "business-sectors/manufacturing-morning-briefing.md" },
+    { "産業廃棄物（Limbah B3）の適正処理と環境規制" = "business-sectors/manufacturing-environmental-waste.md" },
+    { "サプライヤー工場監査と品質是正要求（CAR）" = "business-sectors/manufacturing-supplier-audit.md" },
+  ] },
 ]
 
 
