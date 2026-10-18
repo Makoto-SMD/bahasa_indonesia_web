@@ -1,10 +1,10 @@
 ---
 icon: lucide/book-open
-title: インドネシア語学習ナレッジベース
 ---
 
 # インドネシア語学習ナレッジベース
-### Bahasa Indonesia Knowledge Base untuk Pembelajar Jepang
+
+<p class="lead-subtitle">Bahasa Indonesia Knowledge Base untuk Pembelajar Jepang</p>
 
 ようこそ！このサイトは、日本人のためのインドネシア語（文字・発音・基本文法・接辞システム・語彙・日常会話・ビジネス・時事・検定対策・文化）を網羅した**体系的オープンナレッジベース**です。
 

@@ -190,4 +190,20 @@
 - **反映先**:
   - `task/check_git_checkpoint.py`, `.agents/skills/autonomous-editorial/SKILL.md`, `.agents/agents/engineer.md`, `AGENTS.md`, `editorial/ORGANIZATION.md`, `pdca/GUIDELINES.md`, `pdca/IMPROVEMENTS.md`, `pdca/NOTES.md`
 
+### [IMP-010] フォーマット運用の見直しとビルド成果物（HTML）へのdjlint実行廃止
+- **発生状況 / 課題**:
+  - ormat.ps1 を実行した際、プロセスが事実上ハングしユーザーにより強制停止される事態が発生。
+  - ログファイルが短時間で 121MB / 5,065,957行（500万行超）に膨れ上がり、PCのストレージとI/Oバッファを圧迫していた。
+- **根本原因**:
+  - ormat.ps1 がビルド生成物（site/ 配下のHTML成果物 1,003ファイル）に対して djlint --reformat を直列実行する設計になっていたこと。
+  - 記事数が1,000本に達したことで HTML 総量が数百メガバイトに達し、djlint の膨大な diff 出力が標準出力（stdout）のパイプ/バッファを埋め尽くして I/O ブロッキング（フリーズ）を引き起こした。
+  - そもそも編集対象ソースは docs/ 配下の Markdown であり、Zensical が自動出力する静的 HTML を後から再整形する必要性はなく、アーキテクチャ上の責務が逆転していた。
+- **再発防止策・改善内容**:
+  1. **運用規約の抜本的改定と実行禁止の明記**:
+     - AGENTS.md, pdca/GUIDELINES.md, .agents/skills/autonomous-editorial/SKILL.md, .agents/agents/engineer.md, editorial/ORGANIZATION.md の全関連ファイルにおいて、ormat.ps1 の実行を禁止・不要と明記。
+  2. **Markdown ソースコードリントへの完全移行**:
+     - リント・フォーマット対象を Markdown ソースコード（docs/）に限定し、python .\task\lint_markdown.py のみを実施するフローに統一。
+     - 静的サイト生成は .\.venv\Scripts\zensical.exe build（7.79秒でエラー0件検証完了）に一元化。
+- **反映先**:
+  - AGENTS.md, pdca/GUIDELINES.md, .agents/skills/autonomous-editorial/SKILL.md, .agents/agents/engineer.md, editorial/ORGANIZATION.md, pdca/IMPROVEMENTS.md, pdca/NOTES.md
 

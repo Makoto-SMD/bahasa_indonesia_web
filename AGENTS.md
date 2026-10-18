@@ -49,7 +49,7 @@ AIアシスタントは、ユーザーの要求や自律編集サイクルに応
    - 修正が必要な場合は `task/REVIEW-xxx.md` に校正フィードバックを発行、問題なければ承認（`APPROVED`）。
 4. **ビルド・検証・Gitコミット（Engineer）** (`.agents/agents/engineer.md`):
    - `zensical.toml` の `nav` 登録を確認。
-   - `.\.venv\Scripts\zensical.exe build` や `format.ps1` を実行し、HTML崩れやリンク切れを検証。
+   - `python .\task\lint_markdown.py` によるMarkdownソースのリント検証（太字約物・ルビ・テーブル形式等）、および `.\.venv\Scripts\zensical.exe build` を実行してエラーやリンク切れを検証（※ビルド成果物 site/ に対する format.ps1 はフリーズ誘発のため実行禁止・不要）。
    - `python .\task\check_git_checkpoint.py` を実行し、記事が約10本増えるごと、または全体修正時に確実に `git add` & `git commit` を完了させる。
    - 必要に応じて `task/REVIEW-xxx.md` に技術的フィードバックを発行。
 5. **上司（BOSS）** (`.agents/agents/boss.md`):
@@ -68,8 +68,8 @@ AIアシスタントは、ユーザーの要求や自律編集サイクルに応
 [3. 内容・語法校正] (Reviewer)
    ↓ 修正指示 ⇄ 修正対応 (Writer) → 承認 (APPROVED)
 [4. ビルド & HTML崩れ検証 & Gitコミット] (Engineer)
-   ↓ zensical.toml の nav 追加 ＆ zensical build & format.ps1
-   ↓ (10記事ごと/全体修正時) git add & git commit
+   ↓ zensical.toml の nav 追加 ＆ python .\task\lint_markdown.py ＆ zensical build
+   ↓ (10記事ごと/全体修正時) python .\task\check_git_checkpoint.py
 [5. 気づき収集 & PDCA分析] (BOSS & 全員)
    ↓ 改善案記録 (pdca/NOTES.md, pdca/IMPROVEMENTS.md) & pdca/GUIDELINES.md 更新
 ```

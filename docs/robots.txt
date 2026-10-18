@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://makoto-smd.github.io/bahasa_indonesia_web/sitemap.xml

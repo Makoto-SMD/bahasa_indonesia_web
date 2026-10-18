@@ -108,12 +108,16 @@ Saya mau makan nasi goreng.
 
 1. **`zensical.toml` への登録**:
    - 新規記事を作成したら、必ず `zensical.toml` の `nav` の適切なセクションに登録する。
-2. **ビルド検証**:
-   - 記事作成・修正後は以下のコマンドを実行してエラーがないことを確認する。
+2. **リント・ビルド検証**:
+   - 記事作成・修正後は、Markdownソースコード側の構文リントを行い、その後ビルドが成功することを確認する。
    ```powershell
+   # 1. Markdownソースのリント（太字約物配置、ルビ排除、テーブル形式等の自動検査）
+   python .\task\lint_markdown.py
+
+   # 2. 静的サイトビルド検証
    .\.venv\Scripts\zensical.exe build
-   powershell -ExecutionPolicy Bypass -File .\format.ps1
    ```
+   - ⚠️ **注意**: `format.ps1` は `site/` 配下の静的HTML成果物を `djlint` で再整形するスクリプトですが、1,000ページ規模の環境では数百万行のdiff出力により著しいI/Oフリーズを引き起こすため、**実行禁止・不要**です。リント・フォーマットはMarkdownソースコード（`lint_markdown.py`）に対してのみ行います。
 3. **ポート指定**:
    - ローカルサーバーはポート `8001`（`http://localhost:8001`）を使用する。
 

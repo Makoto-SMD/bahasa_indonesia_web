@@ -4,8 +4,9 @@ site_name = "インドネシア語学習ナレッジベース"
 site_description = "日本人のためのインドネシア語（文字・発音・文法・接辞・語彙・日常会話・文化）体系的オープンナレッジベース"
 site_author = "Indonesian Learning Project"
 
-# 独自スタイルシートの正しい配置（project直下）
+# 独自スタイルシート・スクリプトの正しい配置（project直下）
 extra_css = ["stylesheets/extra.css"]
+extra_javascript = ["javascripts/speech.js"]
 
 nav = [
   { "ホーム・案内" = [
@@ -1130,7 +1131,6 @@ toggle.icon = "lucide/moon"
 toggle.name = "システム設定に連動"
 
 [project.markdown_extensions]
-ruby_extension = {}
 abbr = {}
 admonition = {}
 attr_list = {}

@@ -85,7 +85,7 @@ flowchart TD
 - **出力**: `task/REVIEW-xxx.md`（修正指示または承認判定）、`pdca/NOTES.md`（気づき）
 
 ### 2.4 ビルド・検証・Gitコミット（Engineer）
-- **役割**: 新規記事のナビゲーション登録確認、`zensical build`、`format.ps1` によるHTML崩れ・リンク切れ検証、および未コミット記事が10本以上またはセクション完了時の自動Gitコミット（`python .\task\check_git_checkpoint.py`）を行う。
+- **役割**: 新規記事のナビゲーション登録確認、`python .\task\lint_markdown.py` によるMarkdownソースリント、`zensical build` によるリンク切れ・構文検証、および未コミット記事が10本以上またはセクション完了時の自動Gitコミット（`python .\task\check_git_checkpoint.py`）を行う（※ビルド成果物 site/ に対する format.ps1 はフリーズ原因となるため実行禁止・不要）。
 - **入力**: `docs/`、`zensical.toml`、生成 HTML
 - **出力**: `site/`、`Gitコミット`、`task/REVIEW-xxx.md` への検証結果記録、`pdca/NOTES.md`（気づき）
 

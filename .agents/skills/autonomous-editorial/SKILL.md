@@ -48,11 +48,12 @@ description: >-
 
 ### Phase 4: ビルド・検証・Gitコミット（Engineer）
 1. `zensical.toml` の `nav` に新規記事を登録。
-2. ビルドとHTMLフォーマットを実行：
+2. Markdownリントとビルド検証を実行：
    ```powershell
+   python .\task\lint_markdown.py
    .\.venv\Scripts\zensical.exe build
-   powershell -ExecutionPolicy Bypass -File .\format.ps1
    ```
+   ※ビルド成果物 `site/` に対する `format.ps1` はフリーズ原因となるため実行禁止・不要。Markdownソースのリントのみ行います。
 3. **Gitコミット自動判定と実行**:
    - 以下のチェックスクリプトを実行し、未コミット記事が10本以上（またはセクション終了時 `--force`）の場合に自動コミットを完了させる：
    ```powershell

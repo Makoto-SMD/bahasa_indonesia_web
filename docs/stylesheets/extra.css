@@ -384,3 +384,149 @@ abbr[title]:hover {
 [data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
   border-bottom-color: #2dd4bf;
 }
+
+/* ==========================================================================
+   7. インタラクティブアクションボタン (音声再生 & コピー)
+   ========================================================================== */
+
+.id-sentence {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.id-action-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  user-select: none;
+}
+
+.id-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 1px solid var(--md-default-border-color, #ded8cb);
+  background-color: var(--card-bg-color, #ede7da);
+  color: var(--md-default-fg-color--lighter, #787268);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  vertical-align: middle;
+}
+
+.id-btn:hover {
+  color: #0f766e;
+  border-color: #0f766e;
+  background-color: #ffffff;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 5px rgba(15, 118, 110, 0.15);
+}
+
+.id-btn:active {
+  transform: translateY(0);
+}
+
+/* 音声再生アニメーション */
+.id-btn--speech .id-btn__icon--active {
+  display: none;
+}
+
+.id-btn--speech.is-playing {
+  color: #0f766e;
+  border-color: #0f766e;
+  background-color: #ffffff;
+  animation: pulse-ring 1.2s infinite;
+}
+
+.id-btn--speech.is-playing .id-btn__icon--idle {
+  display: none;
+}
+
+.id-btn--speech.is-playing .id-btn__icon--active {
+  display: block;
+}
+
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 rgba(15, 118, 110, 0.4); }
+  70% { box-shadow: 0 0 0 6px rgba(15, 118, 110, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(15, 118, 110, 0); }
+}
+
+/* コピー完了フィードバック */
+.id-btn--copy .id-btn__icon--check {
+  display: none;
+}
+
+.id-btn--copy.is-copied {
+  color: #047857;
+  border-color: #047857;
+  background-color: #ecfdf5;
+}
+
+.id-btn--copy.is-copied .id-btn__icon--copy {
+  display: none;
+}
+
+.id-btn--copy.is-copied .id-btn__icon--check {
+  display: block;
+}
+
+/* ダークモード対応 */
+[data-md-color-scheme="slate"] .id-btn {
+  background-color: #1e293b;
+  border-color: #334155;
+  color: #94a3b8;
+}
+
+[data-md-color-scheme="slate"] .id-btn:hover {
+  background-color: #0f172a;
+  color: #2dd4bf;
+  border-color: #2dd4bf;
+}
+
+[data-md-color-scheme="slate"] .id-btn--speech.is-playing {
+  background-color: #0f172a;
+  color: #2dd4bf;
+  border-color: #2dd4bf;
+}
+
+[data-md-color-scheme="slate"] .id-btn--copy.is-copied {
+  background-color: #064e3b;
+  color: #34d399;
+  border-color: #34d399;
+}
+
+/* ==========================================================================
+   8. テーブルのレスポンシブ横スクロール対応
+   ========================================================================== */
+
+.md-typeset table:not([class]) {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+}
+
+/* ==========================================================================
+   9. 見出しセマンティクス補助 (サブタイトル)
+   ========================================================================== */
+
+.lead-subtitle {
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: var(--md-default-fg-color--lighter, #787268);
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+  letter-spacing: 0.02em;
+}
+
+[data-md-color-scheme="slate"] .lead-subtitle {
+  color: #94a3b8;
+}
+
