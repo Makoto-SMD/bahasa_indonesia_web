@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,150 / 1,500 記事 (76.7% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,160 / 1,500 記事 (77.3% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1226,16 +1226,16 @@
 - [x] `[完了]` 1150: 【二重言語総括】標準語（Baku）⇄ 街角口語（Gaul）50問総合変換診断 (`docs/diglossia/50-diglossia-comprehensive-drill.md`)
 
 ## 28. 【戦略会話】意味交渉＆サバイバル・コミュニケーション術 [30記事]
-- [ ] `[未着手]` 1151: 【聞き返し】聞き取れなかった時に相手を不快にさせず聞き直す技術 (`docs/strategies/01-clarification-request.md`)
-- [ ] `[未着手]` 1152: 【理解確認】自分の理解が合っているか「〜ということですか？」と確かめる (`docs/strategies/02-confirmation-check.md`)
-- [ ] `[未着手]` 1153: 【相手の理解確認】「ここまで大丈夫ですか？伝わっていますか？」と確認する (`docs/strategies/03-comprehension-check.md`)
-- [ ] `[未着手]` 1154: 【スピード減速要請】マシンガントークを自然にスローダウンさせるフレーズ (`docs/strategies/04-speed-control-pause.md`)
-- [ ] `[未着手]` 1155: 【音量・反復要請】「もう少し大きな声でもう一度言ってもらえますか？」 (`docs/strategies/05-volume-repetition-ask.md`)
-- [ ] `[未着手]` 1156: 【迂回表現：モノ】単語をど忘れした時「ほら、あの〜するための道具」と説明する (`docs/strategies/06-circumlocution-objects.md`)
-- [ ] `[未着手]` 1157: 【迂回表現：動作】動詞が出てこない時に別の平易な動作で言い換える技術 (`docs/strategies/07-circumlocution-actions.md`)
-- [ ] `[未着手]` 1158: 【迂回表現：抽象概念】専門用語が出ない時に具体例で伝えるサバイバル術 (`docs/strategies/08-circumlocution-concepts.md`)
-- [ ] `[未着手]` 1159: 【沈黙回避フィラー】「ええと、つまり…」と発話権を維持する時間稼ぎ言葉 (`docs/strategies/09-time-buying-fillers.md`)
-- [ ] `[未着手]` 1160: 【自己修正】言い間違えた瞬間に「いや、違った、〜です」と軌道修正する (`docs/strategies/10-self-correction-repair.md`)
+- [x] `[完了]` 1151: 【聞き返し】聞き取れなかった時に相手を不快にさせず聞き直す技術 (`docs/strategies/01-clarification-request.md`)
+- [x] `[完了]` 1152: 【理解確認】自分の理解が合っているか「〜ということですか？」と確かめる (`docs/strategies/02-confirmation-check.md`)
+- [x] `[完了]` 1153: 【相手の理解確認】「ここまで大丈夫ですか？伝わっていますか？」と確認する (`docs/strategies/03-comprehension-check.md`)
+- [x] `[完了]` 1154: 【スピード減速要請】マシンガントークを自然にスローダウンさせるフレーズ (`docs/strategies/04-speed-control-pause.md`)
+- [x] `[完了]` 1155: 【音量・反復要請】「もう少し大きな声でもう一度言ってもらえますか？」 (`docs/strategies/05-volume-repetition-ask.md`)
+- [x] `[完了]` 1156: 【迂回表現：モノ】単語をど忘れした時「ほら、あの〜するための道具」と説明する (`docs/strategies/06-circumlocution-objects.md`)
+- [x] `[完了]` 1157: 【迂回表現：動作】動詞が出てこない時に別の平易な動作で言い換える技術 (`docs/strategies/07-circumlocution-actions.md`)
+- [x] `[完了]` 1158: 【迂回表現：抽象概念】専門用語が出ない時に具体例で伝えるサバイバル術 (`docs/strategies/08-circumlocution-concepts.md`)
+- [x] `[完了]` 1159: 【沈黙回避フィラー】「ええと、つまり…」と発話権を維持する時間稼ぎ言葉 (`docs/strategies/09-time-buying-fillers.md`)
+- [x] `[完了]` 1160: 【自己修正】言い間違えた瞬間に「いや、違った、〜です」と軌道修正する (`docs/strategies/10-self-correction-repair.md`)
 - [ ] `[未着手]` 1161: 【言い換え】相手の言葉を別の易しい言葉でパラフレーズして確認する (`docs/strategies/11-restatement-paraphrase.md`)
 - [ ] `[未着手]` 1162: 【スペル確認】人名・地名・メールアドレスをアルファベットで正確に確認する (`docs/strategies/12-spelling-spelling-out.md`)
 - [ ] `[未着手]` 1163: 【電話・電波障害】「声が途切れています、電波が悪いです」の即応フレーズ (`docs/strategies/13-phone-connection-trouble.md`)

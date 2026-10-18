@@ -1232,6 +1232,18 @@ nav = [
       { "49: 同一シナリオ完全パラレル対比：同一の商談・雑談シーンを Baku と Gaul で演じ分ける" = "diglossia/49-complete-dialogue-baku-gaul-paired.md" },
       { "50: 【二重言語総括】標準語（Baku）⇄ 街角口語（Gaul）50問総合変換診断" = "diglossia/50-diglossia-comprehensive-drill.md" },
     ] },
+    { "意味交渉＆サバイバル・ストラテジー" = [
+      { "01: 聞き返し技術：相手を不快にさせず自然に聞き直す意味交渉フレーズ" = "strategies/01-clarification-request.md" },
+      { "02: 理解確認チェック：「〜ということですか？」と自分の理解を確かめる技術" = "strategies/02-confirmation-check.md" },
+      { "03: 相手への理解確認：「伝わっていますか？大丈夫ですか？」と反応を引き出す" = "strategies/03-comprehension-check.md" },
+      { "04: スピード減速要請：ネイティブのマシンガントークを自然にスローダウンさせる" = "strategies/04-speed-control-pause.md" },
+      { "05: 音量・反復要請：「もう少し大きな声でもう一度」を角を立てずにお願いする" = "strategies/05-volume-repetition-ask.md" },
+      { "06: 迂回表現（モノ編）：単語をど忘れした時に「ほら、あの〜するための道具」と伝える" = "strategies/06-circumlocution-objects.md" },
+      { "07: 迂回表現（動作編）：動詞が出てこない時に平易な語彙を組み合わせて説明する" = "strategies/07-circumlocution-actions.md" },
+      { "08: 迂回表現（概念編）：抽象名詞や専門用語を具体例とメタファーで切り抜ける" = "strategies/08-circumlocution-concepts.md" },
+      { "09: 沈黙回避フィラー：発話権を維持し「ええと、つまり…」と時間を稼ぐ戦略" = "strategies/09-time-buying-fillers.md" },
+      { "10: 自己修正（リペア）：言い間違えた瞬間に「いや、違った、〜です」と軌道修正する" = "strategies/10-self-correction-repair.md" },
+    ] },
   ] },
 ]
 
