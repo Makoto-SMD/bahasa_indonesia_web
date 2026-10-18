@@ -301,6 +301,16 @@ nav = [
     { "工場作業員の朝礼とシフト引継ぎ連絡" = "business-sectors/manufacturing-morning-briefing.md" },
     { "産業廃棄物（Limbah B3）の適正処理と環境規制" = "business-sectors/manufacturing-environmental-waste.md" },
     { "サプライヤー工場監査と品質是正要求（CAR）" = "business-sectors/manufacturing-supplier-audit.md" },
+    { "ITシステム開発の要件定義と仕様書レビュー" = "business-sectors/it-requirements-specifications.md" },
+    { "アジャイル・スクラム開発の実践（スプリント計画と朝会）" = "business-sectors/it-agile-scrum.md" },
+    { "バグ報告・障害トリアージと緊急パッチ対応" = "business-sectors/it-bug-report-triage.md" },
+    { "クラウドインフラ（AWS/GCP）の保守運用とセキュリティ" = "business-sectors/it-cloud-infrastructure.md" },
+    { "API連携・データベース設計とデータ移行" = "business-sectors/it-api-database-migration.md" },
+    { "UI/UXデザインのレビューとユーザビリティテスト" = "business-sectors/it-ui-ux-design-review.md" },
+    { "ITベンダー選定とSLA（サービス水準合意）交渉" = "business-sectors/it-vendor-sla-negotiation.md" },
+    { "サイバーセキュリティインシデント対応と情報漏洩対策" = "business-sectors/it-cybersecurity-incident.md" },
+    { "社内DX推進とERPシステム導入プロジェクト" = "business-sectors/it-dx-erp-implementation.md" },
+    { "テスト自動化・コードレビュー・CI/CDパイプライン" = "business-sectors/it-qa-cicd-pipeline.md" },
   ] },
 ]
 
