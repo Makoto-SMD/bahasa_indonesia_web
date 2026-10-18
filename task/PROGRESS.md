@@ -492,7 +492,7 @@
 
 ---
 
-## 16. 類義語・ニュアンス徹底比較事典 (Synonyms & Nuances) [50記事予定: 20/50完了]
+## 16. 類義語・ニュアンス徹底比較事典 (Synonyms & Nuances) [50記事予定: 30/50完了]
 - [x] `[完了]` C01: tinggal vs diam（住む・滞在する・黙るの境界線） (`docs/synonyms/c01-tinggal-vs-diam.md`)
 - [x] `[完了]` C02: antar vs jemput vs bawa（移動の方向と対象） (`docs/synonyms/c02-antar-vs-jemput-vs-bawa.md`)
 - [x] `[完了]` C03: bantu vs tolong（助ける・手伝うの機能差） (`docs/synonyms/c03-bantu-vs-tolong.md`)
@@ -513,6 +513,16 @@
 - [x] `[完了]` C18: berhenti vs menghentikan vs memecat vs mengundurkan diri（停止・中断・解雇・辞職） (`docs/synonyms/c18-berhenti-vs-menghentikan-vs-memecat.md`)
 - [x] `[完了]` C19: marah vs kesal vs jengkel vs murka（怒り・苛立ち・不快・激怒） (`docs/synonyms/c19-marah-vs-kesal-vs-jengkel.md`)
 - [x] `[完了]` C20: sedih vs kecewa vs duka vs putus asa（悲しみ・失望・哀悼・絶望） (`docs/synonyms/c20-sedih-vs-kecewa-vs-duka.md`)
+- [x] `[完了]` C21: cepat vs lekas vs segera vs buru-buru（速い・急いで・至急・慌ただしい） (`docs/synonyms/c21-cepat-vs-lekas-vs-segera.md`)
+- [x] `[完了]` C22: pelan vs lambat vs lamban（ゆっくり・遅い・鈍重・トロい） (`docs/synonyms/c22-pelan-vs-lambat-vs-lamban.md`)
+- [x] `[完了]` C23: pandai vs pintar vs cerdas vs cerdik（頭が良い・利口・知性・機転狡知） (`docs/synonyms/c23-pandai-vs-pintar-vs-cerdas.md`)
+- [x] `[完了]` C24: bodoh vs dungu vs tolol vs bebal（愚か・無知・間抜け・頑迷） (`docs/synonyms/c24-bodoh-vs-dungu-vs-tolol.md`)
+- [x] `[完了]` C25: cantik vs indah vs elok vs molek（美貌・絶景・優美・可憐） (`docs/synonyms/c25-cantik-vs-indah-vs-elok.md`)
+- [x] `[完了]` C26: besar vs agung vs akbar vs raya（物理的巨大・偉大・壮大・偉容） (`docs/synonyms/c26-besar-vs-agung-vs-akbar.md`)
+- [x] `[完了]` C27: kecil vs mungil vs sepele vs remeh（小型・可憐・些細・軽微） (`docs/synonyms/c27-kecil-vs-mungil-vs-sepele.md`)
+- [x] `[完了]` C28: mudah vs gampang vs ringan（容易・手軽・軽快） (`docs/synonyms/c28-mudah-vs-gampang-vs-ringan.md`)
+- [x] `[完了]` C29: sukar vs susah vs sulit vs payah（困難・難解・苦労・骨折り） (`docs/synonyms/c29-sukar-vs-susah-vs-sulit.md`)
+- [x] `[完了]` C30: mahal vs bernilai vs berharga vs mewah（高価・有価値・貴重尊貴・贅沢豪華） (`docs/synonyms/c30-mahal-vs-bernilai-vs-berharga.md`)
 
 
 
