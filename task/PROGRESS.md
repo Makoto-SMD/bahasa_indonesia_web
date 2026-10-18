@@ -438,7 +438,7 @@
 
 ---
 
-## 15. 検定・UKBI突破！文法・語彙・読解マスター演習 (Exam Drills) [50記事予定: 10/50完了]
+## 15. 検定・UKBI突破！文法・語彙・読解マスター演習 (Exam Drills) [50記事予定: 20/50完了]
 - [x] `[完了]` U01: 接尾辞 -kan vs -i の使い分けマスター演習 (`docs/exam-drills/u01-affixes-kan-vs-i-distinction.md`)
 - [x] `[完了]` U02: 名詞接辞 peN-...-an vs per-...-an の使い分け (`docs/exam-drills/u02-noun-affixes-pen-an-vs-per-an.md`)
 - [x] `[完了]` U03: 接頭辞 ter- の4大機能（無意志・完了・可能・最上級） (`docs/exam-drills/u03-prefix-ter-functions-exam-drill.md`)
@@ -449,6 +449,17 @@
 - [x] `[完了]` U08: 受動態における接辞制約（di-...-kan vs di-...-i） (`docs/exam-drills/u08-passive-voice-affix-constraints-di-kan-vs-di-i.md`)
 - [x] `[完了]` U09: 接頭辞 se- の5大機能（同一・単一・直後・程度・最上級） (`docs/exam-drills/u09-prefix-se-five-major-functions.md`)
 - [x] `[完了]` U10: 重畳語（Kata Ulang）の5大派生パターンと意味識別 (`docs/exam-drills/u10-reduplication-kata-ulang-patterns-meanings.md`)
+- [x] `[完了]` U11: 否定詞 tidak vs bukan の高度識別演習 (`docs/exam-drills/u11-negation-tidak-vs-bukan-advanced.md`)
+- [x] `[完了]` U12: 前置詞・関係詞 antara vs di antara の識別演習 (`docs/exam-drills/u12-prepositions-antara-vs-di-antara.md`)
+- [x] `[完了]` U13: 前置詞 dalam vs di dalam の空間的・抽象的境界 (`docs/exam-drills/u13-prepositions-dalam-vs-di-dalam.md`)
+- [x] `[完了]` U14: 理由接続詞 karena vs sebab の文法機能と文頭制約 (`docs/exam-drills/u14-conjunctions-karena-vs-sebab.md`)
+- [x] `[完了]` U15: 目的接続詞 agar vs supaya の文体差とコロケーション (`docs/exam-drills/u15-conjunctions-agar-vs-supaya.md`)
+- [x] `[完了]` U16: 限定副詞 hanya vs saja の語順規則と重複対策 (`docs/exam-drills/u16-adverbs-hanya-vs-saja-syntax.md`)
+- [x] `[完了]` U17: 完了副詞 sudah vs telah のレジスターと公的文書 (`docs/exam-drills/u17-tense-aspect-sudah-vs-telah.md`)
+- [x] `[完了]` U18: 可能助動詞 bisa vs dapat vs boleh の機能的使い分け (`docs/exam-drills/u18-modal-auxiliaries-bisa-dapat-boleh.md`)
+- [x] `[完了]` U19: 認識動詞 tahu vs kenal の直接目的語制約と識別 (`docs/exam-drills/u19-verbs-tahu-vs-kenal-distinction.md`)
+- [x] `[完了]` U20: 身体部位別「運搬・所持動詞」の完全識別演習 (`docs/exam-drills/u20-carrying-verbs-membawa-memikul-jinjing.md`)
+
 
 
 

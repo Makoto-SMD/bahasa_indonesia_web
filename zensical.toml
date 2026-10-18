@@ -405,6 +405,16 @@ nav = [
     { "受動態における接辞制約（di-...-kan vs di-...-i）" = "exam-drills/u08-passive-voice-affix-constraints-di-kan-vs-di-i.md" },
     { "接頭辞 se- の5大機能（同一・単一・直後・程度・最上級）" = "exam-drills/u09-prefix-se-five-major-functions.md" },
     { "重畳語（Kata Ulang）の5大派生パターンと意味識別" = "exam-drills/u10-reduplication-kata-ulang-patterns-meanings.md" },
+    { "否定詞 tidak vs bukan の高度識別演習" = "exam-drills/u11-negation-tidak-vs-bukan-advanced.md" },
+    { "前置詞・関係詞 antara vs di antara の識別演習" = "exam-drills/u12-prepositions-antara-vs-di-antara.md" },
+    { "前置詞 dalam vs di dalam の空間的・抽象的境界" = "exam-drills/u13-prepositions-dalam-vs-di-dalam.md" },
+    { "理由接続詞 karena vs sebab の文法機能と文頭制約" = "exam-drills/u14-conjunctions-karena-vs-sebab.md" },
+    { "目的接続詞 agar vs supaya の文体差とコロケーション" = "exam-drills/u15-conjunctions-agar-vs-supaya.md" },
+    { "限定副詞 hanya vs saja の語順規則と重複対策" = "exam-drills/u16-adverbs-hanya-vs-saja-syntax.md" },
+    { "完了副詞 sudah vs telah のレジスターと公的文書" = "exam-drills/u17-tense-aspect-sudah-vs-telah.md" },
+    { "可能助動詞 bisa vs dapat vs boleh の機能的使い分け" = "exam-drills/u18-modal-auxiliaries-bisa-dapat-boleh.md" },
+    { "認識動詞 tahu vs kenal の直接目的語制約と識別" = "exam-drills/u19-verbs-tahu-vs-kenal-distinction.md" },
+    { "身体部位別「運搬・所持動詞」の完全識別演習" = "exam-drills/u20-carrying-verbs-membawa-memikul-jinjing.md" },
   ] },
 ]
 
