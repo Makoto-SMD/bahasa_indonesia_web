@@ -134,13 +134,13 @@
 ---
 
 ## 8. 文化・習慣・マナー・学習法 (Budaya & Sumber Belajar) [7記事]
-- [ ] `[未着手]` 094: インドネシアの文化・宗教的多様性とマナー・タブー (`docs/slang-culture/etiquette-manners.md`)
-- [ ] `[未着手]` 095: 食文化（右手で食べる文化・ハラール・激辛サンバル） (`docs/slang-culture/food-culture.md`)
-- [ ] `[未着手]` 096: 人間関係の築き方・笑顔とスモールトーク（Ramah Tamah） (`docs/slang-culture/social-connections.md`)
-- [ ] `[未着手]` 097: インドネシア語技能検定（E級・D級・C級）の傾向と学習ロードマップ (`docs/resources/exam-guide.md`)
-- [ ] `[未着手]` 098: UKBI（インドネシア語能力評価試験）の概要と対策 (`docs/resources/ukbi-guide.md`)
-- [ ] `[未着手]` 099: おすすめオンライン辞書（KBBI等）・学習アプリ・Webメディア集 (`docs/resources/tools-and-apps.md`)
-- [ ] `[未着手]` 100: 日本人学習者が中級の壁を突破するための実践的勉強法 (`docs/resources/intermediate-breakthrough.md`)
+- [x] `[完了]` 094: インドネシアの文化・宗教的多様性とマナー・タブー (`docs/slang-culture/etiquette-manners.md`)
+- [x] `[完了]` 095: 食文化（右手で食べる文化・ハラール・激辛サンバル） (`docs/slang-culture/food-culture.md`)
+- [x] `[完了]` 096: 人間関係の築き方・笑顔とスモールトーク（Ramah Tamah） (`docs/slang-culture/social-connections.md`)
+- [x] `[完了]` 097: インドネシア語技能検定（E級・D級・C級）の傾向と学習ロードマップ (`docs/resources/exam-guide.md`)
+- [x] `[完了]` 098: UKBI（インドネシア語能力評価試験）の概要と対策 (`docs/resources/ukbi-guide.md`)
+- [x] `[完了]` 099: おすすめオンライン辞書（KBBI等）・学習アプリ・Webメディア集 (`docs/resources/tools-and-apps.md`)
+- [x] `[完了]` 100: 日本人学習者が中級の壁を突破するための実践的勉強法 (`docs/resources/intermediate-breakthrough.md`)
 
 ---
 

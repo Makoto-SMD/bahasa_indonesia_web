@@ -113,6 +113,15 @@ nav = [
     { "必須慣用句・ことわざ名選" = "slang-culture/idioms-proverbs.md" },
     { "ゴム時間（Jam Karet）と付き合い方" = "slang-culture/jam-karet.md" },
   ] },
+  { "文化・習慣・マナー・学習法" = [
+    { "宗教・生活マナーと絶対NGタブー" = "slang-culture/etiquette-manners.md" },
+    { "手食作法からハラールまでの食文化" = "slang-culture/food-culture.md" },
+    { "スモールトーク（Basa-basi）と笑顔" = "slang-culture/social-connections.md" },
+    { "インドネシア語技能検定（INKEN）対策" = "resources/exam-guide.md" },
+    { "UKBI能力評価試験の概要と対策" = "resources/ukbi-guide.md" },
+    { "おすすめ辞書・アプリ・メディア集" = "resources/tools-and-apps.md" },
+    { "中級の壁を突破する7つの処方箋" = "resources/intermediate-breakthrough.md" },
+  ] },
   { "万能フレーズ型・文章パターンドリル" = [
     { "依頼・許可・希望のパターン構文" = "patterns/requests-permissions.md" },
     { "場所・存在・移動・交通のパターン構文" = "patterns/location-movement.md" },
