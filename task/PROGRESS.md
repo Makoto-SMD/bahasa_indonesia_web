@@ -546,7 +546,7 @@
 
 ---
 
-## 17. インドネシアの地理・各州・文化・民族探訪 (Geography & Ethnic Cultures) [40記事予定: 30/40完了]
+## 17. インドネシアの地理・各州・文化・民族探訪 (Geography & Ethnic Cultures) [全40記事完了: 40/40 コンプリート【目標500記事達成】]
 - [x] `[完了]` G01: アチェ州（Serambi Mekkah・シャリーア・珈琲と津波復興） (`docs/geography-culture/g01-aceh-serambi-mekkah.md`)
 - [x] `[完了]` G02: 北スマトラ州（トバ湖・サモシール島・バタク文化・メダン） (`docs/geography-culture/g02-sumatera-utara-batak-toba.md`)
 - [x] `[完了]` G03: 西スマトラ州（母系制ミナンカバウ・ルマガダン・パダン料理） (`docs/geography-culture/g03-sumatera-barat-minangkabau.md`)
@@ -577,6 +577,33 @@
 - [x] `[完了]` G28: マルク州（香料諸島の記憶・バンダのナツメグ・音楽都市アンボン） (`docs/geography-culture/g28-maluku-ambon-rempah-pala.md`)
 - [x] `[完了]` G29: 北マルク州（双子火山島テルナテ＆ティドレ・丁子黄金郷・世界一周達成地） (`docs/geography-culture/g29-maluku-utara-ternate-tidore.md`)
 - [x] `[完了]` G30: トギアン諸島＆バンガイ（トミニ湾蒼き秘境・漂海民バジャウ・無毒クラゲ湖） (`docs/geography-culture/g30-kepulauan-banggai-togean-alam.md`)
+- [x] `[完了]` G31: 西パプア州（地球の至宝ラジャ・アンパット・世界一の海洋生物多様性） (`docs/geography-culture/g31-papua-barat-raja-ampat.md`)
+- [x] `[完了]` G32: パプア州（州都ジャヤプラ・神秘のセンタニ湖・樹皮絵画と極楽鳥） (`docs/geography-culture/g32-papua-jayapura-danau-sentani.md`)
+- [x] `[完了]` G33: 山岳パプア州（秘境バリエム渓谷・ダニ族・ホナイとバカル・バトゥ） (`docs/geography-culture/g33-papua-pegunungan-lembah-baliem-dani.md`)
+- [x] `[完了]` G34: 南パプア州（アスマット族の驚異の木彫芸術・最東端メラウケとワスラフ） (`docs/geography-culture/g34-papua-selatan-asmat-seni-ukir.md`)
+- [x] `[完了]` G35: 中部パプア州（赤道直下の万年雪プンチャック・ジャヤ・巨額鉱山とカマロ族） (`docs/geography-culture/g35-papua-tengah-grasberg-mimika.md`)
+- [x] `[完了]` G36: 南西パプア州（州都ソロン・パプアの玄関口・太古の森と熱帯鳥類） (`docs/geography-culture/g36-papua-barat-daya-sorong-biodiversitas.md`)
+- [x] `[完了]` G37: バンカ・ブリトゥン州（花崗岩巨石の美ら海・『虹の兵士たち』とスズの島） (`docs/geography-culture/g37-kepulauan-bangka-belitung-timah-geopark.md`)
+- [x] `[完了]` G38: ブンクル州（世界最大の花ラフレシア・英国要塞マールボロとスカルノ流刑の地） (`docs/geography-culture/g38-bengkulu-raflesia-benteng-marlborough.md`)
+- [x] `[完了]` G39: ジャンビ州（東南アジア最大の仏教遺跡ムアロ・ジャンビと雄峰クリンチ） (`docs/geography-culture/g39-jambi-candi-muaro-jambi.md`)
+- [x] `[完了]` G40: 群島国家ヌサンタラ総括（多様性の中の統一・1,300民族を結ぶ絆） (`docs/geography-culture/g40-bhineka-tunggal-ika-nusantara-sintesis.md`)
+
+---
+
+## 🏆 ナレッジベース総計（501記事コンプリート）
+- **基盤カリキュラム (000〜100)**: 100記事
+- **万能フレーズ型・文章パターンドリル (P01〜P50)**: 50記事
+- **語根別派生語マスター図鑑 (D01〜D50)**: 50記事
+- **シチュエーション別実践対話ドリル (S01〜S50)**: 50記事
+- **長文読解・リーディング練習 (R01〜R10)**: 10記事
+- **業界別・実務特化ビジネスインドネシア語 (B01〜B50)**: 50記事
+- **ニュース・時事インドネシア語リーディング (N01〜N50)**: 50記事
+- **検定・UKBI突破演習 (U01〜U50)**: 50記事
+- **類義語・ニュアンス徹底比較事典 (C01〜C50)**: 50記事
+- **インドネシアの地理・各州・文化・民族探訪 (G01〜G40)**: 40記事
+- **特別付録 (スピーチ・挨拶表現集)**: 1記事 (`docs/appendix/speeches-greetings.md`)
+- **総計**: **501記事（完全達成）**
+
 
 
 

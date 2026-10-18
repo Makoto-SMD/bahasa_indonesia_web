@@ -529,6 +529,16 @@ nav = [
     { "マルク州（香料諸島の記憶・バンダのナツメグ・音楽都市アンボン）" = "geography-culture/g28-maluku-ambon-rempah-pala.md" },
     { "北マルク州（双子火山島テルナテ＆ティドレ・丁子黄金郷・世界一周達成地）" = "geography-culture/g29-maluku-utara-ternate-tidore.md" },
     { "トギアン諸島＆バンガイ（トミニ湾蒼き秘境・漂海民バジャウ・無毒クラゲ湖）" = "geography-culture/g30-kepulauan-banggai-togean-alam.md" },
+    { "西パプア州（地球の至宝ラジャ・アンパット・世界一の海洋生物多様性）" = "geography-culture/g31-papua-barat-raja-ampat.md" },
+    { "パプア州（州都ジャヤプラ・神秘のセンタニ湖・樹皮絵画と極楽鳥）" = "geography-culture/g32-papua-jayapura-danau-sentani.md" },
+    { "山岳パプア州（秘境バリエム渓谷・ダニ族・ホナイとバカル・バトゥ）" = "geography-culture/g33-papua-pegunungan-lembah-baliem-dani.md" },
+    { "南パプア州（アスマット族の驚異の木彫芸術・最東端メラウケとワスラフ）" = "geography-culture/g34-papua-selatan-asmat-seni-ukir.md" },
+    { "中部パプア州（赤道直下の万年雪プンチャック・ジャヤ・巨額鉱山とカマロ族）" = "geography-culture/g35-papua-tengah-grasberg-mimika.md" },
+    { "南西パプア州（州都ソロン・パプアの玄関口・太古の森と熱帯鳥類）" = "geography-culture/g36-papua-barat-daya-sorong-biodiversitas.md" },
+    { "バンカ・ブリトゥン州（花崗岩巨石の美ら海・『虹の兵士たち』とスズの島）" = "geography-culture/g37-kepulauan-bangka-belitung-timah-geopark.md" },
+    { "ブンクル州（世界最大の花ラフレシア・英国要塞マールボロとスカルノ流刑の地）" = "geography-culture/g38-bengkulu-raflesia-benteng-marlborough.md" },
+    { "ジャンビ州（東南アジア最大の仏教遺跡ムアロ・ジャンビと雄峰クリンチ）" = "geography-culture/g39-jambi-candi-muaro-jambi.md" },
+    { "群島国家ヌサンタラ総括（多様性の中の統一・1,300民族を結ぶ絆）" = "geography-culture/g40-bhineka-tunggal-ika-nusantara-sintesis.md" },
   ] },
 ]
 
