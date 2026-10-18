@@ -52,6 +52,18 @@ nav = [
     { "周囲辞 ke-...-an の名詞化・過度・受動" = "affixes/circumfix-ke-an.md" },
     { "周囲辞 peN-...-an と per-...-an の比較" = "affixes/circumfix-pen-an.md" },
   ] },
+  { "語根別派生語マスター図鑑" = [
+    { "語根 tahu（知る・知識）の全派生語" = "derivations/root-tahu.md" },
+    { "語根 buka（開く・公にする）の全派生語" = "derivations/root-buka.md" },
+    { "語根 tutup（閉じる・覆う）の全派生語" = "derivations/root-tutup.md" },
+    { "語根 buat（作る・為す）の全派生語" = "derivations/root-buat.md" },
+    { "語根 jalan（道・進む・実行）の全派生語" = "derivations/root-jalan.md" },
+    { "語根 ambil（取る・買収）の全派生語" = "derivations/root-ambil.md" },
+    { "語根 beri（与える・報道）の全派生語" = "derivations/root-beri.md" },
+    { "語根 sampai（着く・伝える）の全派生語" = "derivations/root-sampai.md" },
+    { "語根 temu（会う・発見する）の全派生語" = "derivations/root-temu.md" },
+    { "語根 hidup（生きる・生計）の全派生語" = "derivations/root-hidup.md" },
+  ] },
   { "日常会話・シーン別表現" = [
     { "基本の挨拶と自己紹介" = "conversation/greetings.md" },
     { "数字・金額と両替フレーズ" = "conversation/numbers-money.md" },
