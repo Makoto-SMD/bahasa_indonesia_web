@@ -229,3 +229,22 @@
      - 10本ごとに `check_git_checkpoint.py` を通過させ、5回のGitチェックポイント（計50記事）をノーエラーで安全に記録。
 - **反映先**:
   - `docs/output/` (全50記事), `task/PROGRESS.md`, `zensical.toml`, `pdca/NOTES.md`, `pdca/IMPROVEMENTS.md`
+
+### [IMP-012] セクション26「日本人特有の不自然な表現・矯正クリニック」全50記事の完遂と母語転移治療の体系化
+- **発生状況 / 課題**:
+  - 日本人インドネシア語学習者において、「文法的には間違いではないが極めて不自然な直訳」「相手の心証を害するレジスターの不一致（口語と文語の混同）」「前置詞や助動詞の機械的直訳による意図の変質」が慢性的に生じる課題があった。
+- **根本原因**:
+  - 日本語（L1）の思考フレームをそのままインドネシア語（L2）の個別単語に1対1で当てはめる「負の母語転移（Negative Transfer）」が原因であり、単なる語彙集や文法規則の丸暗記では治療が困難であった。
+- **再発防止策・改善内容**:
+  - 1. **全50症例の体系的分類と統一フォーマットの確立**:
+     - 「症例カルテ（日本人特有の不自然な直訳 vs 自然なネイティブ表現 vs 病因分析）」
+     - 「処方箋とパラダイムシフト（母語思考の解体と品詞・構文の再構築）」
+     - 「15問瞬間リライトドリル（直訳を避けて1〜2秒以内の反射発話）」
+     - 「3問理解度チェッククイズ」
+  - 2. **全50記事（1051〜1100）の完全執筆・校正・ビルド**:
+     - アスペクト（sudah）、恩恵使役（memberi）、無生物主語、受動態過剰、te-oku/te-shimau、所有（ada/punya）、可能（bisa/dapat/mampu）、意志（mau/akan）、否定（bukan/tidak）、行為者（oleh）、時間表現（jam/waktu/pukul）、語順（banyak orang）、二重強調（sangat...sekali）、前置詞（untuk, dengan, dari/daripada, tentang, sebagai）、依頼（minta tolong/mohon）、思考（pikir/kira/sangka/rasa）、知得（kenal/tahu/paham）、居住（tinggal/hidup）、帰復（kembali/pulang/lagi）、移動（antar/jemput/bawa）、貸借（pinjam/sewa）、贈り物（oleh-oleh/hadiah）、感情（kasihan/sayang）、疲労（capek/lelah）、面白さ（lucu/menarik）、異常（aneh）、難易（mudah/sulit）、疑問（apa/apakah）、時系列（setelah/sejak）、頻度（jarang）、推量（mungkin/bisa jadi）、タイミング（baru saja/pas）、義務（harus/wajib/perlu）、許可（boleh/bisa）、勧誘（mengajak/mengundang）、発言（bicara/bilang）、遺失（lupa/ketinggalan）、喪失（hilang/kehilangan/kalah）、勝敗（menang/kalah/mengalahkan）、損傷（pecah/patah/hancur/rusak）、落下（jatuh/gugur/turun）、乗降（naik/turun/numpang）、開閉（buka/tutup/membukakan）、総合診断50問。
+  - 3. **進捗達成とGitコミット**:
+     - 累計記事数は 1,100 / 1,500 記事（進捗率 73.3%）へ到達。
+     - 全記事ノーエラーでビルド合格（zensical build: 8〜25秒）。
+- **反映先**:
+  - `docs/clinic/` (全50記事), `task/PROGRESS.md`, `zensical.toml`, `pdca/NOTES.md`, `pdca/IMPROVEMENTS.md`

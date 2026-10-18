@@ -225,11 +225,17 @@
   - 基本語順、否定詞、親称代名詞、指示詞、疑問詞、アスペクト、前置詞、助動詞、比較、接続詞、助数詞、ada、受動態（di- および一人称・二人称語幹受動態）、meN-、ber-、ter-、-kan、-i、周囲辞 ke-...-an、peN-...-an、per-...-an、重複語、関係詞 yang、名詞節 bahwa、譲歩・条件・目的・結果節、クッション言葉、定型チャンクの全パターンの産出ドリルを高品質に執筆完了。
 - **Reviewer**:
   - 全50記事の内容精査、文法・用例の厳密性、太字約物記法（`「**...**」`）の完全遵守、ルビ混入ゼロを確認し、全記事 APPROVED を発行。
+### 2026-10-19: セクション26「【誤用克服】日本人特有の不自然な表現・矯正クリニック」全50記事の完全完遂（累計1,100記事達成）
+- **Director**:
+  - 日本人学習者が無意識に直訳して生じる「文法的には通じるが不自然極まりない発話」や「社会通念・レジスター上の重大な誤解」を根本治療する50テーマ（1051〜1100）の執筆指示書（TASK-1051, 1061, 1071, 1081, 1091）を発行・管理。
+- **Writer**:
+  - 全50記事において「症例カルテ（直訳の罠 vs 自然な表現 vs 病因分析）」「処方箋とパラダイムシフト」「15問瞬間リライトドリル」「3問理解度チェッククイズ」の統一フォーマットで執筆。
+  - sudahの過剰使用、memberiの直訳、無生物主語、受身過剰、te-oku/te-shimau、ada/punya、bisa/dapat/mampu、mau/akan、bukan/tidak、oleh過剰、時間詞clash、banyak orang/orang banyak、二重強調sangat...sekali、前置詞過剰（untuk, dengan, dari/daripada, tentang, sebagai）、依頼レベル（minta tolong, mohon）、思考動詞（pikir, kira, sangka, rasa）、知得（kenal, tahu, paham）、居住（tinggal, hidup）、帰復（kembali, pulang, lagi）、移動ベクトル（antar, jemput, bawa）、貸借（pinjam, sewa）、ギフト（oleh-oleh, hadiah）、感情（kasihan, sayang）、疲労（capek, lelah）、面白さ（lucu, menarik）、異常（aneh）、難易（mudah/sulit）、疑問（apa/apakah）、時系列（setelah/sejak）、頻度（jarangの二重否定防止）、推量（bisa jadi）、タイミング（baru saja/pas）、義務（wajib/harus/perlu）、許可・能力（boleh/bisa）、同行・招致（mengajak/mengundang）、発言（bicara/bilang）、遺失（lupa/ketinggalan）、喪失（hilang/kehilangan/kalah）、勝敗使役（mengalahkan）、物理損傷（pecah, patah, hancur, rusak）、落下（jatuh, gugur, turun）、乗降便乗（naik, turun, numpang）、開閉使役（membukakan）、そして全50テーマ総合診断テストまで、極めて実践的かつ体系的なクリニックを構築。
+- **Reviewer**:
+  - 全50記事の用例・語法・病因解説を厳密査読。ルビ混入ゼロ、太字約物記法（`「**...**」`）の完全遵守を確認し、APPROVED。
 - **Engineer**:
-  - `zensical.toml` の `nav` に新トップレベルタブ「SLA実践演習・自動化」および全50記事を登録。
-  - `python task/lint_markdown.py` による検証（エラー0件）、`zensical build` 検証（エラーなし・8秒台）、および `python task/check_git_checkpoint.py` による自動Gitチェックポイント（10本ごと×5回）を完璧に実行・完了。
+  - `zensical.toml` の `nav` への登録、`python task/lint_markdown.py` の検証（エラー0件）、`zensical build`（エラーなし・8秒〜25秒台）、および10本ごとの自動Gitコミット（Commit: c78e8d4, e540c2d, 2a7ce58, 39b138a）を完了。
 - **BOSS**:
-  - 500記事拡充計画の第1セクション（50本）の完全自律完遂を高く評価。
-  - 10本ごとの自動Gitコミット機構が極めて安定して機能していることを確認。
-  - 次のセクション26「【誤用克服】日本人特有の「不自然な表現」矯正クリニック（50記事: 1051〜1100）」への即時連続移行を承認。
+  - **セクション26全50記事の完全完成を承認！累計記事数は 1,100 / 1,500 記事（進捗率 73.3%）に到達。**
+  - 次のセクション27「【口語・俗語】標準語（Baku）⇄ 街角口語（Gaul）変換マスター [50記事: 1101〜1150]」への即時連続移行を命じる。
 
