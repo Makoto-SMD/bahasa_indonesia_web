@@ -1264,6 +1264,18 @@ nav = [
       { "29: 空港・フライトトラブル：ロストバゲージ・乗り遅れ・遅延時の航空会社カウンター交渉" = "strategies/29-airport-transit-trouble.md" },
       { "30: 【戦略会話総括】総合サバイバル対話シミュレーション30番勝負＆判定" = "strategies/30-comprehensive-survival-test.md" },
     ] },
+    { "発音・音韻・シャドーイング特訓" = [
+      { "01: シャドーイング完全マニュアル：耳と口を直結させる科学的訓練法" = "phonology/01-shadowing-mastery-guide.md" },
+      { "02: 母音 e 徹底攻略：[e]（テーリング）と [ə]（プルペッ）の聞き分け50ペア" = "phonology/02-vowel-e-taling-pepet-drill.md" },
+      { "03: 巻き舌 r 完全克服：舌先を震わせるステップバイステップ調音法" = "phonology/03-rolled-r-tongue-training.md" },
+      { "04: 語末 k の声門閉鎖音：喉をピタッと閉じる無開放音マスター" = "phonology/04-glottal-stop-k-mastery.md" },
+      { "05: 鼻音 ng と ny：語頭・語末鼻濁音の正確な調音位置" = "phonology/05-nasal-clusters-ng-ny.md" },
+      { "06: 二重母音と滑音：ai, au, oi のスムーズな移行と渡り音" = "phonology/06-diphthongs-glides.md" },
+      { "07: 連音（リンキング）：単語境界が滑らかに繋がるネイティブのリエゾン" = "phonology/07-linking-liaison.md" },
+      { "08: 語幹アクセントと接辞：原則後ろから2番目の音節ルール" = "phonology/08-penultimate-stress-rule.md" },
+      { "09: 文全体の抑揚（イントネーション）：平叙文・疑問文・命令文のピッチパターン" = "phonology/09-sentence-intonation-pitch.md" },
+      { "10: 脱カタカナ発音：無意識の母音挿入癖の完全矯正" = "phonology/10-eliminating-katakana-bias.md" },
+    ] },
   ] },
 ]
 

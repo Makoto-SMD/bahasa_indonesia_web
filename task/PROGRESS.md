@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,180 / 1,500 記事 (78.7% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,190 / 1,500 記事 (79.3% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1258,16 +1258,16 @@
 - [x] `[完了]` 1180: 【サバイバル総合演習】トラブル・交渉・意思疎通を切り抜ける30番勝負 (`docs/strategies/30-comprehensive-survival-test.md`)
 
 ## 29. 【音韻訓練】発音・音韻・シャドーイング＆AIスピーキング特訓 [20記事]
-- [ ] `[未着手]` 1181: インドネシア語シャドーイング完全マニュアル：耳と口を直結させる科学的訓練法 (`docs/phonology/01-shadowing-mastery-guide.md`)
-- [ ] `[未着手]` 1182: 【母音 e 徹底攻略】[e]（テーリング）と [ə]（プルペッ）を聞き分け・発音し分ける50ペア (`docs/phonology/02-vowel-e-taling-pepet-drill.md`)
-- [ ] `[未着手]` 1183: 【巻き舌 r 完全克服】舌先を震わせるステップバイステップ調音トレーニング (`docs/phonology/03-rolled-r-tongue-training.md`)
-- [ ] `[未着手]` 1184: 【語末 k の声門閉鎖音】「バソッ」と音を止める喉の使い方の完全マスター (`docs/phonology/04-glottal-stop-k-mastery.md`)
-- [ ] `[未着手]` 1185: 【鼻音 ng と ny】日本人最大の弱点「鼻濁音」の正確な調音位置と練習法 (`docs/phonology/05-nasal-clusters-ng-ny.md`)
-- [ ] `[未着手]` 1186: 【二重母音 ai, au, oi】単なる連続母音との違いと滑らかな移行 (`docs/phonology/06-diphthongs-ai-au-oi.md`)
-- [ ] `[未着手]` 1187: 【音節アクセントと音調】「平坦ではない！」インドネシア語の強勢リズム規則 (`docs/phonology/07-syllable-stress-pitch-accent.md`)
-- [ ] `[未着手]` 1188: 【文イントネーション】平叙文・疑問文・命令文のピッチ曲線の科学 (`docs/phonology/08-sentence-intonation-questions.md`)
-- [ ] `[未着手]` 1189: 【連音・リエゾン】単語が繋がった時にネイティブの耳にどう聞こえているか (`docs/phonology/09-connected-speech-linking.md`)
-- [ ] `[未着手]` 1190: 【音の脱落】早口会話で消える音（sudah → 'dah, belum → 'lom）の聞き取り (`docs/phonology/10-sound-deletion-fast-speech.md`)
+- [x] `[完了]` 1181: インドネシア語シャドーイング完全マニュアル：耳と口を直結させる科学的訓練法 (`docs/phonology/01-shadowing-mastery-guide.md`)
+- [x] `[完了]` 1182: 【母音 e 徹底攻略】[e]（テーリング）と [ə]（プルペッ）を聞き分け・発音し分ける50ペア (`docs/phonology/02-vowel-e-taling-pepet-drill.md`)
+- [x] `[完了]` 1183: 【巻き舌 r 完全克服】舌先を震わせるステップバイステップ調音トレーニング (`docs/phonology/03-rolled-r-tongue-training.md`)
+- [x] `[完了]` 1184: 【語末 k の声門閉鎖音】「バソッ」と音を止める喉の使い方の完全マスター (`docs/phonology/04-glottal-stop-k-mastery.md`)
+- [x] `[完了]` 1185: 【鼻音 ng と ny】日本人最大の弱点「鼻濁音」の正確な調音位置と練習法 (`docs/phonology/05-nasal-clusters-ng-ny.md`)
+- [x] `[完了]` 1186: 【二重母音と滑音】ai, au, oi のスムーズな移行と w, y の渡り音 (`docs/phonology/06-diphthongs-glides.md`)
+- [x] `[完了]` 1187: 【連音（リンキング）】単語境界で音がつながるネイティブの自然なリエゾン (`docs/phonology/07-linking-liaison.md`)
+- [x] `[完了]` 1188: 【語幹アクセントと接辞】接辞が付いても動かない原則後から2番目の音節ルール (`docs/phonology/08-penultimate-stress-rule.md`)
+- [x] `[完了]` 1189: 【文全体の抑揚（イントネーション）】疑問文・平叙文・命令文のピッチパターン (`docs/phonology/09-sentence-intonation-pitch.md`)
+- [x] `[完了]` 1190: 【脱カタカナ発音】日本人が無意識に子音の後に母音を挿入してしまう癖の完全矯正 (`docs/phonology/10-eliminating-katakana-bias.md`)
 - [ ] `[未着手]` 1191: 【ミニマルペア特訓】papan/kapan, baru/perlu 等の聞き間違いやすい単語50対 (`docs/phonology/11-homonyms-minimal-pairs.md`)
 - [ ] `[未着手]` 1192: 【外来語の音韻変化】英語・オランダ語がインドネシア語化する音の法則 (`docs/phonology/12-loanword-phonetic-shifts.md`)
 - [ ] `[未着手]` 1193: 【日本語訛り矯正】カタカナ発音を脱却するための母音無声化防止と口の開け方 (`docs/phonology/13-pronunciation-habits-japanese.md`)
