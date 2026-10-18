@@ -425,6 +425,16 @@ nav = [
     { "数詞・数字（Angka dan Bilangan）の公的正書法規則" = "exam-drills/u28-spelling-numbers-and-numerals-eyd.md" },
     { "略語・頭字語（Singkatan dan Akronim）の表記と句点規則" = "exam-drills/u29-spelling-abbreviations-acronyms-eyd.md" },
     { "句読点（Tanda Baca：カンマ・コロン・セミコロン・ダッシュ）の文法配置" = "exam-drills/u30-spelling-punctuation-comma-colon-dash.md" },
+    { "関係詞 yang の修飾範囲と多重修飾の構文解析" = "exam-drills/u31-syntax-relative-pronoun-yang-scope.md" },
+    { "述語先行・倒置構文（Inversi）の焦点化機能と文法規則" = "exam-drills/u32-syntax-inversion-focus-structure.md" },
+    { "強調助詞 -lah と倒置が連動する公的・叙述構文" = "exam-drills/u33-syntax-particle-lah-inversion.md" },
+    { "複文構造における主節・従属節の判定とカンマ規則" = "exam-drills/u34-syntax-complex-sentences-clause-analysis.md" },
+    { "受動構文における動作主標識 oleh の必須・省略条件" = "exam-drills/u35-syntax-passive-agent-oleh-omission.md" },
+    { "二重目的語構文における使役動詞の語順制約" = "exam-drills/u36-syntax-double-object-causative-word-order.md" },
+    { "同一主語の省略構文（Elipsis Subjek）と文法破綻の回避" = "exam-drills/u37-syntax-subject-ellipsis-and-faulty-parallelism.md" },
+    { "相関接続詞の照応規則と不適切ペアの識別演習" = "exam-drills/u38-syntax-correlative-conjunctions-parallelism.md" },
+    { "条件・譲歩複文における文法不成立（Kalimat Rancu）の看破" = "exam-drills/u39-syntax-faulty-subordinate-clauses.md" },
+    { "引用節構文（bahwa節・直接話法 vs 間接話法）の代名詞・時制転換" = "exam-drills/u40-syntax-reported-speech-bahwa-clauses.md" },
   ] },
 ]
 

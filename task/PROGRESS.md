@@ -438,7 +438,7 @@
 
 ---
 
-## 15. 検定・UKBI突破！文法・語彙・読解マスター演習 (Exam Drills) [50記事予定: 30/50完了]
+## 15. 検定・UKBI突破！文法・語彙・読解マスター演習 (Exam Drills) [50記事予定: 40/50完了]
 - [x] `[完了]` U01: 接尾辞 -kan vs -i の使い分けマスター演習 (`docs/exam-drills/u01-affixes-kan-vs-i-distinction.md`)
 - [x] `[完了]` U02: 名詞接辞 peN-...-an vs per-...-an の使い分け (`docs/exam-drills/u02-noun-affixes-pen-an-vs-per-an.md`)
 - [x] `[完了]` U03: 接頭辞 ter- の4大機能（無意志・完了・可能・最上級） (`docs/exam-drills/u03-prefix-ter-functions-exam-drill.md`)
@@ -469,6 +469,16 @@
 - [x] `[完了]` U28: 数詞・数字（Angka dan Bilangan）の公的正書法規則 (`docs/exam-drills/u28-spelling-numbers-and-numerals-eyd.md`)
 - [x] `[完了]` U29: 略語・頭字語（Singkatan dan Akronim）の表記と句点規則 (`docs/exam-drills/u29-spelling-abbreviations-acronyms-eyd.md`)
 - [x] `[完了]` U30: 句読点（Tanda Baca：カンマ・コロン・セミコロン・ダッシュ）の文法配置 (`docs/exam-drills/u30-spelling-punctuation-comma-colon-dash.md`)
+- [x] `[完了]` U31: 関係詞 yang の修飾範囲と多重修飾の構文解析 (`docs/exam-drills/u31-syntax-relative-pronoun-yang-scope.md`)
+- [x] `[完了]` U32: 述語先行・倒置構文（Inversi）の焦点化機能と文法規則 (`docs/exam-drills/u32-syntax-inversion-focus-structure.md`)
+- [x] `[完了]` U33: 強調助詞 -lah と倒置が連動する公的・叙述構文 (`docs/exam-drills/u33-syntax-particle-lah-inversion.md`)
+- [x] `[完了]` U34: 複文構造における主節・従属節の判定とカンマ規則 (`docs/exam-drills/u34-syntax-complex-sentences-clause-analysis.md`)
+- [x] `[完了]` U35: 受動構文における動作主標識 oleh の必須・省略条件 (`docs/exam-drills/u35-syntax-passive-agent-oleh-omission.md`)
+- [x] `[完了]` U36: 二重目的語構文における使役動詞の語順制約 (`docs/exam-drills/u36-syntax-double-object-causative-word-order.md`)
+- [x] `[完了]` U37: 同一主語の省略構文（Elipsis Subjek）と文法破綻の回避 (`docs/exam-drills/u37-syntax-subject-ellipsis-and-faulty-parallelism.md`)
+- [x] `[完了]` U38: 相関接続詞の照応規則と不適切ペアの識別演習 (`docs/exam-drills/u38-syntax-correlative-conjunctions-parallelism.md`)
+- [x] `[完了]` U39: 条件・譲歩複文における文法不成立（Kalimat Rancu）の看破 (`docs/exam-drills/u39-syntax-faulty-subordinate-clauses.md`)
+- [x] `[完了]` U40: 引用節構文（bahwa節・直接話法 vs 間接話法）の代名詞・時制転換 (`docs/exam-drills/u40-syntax-reported-speech-bahwa-clauses.md`)
 
 
 
