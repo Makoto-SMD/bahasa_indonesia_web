@@ -544,6 +544,21 @@
 - [x] `[完了]` C49: jatuh vs runtuh vs roboh vs tumbang（落ちる・崩壊する・倒壊する・大木根こそぎ/打倒） (`docs/synonyms/c49-jatuh-vs-runtuh-vs-roboh-vs-tumbang.md`)
 - [x] `[完了]` C50: rusak vs hancur vs punah vs binasa（壊れる/故障・粉砕/破滅・絶滅・滅亡） (`docs/synonyms/c50-rusak-vs-hancur-vs-punah-vs-binasa.md`)
 
+---
+
+## 17. インドネシアの地理・各州・文化・民族探訪 (Geography & Ethnic Cultures) [40記事予定: 10/40完了]
+- [x] `[完了]` G01: アチェ州（Serambi Mekkah・シャリーア・珈琲と津波復興） (`docs/geography-culture/g01-aceh-serambi-mekkah.md`)
+- [x] `[完了]` G02: 北スマトラ州（トバ湖・サモシール島・バタク文化・メダン） (`docs/geography-culture/g02-sumatera-utara-batak-toba.md`)
+- [x] `[完了]` G03: 西スマトラ州（母系制ミナンカバウ・ルマガダン・パダン料理） (`docs/geography-culture/g03-sumatera-barat-minangkabau.md`)
+- [x] `[完了]` G04: リアウ＆リアウ諸島州（国語の故郷・マレー王国・バタム島） (`docs/geography-culture/g04-riau-kepulauan-riau-melayu.md`)
+- [x] `[完了]` G05: 南スマトラ州（海上帝国の栄光シュリーヴィジャヤ・ムシ川・エムペエムペ） (`docs/geography-culture/g05-sumatera-selatan-palembang-sriwijaya.md`)
+- [x] `[完了]` G06: ジャカルタ首都特別州（メガロポリス・ブタウィの魂・モナス） (`docs/geography-culture/g06-dki-jakarta-betawi-metropolitan.md`)
+- [x] `[完了]` G07: 西ジャワ州（プリアンガン高原・スンダ文化・アンクルン・バンドン） (`docs/geography-culture/g07-jawa-barat-sunda-priangan.md`)
+- [x] `[完了]` G08: ジョグジャカルタ特別州（古都クラトン・プランバナン・バティック） (`docs/geography-culture/g08-daerah-istimewa-yogyakarta-kraton.md`)
+- [x] `[完了]` G09: 中部ジャワ州（世界遺産ボロブドゥール・古都ソロ・スマラン） (`docs/geography-culture/g09-jawa-tengah-borobudur-solo.md`)
+- [x] `[完了]` G10: 東ジャワ州（英雄都市スラバヤ・ブロモ火山・イジェン青い炎・マジャパヒト） (`docs/geography-culture/g10-jawa-timur-bromo-surabaya.md`)
+
+
 
 
 
