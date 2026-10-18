@@ -446,6 +446,18 @@ nav = [
     { "成句・ことわざ（Peribahasa / Ungkapan）の完全攻略演習" = "exam-drills/u49-exam-idioms-peribahasa-metaphors.md" },
     { "複合イディオム・四字熟語的表現（Kata Majemuk Idiomatis）のマスター演習" = "exam-drills/u50-exam-idioms-compound-expressions.md" },
   ] },
+  { "類義語・ニュアンス徹底比較事典" = [
+    { "tinggal vs diam（住む・滞在する・黙るの境界線）" = "synonyms/c01-tinggal-vs-diam.md" },
+    { "antar vs jemput vs bawa（移動の方向と対象）" = "synonyms/c02-antar-vs-jemput-vs-bawa.md" },
+    { "bantu vs tolong（助ける・手伝うの機能差）" = "synonyms/c03-bantu-vs-tolong.md" },
+    { "sewa vs kontrak vs pinjam（借りる・賃貸・契約）" = "synonyms/c04-sewa-vs-kontrak-vs-pinjam.md" },
+    { "sepi vs sunyi vs senyap（静か・寂しい・閑散）" = "synonyms/c05-sepi-vs-sunyi-vs-senyap.md" },
+    { "pantas vs cocok vs layak（似合う・適切・相応しい・妥当）" = "synonyms/c06-pantas-vs-cocok-vs-layak.md" },
+    { "acuh vs abai vs peduli（気にかける・無視する・配慮する）" = "synonyms/c07-acuh-vs-abai-vs-peduli.md" },
+    { "membawa vs mengangkut vs memuat（運ぶ・輸送・積載）" = "synonyms/c08-membawa-vs-mengangkut-vs-memuat.md" },
+    { "melihat vs menonton vs memandang vs menatap（視線・意識の「見る」）" = "synonyms/c09-melihat-vs-menonton-vs-memandang.md" },
+    { "mendengar vs mendengarkan vs menyimak（集中度の「聞く」）" = "synonyms/c10-mendengar-vs-mendengarkan-vs-menyimak.md" },
+  ] },
 ]
 
 

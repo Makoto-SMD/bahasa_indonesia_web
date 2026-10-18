@@ -490,6 +490,20 @@
 - [x] `[完了]` U49: 成句・ことわざ（Peribahasa / Ungkapan）の完全攻略演習 (`docs/exam-drills/u49-exam-idioms-peribahasa-metaphors.md`)
 - [x] `[完了]` U50: 複合イディオム・四字熟語的表現（Kata Majemuk Idiomatis）のマスター演習 (`docs/exam-drills/u50-exam-idioms-compound-expressions.md`)
 
+---
+
+## 16. 類義語・ニュアンス徹底比較事典 (Synonyms & Nuances) [50記事予定: 10/50完了]
+- [x] `[完了]` C01: tinggal vs diam（住む・滞在する・黙るの境界線） (`docs/synonyms/c01-tinggal-vs-diam.md`)
+- [x] `[完了]` C02: antar vs jemput vs bawa（移動の方向と対象） (`docs/synonyms/c02-antar-vs-jemput-vs-bawa.md`)
+- [x] `[完了]` C03: bantu vs tolong（助ける・手伝うの機能差） (`docs/synonyms/c03-bantu-vs-tolong.md`)
+- [x] `[完了]` C04: sewa vs kontrak vs pinjam（借りる・賃貸・契約） (`docs/synonyms/c04-sewa-vs-kontrak-vs-pinjam.md`)
+- [x] `[完了]` C05: sepi vs sunyi vs senyap（静か・寂しい・閑散） (`docs/synonyms/c05-sepi-vs-sunyi-vs-senyap.md`)
+- [x] `[完了]` C06: pantas vs cocok vs layak（似合う・適切・相応しい・妥当） (`docs/synonyms/c06-pantas-vs-cocok-vs-layak.md`)
+- [x] `[完了]` C07: acuh vs abai vs peduli（気にかける・無視する・配慮する） (`docs/synonyms/c07-acuh-vs-abai-vs-peduli.md`)
+- [x] `[完了]` C08: membawa vs mengangkut vs memuat（運ぶ・輸送・積載） (`docs/synonyms/c08-membawa-vs-mengangkut-vs-memuat.md`)
+- [x] `[完了]` C09: melihat vs menonton vs memandang vs menatap（視線・意識の「見る」） (`docs/synonyms/c09-melihat-vs-menonton-vs-memandang.md`)
+- [x] `[完了]` C10: mendengar vs mendengarkan vs menyimak（集中度の「聞く」） (`docs/synonyms/c10-mendengar-vs-mendengarkan-vs-menyimak.md`)
+
 
 
 
