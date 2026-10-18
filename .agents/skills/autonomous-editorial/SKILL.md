@@ -20,6 +20,8 @@ description: >-
    - **`pdca/` フォルダー**: 気がついたこと、改善したほうがよいこと、PDCA改善レポート、組織ガイドラインを入れる。
 3. **ローカルサーバー**:
    - ポート番号は **8001**（`http://localhost:8001`）を使用。
+4. **定期的なGitコミットの実行 (Git Commits)**:
+   - **未コミット記事が10本以上**、または**セクション完了・全体修正時**には、必ずPhase 4でGitコミットを実行する（後回し厳禁）。
 
 ---
 
@@ -44,14 +46,21 @@ description: >-
 3. 指摘があれば修正指示を `task/REVIEW-xxx.md` に記載し Writer に差し戻し。問題なければ `[APPROVED]` を記録。
 4. 執筆時のつまずき等に気づいたら `pdca/NOTES.md` に追記。
 
-### Phase 4: ビルド・検証（Engineer）
+### Phase 4: ビルド・検証・Gitコミット（Engineer）
 1. `zensical.toml` の `nav` に新規記事を登録。
 2. ビルドとHTMLフォーマットを実行：
    ```powershell
    .\.venv\Scripts\zensical.exe build
    powershell -ExecutionPolicy Bypass -File .\format.ps1
    ```
-3. 結果を `task/REVIEW-xxx.md` に記録。
+3. **Gitコミット自動判定と実行**:
+   - 以下のチェックスクリプトを実行し、未コミット記事が10本以上（またはセクション終了時 `--force`）の場合に自動コミットを完了させる：
+   ```powershell
+   python .\task\check_git_checkpoint.py
+   # セクション完了時や即時コミットが必要な場合:
+   # python .\task\check_git_checkpoint.py --force -m "feat: <詳細>"
+   ```
+4. 結果を `task/REVIEW-xxx.md` に記録。
 
 ### Phase 5: 上司（BOSS）
 1. 今回のサイクルの指示書、校正ログ、差分、`pdca/NOTES.md` を精査。

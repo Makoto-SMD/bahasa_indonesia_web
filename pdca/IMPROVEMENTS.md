@@ -171,4 +171,23 @@
 - **反映先**:
   - `pdca/WEB_ENGINEERING_REVIEW.md`、`pdca/IMPROVEMENTS.md`、`pdca/NOTES.md`
 
+### [IMP-009] 定期Gitコミット規約の形骸化防止と自動チェックポイント機構の導入
+- **発生状況 / 課題**:
+  - ルール上「記事が約10本増えるごと、または全体修正時にGitコミットを行う」と規定されていたにもかかわらず、400記事以上が未コミットのまま蓄積し、ユーザーからの指摘を受けて初めてコミットが実行される事態が発生した。
+- **根本原因**:
+  - ① **メイン実行スキル（SKILL.md）の手順からの欠落**: `AGENTS.md` や `engineer.md` には記述があったが、エージェントが自律サイクル実行時に常時参照する `.agents/skills/autonomous-editorial/SKILL.md` の「Phase 4（Engineer）」にGitコミットのステップが記述されていなかった。
+  - ② **判定基準の属人性とスクリプト不在**: 「10本程度」という曖昧な表現にとどまり、未コミット件数を客観的に判定・自動コミットするツールが存在しなかったため、AIが自律ループ内でコミット判定をスルーした。
+  - ③ **完全自律・連続実行原則との優先度競合**: 「止まらずに連続して次のトピックへ移行する」原則が優先され、コミット処理が後回しにされた。
+- **再発防止策・改善内容**:
+  1. **自動チェックポイントスクリプトの配備 (`task/check_git_checkpoint.py`)**:
+     - `docs/` 配下の未コミット記事数を自動カウントし、10本以上蓄積時または `--force` 指定時に、`zensical.exe build` による正常検証を経て安全に自動コミットを完了させる仕組みを実装。
+  2. **スキルおよび各組織規定の改定・完全統一**:
+     - `.agents/skills/autonomous-editorial/SKILL.md`: 共通運用ルールおよび Phase 4（Engineer）のプロトコルにスクリプト実行手順を明記。
+     - `.agents/agents/engineer.md`: 責務と実行コマンドに `python .\task\check_git_checkpoint.py` を追加。
+     - `AGENTS.md`: 最重要インバリアントに「未コミット記事が10本以上蓄積された場合は必ず即時コミットすること」「後回し禁止」を明記。
+     - `editorial/ORGANIZATION.md`: 組織図・データフロー・Engineer責務にGitコミットフローを正式統合。
+     - `pdca/GUIDELINES.md`: 「5. バージョン管理・Gitコミット規約」に自動チェックポイント運用基準を明記。
+- **反映先**:
+  - `task/check_git_checkpoint.py`, `.agents/skills/autonomous-editorial/SKILL.md`, `.agents/agents/engineer.md`, `AGENTS.md`, `editorial/ORGANIZATION.md`, `pdca/GUIDELINES.md`, `pdca/IMPROVEMENTS.md`, `pdca/NOTES.md`
+
 

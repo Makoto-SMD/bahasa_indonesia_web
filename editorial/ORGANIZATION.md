@@ -13,6 +13,8 @@
    - **`pdca/` フォルダー**: 気がついたこと、改善したほうがよいこと、PDCA改善レポート、組織ガイドラインを入れる。
 3. **ローカルサーバーポート**:
    - **8001**（`http://localhost:8001`）
+4. **定期的なGitコミットの実行 (Git Commits)**:
+   - **未コミット記事が10本以上**、または**セクション完了・全体修正時**には、Engineerが必ずGitコミット（`python .\task\check_git_checkpoint.py`）を実行して作業成果を確定させる。
 
 ---
 
@@ -24,13 +26,14 @@ flowchart TD
     DIRECTOR["📋 編集長 (Director)<br/>進捗監視 / トピック決定 / 執筆指示書"]
     WRITER["✍️ 執筆担当 (Writer)<br/>記事作成 / ルビ付与 / 修正対応"]
     REVIEWER["🔍 校正 (Reviewer)<br/>正確性・自然さ検証 / 校正FB / 承認"]
-    ENGINEER["⚙️ ビルド・検証 (Engineer)<br/>HTML崩れ・リンク切れ・nav登録検証"]
+    ENGINEER["⚙️ ビルド・検証・Git (Engineer)<br/>HTML崩れ・リンク切れ・nav登録検証・Gitコミット"]
 
     PROGRESS[("📊 全体進捗ツリー<br/>task/PROGRESS.md")]
     TASKS[("📝 執筆指示書<br/>task/TASK-xxx.md")]
     REVIEWS[("💬 校正フィードバック<br/>task/REVIEW-xxx.md")]
     ARTICLES[("📄 インドネシア語記事<br/>docs/")]
     HTML[("🌐 ビルド成果物<br/>site/")]
+    GIT[("📦 Gitリポジトリ<br/>commit checkpoint")]
     PDCA_NOTES[("📝 気づき・メモ<br/>pdca/NOTES.md")]
     PDCA_IMPROVE[("💡 改善案・規約<br/>pdca/IMPROVEMENTS.md<br/>pdca/GUIDELINES.md")]
 
@@ -45,6 +48,7 @@ flowchart TD
     REVIEWER -->|承認 (Approve)| ENGINEER
     ENGINEER -->|Zensical ビルド| HTML
     HTML --> ENGINEER
+    ENGINEER -->|10記事ごと/セクション完了時| GIT
     ENGINEER -.->|技術的校正FB| REVIEWS
     
     %% 気づきとPDCA
@@ -80,10 +84,10 @@ flowchart TD
 - **入力**: `docs/...` の記事、`task/REVIEW-xxx.md`、`pdca/GUIDELINES.md`
 - **出力**: `task/REVIEW-xxx.md`（修正指示または承認判定）、`pdca/NOTES.md`（気づき）
 
-### 2.4 ビルド・検証（Engineer）
-- **役割**: 新規記事のナビゲーション登録確認、`zensical build`、`format.ps1` によるHTML崩れ・リンク切れ検証を行う。
+### 2.4 ビルド・検証・Gitコミット（Engineer）
+- **役割**: 新規記事のナビゲーション登録確認、`zensical build`、`format.ps1` によるHTML崩れ・リンク切れ検証、および未コミット記事が10本以上またはセクション完了時の自動Gitコミット（`python .\task\check_git_checkpoint.py`）を行う。
 - **入力**: `docs/`、`zensical.toml`、生成 HTML
-- **出力**: `site/`、`task/REVIEW-xxx.md` への検証結果記録、`pdca/NOTES.md`（気づき）
+- **出力**: `site/`、`Gitコミット`、`task/REVIEW-xxx.md` への検証結果記録、`pdca/NOTES.md`（気づき）
 
 ### 2.5 上司（BOSS）
 - **役割**: `task/` 内の全指示・校正ログおよび `pdca/NOTES.md` の気づきを精査し、根本原因を突き止め、再発防止のPDCA改善案を発行する。

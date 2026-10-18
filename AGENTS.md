@@ -27,7 +27,8 @@
 5. **ローカルサーバー環境の確認**:
    - サイトプレビューサーバーのポート番号は **`8001`**（`http://localhost:8001`）です（日本語学習サイトと衝突しないための厳格な指定）。
 6. **定期的なGitコミットの実行 (Git Commits)**:
-   - **記事が約10本増えるごと**、または**全体的な修正・リファクタリングが行われるたび**に、`git add` および適切なコミットメッセージによる `git commit` を実行して作業状態を安全に記録してください。
+   - **未コミット記事が10本以上**、または**セクション完了・全体的な修正・リファクタリングが行われるたび**に、`python .\task\check_git_checkpoint.py`（または `git add` & `git commit`）を必ず実行して作業状態を安全に記録してください。
+   - 連続自律実行（No Interruptions）中であっても、Gitコミットを後回しにして数百記事も未コミットのまま蓄積させることは禁止です。必ずサイクルごとまたは10記事ごとにチェックポイントを作成してください。
 
 ---
 
@@ -46,10 +47,10 @@ AIアシスタントは、ユーザーの要求や自律編集サイクルに応
    - インドネシア語の正書法・綴り、文法の正確性、自然な用例、カタカナ読みの妥当性を検証。
    - 日本人学習者がつまずきやすい点（tidakとbukanの違い、接辞meN-の鼻音化変化等）の解説が明瞭かをチェック。
    - 修正が必要な場合は `task/REVIEW-xxx.md` に校正フィードバックを発行、問題なければ承認（`APPROVED`）。
-4. **ビルド・検証（Engineer）** (`.agents/agents/engineer.md`):
+4. **ビルド・検証・Gitコミット（Engineer）** (`.agents/agents/engineer.md`):
    - `zensical.toml` の `nav` 登録を確認。
    - `.\.venv\Scripts\zensical.exe build` や `format.ps1` を実行し、HTML崩れやリンク切れを検証。
-   - 記事が約10本増えるごと、または全体修正時に `git add` & `git commit` を実行。
+   - `python .\task\check_git_checkpoint.py` を実行し、記事が約10本増えるごと、または全体修正時に確実に `git add` & `git commit` を完了させる。
    - 必要に応じて `task/REVIEW-xxx.md` に技術的フィードバックを発行。
 5. **上司（BOSS）** (`.agents/agents/boss.md`):
    - 全指示書・校正ログ・差分・`pdca/NOTES.md` を監視し、根本原因を分析してPDCA改善案（`pdca/`）を発行。
