@@ -384,7 +384,7 @@
 
 ---
 
-## 14. ニュース・時事インドネシア語リーディング (News Reading) [50記事予定: 20/50完了]
+## 14. ニュース・時事インドネシア語リーディング (News Reading) [50記事予定: 30/50完了]
 - [x] `[完了]` N01: 新首都IKN建設の進捗と投資誘致 (`docs/news-reading/n01-ikn-infrastructure-investment.md`)
 - [x] `[完了]` N02: ニッケル鉱石の下流化とEVサプライチェーン (`docs/news-reading/n02-nickel-downstreaming-ev-battery.md`)
 - [x] `[完了]` N03: 中銀の政策金利引き上げとルピア為替安定化策 (`docs/news-reading/n03-central-bank-bi-rate-rupiah.md`)
@@ -405,6 +405,17 @@
 - [x] `[完了]` N18: ゴールデンビザ制度の創設と富裕層・先端人材の誘致 (`docs/news-reading/n18-golden-visa-immigration-policy.md`)
 - [x] `[完了]` N19: 越境人身売買（TPPO）とオンライン詐欺組織の摘発 (`docs/news-reading/n19-cross-border-crime-tppo-polri.md`)
 - [x] `[完了]` N20: パレスチナ人道支援と二国家解決支持外交 (`docs/news-reading/n20-palestine-humanitarian-aid-diplomacy.md`)
+- [x] `[完了]` N21: 東南アジア初の高速鉄道Whooshの運行実績と採算性 (`docs/news-reading/n21-whoosh-high-speed-railway-operations.md`)
+- [x] `[完了]` N22: ジャカルタMRT第2期工事と東西線構想 (`docs/news-reading/n22-jakarta-mrt-phase2-expansion.md`)
+- [x] `[完了]` N23: ジャカルタ大気汚染危機とPM2.5排ガス規制 (`docs/news-reading/n23-jakarta-air-pollution-pm25-regulations.md`)
+- [x] `[完了]` N24: ジャカルタ地盤沈下危機と巨大防潮堤構想 (`docs/news-reading/n24-jakarta-sinking-giant-sea-wall.md`)
+- [x] `[完了]` N25: トランス・スマトラ高速道路網と島嶼間物流の革新 (`docs/news-reading/n25-trans-sumatra-toll-road-connectivity.md`)
+- [x] `[完了]` N26: 離島・辺境地域の電化推進と太陽光マイクログリッド (`docs/news-reading/n26-rural-electrification-solar-microgrid.md`)
+- [x] `[完了]` N27: 新首都IKNのスマートシティ構想と自動運転EV交通 (`docs/news-reading/n27-ikn-smart-city-autonomous-transit.md`)
+- [x] `[完了]` N28: 地方空港の国際線指定見直しと航空ハブ＆スポーク (`docs/news-reading/n28-regional-airports-international-status-hub.md`)
+- [x] `[完了]` N29: ジャカルタ〜スラバヤ鉄道高速化構想と技術選定 (`docs/news-reading/n29-jakarta-surabaya-semi-high-speed-rail.md`)
+- [x] `[完了]` N30: 海上ハイウェイ（Tol Laut）と東部物価格差是正 (`docs/news-reading/n30-tol-laut-maritime-highway-disparity.md`)
+
 
 
 

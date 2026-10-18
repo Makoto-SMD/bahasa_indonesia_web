@@ -363,6 +363,16 @@ nav = [
     { "ゴールデンビザ制度の創設と富裕層・先端人材の誘致" = "news-reading/n18-golden-visa-immigration-policy.md" },
     { "越境人身売買（TPPO）とオンライン詐欺組織の摘発" = "news-reading/n19-cross-border-crime-tppo-polri.md" },
     { "パレスチナ人道支援と二国家解決支持外交" = "news-reading/n20-palestine-humanitarian-aid-diplomacy.md" },
+    { "東南アジア初の高速鉄道Whooshの運行実績と採算性" = "news-reading/n21-whoosh-high-speed-railway-operations.md" },
+    { "ジャカルタMRT第2期工事と東西線構想" = "news-reading/n22-jakarta-mrt-phase2-expansion.md" },
+    { "ジャカルタ大気汚染危機とPM2.5排ガス規制" = "news-reading/n23-jakarta-air-pollution-pm25-regulations.md" },
+    { "ジャカルタ地盤沈下危機と巨大防潮堤構想" = "news-reading/n24-jakarta-sinking-giant-sea-wall.md" },
+    { "トランス・スマトラ高速道路網と島嶼間物流の革新" = "news-reading/n25-trans-sumatra-toll-road-connectivity.md" },
+    { "離島・辺境地域の電化推進と太陽光マイクログリッド" = "news-reading/n26-rural-electrification-solar-microgrid.md" },
+    { "新首都IKNのスマートシティ構想と自動運転EV交通" = "news-reading/n27-ikn-smart-city-autonomous-transit.md" },
+    { "地方空港の国際線指定見直しと航空ハブ＆スポーク" = "news-reading/n28-regional-airports-international-status-hub.md" },
+    { "ジャカルタ〜スラバヤ鉄道高速化構想と技術選定" = "news-reading/n29-jakarta-surabaya-semi-high-speed-rail.md" },
+    { "海上ハイウェイ（Tol Laut）と東部物価格差是正" = "news-reading/n30-tol-laut-maritime-highway-disparity.md" },
   ] },
 ]
 
