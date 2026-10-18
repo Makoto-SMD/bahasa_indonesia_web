@@ -436,6 +436,21 @@
 - [x] `[完了]` N49: 人口ボーナスのピークと高齢化社会への備え (`docs/news-reading/n49-demographic-bonus-aging-society-transition.md`)
 - [x] `[完了]` N50: 環太平洋火山帯と津波早期警報システム（InaTEWS） (`docs/news-reading/n50-disaster-resilience-inatews-early-warning.md`)
 
+---
+
+## 15. 検定・UKBI突破！文法・語彙・読解マスター演習 (Exam Drills) [50記事予定: 10/50完了]
+- [x] `[完了]` U01: 接尾辞 -kan vs -i の使い分けマスター演習 (`docs/exam-drills/u01-affixes-kan-vs-i-distinction.md`)
+- [x] `[完了]` U02: 名詞接辞 peN-...-an vs per-...-an の使い分け (`docs/exam-drills/u02-noun-affixes-pen-an-vs-per-an.md`)
+- [x] `[完了]` U03: 接頭辞 ter- の4大機能（無意志・完了・可能・最上級） (`docs/exam-drills/u03-prefix-ter-functions-exam-drill.md`)
+- [x] `[完了]` U04: 自動詞接辞 ber- vs meN- の本質的機能と意味変化 (`docs/exam-drills/u04-prefix-ber-vs-men-verb-drill.md`)
+- [x] `[完了]` U05: 接周辞 ber-...-an の3大用法（相互・集合・関係） (`docs/exam-drills/u05-circumfix-ber-an-reciprocal-collective.md`)
+- [x] `[完了]` U06: 接周辞 ke-...-an の2大用法（被害受動 vs 抽象名詞） (`docs/exam-drills/u06-circumfix-ke-an-adversary-vs-noun.md`)
+- [x] `[完了]` U07: 接尾辞 -kan の使役使嗾 vs 利益受益の目的語配置 (`docs/exam-drills/u07-suffix-kan-causative-vs-benefactive.md`)
+- [x] `[完了]` U08: 受動態における接辞制約（di-...-kan vs di-...-i） (`docs/exam-drills/u08-passive-voice-affix-constraints-di-kan-vs-di-i.md`)
+- [x] `[完了]` U09: 接頭辞 se- の5大機能（同一・単一・直後・程度・最上級） (`docs/exam-drills/u09-prefix-se-five-major-functions.md`)
+- [x] `[完了]` U10: 重畳語（Kata Ulang）の5大派生パターンと意味識別 (`docs/exam-drills/u10-reduplication-kata-ulang-patterns-meanings.md`)
+
+
 
 
 

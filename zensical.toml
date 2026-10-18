@@ -394,6 +394,18 @@ nav = [
     { "人口ボーナスのピークと高齢化社会への備え" = "news-reading/n49-demographic-bonus-aging-society-transition.md" },
     { "環太平洋火山帯と津波早期警報システム（InaTEWS）" = "news-reading/n50-disaster-resilience-inatews-early-warning.md" },
   ] },
+  { "検定・UKBI突破演習" = [
+    { "接尾辞 -kan vs -i の使い分けマスター演習" = "exam-drills/u01-affixes-kan-vs-i-distinction.md" },
+    { "名詞接辞 peN-...-an vs per-...-an の使い分け" = "exam-drills/u02-noun-affixes-pen-an-vs-per-an.md" },
+    { "接頭辞 ter- の4大機能（無意志・完了・可能・最上級）" = "exam-drills/u03-prefix-ter-functions-exam-drill.md" },
+    { "自動詞接辞 ber- vs meN- の本質的機能と意味変化" = "exam-drills/u04-prefix-ber-vs-men-verb-drill.md" },
+    { "接周辞 ber-...-an の3大用法（相互・集合・関係）" = "exam-drills/u05-circumfix-ber-an-reciprocal-collective.md" },
+    { "接周辞 ke-...-an の2大用法（被害受動 vs 抽象名詞）" = "exam-drills/u06-circumfix-ke-an-adversary-vs-noun.md" },
+    { "接尾辞 -kan の使役使嗾 vs 利益受益の目的語配置" = "exam-drills/u07-suffix-kan-causative-vs-benefactive.md" },
+    { "受動態における接辞制約（di-...-kan vs di-...-i）" = "exam-drills/u08-passive-voice-affix-constraints-di-kan-vs-di-i.md" },
+    { "接頭辞 se- の5大機能（同一・単一・直後・程度・最上級）" = "exam-drills/u09-prefix-se-five-major-functions.md" },
+    { "重畳語（Kata Ulang）の5大派生パターンと意味識別" = "exam-drills/u10-reduplication-kata-ulang-patterns-meanings.md" },
+  ] },
 ]
 
 
