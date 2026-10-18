@@ -257,6 +257,16 @@ nav = [
     { "町内会（RT/RW）集会・住民登録・交流" = "situations/neighborhood-rt-rw.md" },
     { "学校の保護者面談・担任教員との対話" = "situations/school-parent-meeting.md" },
     { "ジム入会・パーソナルトレーナー指導" = "situations/gym-trainer.md" },
+    { "高級ホテルチェックイン・部屋アップグレード・苦情" = "situations/hotel-checkin-complaints.md" },
+    { "ゴルフ場チェックイン・キャディへのコース指示" = "situations/golf-caddie.md" },
+    { "スパ・マッサージでの施術強さ調整" = "situations/massage-spa.md" },
+    { "SIMカード・eSIM購入とスマホIMEI登録手続き" = "situations/phone-sim-esim.md" },
+    { "両替所でのレート交渉・高額両替" = "situations/money-changer.md" },
+    { "カフェでの長居作業・電源Wi-Fi確認・カスタム注文" = "situations/cafe-remote-work.md" },
+    { "映画館での座席指定購入と飲食注文" = "situations/cinema-booking.md" },
+    { "朝の伝統市場での食材仕入れ・鮮度見極め" = "situations/wet-market-groceries.md" },
+    { "仕立て屋でのバティック採寸・オーダーメイド" = "situations/tailor-batik.md" },
+    { "レンタカー手配・ガソリン代精算・ドライバー指名" = "situations/car-rental-driver.md" },
   ] },
 ]
 
