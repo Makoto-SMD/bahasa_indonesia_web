@@ -173,6 +173,22 @@ title: インドネシア語学習ナレッジベース
     
     [:octicons-arrow-right-24: アチェ州探訪を見る](geography-culture/g01-aceh-serambi-mekkah.md)
 
+-   :lucide-scroll: **[古典・民話・名作文学読解](literature/l01-malin-kundang.md)**
+
+    ---
+
+    マリン・クンダン、サンクリアン等の群島各地の伝承・民話から近代文学・詩篇まで、文化背景を学びながら味わう読解世界。
+    
+    [:octicons-arrow-right-24: マリン・クンダン伝説を見る](literature/l01-malin-kundang.md)
+
+-   :lucide-languages: **[地方言語・方言カルチャー事典](dialects/d01-javanese-court-kromo-ngoko.md)**
+
+    ---
+
+    ジャワ語・スンダ語・バリ語・バタク語・ミナンカバウ語などの地方語彙、方言借用語、地域文化の特徴を徹底解説。
+    
+    [:octicons-arrow-right-24: ジャワ語の敬語階層を見る](dialects/d01-javanese-court-kromo-ngoko.md)
+
 </div>
 
 ---

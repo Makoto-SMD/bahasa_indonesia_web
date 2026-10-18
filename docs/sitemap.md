@@ -6,7 +6,7 @@ title: 総合サイトマップ・全コンテンツ目録
 # 総合サイトマップ・全コンテンツ目録
 ### Peta Situs Lengkap & Indeks Pembelajaran Bahasa Indonesia
 
-当ナレッジベースに収録されている**全500記事**の完全目録です。
+当ナレッジベースに収録されている**全1,000記事**の体系的完全目録です。
 初心者から最上級者・実務エキスパートまで、目的やレベルに合わせて体系的に学習を進められます。
 
 > [!TIP]
@@ -33,7 +33,7 @@ title: 総合サイトマップ・全コンテンツ目録
 
     ---
 
-    日常会話（20記事） → 実践対話・トラブル解決（50記事） → 万能フレーズドリル（50記事） → スラング・口語（8記事）
+    日常会話（20記事） → 実践対話・トラブル解決（100記事） → 万能パターンドリル（100記事） → スラング・口語（8記事）
     Grab配車、屋台注文、アパート修理、病院受診など、現地で即座に役立つ実践口頭フレーズを網羅。
     [:octicons-arrow-right-24: 日常会話を見る](conversation/greetings.md)
 
@@ -41,24 +41,24 @@ title: 総合サイトマップ・全コンテンツ目録
 
     ---
 
-    ビジネス基礎（10記事） → 業界別実務（製造・IT・物流・人事労務・財務会計：50記事） → パターンドリル
-    朝礼、KPI評価、解雇・就業規則、税務通関、下請監査など、インドネシア人部下・取引先との協働に必須の実務語彙。
+    ビジネス基礎（10記事） → 業界別実務（製造・IT・物流・金融・法務・農業・鉱業等：100記事） → パターンドリル
+    朝礼、KPI評価、解雇・就業規則、税務通関、監査など、インドネシア人部下・取引先との協働に必須の実務語彙。
     [:octicons-arrow-right-24: ビジネス基礎を見る](business/office-greetings.md)
 
 -   :lucide-award: **【検定・資格】検定合格・UKBI突破コース**
 
     ---
 
-    接辞完全攻略（16記事） → 語根別派生語（50記事） → 検定・UKBI突破演習（50記事） → 類義語徹底比較（50記事）
+    接辞完全攻略（16記事） → 語根別派生語（100記事） → 検定・UKBI突破演習（100記事） → 類義語徹底比較（100記事）
     インドネシア語技能検定（C級〜特A級）や国家検定UKBIの最頻出ポイント、倒置、正書法（EYD）、接辞制約を制覇。
     [:octicons-arrow-right-24: 検定突破演習を見る](exam-drills/u01-affixes-kan-vs-i-distinction.md)
 
--   :lucide-newspaper: **【中上級読解】時事・論説・教養深掘りコース**
+-   :lucide-newspaper: **【中上級読解】時事・論説・古典教養深掘りコース**
 
     ---
 
-    長文読解（10記事） → 時事ニュース読解（50記事） → 地理・文化・民族探訪（40記事）
-    政治経済、新首都IKN、エネルギー移行から、全38州の歴史・伝統文化まで、社会を深く理解するための総合教養。
+    長文読解（10記事） → 時事ニュース読解（100記事） → 古典・民話・名作文学（50記事） → 地方言語・方言（50記事） → 地理文化（40記事）
+    新首都IKNや経済改革から民話マク・カラン・ジャワ語・スンダ語文化まで、社会を深く理解するための総合教養。
     [:octicons-arrow-right-24: 時事ニュース読解を見る](news-reading/n01-ikn-infrastructure-investment.md)
 
 </div>
@@ -67,87 +67,95 @@ title: 総合サイトマップ・全コンテンツ目録
 
 ## 📑 全セクション一覧ナビゲーション
 
-1. [1. 文字と発音 (Huruf & Pelafalan)](#sec-01)（全8記事）
-2. [2. 基本文法と構文 (Tata Bahasa Dasar)](#sec-02)（全16記事）
-3. [3. 接辞システム完全攻略 (Sistem Imbuhan)](#sec-03)（全16記事）
-4. [4. 語根別派生語マスター図鑑 (Kamus Derivasi Kata Dasar)](#sec-04)（全50記事）
-5. [5. 語彙・テーマ別必須単語 (Kosakata Tematik)](#sec-05)（全15記事）
-6. [6. 類義語・ニュアンス徹底比較事典 (Sinonim & Nuansa Kata)](#sec-06)（全50記事）
-7. [7. スラング・口語・若者言葉 (Bahasa Gaul & Percakapan Santai)](#sec-07)（全8記事）
-8. [8. 日常会話・シーン別表現 (Percakapan Sehari-hari)](#sec-08)（全20記事）
-9. [9. 万能フレーズ型・文章パターンドリル (Pola Kalimat Serbaguna)](#sec-09)（全50記事）
-10. [10. 実践対話・トラブル解決ドリル (Simulasi Percakapan Nyata)](#sec-10)（全50記事）
-11. [11. ビジネスインドネシア語基礎 (Bahasa Indonesia Bisnis)](#sec-11)（全10記事）
-12. [12. 業界別・実務特化ビジネス (Bisnis Sektoral Terapan)](#sec-12)（全50記事）
-13. [13. 長文読解・リーディング練習 (Latihan Membaca Teks)](#sec-13)（全10記事）
-14. [14. 時事ニュース読解 (Membaca Berita Kontemporer)](#sec-14)（全50記事）
-15. [15. 検定・UKBI突破演習 (Latihan Soal Ujian & UKBI)](#sec-15)（全50記事）
-16. [16. インドネシアの地理・各州・文化・民族探訪 (Geografi & Etnis Nusantara)](#sec-16)（全40記事）
-17. [17. 生活文化・習慣・マナー (Budaya, Tradisi & Etiket)](#sec-17)（全3記事）
-18. [18. 学習法・辞書ツール・検定ガイド (Panduan Belajar & Sumber Daya)](#sec-18)（全4記事）
+1. [学習法・検定対策・辞書](#sec-01)（全4記事）
+2. [文字と発音](#sec-02)（全8記事）
+3. [基本文法](#sec-03)（全16記事）
+4. [接辞システム](#sec-04)（全16記事）
+5. [語根別派生語マスター図鑑](#sec-05)（全100記事）
+6. [語彙・テーマ別必須単語](#sec-06)（全65記事）
+7. [類義語・ニュアンス徹底比較事典](#sec-07)（全100記事）
+8. [スラング・口語・若者言葉](#sec-08)（全8記事）
+9. [日常会話・シーン別表現](#sec-09)（全20記事）
+10. [実践対話・トラブル解決ドリル](#sec-10)（全100記事）
+11. [感情・意思・判断の基本構文 (P01-P15)](#sec-11)（全15記事）
+12. [対話展開・相槌・説明構文 (P16-P20)](#sec-12)（全5記事）
+13. [生活・トラブル・行動構文 (P21-P30)](#sec-13)（全10記事）
+14. [ビジネス実務・交渉・会議構文 (P31-P40)](#sec-14)（全10記事）
+15. [社交・論理展開・結論構文 (P41-P50)](#sec-15)（全60記事）
+16. [ビジネスインドネシア語](#sec-16)（全10記事）
+17. [業界別・実務特化ビジネスインドネシア語](#sec-17)（全100記事）
+18. [長文読解・リーディング練習](#sec-18)（全10記事）
+19. [時事ニュース読解](#sec-19)（全100記事）
+20. [検定・UKBI突破演習](#sec-20)（全100記事）
+21. [古典・民話・名作文学読解](#sec-21)（全50記事）
+22. [インドネシアの地理・各州・文化・民族探訪](#sec-22)（全40記事）
+23. [生活文化・食文化・マナー](#sec-23)（全3記事）
+24. [地方言語・方言カルチャー事典](#sec-24)（全50記事）
 
 ---
 
-### 1. 文字と発音 (Huruf & Pelafalan) {: #sec-01 }
-アルファベットの読み方から母音・子音・二重母音・アクセント・連音まで、通じる発音の基礎を固めます。
+### 1. 学習法・検定対策・辞書 {: #sec-01 }
+全4記事を収録しています。
 
-- [アルファベットと基本母音（a, i, u, e, o）](pronunciation/alphabet-vowels.md)
-- [eの2種類の発音（シュワー /ə/ と エ /e/ の聞き分け）](pronunciation/letter-e.md)
-- [要注意の子音（c, r, ng, ny, sy, kh）](pronunciation/consonants.md)
-- [二重母音（ai, au, oi）とアクセントの法則](pronunciation/diphthongs-accent.md)
-- [音節の区切りと連音（リエゾン・脱落）](pronunciation/syllables-linking.md)
-- [外来語の綴りと発音ルール（英語・オランダ語・アラビア語起源）](pronunciation/loanwords-spelling.md)
-- [イントネーションと抑揚（平叙文・疑問文・命令文）](pronunciation/intonation.md)
-- [発音・聞き取りの罠まとめ（日本人が陥りやすい落とし穴）](pronunciation/common-mistakes.md)
+- [インドネシア語技能検定（INKEN）対策](resources/exam-guide.md)
+- [UKBI能力評価試験の概要と対策](resources/ukbi-guide.md)
+- [おすすめ辞書・アプリ・メディア集](resources/tools-and-apps.md)
+- [中級の壁を突破する7つの処方箋](resources/intermediate-breakthrough.md)
 
----
+### 2. 文字と発音 {: #sec-02 }
+全8記事を収録しています。
 
-### 2. 基本文法と構文 (Tata Bahasa Dasar) {: #sec-02 }
-SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞、接続詞など、インドネシア語の骨格を完全網羅。
+- [アルファベットと基本母音](pronunciation/alphabet-vowels.md)
+- [eの2種類の発音](pronunciation/letter-e.md)
+- [要注意の子音](pronunciation/consonants.md)
+- [二重母音とアクセント](pronunciation/diphthongs-accent.md)
+- [音節の区切りと連音](pronunciation/syllables-linking.md)
+- [外来語の綴りと発音](pronunciation/loanwords-spelling.md)
+- [イントネーションと抑揚](pronunciation/intonation.md)
+- [発音・聞き取りの罠まとめ](pronunciation/common-mistakes.md)
 
-- [基本語順と後置修飾の絶対ルール](grammar/word-order.md)
-- [否定詞（tidak vs bukan）の使い分け](grammar/negation-tidak-bukan.md)
-- [人称代名詞と親称・敬称（saya, anda, kamu, bapak, ibu）](grammar/pronouns.md)
-- [指示詞（ini / itu）と指示代名詞](grammar/demonstratives.md)
-- [疑問詞（5W1H：apa, siapa, di mana, kapan, kenapa, bagaimana, berapa）](grammar/question-words.md)
-- [時制副詞（sudah, belum, sedang, akan, pernah）](grammar/tense-aspect.md)
-- [基本前置詞（di, ke, dari）の場所表現](grammar/prepositions-location.md)
-- [抽象前置詞（pada, untuk, dengan, tentang, tanpa, kepada）](grammar/prepositions-abstract.md)
-- [助動詞のニュアンス比較（bisa, boleh, harus, mau, ingin）](grammar/auxiliary-verbs.md)
-- [比較表現（lebih, paling, sama ... dengan, se-）](grammar/comparison.md)
-- [等位接続詞（dan, atau, tetapi, melainkan）](grammar/coordinating-conjunctions.md)
-- [従属接続詞（karena, jika, sehingga, supaya, meskipun）](grammar/subordinating-conjunctions.md)
-- [助数詞（物の数え方：orang, ekor, buah, lembar, batang）](grammar/classifiers.md)
-- [存在表現（adaの多機能性：存在・所有・可能）](grammar/existential-ada.md)
-- [命令・禁止・依頼文（tolong, silakan, coba, jangan）](grammar/imperatives.md)
-- [受動態の基礎（三人称受動態 di- vs 一・二人称語幹受動態）](grammar/passive-voice.md)
+### 3. 基本文法 {: #sec-03 }
+全16記事を収録しています。
 
----
+- [基本語順と後置修飾](grammar/word-order.md)
+- [否定詞（tidak vs bukan）](grammar/negation-tidak-bukan.md)
+- [人称代名詞と親称・敬称](grammar/pronouns.md)
+- [指示詞（ini / itu）](grammar/demonstratives.md)
+- [疑問詞（5W1H）](grammar/question-words.md)
+- [時制副詞（アスペクト）](grammar/tense-aspect.md)
+- [基本前置詞（場所・移動）](grammar/prepositions-location.md)
+- [抽象前置詞（時・目的・手段）](grammar/prepositions-abstract.md)
+- [助動詞のニュアンス比較](grammar/auxiliary-verbs.md)
+- [比較表現（優劣・最上級・同等）](grammar/comparison.md)
+- [等位接続詞（並列・選択・逆接）](grammar/coordinating-conjunctions.md)
+- [従属接続詞（理由・条件・結果・目的）](grammar/subordinating-conjunctions.md)
+- [助数詞（物の数え方）](grammar/classifiers.md)
+- [存在表現（adaの多機能性）](grammar/existential-ada.md)
+- [命令・禁止・依頼文](grammar/imperatives.md)
+- [受動態の基礎（di- vs 語幹受動態）](grammar/passive-voice.md)
 
-### 3. 接辞システム完全攻略 (Sistem Imbuhan) {: #sec-03 }
-インドネシア語学習最大の山場である接頭辞・接尾辞・周囲辞の規則と意味派生を体系的に解剖します。
+### 4. 接辞システム {: #sec-04 }
+全16記事を収録しています。
 
-- [接辞システム概要と語根（Kata Dasar）の基本概念](affixes/overview.md)
-- [接頭辞 meN- と鼻音化法則（K, T, S, P脱落規則）](affixes/prefix-men.md)
-- [meN- の他動詞と自動詞の使い分け](affixes/prefix-men-transitivity.md)
-- [接頭辞 di- による受動構文の完全整理](affixes/prefix-di.md)
-- [接頭辞 ber- の自動詞と状態表現](affixes/prefix-ber.md)
+- [接辞システム概要と語根](affixes/overview.md)
+- [接頭辞 meN- と鼻音化法則](affixes/prefix-men.md)
+- [meN- の他動詞と自動詞](affixes/prefix-men-transitivity.md)
+- [接頭辞 di- による受動態](affixes/prefix-di.md)
+- [接頭辞 ber- の自動詞と状態](affixes/prefix-ber.md)
 - [ber- と meN- の対比と使い分け](affixes/ber-vs-men.md)
-- [接頭辞 ter- の5大機能（最上級・無意志・完了・自発・可能）](affixes/prefix-ter.md)
-- [接頭辞 pe- / peN- の名詞化（動作主・道具・性質）](affixes/prefix-pen.md)
-- [接頭辞 se- の同一・全体・1単位表現](affixes/prefix-se.md)
-- [接尾辞 -kan の使役用法（〜させる）](affixes/suffix-kan-causative.md)
-- [接尾辞 -kan の受益・対象化構文（〜のためにする）](affixes/suffix-kan-benefactive.md)
+- [接頭辞 ter- の5大機能](affixes/prefix-ter.md)
+- [接頭辞 pe- / peN- の名詞化](affixes/prefix-pen.md)
+- [接頭辞 se- の同一・全体表現](affixes/prefix-se.md)
+- [接尾辞 -kan の使役用法](affixes/suffix-kan-causative.md)
+- [接尾辞 -kan の受益・対象化構文](affixes/suffix-kan-benefactive.md)
 - [接尾辞 -i の反復・場所・対象付与](affixes/suffix-i.md)
-- [接尾辞 -kan と -i の徹底比較と使い分け](affixes/kan-vs-i.md)
-- [接尾辞 -an の名詞化（結果・道具・集合・度合い）](affixes/suffix-an.md)
-- [周囲辞 ke-...-an の名詞化・過度・受動被害](affixes/circumfix-ke-an.md)
-- [周囲辞 peN-...-an と per-...-an の比較と使い分け](affixes/circumfix-pen-an.md)
+- [接尾辞 -kan と -i の徹底比較](affixes/kan-vs-i.md)
+- [接尾辞 -an の名詞化](affixes/suffix-an.md)
+- [周囲辞 ke-...-an の名詞化・過度・受動](affixes/circumfix-ke-an.md)
+- [周囲辞 peN-...-an と per-...-an の比較](affixes/circumfix-pen-an.md)
 
----
-
-### 4. 語根別派生語マスター図鑑 (Kamus Derivasi Kata Dasar) {: #sec-04 }
-頻出重要語根50選から派生する動詞・名詞・形容詞をネットワーク図と用例で一挙にマスター。
+### 5. 語根別派生語マスター図鑑 {: #sec-05 }
+全100記事を収録しています。
 
 - [語根 tahu（知る・知識）の全派生語](derivations/root-tahu.md)
 - [語根 buka（開く・公にする）の全派生語](derivations/root-buka.md)
@@ -199,14 +207,62 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [語根 bawa（運ぶ・もたらす・司会・部下）の全派生語](derivations/root-bawa.md)
 - [語根 kirim（送る・配送・送料無料）の全派生語](derivations/root-kirim.md)
 - [語根 terima（受け取る・合格・ありがとう）の全派生語](derivations/root-terima.md)
+- [語根 adil の全派生語図鑑（mengadili, keadilan, pengadilan, peradilan）](derivations/root-adil.md)
+- [語根 ajak の全派生語図鑑（mengajak, ajakan, diajak）](derivations/root-ajak.md)
+- [語根 bagi の全派生語図鑑（membagi, berbagi, pembagian, sebagian）](derivations/root-bagi.md)
+- [語根 baik の全派生語図鑑（memperbaiki, perbaikan, kebaikan, sebaiknya）](derivations/root-baik.md)
+- [語根 banding の全派生語図鑑（membandingkan, perbandingan, sebanding, banding）](derivations/root-banding.md)
+- [語根 bina の全派生語図鑑（membina, pembinaan, pembina, terbina）](derivations/root-bina.md)
+- [語根 buruk の全派生語図鑑（memburuk, memperburuk, keburukan, perburukan）](derivations/root-buruk.md)
+- [語根 coba の全派生語図鑑（mencoba, percobaan, cobaan, mencobai）](derivations/root-coba.md)
+- [語根 dasar の全派生語図鑑（mendasari, berdasarkan, dasar, dasar-dasar）](derivations/root-dasar.md)
+- [語根 diri の全派生語図鑑（berdiri, mendirikan, pendirian, terdiri dari）](derivations/root-diri.md)
+- [語根 dorong の全派生語図鑑（mendorong, pendorong, dorongan, terdorong）](derivations/root-dorong.md)
+- [語根 ganti の全派生語図鑑（mengganti, berganti, pergantian, ganti rugi）](derivations/root-ganti.md)
+- [語根 hadap の全派生語図鑑（menghadapi, menghadap, terhadap, berhadapan）](derivations/root-hadap.md)
+- [語根 harap の全派生語図鑑（berharap, mengharap, mengharapkan, pengharapan, harapan）](derivations/root-harap.md)
+- [語根 hitung の全派生語図鑑（menghitung, perhitungan, terhitung, berhitung）](derivations/root-hitung.md)
+- [語根 hubung の全派生語図鑑（menghubungkan, berhubungan, hubungan, perhubungan）](derivations/root-hubung.md)
+- [語根 jelas の全派生語図鑑（menjelaskan, penjelasan, memperjelas, kejelasan）](derivations/root-jelas.md)
+- [語根 kabur の全派生語図鑑（mengaburkan, pengaburan, kabur）](derivations/root-kabur.md)
+- [語根 kait の全派生語図鑑（mengaitkan, terkait, keterkaitan, kaitan）](derivations/root-kait.md)
+- [語根 kuat の全派生語図鑑（memperkuat, kekuatan, menguat, terkuat）](derivations/root-kuat.md)
+- [語根 kurang の全派生語図鑑（mengurangi, berkurang, kekurangan, pengurangan）](derivations/root-kurang.md)
+- [語根 lemah の全派生語図鑑（melemahkan, kelemahan, melemah, pelemahan）](derivations/root-lemah.md)
+- [語根 lengkap の全派生語図鑑（melengkapi, dilengkapi, perlengkapan, kelengkapan）](derivations/root-lengkap.md)
+- [語根 luas の全派生語図鑑（memperluas, perluasan, meluas, keluasan）](derivations/root-luas.md)
+- [語根 lupa の全派生語図鑑（melupakan, kelupaan, terlupakan, pelupa）](derivations/root-lupa.md)
+- [語根 mati の全派生語図鑑（mematikan, kematian, mati rasa, pematian）](derivations/root-mati.md)
+- [語根 milik の全派生語図鑑（memiliki, kepemilikan, pemilik, milik）](derivations/root-milik.md)
+- [語根 naik の全派生語図鑑（menaikkan, kenaikan, menaiki, naik kelas）](derivations/root-naik.md)
+- [語根 nilai の全派生語図鑑（menilai, penilaian, bernilai, nilai）](derivations/root-nilai.md)
+- [語根 nyata の全派生語図鑑（menyatakan, pernyataan, ternyata, kenyataan）](derivations/root-nyata.md)
+- [語根 panjang の全派生語図鑑（memperpanjang, perpanjangan, berkepanjangan, sepanjang）](derivations/root-panjang.md)
+- [語根 pegang の全派生語図鑑（memegang, berpegang, pegangan, pemegang）](derivations/root-pegang.md)
+- [語根 pilih の全派生語図鑑（memilih, pilihan, pemilihan, terpilih）](derivations/root-pilih.md)
+- [語根 rusak の全派生語図鑑（merusak, kerusakan, perusak）](derivations/root-rusak.md)
+- [語根 sadar の全派生語図鑑（menyadari, kesadaran, tersadar, penyadaran）](derivations/root-sadar.md)
+- [語根 sebar の全派生語図鑑（menyebar, menyebarkan, tersebar, penyebaran, persebaran）](derivations/root-sebar.md)
+- [語根 sempit の全派生語図鑑（menyempit, mempersempit, penyempitan, kesempitan）](derivations/root-sempit.md)
+- [語根 serah の全派生語図鑑（menyerahkan, penyerahan, pasrah / berserah, terserah）](derivations/root-serah.md)
+- [語根 singkat の全派生語図鑑（menyingkat, singkatan, penyingkatan, mempersingkat）](derivations/root-singkat.md)
+- [語根 susun の全派生語図鑑（menyusun, tersusun, susunan, penyusun）](derivations/root-susun.md)
+- [語根 tambah の全派生語図鑑（menambah, bertambah, tambahan, penambahan）](derivations/root-tambah.md)
+- [語根 tanggung の全派生語図鑑（menanggung, tanggung jawab, bertanggung jawab, pertanggungjawaban, tanggungan）](derivations/root-tanggung.md)
+- [語根 tarik の全派生語図鑑（menarik, tertarik, ketertarikan, penarikan）](derivations/root-tarik.md)
+- [語根 tentu の全派生語図鑑（menentukan, tertentu, ketentuan, penentuan, tentunya）](derivations/root-tentu.md)
+- [語根 tingkat の全派生語図鑑（meningkatkan, peningkatan, meningkat, bertingkat）](derivations/root-tingkat.md)
+- [語根 tolak の全派生語図鑑（menolak, penolakan, tertolak, bertolak, bertolak belakang）](derivations/root-tolak.md)
+- [語根 tuju の全派生語図鑑（menuju, bertujuan, tujuan, setuju, persetujuan）](derivations/root-tuju.md)
+- [語根 tuntut の全派生語図鑑（menuntut, tuntutan, penuntut, tertuntut）](derivations/root-tuntut.md)
+- [語根 turun の全派生語図鑑（menurunkan, penurunan, menurun, keturunan）](derivations/root-turun.md)
+- [語根 ukur の全派生語図鑑（mengukur, pengukuran, ukuran, terukur）](derivations/root-ukur.md)
 
----
-
-### 5. 語彙・テーマ別必須単語 (Kosakata Tematik) {: #sec-05 }
-日常生活・ビジネス・旅行・自然・感情などの場面別必須ボキャブラリー集。
+### 6. 語彙・テーマ別必須単語 {: #sec-06 }
+全65記事を収録しています。
 
 - [日常生活の基本名詞（衣食住・身の回りの物）](vocabulary/daily-nouns.md)
-- [日常必須動詞 50選（生活行動・基本動作）](vocabulary/daily-verbs.md)
+- [日常必須動詞 50選（生活行動・動作）](vocabulary/daily-verbs.md)
 - [日常必須形容詞 50選（感情・性質・評価）](vocabulary/daily-adjectives.md)
 - [家族・親族・人間関係の呼び名](vocabulary/family-relations.md)
 - [身体の部位と健康・医学用語](vocabulary/body-health.md)
@@ -220,11 +276,59 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [感情・心理状態を表す表現](vocabulary/feelings-emotions.md)
 - [天気・気象・災害の単語集](vocabulary/weather-disaster.md)
 - [旅・観光・レジャーの単語集](vocabulary/travel-tourism.md)
+- [必須単語集: 学問・論文・研究開発・科学実験](vocabulary/academic-research-science.md)
+- [必須単語集: 靴・バッグ・小物・装飾品](vocabulary/accessories-shoes.md)
+- [必須単語集: 動物・固有種動植物・野生生物](vocabulary/animals-wildlife.md)
+- [必須単語集: 銀行・口座・預金・金融用語](vocabulary/banking-finance-terms.md)
+- [必須単語集: 鳥類・昆虫・海洋生物・熱帯魚](vocabulary/birds-insects-marine.md)
+- [必須単語集: キリスト教・ヒンドゥー教・仏教用語](vocabulary/christian-hindu-buddhist-terms.md)
+- [必須単語集: 衣服・ファッション・バティック装束](vocabulary/clothing-fashion.md)
+- [必須単語集: 会話のつなぎ言葉・相槌・フィラー表現](vocabulary/colloquial-connectors-fillers.md)
+- [必須単語集: 色彩・色合い・模様・伝統パターン](vocabulary/colors-patterns-shades.md)
+- [必須単語集: 建築・土木・工事資材・工具](vocabulary/construction-architecture.md)
+- [必須単語集: 警察・犯罪捜査・防犯・治安用語](vocabulary/crime-police-security.md)
+- [必須単語集: サイバーセキュリティ・データ保護](vocabulary/cybersecurity-data.md)
+- [必須単語集: 外交・大使館・国際会議・条約協定](vocabulary/diplomacy-international-relations.md)
+- [必須単語集: 外科・皮膚科・眼科・外傷](vocabulary/diseases-symptoms-external.md)
+- [必須単語集: 内科系疾患・生活習慣病・感染症](vocabulary/diseases-symptoms-internal.md)
+- [必須単語集: 初等・中等・高等教育・大学生活](vocabulary/education-school-university.md)
+- [必須単語集: 感情・心理状態・メンタルヘルス](vocabulary/emotions-mental-states.md)
+- [必須単語集: 南国フルーツ・熱帯果物図鑑](vocabulary/fruits-tropical.md)
+- [必須単語集: 家具・家電・インテリア](vocabulary/furniture-appliances.md)
+- [必須単語集: 病院の診療科・医療スタッフ役職](vocabulary/hospital-departments.md)
+- [必須単語集: 人体解剖・内臓・骨格・生体構造](vocabulary/human-anatomy-organs.md)
+- [必須単語集: SNS・インターネット・ネット用語](vocabulary/internet-social-media.md)
+- [必須単語集: 株式投資・為替・債券・資産運用](vocabulary/investment-stock-market.md)
+- [必須単語集: イスラム宗教用語・礼拝・断食・ハラール](vocabulary/islamic-religious-terms.md)
+- [必須単語集: IT機器・周辺機器・ハードウェア](vocabulary/it-hardware-devices.md)
+- [必須単語集: 台所・調理器具・キッチン用品](vocabulary/kitchen-cookware.md)
+- [必須単語集: 法律・条文・法廷・司法実務用語](vocabulary/law-judiciary-legal-terms.md)
+- [必須単語集: 素材・金属・鉱物・繊維・木材](vocabulary/materials-textiles-minerals.md)
+- [必須単語集: 肉類・魚介類・シーフード](vocabulary/meat-seafood.md)
+- [必須単語集: 地形・地理・火山・熱帯雨林・海洋](vocabulary/nature-geography-landscape.md)
+- [必須単語集: オノマトペ・擬音語・擬態語](vocabulary/onomatopoeia-mimetic-words.md)
+- [必須単語集: アウトドア・登山・キャンプ・マリンスポーツ](vocabulary/outdoor-camping-hiking.md)
+- [必須単語集: 人の性格・欠点・悪癖の描写語彙](vocabulary/personality-character-negative.md)
+- [必須単語集: 人の性格・美徳・長所の描写語彙](vocabulary/personality-character-positive.md)
+- [必須単語集: 薬局・市販薬・処方薬・サプリ](vocabulary/pharmacy-medications.md)
+- [必須単語集: 植物・熱帯樹木・花卉・ラフレシア](vocabulary/plants-trees-flowers.md)
+- [必須単語集: 政治機構・省庁・議会・大統領府](vocabulary/politics-government-organs.md)
+- [必須単語集: 頻出ことわざ・成句・格言（Peribahasa）](vocabulary/proverbs-idioms-peribahasa.md)
+- [必須単語集: 公共施設・インフラ・行政窓口](vocabulary/public-facilities.md)
+- [必須単語集: 不動産・間取り・賃貸・住宅設備](vocabulary/real-estate-housing.md)
+- [必須単語集: 五感・味覚・嗅覚・触覚の豊かな描写](vocabulary/sensory-tastes-smells.md)
+- [必須単語集: 形状・幾何学・立体・空間配置](vocabulary/shapes-spatial-dimensions.md)
+- [必須単語集: ソフトウェア・アプリ・プログラミング](vocabulary/software-apps-programming.md)
+- [必須単語集: 香辛料・ブンブ・調味料・サンバル](vocabulary/spices-condiments.md)
+- [必須単語集: スポーツ・フィットネス・各種競技](vocabulary/sports-fitness-gym.md)
+- [必須単語集: 伝統芸能・ガムラン・ワヤン・伝統舞踊](vocabulary/traditional-arts-music.md)
+- [必須単語集: 交通ルール・道路標識・運転用語](vocabulary/traffic-road-signs.md)
+- [必須単語集: 野菜・豆類・葉物野菜](vocabulary/vegetables-greens.md)
+- [必須単語集: 自動車・バイク・車両構造部品](vocabulary/vehicles-automotive.md)
+- [必須単語集: 気象現象・モンスーン・乾季雨季](vocabulary/weather-climate-phenomena.md)
 
----
-
-### 6. 類義語・ニュアンス徹底比較事典 (Sinonim & Nuansa Kata) {: #sec-06 }
-辞書では同じ訳語が当てられている似た単語の決定的な使い分け・ニュアンス差を徹底比較。
+### 7. 類義語・ニュアンス徹底比較事典 {: #sec-07 }
+全100記事を収録しています。
 
 - [tinggal vs diam（住む・滞在する・黙るの境界線）](synonyms/c01-tinggal-vs-diam.md)
 - [antar vs jemput vs bawa（移動の方向と対象）](synonyms/c02-antar-vs-jemput-vs-bawa.md)
@@ -276,25 +380,71 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [hilang vs lenyap vs musnah vs sirna（紛失・かき消える・壊滅滅亡・霧散する）](synonyms/c48-hilang-vs-lenyap-vs-musnah-vs-sirna.md)
 - [jatuh vs runtuh vs roboh vs tumbang（落ちる・崩壊する・倒壊する・大木根こそぎ/打倒）](synonyms/c49-jatuh-vs-runtuh-vs-roboh-vs-tumbang.md)
 - [rusak vs hancur vs punah vs binasa（壊れる/故障・粉砕/破滅・絶滅・滅亡）](synonyms/c50-rusak-vs-hancur-vs-punah-vs-binasa.md)
+- [C100: asli vs orisinal vs pribumi vs tulen の決定的な違いと使い分け](synonyms/c100-asli-vs-orisinal-vs-pribumi-vs-tulen.md)
+- [C51: harus vs wajib vs perlu vs mesti の決定的な違いと使い分け](synonyms/c51-harus-vs-wajib-vs-perlu-vs-mesti.md)
+- [C52: bisa vs dapat vs mampu vs sanggup の決定的な違いと使い分け](synonyms/c52-bisa-vs-dapat-vs-mampu-vs-sanggup.md)
+- [C53: senang vs bahagia vs gembira vs sukacita の決定的な違いと使い分け](synonyms/c53-senang-vs-bahagia-vs-gembira-vs-sukacita.md)
+- [C54: kira-kira vs sekitar vs kurang lebih の決定的な違いと使い分け](synonyms/c54-kira-kira-vs-sekitar-vs-kurang-lebih.md)
+- [C55: selalu vs senantiasa vs kerap vs sering の決定的な違いと使い分け](synonyms/c55-selalu-vs-senantiasa-vs-kerap-vs-sering.md)
+- [C56: pasti vs tentu vs niscaya vs yakin の決定的な違いと使い分け](synonyms/c56-pasti-vs-tentu-vs-niscaya-vs-yakin.md)
+- [C57: cocok vs pas vs tepat vs sesuai の決定的な違いと使い分け](synonyms/c57-cocok-vs-pas-vs-tepat-vs-sesuai.md)
+- [C58: takut vs cemas vs khawatir vs gentar の決定的な違いと使い分け](synonyms/c58-takut-vs-cemas-vs-khawatir-vs-gentar.md)
+- [C59: marah vs kesal vs geram vs murka の決定的な違いと使い分け](synonyms/c59-marah-vs-kesal-vs-geram-vs-murka.md)
+- [C60: segera vs lekas vs cepat vs langsung の決定的な違いと使い分け](synonyms/c60-segera-vs-lekas-vs-cepat-vs-langsung.md)
+- [C61: kotor vs jorok vs cemar vs najis の決定的な違いと使い分け](synonyms/c61-kotor-vs-jorok-vs-cemar-vs-najis.md)
+- [C62: bersih vs murni vs suci vs higienis の決定的な違いと使い分け](synonyms/c62-bersih-vs-murni-vs-suci-vs-higienis.md)
+- [C63: hilang vs lenyap vs musnah vs sirna の決定的な違いと使い分け](synonyms/c63-hilang-vs-lenyap-vs-musnah-vs-sirna.md)
+- [C64: ingat vs kenang vs teringat vs hafal の決定的な違いと使い分け](synonyms/c64-ingat-vs-kenang-vs-teringat-vs-hafal.md)
+- [C65: lupa vs khilaf vs lalai vs alpa の決定的な違いと使い分け](synonyms/c65-lupa-vs-khilaf-vs-lalai-vs-alpa.md)
+- [C66: paham vs mengerti vs sadar vs insaf の決定的な違いと使い分け](synonyms/c66-paham-vs-mengerti-vs-sadar-vs-insaf.md)
+- [C67: izin vs permisi vs restu vs persetujuan の決定的な違いと使い分け](synonyms/c67-izin-vs-permisi-vs-restu-vs-persetujuan.md)
+- [C68: atur vs kelola vs urus vs tata の決定的な違いと使い分け](synonyms/c68-atur-vs-kelola-vs-urus-vs-tata.md)
+- [C69: bantu vs dukung vs sokong vs fasilitasi の決定的な違いと使い分け](synonyms/c69-bantu-vs-dukung-vs-sokong-vs-fasilitasi.md)
+- [C70: rawat vs pelihara vs jaga vs asuh の決定的な違いと使い分け](synonyms/c70-rawat-vs-pelihara-vs-jaga-vs-asuh.md)
+- [C71: mulai vs awali vs rintis vs buka の決定的な違いと使い分け](synonyms/c71-mulai-vs-awali-vs-rintis-vs-buka.md)
+- [C72: selesai vs usai vs tuntas vs kelar の決定的な違いと使い分け](synonyms/c72-selesai-vs-usai-vs-tuntas-vs-kelar.md)
+- [C73: tambah vs imbuh vs susul vs sertakan の決定的な違いと使い分け](synonyms/c73-tambah-vs-imbuh-vs-susul-vs-sertakan.md)
+- [C74: kurang vs susut vs merosot vs anjlok の決定的な違いと使い分け](synonyms/c74-kurang-vs-susut-vs-merosot-vs-anjlok.md)
+- [C75: kumpul vs himpun vs kerumun vs reuni の決定的な違いと使い分け](synonyms/c75-kumpul-vs-himpun-vs-kerumun-vs-reuni.md)
+- [C76: pisah vs cerai vs bedakan vs isolasi の決定的な違いと使い分け](synonyms/c76-pisah-vs-cerai-vs-bedakan-vs-isolasi.md)
+- [C77: ajar vs didik vs latih vs bimbing の決定的な違いと使い分け](synonyms/c77-ajar-vs-didik-vs-latih-vs-bimbing.md)
+- [C78: pimpin vs pandu vs komando vs nahkodai の決定的な違いと使い分け](synonyms/c78-pimpin-vs-pandu-vs-komando-vs-nahkodai.md)
+- [C79: jual vs dagang vs pasarkan vs obral の決定的な違いと使い分け](synonyms/c79-jual-vs-dagang-vs-pasarkan-vs-obral.md)
+- [C80: beli vs belanja vs borong vs tebus の決定的な違いと使い分け](synonyms/c80-beli-vs-belanja-vs-borong-vs-tebus.md)
+- [C81: sewa vs charter vs rental vs indekos の決定的な違いと使い分け](synonyms/c81-sewa-vs-charter-vs-rental-vs-indekos.md)
+- [C82: pinjam vs kredit vs utang vs gadai の決定的な違いと使い分け](synonyms/c82-pinjam-vs-kredit-vs-utang-vs-gadai.md)
+- [C83: bayar vs lunasi vs cicil vs talangi の決定的な違いと使い分け](synonyms/c83-bayar-vs-lunasi-vs-cicil-vs-talangi.md)
+- [C84: hemat vs irit vs pelit vs kikir の決定的な違いと使い分け](synonyms/c84-hemat-vs-irit-vs-pelit-vs-kikir.md)
+- [C85: boros vs foya-foya vs mubazir vs loyal の決定的な違いと使い分け](synonyms/c85-boros-vs-foya-foya-vs-mubazir-vs-loyal.md)
+- [C86: kaya vs makmur vs sejahtera vs mapan の決定的な違いと使い分け](synonyms/c86-kaya-vs-makmur-vs-sejahtera-vs-mapan.md)
+- [C87: miskin vs melarat vs kurang-mampu vs susah の決定的な違いと使い分け](synonyms/c87-miskin-vs-melarat-vs-kurang-mampu-vs-susah.md)
+- [C88: aman vs tenteram vs damai vs kondusif の決定的な違いと使い分け](synonyms/c88-aman-vs-tenteram-vs-damai-vs-kondusif.md)
+- [C89: bahaya vs kritis vs genting vs rawan の決定的な違いと使い分け](synonyms/c89-bahaya-vs-kritis-vs-genting-vs-rawan.md)
+- [C90: ramai vs padat vs macet vs bising の決定的な違いと使い分け](synonyms/c90-ramai-vs-padat-vs-macet-vs-bising.md)
+- [C91: sepi vs lengang vs sunyi vs terpencil の決定的な違いと使い分け](synonyms/c91-sepi-vs-lengang-vs-sunyi-vs-terpencil.md)
+- [C92: kering vs gersang vs tandus vs kemarau の決定的な違いと使い分け](synonyms/c92-kering-vs-gersang-vs-tandus-vs-kemarau.md)
+- [C93: basah vs lembap vs becek vs kuyup の決定的な違いと使い分け](synonyms/c93-basah-vs-lembap-vs-becek-vs-kuyup.md)
+- [C94: indah vs elok vs permai vs estetik の決定的な違いと使い分け](synonyms/c94-indah-vs-elok-vs-permai-vs-estetik.md)
+- [C95: jelek vs buruk vs rusak vs cacat の決定的な違いと使い分け](synonyms/c95-jelek-vs-buruk-vs-rusak-vs-cacat.md)
+- [C96: kuat vs kokoh vs tangguh vs kekal の決定的な違いと使い分け](synonyms/c96-kuat-vs-kokoh-vs-tangguh-vs-kekal.md)
+- [C97: lemah vs rapuh vs ringkih vs rentan の決定的な違いと使い分け](synonyms/c97-lemah-vs-rapuh-vs-ringkih-vs-rentan.md)
+- [C98: murah vs terjangkau vs merakyat vs murahan の決定的な違いと使い分け](synonyms/c98-murah-vs-terjangkau-vs-merakyat-vs-murahan.md)
+- [C99: mahal vs mewah vs elit vs eksklusif の決定的な違いと使い分け](synonyms/c99-mahal-vs-mewah-vs-elit-vs-eksklusif.md)
 
----
+### 8. スラング・口語・若者言葉 {: #sec-08 }
+全8記事を収録しています。
 
-### 7. スラング・口語・若者言葉 (Bahasa Gaul & Percakapan Santai) {: #sec-07 }
-教科書に載っていないジャカルタ口語、文末詞（dong, sih, deh）、略語、ジョーク表現。
-
-- [ジャカルタ口語の文法特徴と基本語（gue / lo / banget / nggak）](slang-culture/bahasa-gaul-basics.md)
-- [文末詞（dong, sih, deh, kan, kok, loh）のニュアンス事典](slang-culture/particle-nuances.md)
-- [チャット・SNSの頻出略語（yg, bgt, otw, gpp, wkwk）](slang-culture/chat-abbreviations.md)
-- [若者言葉の造語法（逆さ言葉・混種語・短縮語）](slang-culture/slang-word-formation.md)
+- [ジャカルタ口語の文法特徴と基本語](slang-culture/bahasa-gaul-basics.md)
+- [文末詞（dong, sih, deh等）のニュアンス事典](slang-culture/particle-nuances.md)
+- [チャット・SNSの頻出略語](slang-culture/chat-abbreviations.md)
+- [若者言葉の造語法（逆さ言葉・混種語）](slang-culture/slang-word-formation.md)
 - [日常会話でウケる最新スラング](slang-culture/trending-slang.md)
 - [冗談・からかい・感情の口語表現](slang-culture/jokes-teasing.md)
-- [必須慣用句・ことわざ名選（Peribahasa）](slang-culture/idioms-proverbs.md)
-- [ゴム時間（Jam Karet）の文化と上手な付き合い方](slang-culture/jam-karet.md)
+- [必須慣用句・ことわざ名選](slang-culture/idioms-proverbs.md)
+- [ゴム時間（Jam Karet）と付き合い方](slang-culture/jam-karet.md)
 
----
-
-### 8. 日常会話・シーン別表現 (Percakapan Sehari-hari) {: #sec-08 }
-空港、ホテル、タクシー、屋台、市場での買い物など、旅行や現地生活に直結する20の場面別会話。
+### 9. 日常会話・シーン別表現 {: #sec-09 }
+全20記事を収録しています。
 
 - [基本の挨拶と自己紹介](conversation/greetings.md)
 - [数字・金額と両替フレーズ](conversation/numbers-money.md)
@@ -303,7 +453,7 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [屋台（カキリマ）の注文テクニック](conversation/street-food.md)
 - [スーパー・コンビニでの買い物と支払い](conversation/supermarket-convenience.md)
 - [市場・お土産店での値段交渉術](conversation/bargaining.md)
-- [タクシー・配車アプリ（Grab/Gojek）の活用会話](conversation/transport.md)
+- [タクシー・配車アプリの活用会話](conversation/transport.md)
 - [電車・高速鉄道・長距離バスの利用](conversation/train-bus.md)
 - [空港・出入国審査・フライト](conversation/airport-flight.md)
 - [ホテル・ヴィラでの滞在会話](conversation/hotel.md)
@@ -317,75 +467,8 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [アパート・住居探し・修理依頼](conversation/housing-repairs.md)
 - [友達作り・SNS交換・カジュアルな誘い方](conversation/making-friends.md)
 
----
-
-### 9. 万能フレーズ型・文章パターンドリル (Pola Kalimat Serbaguna) {: #sec-09 }
-単語を入れ替えるだけで無限に文が作れる、実践で最も役立つ50の構文パターン。対話（会話文）とは独立した「文型テンプレート集」として体系化されています。
-
-#### ① 感情・意思・判断の基本構文 (P01〜P15)
-- [依頼・許可・希望のパターン構文](patterns/requests-permissions.md)
-- [場所・存在・移動・交通のパターン構文](patterns/location-movement.md)
-- [理由・条件・時系列のパターン構文](patterns/reasons-conditions-time.md)
-- [意見・感想・比較・評価のパターン構文](patterns/opinions-comparisons.md)
-- [疑問・確認・頻出質問のパターン構文](patterns/questions-confirmations.md)
-- [好き・嫌い・好みのパターン構文](patterns/likes-preferences.md)
-- [感謝・謝罪・お礼のパターン構文](patterns/thanks-apologies.md)
-- [心配・安心・懸念のパターン構文](patterns/worry-reassurance.md)
-- [確信・疑念・推量のパターン構文](patterns/certainty-doubt.md)
-- [決意・予定・意図のパターン構文](patterns/intention-plans.md)
-- [状態変化・進展のパターン構文](patterns/state-change.md)
-- [完了・結果・結末のパターン構文](patterns/completion-results.md)
-- [習慣・頻度・反復のパターン構文](patterns/habits-frequency.md)
-- [偶発・自然発生・無意図のパターン構文](patterns/unintentional-actions.md)
-- [継続・進行・維持のパターン構文](patterns/continuous-states.md)
-
-#### ② 対話展開・相槌・説明構文 (P16〜P20)
-- [あいまいな返答・相槌・同調のパターン構文](patterns/conversational-responses.md)
-- [話題転換・前置きのパターン構文](patterns/topic-transitions.md)
-- [説明・言い換え・要約のパターン構文](patterns/clarifications-summaries.md)
-- [提案・勧誘・アドバイスのパターン構文](patterns/suggestions-advice.md)
-- [依頼の念押し・催促・リマインドのパターン構文](patterns/reminders-urging.md)
-
-#### ③ 生活・トラブル・行動構文 (P21〜P30)
-- [注文・味の好み・アレルギー指定のパターン構文](patterns/food-preferences.md)
-- [値段交渉・割引要求・条件確認のパターン構文](patterns/bargaining-prices.md)
-- [サイズ・色・交換要求のパターン構文](patterns/shopping-exchange.md)
-- [移動・道順・目的地指示のパターン構文](patterns/navigation-directions.md)
-- [ホテル・宿泊施設のリクエストパターン構文](patterns/hotel-requests.md)
-- [身体の痛み・体調不良の訴えパターン構文](patterns/illness-symptoms.md)
-- [機器・設備の故障・トラブル申告パターン構文](patterns/breakdown-complaints.md)
-- [紛失・盗難・遺失物のパターン構文](patterns/lost-stolen.md)
-- [誤解・行き違い・訂正のパターン構文](patterns/misunderstandings-corrections.md)
-- [緊急援助要請・危険回避のパターン構文](patterns/emergency-help.md)
-
-#### ④ ビジネス実務・交渉・会議構文 (P31〜P40)
-- [業務報告・進捗連絡のパターン構文](patterns/progress-reporting.md)
-- [連絡・日程調整・アポイントのパターン構文](patterns/scheduling-appointments.md)
-- [質問・確認・指示仰ぎのパターン構文](patterns/clarifications-instructions.md)
-- [納期・締め切り・優先順位のパターン構文](patterns/deadlines-priorities.md)
-- [提案・企画・改善要求のパターン構文](patterns/proposals-improvements.md)
-- [賛成・反対・留保のパターン構文](patterns/agreement-disagreement.md)
-- [謝罪・納期遅延・トラブル対応のビジネス構文](patterns/business-apologies.md)
-- [感謝・労い・称賛のビジネス構文](patterns/praise-appreciation.md)
-- [見積もり・条件提示・交渉のビジネス構文](patterns/quotations-negotiations.md)
-- [会議の司会・発言・まとめのパターン構文](patterns/meeting-facilitation.md)
-
-#### ⑤ 社交・論理展開・結論構文 (P41〜P50)
-- [初対面の話題作り・スモールトークの構文](patterns/small-talk-icebreakers.md)
-- [趣味・休日の過ごし方を尋ねる構文](patterns/hobbies-sharing.md)
-- [誘い・約束・同行依頼のパターン構文](patterns/invitations-outings.md)
-- [祝辞・お祝い・励ましのパターン構文](patterns/celebrations-encouragement.md)
-- [別れの挨拶・連絡維持のパターン構文](patterns/farewells-keeping-in-touch.md)
-- [原因・因果関係を深掘りする構文](patterns/causality-depth.md)
-- [条件・譲歩・例外を提示する構文](patterns/concessions-exceptions.md)
-- [対比・両面提示のパターン構文](patterns/contrasts-pros-cons.md)
-- [確信度・可能性のグラデーション構文](patterns/probability-degrees.md)
-- [結論・提言・未来予測のパターン構文](patterns/conclusions-projections.md)
-
----
-
-### 10. 実践対話・トラブル解決ドリル (Simulasi Percakapan Nyata) {: #sec-10 }
-エアコン故障、洪水、警察検問、病院ER、KITAS手続きなど、現地滞在中のリアルなトラブル対話50選。
+### 10. 実践対話・トラブル解決ドリル {: #sec-10 }
+全100記事を収録しています。
 
 - [エアコン故障・水漏れ修理依頼](situations/ac-repair.md)
 - [水道・排水管詰まり・断水トラブル](situations/plumbing-water.md)
@@ -437,11 +520,179 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [博物館・遺跡でのガイド手配・歴史質問](situations/museum-tourist-guide.md)
 - [大使館・領事館での手続き（署名証明・婚姻届・出生届）](situations/embassy-notarization.md)
 - [喜捨とチャリティ（Zakat・Sedekah・孤児院支援）](situations/charity-zakat.md)
+- [S100: 現地同僚・スタッフへの送別会での感謝のスピーチ](situations/s100-farewell-party-speech-colleagues.md)
+- [S51: パスポート紛失と領事館渡航書発行手続き](situations/s51-passport-loss-consulate.md)
+- [S52: 交通事故・物損事故と警察現場見分](situations/s52-traffic-accident-police-report.md)
+- [S53: クレジットカード不正利用と銀行カード停止](situations/s53-credit-card-fraud-bank-block.md)
+- [S54: 水道管破裂・水漏れと配管工tukang ledeng修理](situations/s54-plumbing-pipe-leak-emergency.md)
+- [S55: 引っ越しトラブル・荷物破損クレーム交渉](situations/s55-house-moving-damaged-cargo.md)
+- [S56: 学校の三者面談と学習・進路相談](situations/s56-school-parent-teacher-conference.md)
+- [S57: ペットの急病・動物病院での受診とワクチン接種](situations/s57-pet-vet-vaccination-emergency.md)
+- [S58: フライト急遽欠航と空港カウンターでの振替交渉](situations/s58-flight-cancellation-airline-desk.md)
+- [S59: デング熱発症と総合病院での緊急入院手続き](situations/s59-dengue-hospital-admission.md)
+- [S60: 運転免許証SIM更新と警察署Satpasでの手続き](situations/s60-driving-license-sim-renewal.md)
+- [S61: ノートPC故障とITモールでの修理・部品交換](situations/s61-laptop-repair-it-mall-service.md)
+- [S62: アパート退去時の敷金返還トラブル・原状回復](situations/s62-apartment-deposit-return-dispute.md)
+- [S63: 高級衣料クリーニング事故と賠償交渉](situations/s63-dry-cleaning-clothing-ruined.md)
+- [S64: 光回線Wi-Fi障害とプロバイダへの技術者派遣要請](situations/s64-internet-wifi-disruption-isp.md)
+- [S65: ロストバゲージ・手荷物紛失と空港遺失物届](situations/s65-lost-baggage-airport-lost-found.md)
+- [S66: 食中毒・激しい腹痛と近隣クリニック受診](situations/s66-food-poisoning-clinic-prescription.md)
+- [S67: 車のバッテリー上がりとロードサービス要請](situations/s67-car-battery-flat-roadside-help.md)
+- [S68: 町内会RT/RWへの転入挨拶と警備費・ゴミ収集費納付](situations/s68-neighborhood-security-rt-rw-dues.md)
+- [S69: バイクのパンクと街角パンク修理屋Tambal Ban](situations/s69-motorcycle-tire-puncture-tambal.md)
+- [S70: ATMにキャッシュカードが吸い込まれた際の緊急対応](situations/s70-bank-atm-card-swallowed.md)
+- [S71: 家庭用プロパンガスLPGのガス漏れ点検と交換](situations/s71-gas-cylinder-leak-lpg-safety.md)
+- [S72: 電気トークン切れ・ブレーカー落ちとPLN緊急通報](situations/s72-electric-token-meter-trip-pln.md)
+- [S73: 住み込みお手伝いさんPembantuの雇用面談と就業条件](situations/s73-maid-helper-hiring-interview.md)
+- [S74: 専属運転手Sopirの採用試用期間と走行マナー指示](situations/s74-private-driver-probation-rules.md)
+- [S75: GrabFood/GoFoodの誤配送・商品不足クレーム](situations/s75-online-food-delivery-wrong-order.md)
+- [S76: 置き配荷物の盗難・行方不明と配送業者追跡調査](situations/s76-courier-package-stolen-porch.md)
+- [S77: 歯の激痛・虫歯治療と歯科クリニックでの神経処置](situations/s77-dentist-toothache-filling-root.md)
+- [S78: 視力低下・眼鏡処方箋と眼鏡店での度数測定](situations/s78-eye-clinic-prescription-glasses.md)
+- [S79: フィットネスジムの解約手続きと違約金交渉](situations/s79-gym-membership-cancellation.md)
+- [S80: ホテルの隣室騒音クレームと部屋替え要請](situations/s80-hotel-noisy-neighbors-room-change.md)
+- [S81: レンタカーの高速道路上でのエンストと代車要請](situations/s81-car-rental-breakdown-highway.md)
+- [S82: うっかりオーバーステイと入国管理局での罰金納付](situations/s82-immigration-overstay-fine.md)
+- [S83: 悪質な不当要求に対する冷静な法的自衛](situations/s83-police-scam-extortion-defense.md)
+- [S84: 野良犬・動物咬傷と狂犬病ワクチン緊急接種](situations/s84-stray-dog-bite-rabies-shot.md)
+- [S85: 大型ショッピングモールでの迷子捜索と館内放送依頼](situations/s85-shopping-mall-lost-child.md)
+- [S86: 税務署KPPでの個人納税者番号NPWP登録手続き](situations/s86-tax-office-npwp-registration.md)
+- [S87: 国際結婚の婚姻届・出生証明書と領事館手続き](situations/s87-embassy-marriage-registration.md)
+- [S88: 空港税関での高額電子機器・酒類課税と申告手続き](situations/s88-customs-airport-tax-on-goods.md)
+- [S89: ホテル宴会場での結婚式・パーティー会場下見と見積](situations/s89-hotel-wedding-reception-booking.md)
+- [S90: ゴルフ場でのキャディー予約・コース案内とチップ習慣](situations/s90-golf-caddie-booking-tips.md)
+- [S91: スキューバダイビング機材チェックと安全ブリーフィング](situations/s91-scuba-diving-equipment-safety.md)
+- [S92: バリ島サーフィンスクールでの波乗りレッスンとルール](situations/s92-surfing-lesson-wave-rules.md)
+- [S93: オーダーメイドバティックシャツの採寸と仕立て直し](situations/s93-tailor-batik-shirt-fitting.md)
+- [S94: 専門ハウスクリーニング業者へのエアコン・水回り清掃依頼](situations/s94-house-cleaning-service-maid.md)
+- [S95: シロアリ・害虫駆除業者への燻蒸消毒見積もり](situations/s95-pest-control-termites-fumigation.md)
+- [S96: 浄水器フィルター交換と飲料水水質検査依頼](situations/s96-water-purifier-filter-change.md)
+- [S97: 自動車事故保険金請求と損害鑑定サーベイヤー立ち会い](situations/s97-car-insurance-claim-survey.md)
+- [S98: 公証人役場Notarisでの契約書・公正証書署名実務](situations/s98-notary-ppat-contract-signing.md)
+- [S99: 両替所での偽札警戒・大口両替レート交渉](situations/s99-money-changer-counterfeit-check.md)
 
----
+### 11. 感情・意思・判断の基本構文 (P01-P15) {: #sec-11 }
+全15記事を収録しています。
 
-### 11. ビジネスインドネシア語基礎 (Bahasa Indonesia Bisnis) {: #sec-11 }
-オフィス挨拶、電話、メール・WhatsApp、会議、プレゼン、商談、契約交渉の基本マナーと表現。
+- [依頼・許可・希望のパターン構文](patterns/requests-permissions.md)
+- [場所・存在・移動・交通のパターン構文](patterns/location-movement.md)
+- [理由・条件・時系列のパターン構文](patterns/reasons-conditions-time.md)
+- [意見・感想・比較・評価のパターン構文](patterns/opinions-comparisons.md)
+- [疑問・確認・頻出質問のパターン構文](patterns/questions-confirmations.md)
+- [好き・嫌い・好みのパターン構文](patterns/likes-preferences.md)
+- [感謝・謝罪・お礼のパターン構文](patterns/thanks-apologies.md)
+- [心配・安心・懸念のパターン構文](patterns/worry-reassurance.md)
+- [確信・疑念・推量のパターン構文](patterns/certainty-doubt.md)
+- [決意・予定・意図のパターン構文](patterns/intention-plans.md)
+- [状態変化・進展のパターン構文](patterns/state-change.md)
+- [完了・結果・結末のパターン構文](patterns/completion-results.md)
+- [習慣・頻度・反復のパターン構文](patterns/habits-frequency.md)
+- [偶発・自然発生・無意図のパターン構文](patterns/unintentional-actions.md)
+- [継続・進行・維持のパターン構文](patterns/continuous-states.md)
+
+### 12. 対話展開・相槌・説明構文 (P16-P20) {: #sec-12 }
+全5記事を収録しています。
+
+- [あいまいな返答・相槌・同調のパターン構文](patterns/conversational-responses.md)
+- [話題転換・前置きのパターン構文](patterns/topic-transitions.md)
+- [説明・言い換え・要約のパターン構文](patterns/clarifications-summaries.md)
+- [提案・勧誘・アドバイスのパターン構文](patterns/suggestions-advice.md)
+- [依頼の念押し・催促・リマインドのパターン構文](patterns/reminders-urging.md)
+
+### 13. 生活・トラブル・行動構文 (P21-P30) {: #sec-13 }
+全10記事を収録しています。
+
+- [注文・味の好み・アレルギー指定のパターン構文](patterns/food-preferences.md)
+- [値段交渉・割引要求・条件確認のパターン構文](patterns/bargaining-prices.md)
+- [サイズ・色・交換要求のパターン構文](patterns/shopping-exchange.md)
+- [移動・道順・目的地指示のパターン構文](patterns/navigation-directions.md)
+- [ホテル・宿泊施設のリクエストパターン構文](patterns/hotel-requests.md)
+- [身体の痛み・体調不良の訴えパターン構文](patterns/illness-symptoms.md)
+- [機器・設備の故障・トラブル申告パターン構文](patterns/breakdown-complaints.md)
+- [紛失・盗難・遺失物のパターン構文](patterns/lost-stolen.md)
+- [誤解・行き違い・訂正のパターン構文](patterns/misunderstandings-corrections.md)
+- [緊急援助要請・危険回避のパターン構文](patterns/emergency-help.md)
+
+### 14. ビジネス実務・交渉・会議構文 (P31-P40) {: #sec-14 }
+全10記事を収録しています。
+
+- [業務報告・進捗連絡のパターン構文](patterns/progress-reporting.md)
+- [連絡・日程調整・アポイントのパターン構文](patterns/scheduling-appointments.md)
+- [質問・確認・指示仰ぎのパターン構文](patterns/clarifications-instructions.md)
+- [納期・締め切り・優先順位のパターン構文](patterns/deadlines-priorities.md)
+- [提案・企画・改善要求のパターン構文](patterns/proposals-improvements.md)
+- [賛成・反対・留保のパターン構文](patterns/agreement-disagreement.md)
+- [謝罪・納期遅延・トラブル対応のビジネス構文](patterns/business-apologies.md)
+- [感謝・労い・称賛のビジネス構文](patterns/praise-appreciation.md)
+- [見積もり・条件提示・交渉のビジネス構文](patterns/quotations-negotiations.md)
+- [会議の司会・発言・まとめのパターン構文](patterns/meeting-facilitation.md)
+
+### 15. 社交・論理展開・結論構文 (P41-P50) {: #sec-15 }
+全60記事を収録しています。
+
+- [初対面の話題作り・スモールトークの構文](patterns/small-talk-icebreakers.md)
+- [趣味・休日の過ごし方を尋ねる構文](patterns/hobbies-sharing.md)
+- [誘い・約束・同行依頼のパターン構文](patterns/invitations-outings.md)
+- [祝辞・お祝い・励ましのパターン構文](patterns/celebrations-encouragement.md)
+- [別れの挨拶・連絡維持のパターン構文](patterns/farewells-keeping-in-touch.md)
+- [原因・因果関係を深掘りする構文](patterns/causality-depth.md)
+- [条件・譲歩・例外を提示する構文](patterns/concessions-exceptions.md)
+- [対比・両面提示のパターン構文](patterns/contrasts-pros-cons.md)
+- [確信度・可能性のグラデーション構文](patterns/probability-degrees.md)
+- [結論・提言・未来予測のパターン構文](patterns/conclusions-projections.md)
+- [P100: 祝福構文: Semoga sukses dan lancar...](patterns/p100-semoga-sukses-dan-lancar-wishes.md)
+- [P51: 提案構文: Bagaimana kalau...](patterns/p51-bagaimana-kalau-suggestions.md)
+- [P52: 推奨構文: Sebaiknya...](patterns/p52-sebaiknya-recommendations.md)
+- [P53: 助言構文: Ada baiknya jika...](patterns/p53-ada-baiknya-jika-advice.md)
+- [P54: 譲歩構文: Walaupun begitu...](patterns/p54-walaupun-begitu-concession.md)
+- [P55: 覚悟構文: Biar bagaimanapun...](patterns/p55-biar-bagaimanapun-resolution.md)
+- [P56: 原因構文: Gara-gara...](patterns/p56-gara-gara-negative-cause.md)
+- [P57: 恩恵構文: Berkat...](patterns/p57-berkat-positive-cause.md)
+- [P58: 因果構文: Akibat dari...](patterns/p58-akibat-dari-consequence.md)
+- [P59: 選好構文: Daripada... lebih baik...](patterns/p59-daripada-preference.md)
+- [P60: 対照構文: Alih-alih...](patterns/p60-alih-alih-instead-of.md)
+- [P61: 発見構文: Rupanya...](patterns/p61-rupanya-discovery.md)
+- [P62: 推測構文: Tampaknya...](patterns/p62-tampaknya-speculation.md)
+- [P63: 可能構文: Bisa jadi...](patterns/p63-bisa-jadi-possibility.md)
+- [P64: 伝聞構文: Katanya...](patterns/p64-katanya-hearsay.md)
+- [P65: 報道構文: Menurut kabar...](patterns/p65-menurut-kabar-news-hearsay.md)
+- [P66: 古伝構文: Konon...](patterns/p66-konon-legend-rumor.md)
+- [P67: 好機構文: Mumpung...](patterns/p67-mumpung-taking-opportunity.md)
+- [P68: 偶然構文: Kebetulan...](patterns/p68-kebetulan-coincidence.md)
+- [P69: 納得構文: Pantas saja...](patterns/p69-pantas-saja-comprehension.md)
+- [P70: 当然構文: Wajar kalau...](patterns/p70-wajar-kalau-natural-result.md)
+- [P71: 予防構文: Jangan sampai...](patterns/p71-jangan-sampai-prevention.md)
+- [P72: 安堵構文: Untung saja...](patterns/p72-untung-saja-relief.md)
+- [P73: 危機回避構文: Nyaris...](patterns/p73-nyaris-near-miss.md)
+- [P74: 遺憾構文: Sayang sekali...](patterns/p74-sayang-sekali-regret.md)
+- [P75: 感嘆構文: Bukan main...](patterns/p75-bukan-main-admiration.md)
+- [P76: 漸増構文: Makin lama makin...](patterns/p76-makin-lama-makin-progressive.md)
+- [P77: 着実構文: Sedikit demi sedikit...](patterns/p77-sedikit-demi-sedikit-stepwise.md)
+- [P78: 不可避構文: Mau tidak mau...](patterns/p78-mau-tidak-mau-inevitability.md)
+- [P79: 対比構文: Bukan karena... melainkan...](patterns/p79-bukan-karena-melainkan-contrast.md)
+- [P80: 比喩構文: Seperti halnya...](patterns/p80-seperti-halnya-analogy.md)
+- [P81: 極端例示構文: Jangankan... apatah lagi...](patterns/p81-jangankan-apatah-lagi-extreme.md)
+- [P82: 様態構文: Sedemikian rupa sehingga...](patterns/p82-sedemikian-rupa-sehingga-manner.md)
+- [P83: 根拠構文: Atas dasar...](patterns/p83-atas-dasar-legal-ground.md)
+- [P84: 枠組構文: Dalam rangka...](patterns/p84-dalam-rangka-purpose-framework.md)
+- [P85: 公的言及構文: Sehubungan dengan...](patterns/p85-sehubungan-dengan-formal-reference.md)
+- [P86: 熟慮構文: Mengingat bahwa...](patterns/p86-mengingat-bahwa-considering.md)
+- [P87: 決定構文: Menimbang bahwa...](patterns/p87-menimbang-bahwa-decree.md)
+- [P88: 見聞構文: Sepanjang yang saya tahu...](patterns/p88-sepanjang-yang-saya-tahu-knowledge.md)
+- [P89: 進捗構文: Sejauh ini...](patterns/p89-sejauh-ini-up-to-now.md)
+- [P90: 本質構文: Pada dasarnya...](patterns/p90-pada-dasarnya-fundamentally.md)
+- [P91: 換言構文: Dengan kata lain...](patterns/p91-dengan-kata-lain-rephrasing.md)
+- [P92: 分離構文: Terlepas dari...](patterns/p92-terlepas-dari-regardless.md)
+- [P93: 両面構文: Di satu sisi..., di sisi lain...](patterns/p93-di-satu-sisi-di-sisi-lain-two-sides.md)
+- [P94: 帰結構文: Oleh karena itu...](patterns/p94-oleh-karena-itu-logical-conclusion.md)
+- [P95: 総括構文: Dengan demikian...](patterns/p95-dengan-demikian-summary-consequence.md)
+- [P96: 要約構文: Singkat kata...](patterns/p96-singkat-kata-in-short.md)
+- [P97: 着地点構文: Pada akhirnya...](patterns/p97-pada-akhirnya-in-the-end.md)
+- [P98: 強調構文: Perlu ditegaskan bahwa...](patterns/p98-perlu-ditegaskan-bahwa-emphasis.md)
+- [P99: 不可抗力構文: Tidak bisa dipungkiri bahwa...](patterns/p99-tidak-bisa-dipungkiri-undeniable.md)
+
+### 16. ビジネスインドネシア語 {: #sec-16 }
+全10記事を収録しています。
 
 - [オフィスでの挨拶・出社・退社](business/office-greetings.md)
 - [電話応対・伝言・取次ぎ](business/phone-calls.md)
@@ -454,12 +705,9 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [指示・依頼・フィードバック](business/delegation-feedback.md)
 - [出張手配・工場視察・現場アテンド](business/factory-site-visit.md)
 
----
+### 17. 業界別・実務特化ビジネスインドネシア語 {: #sec-17 }
+全100記事を収録しています。
 
-### 12. 業界別・実務特化ビジネス (Bisnis Sektoral Terapan) {: #sec-12 }
-製造（5S・保全）、IT（アジャイル・要件定義）、物流（通関・保全区）、人事労務（解雇・THR）、財務会計（税務・監査）のプロ用実務50選。
-
-#### 製造・品質管理・工場運営 (Manufacturing)
 - [製造現場の5S活動と改善活動](business-sectors/manufacturing-5s-kaizen.md)
 - [労働安全衛生（K3）と個人用保護具（APD）](business-sectors/manufacturing-k3-safety.md)
 - [生産計画とラインタクトタイム管理](business-sectors/manufacturing-production-planning.md)
@@ -470,8 +718,6 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [工場作業員の朝礼とシフト引継ぎ連絡](business-sectors/manufacturing-morning-briefing.md)
 - [産業廃棄物（Limbah B3）の適正処理と環境規制](business-sectors/manufacturing-environmental-waste.md)
 - [サプライヤー工場監査と品質是正要求（CAR）](business-sectors/manufacturing-supplier-audit.md)
-
-#### IT・ソフトウェア・DX (Information Technology)
 - [ITシステム開発の要件定義と仕様書レビュー](business-sectors/it-requirements-specifications.md)
 - [アジャイル・スクラム開発の実践（スプリント計画と朝会）](business-sectors/it-agile-scrum.md)
 - [バグ報告・障害トリアージと緊急パッチ対応](business-sectors/it-bug-report-triage.md)
@@ -482,8 +728,6 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [サイバーセキュリティインシデント対応と情報漏洩対策](business-sectors/it-cybersecurity-incident.md)
 - [社内DX推進とERPシステム導入プロジェクト](business-sectors/it-dx-erp-implementation.md)
 - [テスト自動化・コードレビュー・CI/CDパイプライン](business-sectors/it-qa-cicd-pipeline.md)
-
-#### サプライチェーン・物流・貿易 (Logistics & Supply Chain)
 - [輸出入通関手続きとHSコード分類実務](business-sectors/logistics-customs-clearance.md)
 - [輸入許可証（PI）とSNI（国家規格）認証](business-sectors/logistics-import-permits-sni.md)
 - [国際輸送ブッキング・船荷証券（B/L）と原産地証明書](business-sectors/logistics-shipping-bl-coo.md)
@@ -494,8 +738,6 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [港湾滞船料（Demurrage / Detention）防止と手続き](business-sectors/logistics-demurrage-port-handling.md)
 - [国内幹線陸送輸送の手配と配送遅延トラブル](business-sectors/logistics-domestic-trucking-delays.md)
 - [コールドチェーン（低温物流）管理と品質劣化防止](business-sectors/logistics-cold-chain-quality.md)
-
-#### 人事労務・法務・総務 (Human Resources & Legal)
 - [雇用契約（PKWT vs PKWTT）とオムニバス法実務](business-sectors/hr-employment-contracts-pkwt.md)
 - [就業規則（PP）と労働協約（PKB）の作成・届出](business-sectors/hr-company-regulations-pp.md)
 - [最低賃金（UMR/UMK）改定と賃金構造・給与計算](business-sectors/hr-minimum-wage-payroll.md)
@@ -506,8 +748,6 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [懲戒処分（警告書：SP1・SP2・SP3）の手続き](business-sectors/hr-disciplinary-warning-letters-sp.md)
 - [解雇（PHK）手続き・退職金計算と労働裁判所](business-sectors/hr-severance-pay-layoffs-phk.md)
 - [労災・社会保障（BPJS Ketenagakerjaan）実務](business-sectors/hr-bpjs-ketenagakerjaan-claims.md)
-
-#### 財務・税務・コーポレートガバナンス (Finance, Tax & Governance)
 - [法人所得税確定申告と源泉徴収税実務](business-sectors/finance-corporate-tax-pph.md)
 - [付加価値税（PPN）と電子タックスインボイス](business-sectors/finance-vat-ppn-efaktur.md)
 - [移転価格税制と関連当事者間取引実務](business-sectors/finance-transfer-pricing-tpdoc.md)
@@ -518,11 +758,59 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [外資現地法人設立と投資調整庁（BKPM/OSS）](business-sectors/finance-foreign-investment-pt-pma.md)
 - [為替リスクヘッジと中央銀行外為規制実務](business-sectors/finance-fx-hedging-bi-regulations.md)
 - [内部監査と不正防止・コンプライアンス実務](business-sectors/finance-internal-audit-compliance.md)
+- [B100: 内部監査: ISO9001/14001・コンプラ監査](business-sectors/b100-audit-internal-compliance-iso.md)
+- [B51: 食品飲料業: BPJPHハラール認証取得実務](business-sectors/b51-halal-food-certification.md)
+- [B52: ホテル業: フロント・客室オペレーション実務](business-sectors/b52-hotel-front-office-ops.md)
+- [B53: 旅行代理店: ツアー造成・ガイド管理実務](business-sectors/b53-travel-agency-tour-planning.md)
+- [B54: 医療通訳: 問診・診断・インフォームドコンセント](business-sectors/b54-hospital-medical-interpreter.md)
+- [B55: 製薬業: BPOM医薬品流通登録実務](business-sectors/b55-pharmaceutical-bpom-registration.md)
+- [B56: 建設現場: K3労働安全衛生・足場点検](business-sectors/b56-construction-k3-safety-patrol.md)
+- [B57: 土木工事: 道路・橋梁・重機オペレーション](business-sectors/b57-civil-engineering-infrastructure.md)
+- [B58: 通関実務: HSコード分類・関税評価](business-sectors/b58-customs-hs-code-classification.md)
+- [B59: 貿易実務: 原産地証明書SKA Form D発給](business-sectors/b59-certificate-of-origin-ska-form-d.md)
+- [B60: 海運コンテナ: デマレージ・ディテンション交渉](business-sectors/b60-shipping-container-demurrage.md)
+- [B61: 倉庫管理: WMS・棚卸し・先入れ先出しFIFO](business-sectors/b61-warehouse-wms-inventory-cycle.md)
+- [B62: 航空貨物: コールドチェーン・生鮮輸送実務](business-sectors/b62-air-cargo-cold-chain-logistics.md)
+- [B63: 労使紛争: 労働裁判所PHI訴訟実務](business-sectors/b63-labor-dispute-phi-arbitration.md)
+- [B64: 人事労務: オムニバス法解雇退職金計算](business-sectors/b64-severance-pay-pesangon-calculation.md)
+- [B65: 外国人雇用: KITAS・RPTKAビザ実務](business-sectors/b65-expatriate-kitas-imta-work-permit.md)
+- [B66: 給与計算: 所得税PPh21源泉徴収実務](business-sectors/b66-payroll-pph21-tax-withholding.md)
+- [B67: 社会保障: BPJS健康・雇用保険手続き](business-sectors/b67-social-security-bpjs-kesehatan-tk.md)
+- [B68: 法人税務: 法人税PPh25予定納税・確定申告](business-sectors/b68-corporate-income-tax-pph25-29.md)
+- [B69: 税務調査: 移転価格文書TP Doc作成](business-sectors/b69-transfer-pricing-tp-doc-audit.md)
+- [B70: 付加価値税: e-Fakturインボイス発行・控除](business-sectors/b70-vat-ppn-efaktur-tax-invoice.md)
+- [B71: 小売業: POSレジ・在庫ロス対策実務](business-sectors/b71-retail-pos-inventory-shrinkage.md)
+- [B72: EC通販: ショッピー・トコペディア出店運用](business-sectors/b72-ecommerce-seller-marketplace-ops.md)
+- [B73: SNS販売: ライブコマース・KOLタイアップ](business-sectors/b73-live-commerce-influencer-endorse.md)
+- [B74: Webマーケ: SEO・リスティング広告・CAC分析](business-sectors/b74-digital-marketing-seo-sem-cac.md)
+- [B75: 工業団地: 土地買収・用地取得実務](business-sectors/b75-industrial-estate-land-acquisition.md)
+- [B76: 商業不動産: オフィス・モール賃貸契約](business-sectors/b76-commercial-real-estate-lease.md)
+- [B77: 再エネ: 太陽光発電PPA売電契約実務](business-sectors/b77-renewable-energy-solar-ppa.md)
+- [B78: 鉱業権: IUP許認可・エネルギー鉱物資源省実務](business-sectors/b78-mining-concession-iup-esdm.md)
+- [B79: ニッケル製錬: RKAB採掘計画枠交渉](business-sectors/b79-nickel-smelter-rkab-quota.md)
+- [B80: 環境アセス: AMDAL認可・環境林業省実務](business-sectors/b80-environmental-impact-amdal-klhk.md)
+- [B81: 繊維縫製: アパレル検品・AQL基準管理](business-sectors/b81-textile-garment-quality-control.md)
+- [B82: 樹脂成形: プラスチック射出成形SOP](business-sectors/b82-plastic-injection-molding-sop.md)
+- [B83: 自動車部品: ティア1サプライヤーJIT納入](business-sectors/b83-automotive-tier1-just-in-time.md)
+- [B84: 電子製造: PCBA基板実装・SMTライン管理](business-sectors/b84-electronics-pcba-smt-assembly.md)
+- [B85: 半導体: クリーンルーム管理・検査工程](business-sectors/b85-semiconductor-testing-cleanroom.md)
+- [B86: アグリ: パーム油ISPO/RSPO認証実務](business-sectors/b86-agriculture-palm-oil-ispo-rspo.md)
+- [B87: 珈琲栽培: スペシャルティ珈琲・精製輸出](business-sectors/b87-coffee-plantation-single-origin.md)
+- [B88: 水産養殖: エビ養殖・孵化場水質管理](business-sectors/b88-aquaculture-shrimp-hatchery.md)
+- [B89: フィンテック: P2P融資・金融庁OJK登録](business-sectors/b89-fintech-p2p-lending-ojk-license.md)
+- [B90: 暗号資産: 暗号資産取引所・Bappebti認可](business-sectors/b90-crypto-asset-bappebti-exchange.md)
+- [B91: IT営業: B2BエンタープライズSaaS提案](business-sectors/b91-saas-enterprise-sales-b2b.md)
+- [B92: 通信事業: 光回線FTTH敷設・ISP運用](business-sectors/b92-telecom-ftth-isp-last-mile.md)
+- [B93: データセンター: ティア3規格・SLA可用性](business-sectors/b93-data-center-tier3-sla-redundancy.md)
+- [B94: EdTech: 企業内研修LMS導入実務](business-sectors/b94-edtech-lms-corporate-training.md)
+- [B95: M&A法務: 買収デューデリジェンスDD](business-sectors/b95-legal-m-and-a-due-diligence.md)
+- [B96: 合弁事業: 外資合弁PMA株主間契約実務](business-sectors/b96-joint-venture-shareholder-pma.md)
+- [B97: 知財法務: 商標登録・著作権・意匠権DJKI](business-sectors/b97-intellectual-property-trademark.md)
+- [B98: フランチャイズ: STPW認可・FC加盟実務](business-sectors/b98-franchise-stpw-license-agreement.md)
+- [B99: サステナ: CSR活動・GRI基準報告実務](business-sectors/b99-csr-sustainability-reporting-gri.md)
 
----
-
-### 13. 長文読解・リーディング練習 (Latihan Membaca Teks) {: #sec-13 }
-中級学習者のためのエッセイ・解説文の多読・精読トレーニング。
+### 18. 長文読解・リーディング練習 {: #sec-18 }
+全10記事を収録しています。
 
 - [ジャカルタでの平日の1日](reading/daily-routine-jakarta.md)
 - [初めてのバリ島旅行と伝統文化体験](reading/travel-bali-culture.md)
@@ -535,10 +823,8 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [インドネシアでのビジネス協働と異文化コミュニケーション](reading/business-communication-culture.md)
 - [新首都ヌサンタラ計画：持続可能な未来都市への展望](reading/new-capital-ikn-nusantara.md)
 
----
-
-### 14. 時事ニュース読解 (Membaca Berita Kontemporer) {: #sec-14 }
-政治・経済・社会・テクノロジー・外交などの最新ニュース報道記事50選。語彙解説と読解ポイント付き。
+### 19. 時事ニュース読解 {: #sec-19 }
+全100記事を収録しています。
 
 - [新首都IKN建設の進捗と投資誘致](news-reading/n01-ikn-infrastructure-investment.md)
 - [ニッケル鉱石の下流化とEVサプライチェーン](news-reading/n02-nickel-downstreaming-ev-battery.md)
@@ -590,11 +876,59 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [伝統生薬ジャムーのユネスコ遺産登録と近代化産業](news-reading/n48-jamu-herbal-medicine-unesco-industry.md)
 - [人口ボーナスのピークと高齢化社会への備え](news-reading/n49-demographic-bonus-aging-society-transition.md)
 - [環太平洋火山帯と津波早期警報システム（InaTEWS）](news-reading/n50-disaster-resilience-inatews-early-warning.md)
+- [N100: 建国100周年に向けた「黄金のインドネシア2045」国家長期開発計画](news-reading/n100-indonesia-emas-2045-century-vision.md)
+- [N51: 新政権の無料栄養給食プログラムと国家予算編成](news-reading/n51-free-lunch-nutrition-program.md)
+- [N52: インドネシアのBRICS正式加盟申請と非同盟外交](news-reading/n52-brics-membership-bid.md)
+- [N53: OECD加盟に向けた汚職撲滅委員会KPK機能強化](news-reading/n53-oecd-accession-anti-corruption.md)
+- [N54: 新首都IKN第2期工事と公務員移転開始](news-reading/n54-ikn-nusantara-phase-two.md)
+- [N55: エヌビディア等によるAIデータセンター大型投資](news-reading/n55-ai-datacenter-investment-nvidia.md)
+- [N56: 東南アジア半導体サプライチェーン参入戦略](news-reading/n56-semiconductor-ecosystem-ambition.md)
+- [N57: インドネシア中銀の政策金利据え置きとルピア防衛](news-reading/n57-bi-rate-inflation-targeting.md)
+- [N58: ニッケル鉱石輸出禁止措置を巡るWTO上訴審動向](news-reading/n58-nickel-ore-export-ban-wto-appeal.md)
+- [N59: 中国BYD等によるEV完成車工場の進出加速](news-reading/n59-ev-ecosystem-byd-investment.md)
+- [N60: フリーポート社の東ジャワ・グレシク銅製錬所稼働](news-reading/n60-copper-smelter-freeport-gresik.md)
+- [N61: プルタミナによる地熱由来グリーン水素開発](news-reading/n61-green-hydrogen-geothermal-pertamina.md)
+- [N62: JETP枠組みによるチレボン石炭火力早期廃止](news-reading/n62-just-energy-transition-cirebon-coal.md)
+- [N63: 炭素税導入とインドネシア炭素取引所IDX Carbon](news-reading/n63-carbon-tax-and-exchange-idx-carbon.md)
+- [N64: BPJS健康保険の持続可能性と標準病床KRIS導入](news-reading/n64-social-security-bpjs-health-deficit.md)
+- [N65: 全国発育阻害（スタンティング）削減目標の進捗](news-reading/n65-stunting-reduction-national-target.md)
+- [N66: 個人情報保護法UU PDPの本格罰則規定施行](news-reading/n66-data-privacy-uu-pdp-sanctions.md)
+- [N67: 大統領令に基づくオンライン賭博撲滅タスクフォース](news-reading/n67-online-gambling-taskforce-judol.md)
+- [N68: 違法オンライン金融・悪質闇金アプリの一斉摘発](news-reading/n68-illegal-fintech-pinjol-crackdown.md)
+- [N69: QRIS越境決済の日本・韓国への相互乗り入れ拡大](news-reading/n69-qris-cross-border-japan-korea.md)
+- [N70: TikTokとトコペディアの経営統合と独禁法審査](news-reading/n70-tiktok-tokopedia-ecommerce-merger.md)
+- [N71: 高速鉄道Whooshのスラバヤ延伸調査計画](news-reading/n71-whoosh-fast-train-surabaya-extension.md)
+- [N72: ジャカルタMRT東西線建設とJICA円借款合意](news-reading/n72-jakarta-mrt-east-west-line-funding.md)
+- [N73: トランス・ジャワ高速道路全通による物流効率化](news-reading/n73-trans-java-toll-road-logistics.md)
+- [N74: スバン県パティンバン深水港の自動車輸出ハブ化](news-reading/n74-patimban-deep-sea-port-expansion.md)
+- [N75: バリ州の外国人観光客向け観光税導入と文化保全](news-reading/n75-bali-tourism-tax-foreign-tourists.md)
+- [N76: ラブアン・バジョ等のスーパー優先観光地開発](news-reading/n76-super-priority-destinations-labuan-bajo.md)
+- [N77: ラジャ・アンパットのユネスコ世界ジオパーク認定](news-reading/n77-unesco-geopark-raja-ampat.md)
+- [N78: 熱帯雨林伐採モラトリアム恒久化とパーム油産業](news-reading/n78-deforestation-moratorium-palm-oil.md)
+- [N79: エルニーニョに伴う森林火災予防と気象改変](news-reading/n79-forest-fires-el-nino-early-warning.md)
+- [N80: 海洋保護区拡大とブルーエコノミー国家戦略](news-reading/n80-marine-protected-areas-blue-economy.md)
+- [N81: 米輸入枠拡大と国家食糧庁Bulogの備蓄政策](news-reading/n81-rice-import-bulog-food-reserves.md)
+- [N82: 国営肥料公社Pupuk Indonesiaの補助金制度改革](news-reading/n82-fertilizer-subsidy-governance-reform.md)
+- [N83: 水産省の割当枠に基づく測定漁業PIT政策](news-reading/n83-fisheries-measured-fishing-quota-pit.md)
+- [N84: 三者構成委員会による州最低賃金UMP改定協議](news-reading/n84-minimum-wage-ump-tripartite-negotiation.md)
+- [N85: ギグワーカー・配送ドライバーの社会保障適用法案](news-reading/n85-gig-economy-courier-driver-safety-net.md)
+- [N86: 職業高校SMKと産業界の連携・カリキュラム刷新](news-reading/n86-vocational-smk-curriculum-revitalization.md)
+- [N87: 国立大学学費UKT引き上げ議論と文科省是正通達](news-reading/n87-higher-education-ukts-tuition-controversy.md)
+- [N88: リモートワーカー向けデジタルノマドビザ本格運用](news-reading/n88-digital-nomad-visa-remote-work.md)
+- [N89: 世界的起業家へのゴールデンビザ初号発給と投資誘致](news-reading/n89-golden-visa-sam-altman-investors.md)
+- [N90: 越境オンライン詐欺拠点への人身売買防止作戦](news-reading/n90-human-trafficking-tppo-prevention.md)
+- [N91: 海上保安庁Bakamlaによる北ナツナ海警備強化](news-reading/n91-maritime-security-bakamla-south-china-sea.md)
+- [N92: ラファール戦闘機調達と国防近代化予算](news-reading/n92-defense-budget-f15-rafale-procurement.md)
+- [N93: 日インドネシア経済連携協定IJEPA改定交渉妥結](news-reading/n93-indonesia-japan-epa-ijepa-revision.md)
+- [N94: ASEAN電力網相互接続と越境クリーンエネルギー取引](news-reading/n94-asean-power-grid-interconnection.md)
+- [N95: トランス・パプア道路開通と山岳地域物流改革](news-reading/n95-papua-infrastructure-trans-papua-road.md)
+- [N96: インドネシア・シャリア銀行BSIの国際金融ハブ化](news-reading/n96-sharia-financial-assets-bsi-growth.md)
+- [N97: バティック無形文化遺産登録記念とクリエイティブ経済](news-reading/n97-batik-unesco-anniversary-creative-economy.md)
+- [N98: 伝統生薬ジャムーの世界遺産登録と近代製薬化](news-reading/n98-jamu-unesco-world-heritage-industry.md)
+- [N99: 最新津波早期警報システムInaTEWSの更新配備](news-reading/n99-disaster-resilience-inatews-tsunami.md)
 
----
-
-### 15. 検定・UKBI突破演習 (Latihan Soal Ujian & UKBI) {: #sec-15 }
-インドネシア語技能検定（B級・A級・特A級）や国家検定UKBIの最頻出ポイント、倒置、正書法（EYD）、接辞制約、聴解、論述対策演習。
+### 20. 検定・UKBI突破演習 {: #sec-20 }
+全100記事を収録しています。
 
 - [接尾辞 -kan vs -i の使い分けマスター演習](exam-drills/u01-affixes-kan-vs-i-distinction.md)
 - [名詞接辞 peN-...-an vs per-...-an の使い分け](exam-drills/u02-noun-affixes-pen-an-vs-per-an.md)
@@ -621,7 +955,7 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [複合語（Kata Majemuk）の分かち書き・結合・ハイフン規則](exam-drills/u23-spelling-compound-words-binding.md)
 - [外来語（Serapan）の音訳・綴り字変換規則](exam-drills/u24-spelling-loanwords-transliteration-eyd.md)
 - [大文字（Huruf Kapital）の10大使用規則と落とし穴](exam-drills/u25-spelling-capitalization-rules-eyd.md)
-- [イタリック体（Huruf Miring）と太字の公的表記規則](exam-drills/u26-spelling-italics-usage-eyd.md)
+- [イタリック体（Huruf Miring）と太字（Huruf Tebal）の公的表記規則](exam-drills/u26-spelling-italics-usage-eyd.md)
 - [ハイフン（Tanda Hubung）の6大使用規則と複合連結](exam-drills/u27-spelling-hyphen-rules-eyd.md)
 - [数詞・数字（Angka dan Bilangan）の公的正書法規則](exam-drills/u28-spelling-numbers-and-numerals-eyd.md)
 - [略語・頭字語（Singkatan dan Akronim）の表記と句点規則](exam-drills/u29-spelling-abbreviations-acronyms-eyd.md)
@@ -646,11 +980,113 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [文化・文学・哲学分野の読解演習（伝統芸能・パンチャシラ思想論説）](exam-drills/u48-exam-reading-cultural-heritage-philosophy.md)
 - [成句・ことわざ（Peribahasa / Ungkapan）の完全攻略演習](exam-drills/u49-exam-idioms-peribahasa-metaphors.md)
 - [複合イディオム・四字熟語的表現（Kata Majemuk Idiomatis）のマスター演習](exam-drills/u50-exam-idioms-compound-expressions.md)
+- [U100: 最高難度総合模擬演習: 特A級・UKBI最高峰突破ドリル](exam-drills/u100-grand-exam-mock-simulation-sangat-unggul.md)
+- [U51: 相互周囲辞 ber-...-an の語根結合制約と複数主語](exam-drills/u51-circumfix-ber-an-reciprocal-action.md)
+- [U52: per-...-an の制度名詞化と peN-...-an の動作過程](exam-drills/u52-circumfix-per-an-vs-pen-an-institution.md)
+- [U53: 二重目的語受益構文における語順制約と代名詞転置](exam-drills/u53-suffix-kan-benefactive-ditransitive.md)
+- [U54: 場所対象化 -i と前置詞削除ルールの文法的厳密性](exam-drills/u54-suffix-i-locative-direct-object.md)
+- [U55: 一人称・二人称受動態の助動詞・否定詞挿入位置](exam-drills/u55-passive-type-one-inversion.md)
+- [U56: 接頭辞 ter- の可能否定（tidak ter-）と無意図受動](exam-drills/u56-ter-potential-vs-involuntary.md)
+- [U57: 従属節の主語脱落と副詞節の主語誤認エラー](exam-drills/u57-subordinate-clauses-faulty-subjects.md)
+- [U58: 複文における接辞の対称性・パラレリズム規則](exam-drills/u58-parallelism-in-complex-sentences.md)
+- [U59: EYD第5版における外来語綴りの公的規則](exam-drills/u59-eyd-fifth-edition-loanword-spelling.md)
+- [U60: EYD正書法における敬称・爵位・役職名の大文字表記基準](exam-drills/u60-eyd-capitalization-titles-ranks.md)
+- [U61: 複合語・繰り返し語におけるハイフン（-）の厳格な用法](exam-drills/u61-eyd-hyphen-compound-words.md)
+- [U62: 助詞 pun と per の分かち書きと一語化の境界](exam-drills/u62-eyd-particles-pun-and-per.md)
+- [U63: 述語前置倒置構文の強調効果と文法識別演習](exam-drills/u63-inversion-structure-predicative-first.md)
+- [U64: 後接代名詞 -ku, -mu, -nya の多機能性と曖昧性解消](exam-drills/u64-clitic-pronouns-possession-object.md)
+- [U65: 相関接続詞 bukan... melainkan... の厳格な呼応](exam-drills/u65-conjunction-pairing-bukan-melainkan.md)
+- [U66: 相関接続詞 baik... maupun... の制約](exam-drills/u66-conjunction-pairing-baik-maupun.md)
+- [U67: 相関副詞 makin... makin... の比例構文](exam-drills/u67-conjunction-pairing-makin-makin.md)
+- [U68: 完了相 sudah / telah / pernah のニュアンス差異](exam-drills/u68-temporal-aspect-sudah-pernah-telah.md)
+- [U69: 文語助動詞 seyogianya / sepatutnya の当為性](exam-drills/u69-modal-auxiliary-sepatutnya-seyogianya.md)
+- [U70: 関係代名詞 yang の主語化制約と前置詞句との結合不可則](exam-drills/u70-relative-clause-yang-constraints.md)
+- [U71: 同格節・挿入句を見抜き文の主骨格S-Pを抽出する技術](exam-drills/u71-appositive-clauses-identifying-core.md)
+- [U72: 形容詞・動詞・名詞からの ke-...-an 派生の品詞境界](exam-drills/u72-abstract-noun-formation-ke-an-boundaries.md)
+- [U73: 動詞語根の畳語による反復・相互・漠然名詞化](exam-drills/u73-verbal-noun-reduplication-actions.md)
+- [U74: 名詞畳語の複数性・多様性・比喩的意味変化](exam-drills/u74-nominal-reduplication-plural-diversity.md)
+- [U75: 慣用複合語の読解識別と比喩表現の分析](exam-drills/u75-idiomatic-compounds-kambing-hitam.md)
+- [U76: 法律読解: 判決（Putusan）と決定（Penetapan）の相違](exam-drills/u76-legal-terminology-putusan-penetapan.md)
+- [U77: 公的政令読解: Menimbang と Mengingat の構造](exam-drills/u77-official-decree-whereas-clauses-menimbang.md)
+- [U78: 覚書MOU読解: Preamble の bahwa 連続構文](exam-drills/u78-official-mou-whereas-preamble-bahwa.md)
+- [U79: 学術論文アブストラクト読解: 非人称客観文体と受動態](exam-drills/u79-academic-abstract-impersonal-style.md)
+- [U80: 高級紙社説の論理展開と論陣分析](exam-drills/u80-editorial-argumentation-polemic-style.md)
+- [U81: UKBI聴解演習: 講義形式の要点メモ取りテクニック](exam-drills/u81-ukbi-listening-note-taking-lecture.md)
+- [U82: UKBI聴解演習: インタビュー音声からの話者の矛盾抽出](exam-drills/u82-ukbi-listening-interview-contradiction.md)
+- [U83: UKBI聴解演習: 公式案内放送の細部条件把握](exam-drills/u83-ukbi-listening-formal-announcement.md)
+- [U84: UKBI読解演習: 統計グラフ・データの複合読解](exam-drills/u84-ukbi-reading-chart-data-synthesis.md)
+- [U85: UKBI読解演習: 歴史・年代記テキストの時系列再構成](exam-drills/u85-ukbi-reading-historical-chronology.md)
+- [U86: UKBI読解演習: 生物・自然科学の分類階層テキスト読解](exam-drills/u86-ukbi-reading-scientific-taxonomy.md)
+- [U87: UKBI記述演習: 公式行政書簡の頭書・定型結語フォーマット](exam-drills/u87-ukbi-writing-formal-correspondence.md)
+- [U88: UKBI記述演習: 起承転結を備えた論説エッセイの構成](exam-drills/u88-ukbi-writing-opinion-editorial-essay.md)
+- [U89: UKBI記述演習: 因果関係を明快に論証するレポート作成](exam-drills/u89-ukbi-writing-cause-and-effect-analysis.md)
+- [U90: UKBI口頭演習: プレゼンテーションの論理構成とトランジション](exam-drills/u90-ukbi-speaking-presentation-structure.md)
+- [U91: 上級副詞: niscaya の文脈適合性と論理導出](exam-drills/u91-advanced-adverbial-niscaya-iscaya.md)
+- [U92: 古典・文学接続詞: alkisah / sebermula の文体識別](exam-drills/u92-archaic-conjunctions-alkisah-sebermula.md)
+- [U93: 文語・公的文脈における被害受動 ke-...-an の見極め](exam-drills/u93-formal-passive-adversative-kehujanan.md)
+- [U94: 二重接頭辞 memper-（使役比較・状態深化）の用法厳密判定](exam-drills/u94-double-prefix-memper-functions.md)
+- [U95: 複合使役 memper-...-kan と memper-...-i の接尾辞選択](exam-drills/u95-double-prefix-memper-kan-causative.md)
+- [U96: 敬称代名詞 beliau と dia の公的言及における厳格な序列](exam-drills/u96-pronoun-honorific-hierarchy-beliau.md)
+- [U97: 前置詞 tanpa + 動詞句による付帯状況否定構文](exam-drills/u97-negative-conjunction-tanpa-adverbial.md)
+- [U98: 新聞見出し・公報における助動詞・主語の省略復元演習](exam-drills/u98-elliptical-sentences-subject-omission.md)
+- [U99: 公的文体と口語の混入判別・リライト技術](exam-drills/u99-register-formal-vs-informal-markers.md)
 
----
+### 21. 古典・民話・名作文学読解 {: #sec-21 }
+全50記事を収録しています。
 
-### 16. インドネシアの地理・各州・文化・民族探訪 (Geografi & Etnis Nusantara) {: #sec-16 }
-スマトラからジャワ、バリ、カリマンタン、スラウェシ、マルク、パプアまで、全38州の風土、民族文化、特産品を網羅。
+- [L01: 西スマトラ民話: 親不孝の息子マリング・クンダン](literature/l01-malin-kundang.md)
+- [L02: 西ジャワ伝説: サンクリアンとタンクバン・プラフ山](literature/l02-sangkuriang-tangkuban-perahu.md)
+- [L03: 中部ジャワ伝説: ロロ・ジョングランと千の寺院](literature/l03-roro-jonggrang-prambanan.md)
+- [L04: 北スマトラ民話: トバ湖の起源と金の魚](literature/l04-danau-toba-ikan-mas.md)
+- [L05: リアウ民話: バワン・メラとバワン・プティ](literature/l05-bawang-merah-bawang-putih.md)
+- [L06: スンダ古典: ルスン・カサルンと王女の真実の愛](literature/l06-lutung-kasarung.md)
+- [L07: 中部ジャワ民話: 黄金のキュウリから生まれたティムン・マスと巨人](literature/l07-timun-mas-raksasa.md)
+- [L08: 西ジャワ歴史物語: チウン・ワナラとガル王国の正義](literature/l08-ciung-wanara.md)
+- [L09: ジャカルタ英雄伝: 義賊シ・ピトゥンとバタヴィアの庶民](literature/l09-si-pitung-batavia-hero.md)
+- [L10: 東ジャワ民話: 金の巻貝の王女とパンジ王子](literature/l10-keong-emas-raden-panji.md)
+- [L11: 西カリマンタン民話: 泣く石（Batu Menangis）と母の涙](literature/l11-batu-menangis-kalbar.md)
+- [L12: ロンボク伝説: 身を投げたマンダリカ王女とバウ・ニャレ祭](literature/l12-putri-mandalika-bau-nyale.md)
+- [L13: ボロブドゥール伝説: 建築家グナダルマの献身](literature/l13-legenda-candi-borobudur-gunadharma.md)
+- [L14: バリ海峡誕生伝説: マニック・アンケランと龍神](literature/l14-legenda-selat-bali-manik-angkeran.md)
+- [L15: 南スラウェシ叙事詩: ラ・ガリゴとサウェリガディンの航海](literature/l15-sawerigading-la-galigo.md)
+- [L16: リアウ伝説: ドゥマイの7人の王女と秘密の洞窟](literature/l16-putri-tujuh-dumai.md)
+- [L17: 南スマトラ伝説: 口にした言葉が現実になる苦い舌の男](literature/l17-si-pahit-lidah-sumsel.md)
+- [L18: 歴史叙事詩: ラーデン・ウィジャヤとマジャパヒト建国](literature/l18-raden-wijaya-majapahit.md)
+- [L19: 歴史叙事詩: ガジャ・マダのパラパの誓いと群島統一](literature/l19-gajah-mada-sumpah-palapa.md)
+- [L20: 東ジャワ王朝伝: ケン・アロクとケン・デデスの運命](literature/l20-ken-arok-ken-dedes-singhasari.md)
+- [L21: スンダ伝説: スリワンギ王とパジャジャラン王国の白虎](literature/l21-prabu-siliwangi-pajajaran.md)
+- [L22: 英雄伝: 東の雄鶏スルタン・ハサヌディンの不屈](literature/l22-sultan-hasanuddin-ayam-jantan.md)
+- [L23: 英雄伝: カピタン・パッティムラの香料諸島解放闘争](literature/l23-pattimura-maluku-resistance.md)
+- [L24: 英雄伝: ディポロゴロ王子のジャワ戦争と精神](literature/l24-pangeran-diponegoro-jawa-war.md)
+- [L25: 英雄伝: イマム・ボンジョルとパドリの誓約](literature/l25-tuanku-imam-bonjol-padri.md)
+- [L26: 近代文学思想: カルティニ『闇を越えて光へ』](literature/l26-kartini-habis-gelap-terbitlah-terang.md)
+- [L27: 名作近代小説: マラー・ルスリ『シティ・ヌルバヤ』](literature/l27-sitti-nurbaya-marah-rusli.md)
+- [L28: 名作近代小説: ハムカ『ファン・デル・ウェイク号の沈没』](literature/l28-tenggelamnya-kapal-van-der-wijck.md)
+- [L29: 名作近代小説: アブドゥル・ムイス『間違った養育』](literature/l29-salah-asuhan-abdul-moeis.md)
+- [L30: 近代心理小説: アルメイン・パネ『足枷（ベレング）』](literature/l30-belenggu-armijn-pane.md)
+- [L31: 最高峰文学: プラムディヤ『人間の大地』](literature/l31-bumi-manusia-pramoedya.md)
+- [L32: 最高峰文学: プラムディヤ『すべての民族の子』](literature/l32-anak-semua-bangsa-pramoedya.md)
+- [L33: 最高峰文学: プラムディヤ『足跡』](literature/l33-jejak-langkah-pramoedya.md)
+- [L34: 最高峰文学: プラムディヤ『ガラスの家』](literature/l34-rumah-kaca-pramoedya.md)
+- [L35: 大ベストセラー: アンドレア・ヒラタ『虹の兵士たち』](literature/l35-laskar-pelangi-andrea-hirata.md)
+- [L36: 現代青春小説: アンドレア・ヒラタ『夢追い人』](literature/l36-sang-pemimpi-andrea-hirata.md)
+- [L37: 現代成長小説: アフマド・フアディ『5つの塔の国』](literature/l37-negeri-5-menara-ahmad-fuadi.md)
+- [L38: 現代世界文学: エカ・クルニアワン『美は傷』](literature/l38-cantik-itu-luka-eka-kurniawan.md)
+- [L39: 現代文学傑作: エカ・クルニアワン『虎の男』](literature/l39-lelaki-harimau-eka-kurniawan.md)
+- [L40: 現代SFヒューマンドラマ: テレ・リエ『雨（Hujan）』](literature/l40-hujan-terele-ye.md)
+- [L41: 現代歴史社会派小説: レイラ・チュドリ『帰郷（Pulang）』](literature/l41-pulang-leila-chudori.md)
+- [L42: 現代ベストセラー: レイラ・チュドリ『海が語る（Laut Bercerita）』](literature/l42-laut-bercerita-leila-chudori.md)
+- [L43: 農村文化文学: アフマド・トハリ『ドゥク・パルッの踊り子』](literature/l43-ronggeng-dukuh-paruk-tohari.md)
+- [L44: 短編諷刺文学: 庶民の哀歓を描く短編小説](literature/l44-samad-dan-seekor-anjing.md)
+- [L45: 下町人情小説: アマン・ダトゥク『ブタウィっ子シ・ドゥル』](literature/l45-cerita-si-dul-anak-betawi.md)
+- [L46: 古典詩歌シャイール: クラカタウ火山大噴火の詩歌](literature/l46-syair-lampung-karam.md)
+- [L47: 古典教訓詩: ラジャ・アリ・ハジ『グリンダム12』](literature/l47-gurindam-dua-belas-raja-ali-haji.md)
+- [L48: マレー古典軍記物: 忠臣ハング・トゥア物語](literature/l48-hikayat-hang-tuah-melayu.md)
+- [L49: 最古のマレー年代記: パサイ王統記](literature/l49-hikayat-raja-raja-pasai.md)
+- [L50: 古典パントゥン詩集: 四行詩に宿る群島の知恵と美意識](literature/l50-pantun-melayu-klasik-sintesis.md)
+
+### 22. インドネシアの地理・各州・文化・民族探訪 {: #sec-22 }
+全40記事を収録しています。
 
 - [アチェ州（Serambi Mekkah・シャリーア・珈琲と津波復興）](geography-culture/g01-aceh-serambi-mekkah.md)
 - [北スマトラ州（トバ湖・サモシール島・バタク文化・メダン）](geography-culture/g02-sumatera-utara-batak-toba.md)
@@ -693,21 +1129,63 @@ SVO語順、名詞の後置修飾、否定詞tidakとbukanの違い、助動詞�
 - [ジャンビ州（東南アジア最大の仏教遺跡ムアロ・ジャンビと雄峰クリンチ）](geography-culture/g39-jambi-candi-muaro-jambi.md)
 - [群島国家ヌサンタラ総括（多様性の中の統一・1,300民族を結ぶ絆）](geography-culture/g40-bhineka-tunggal-ika-nusantara-sintesis.md)
 
----
+### 23. 生活文化・食文化・マナー {: #sec-23 }
+全3記事を収録しています。
 
-### 17. 生活文化・習慣・マナー (Budaya, Tradisi & Etiket) {: #sec-17 }
-インドネシア人と円滑に関わるためのマナー、食文化、対人関係の知恵。
+- [宗教・生活マナーと絶対NGタブー](slang-culture/etiquette-manners.md)
+- [手食作法からハラールまでの食文化](slang-culture/food-culture.md)
+- [スモールトーク（Basa-basi）と笑顔](slang-culture/social-connections.md)
 
-- [宗教・生活マナーと絶対NGタブー（左手・頭・足の作法）](slang-culture/etiquette-manners.md)
-- [手食作法からハラールまでの食文化ガイド](slang-culture/food-culture.md)
-- [スモールトーク（Basa-basi）と笑顔の人間関係術](slang-culture/social-connections.md)
+### 24. 地方言語・方言カルチャー事典 {: #sec-24 }
+全50記事を収録しています。
 
----
-
-### 18. 学習法・辞書ツール・検定ガイド (Panduan Belajar & Sumber Daya) {: #sec-18 }
-学習のロードマップ、おすすめ辞書アプリ、検定試験の概要、中級の壁突破法。
-
-- [インドネシア語技能検定（INKEN）対策とレベル別合格戦略](resources/exam-guide.md)
-- [UKBI能力評価試験の概要とセクション別対策](resources/ukbi-guide.md)
-- [おすすめ辞書・アプリ・学習メディア集](resources/tools-and-apps.md)
-- [中級の壁を突破する7つの処方箋](resources/intermediate-breakthrough.md)
+- [D01: ジャワ語の敬語階層（ンゴコ・クロモ）とインドネシア語への影響](dialects/d01-javanese-court-kromo-ngoko.md)
+- [D02: 会話に混じるジャワ語助詞: lha, kok, tho, lho](dialects/d02-javanese-particles-tho-lha-kok.md)
+- [D03: 呼称の全国化: Mas（兄さん）と Mbak（姉さん）の用法](dialects/d03-javanese-kinship-mas-mbak.md)
+- [D04: 日常化したジャワ語借用語: monggo, maturnuwun, kulo](dialects/d04-javanese-loanwords-daily-life.md)
+- [D05: ジャワの処世訓: alon-alon asal kelakon](dialects/d05-javanese-philosophy-alon-alon.md)
+- [D06: スンダ語の親愛・丁寧語と日常語の境界](dialects/d06-sundanese-politeness-lemes-loma.md)
+- [D07: 会話を柔らかくするスンダ語助詞: teh, mah, atuh, euy](dialects/d07-sundanese-particles-teh-mah-atuh.md)
+- [D08: スンダの親称: Kang, Aa, Teteh, Ceuceu](dialects/d08-sundanese-kinship-aa-teteh-kang.md)
+- [D09: スンダ食文化の語彙: lalapan, liwet, tutug oncom](dialects/d09-sundanese-food-terms-lalapan-sambal.md)
+- [D10: スンダの精神: someah hade ka semah](dialects/d10-sundanese-wisdom-somah-hade.md)
+- [D11: バリ語の階層言語と寺院・儀礼の言葉](dialects/d11-balinese-caste-language-tri-wangsa.md)
+- [D12: バリ独特の誕生順名前システム: Wayan, Made, Nyoman, Ketut](dialects/d12-balinese-kinship-wayan-made-nyoman-ketut.md)
+- [D13: バリの挨拶: Om Swastiastu と Suksema](dialects/d13-balinese-daily-greetings-om-swastiastu.md)
+- [D14: 共同体の言葉: Banjar（自治会）と Subak（水利組合）](dialects/d14-balinese-culture-banjar-subak.md)
+- [D15: 母系制社会ミナンカバウの親族呼称: Mamak, Bundo](dialects/d15-minangkabau-matrilineal-terms.md)
+- [D16: 放浪と商人の文化: Marantau（出稼ぎ）と商談の語彙](dialects/d16-minangkabau-traders-marantau-culture.md)
+- [D17: ミナン方言の語尾とリズム: lah, ko, bana, yo](dialects/d17-minangkabau-particles-lah-ko-yo.md)
+- [D18: 北スマトラ・バタク族の父系氏族（Marga）呼称体系](dialects/d18-batak-clan-marga-system.md)
+- [D19: バタク親族呼称: Tulang（母方の叔父）への絶対的敬意](dialects/d19-batak-kinship-tulang-nantulang.md)
+- [D20: バタクの魂の挨拶: Horas! と Mauliate](dialects/d20-batak-greeting-horas-spirit.md)
+- [D21: 南スラウェシの不屈の誇り: Siri' na Pacce](dialects/d21-bugis-makassar-honor-siri-na-pesse.md)
+- [D22: 強烈な語末助詞: ji, ki', pi, mo, mi, pale'](dialects/d22-bugis-makassar-particles-ji-ki-pi-mo.md)
+- [D23: 海洋民族の親称: Daeng（兄・船長）と Puang（貴族敬称）](dialects/d23-bugis-kinship-daeng-puang.md)
+- [D24: マルク・アンボン・マレー語の代名詞: Beta と Ose](dialects/d24-ambonese-malay-bet-ose-slang.md)
+- [D25: 歌うような抑揚を持つアンボン方言の音楽的リズム](dialects/d25-ambonese-musicality-lagu-dialect.md)
+- [D26: 北スラウェシ・マナド語: Torang と Ngana](dialects/d26-manado-malay-torang-ngana-kita.md)
+- [D27: ミナハサの共生精神: Si Tou Timou Tumou Tou](dialects/d27-manado-cultural-sitou-timou.md)
+- [D28: パプア・マレー語の基本呼称: Pace, Mace, Kitorang](dialects/d28-papuan-malay-pace-mace-kitorang.md)
+- [D29: パプアの親密代名詞: Sa（私）、Ko（君）、Dong（彼ら）](dialects/d29-papuan-pronouns-sa-ko-dong.md)
+- [D30: パプアの温かい感嘆詞と語尾: Iyo, Ka, Kaka, Adoh](dialects/d30-papuan-interjections-io-ka-kaka.md)
+- [D31: 南カリマンタン・バンジャル語の敬称: Ulun と Pian](dialects/d31-banjarese-south-kalimantan-ulun-pian.md)
+- [D32: 水上マーケットの商取引とバンジャル商人の言葉](dialects/d32-banjarese-trading-pasar-terapung.md)
+- [D33: マドゥラ語のダイナミズムと名誉の文化](dialects/d33-madurese-resilience-carok-tradition.md)
+- [D34: マドゥラの同胞意識: Tretan Dhibik](dialects/d34-madurese-terms-tretan-dhibik.md)
+- [D35: アチェ語の宗教的語彙と Serambi Mekkah の気風](dialects/d35-acehnese-islamic-identity-syariah.md)
+- [D36: ロンボク・ササック語の敬語階層とサデ村の言葉](dialects/d36-sasak-lombok-tiang-pelungguh.md)
+- [D37: 南スマトラ・パレンバン語: Wong Kito Galo](dialects/d37-palembang-baso-palembang-wong-kito.md)
+- [D38: 標準インドネシア語の母体となったリアウ海岸マレー語](dialects/d38-riau-coastal-malay-formal-roots.md)
+- [D39: ジャカルタ先住民ブタウィ語: Gue と Elo のルーツ](dialects/d39-betawi-jakarta-gue-elo-origins.md)
+- [D40: ブタウィ語の母音変化規則: -a から -e への転訛](dialects/d40-betawi-word-formation-ujung-e.md)
+- [D41: プラナカン・華人由来の語彙: Cuan, Cincai, Lu, Gua](dialects/d41-chinese-indonesian-hokkien-peranakan.md)
+- [D42: ハドラミ系アラブ移民由来の俗語: Ana, Ente, Afwan](dialects/d42-arab-indonesian-hadrami-slang.md)
+- [D43: オランダ植民地期由来の行政・法務・技術語彙](dialects/d43-dutch-colonial-loanwords-bureaucracy.md)
+- [D44: 大航海時代ポルトガル由来の生活語彙](dialects/d44-portuguese-colonial-loanwords-history.md)
+- [D45: サンスクリット語由来の国家標語・憲章語彙](dialects/d45-sanskrit-classical-motto-pancasila.md)
+- [D46: 80年代プロケム俗語: 逆さ言葉の構造](dialects/d46-slang-prokem-1980s-reverse-syllables.md)
+- [D47: 南ジャカルタ（Jaksel）英語チャンポン言葉](dialects/d47-modern-gen-z-jaksel-code-mixing.md)
+- [D48: 多民族混成の職場におけるコードスイッチングのマナー](dialects/d48-regional-code-switching-etiquette.md)
+- [D49: 言語学的観点から見た「多様性の中の統一」の奇跡](dialects/d49-pancasila-unity-in-diversity-linguistics.md)
+- [D50: 地方語の保護と進化し続ける現代インドネシア語の未来](dialects/d50-future-of-bahasa-indonesia-dialects.md)
