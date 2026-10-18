@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,160 / 1,500 記事 (77.3% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,170 / 1,500 記事 (78.0% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1236,16 +1236,16 @@
 - [x] `[完了]` 1158: 【迂回表現：抽象概念】専門用語が出ない時に具体例で伝えるサバイバル術 (`docs/strategies/08-circumlocution-concepts.md`)
 - [x] `[完了]` 1159: 【沈黙回避フィラー】「ええと、つまり…」と発話権を維持する時間稼ぎ言葉 (`docs/strategies/09-time-buying-fillers.md`)
 - [x] `[完了]` 1160: 【自己修正】言い間違えた瞬間に「いや、違った、〜です」と軌道修正する (`docs/strategies/10-self-correction-repair.md`)
-- [ ] `[未着手]` 1161: 【言い換え】相手の言葉を別の易しい言葉でパラフレーズして確認する (`docs/strategies/11-restatement-paraphrase.md`)
-- [ ] `[未着手]` 1162: 【スペル確認】人名・地名・メールアドレスをアルファベットで正確に確認する (`docs/strategies/12-spelling-spelling-out.md`)
-- [ ] `[未着手]` 1163: 【電話・電波障害】「声が途切れています、電波が悪いです」の即応フレーズ (`docs/strategies/13-phone-connection-trouble.md`)
-- [ ] `[未着手]` 1164: 【オンライン会議】「画面が固まりました、ミュートを解除してください」 (`docs/strategies/14-zoom-online-meeting-trouble.md`)
-- [ ] `[未着手]` 1165: 【丁寧な割り込み】白熱した議論に「一言よろしいですか」と割って入る (`docs/strategies/15-interrupting-politely.md`)
-- [ ] `[未着手]` 1166: 【発話の引き戻し】「話が逸れましたが、元の話に戻すと…」 (`docs/strategies/16-resuming-after-interruption.md`)
-- [ ] `[未着手]` 1167: 【即座の単語質問】「その言葉はどういう意味ですか？」と会話中に学ぶ (`docs/strategies/17-checking-unknown-word.md`)
-- [ ] `[未着手]` 1168: 【日本概念の説明】「お歳暮」「稟議」「過労死」をインドネシア語で説明する (`docs/strategies/18-explaining-japanese-concept.md`)
-- [ ] `[未着手]` 1169: 【予算交渉の限界提示】「これ以上は予算オーバーです」と角を立てずに伝える (`docs/strategies/19-negotiating-price-limits.md`)
-- [ ] `[未着手]` 1170: 【苦情への初期対応】相手の怒りを鎮め、事実関係を確認する傾聴フレーズ (`docs/strategies/20-handling-complaints-calmly.md`)
+- [x] `[完了]` 1161: 【言い換え】相手の言葉を別の易しい言葉でパラフレーズして確認する (`docs/strategies/11-restatement-paraphrase.md`)
+- [x] `[完了]` 1162: 【スペル確認】人名・地名・メールアドレスをアルファベットで正確に確認する (`docs/strategies/12-spelling-spelling-out.md`)
+- [x] `[完了]` 1163: 【電話・電波障害】「声が途切れています、電波が悪いです」の即応フレーズ (`docs/strategies/13-phone-connection-trouble.md`)
+- [x] `[完了]` 1164: 【オンライン会議】「画面が固まりました、ミュートを解除してください」 (`docs/strategies/14-zoom-online-meeting-trouble.md`)
+- [x] `[完了]` 1165: 【丁寧な割り込み】白熱した議論に「一言よろしいですか」と割って入る (`docs/strategies/15-interrupting-politely.md`)
+- [x] `[完了]` 1166: 【発話の引き戻し】「話が逸れましたが、元の話に戻すと…」 (`docs/strategies/16-resuming-after-interruption.md`)
+- [x] `[完了]` 1167: 【即座の単語質問】「その言葉はどういう意味ですか？」と会話中に学ぶ (`docs/strategies/17-checking-unknown-word.md`)
+- [x] `[完了]` 1168: 【日本概念の説明】「お歳暮」「稟議」「過労死」をインドネシア語で説明する (`docs/strategies/18-explaining-japanese-concept.md`)
+- [x] `[完了]` 1169: 【予算交渉の限界提示】「これ以上は予算オーバーです」と角を立てずに伝える (`docs/strategies/19-negotiating-price-limits.md`)
+- [x] `[完了]` 1170: 【苦情への初期対応】相手の怒りを鎮め、事実関係を確認する傾聴フレーズ (`docs/strategies/20-handling-complaints-calmly.md`)
 - [ ] `[未着手]` 1171: 【角を立てない拒絶】「前向きに検討しますが、現時点では困難です」の技法 (`docs/strategies/21-saying-no-diplomatically.md`)
 - [ ] `[未着手]` 1172: 【気まずい話題の切り出し】金銭・納期遅延・ミスを申し訳なさそうに切り出す (`docs/strategies/22-addressing-awkward-topics.md`)
 - [ ] `[未着手]` 1173: 【ユーモアで場を和らげる】失敗した時に笑顔で雰囲気をほぐす一言 (`docs/strategies/23-humor-easing-tension.md`)
