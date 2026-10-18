@@ -492,7 +492,7 @@
 
 ---
 
-## 16. 類義語・ニュアンス徹底比較事典 (Synonyms & Nuances) [50記事予定: 30/50完了]
+## 16. 類義語・ニュアンス徹底比較事典 (Synonyms & Nuances) [50記事予定: 40/50完了]
 - [x] `[完了]` C01: tinggal vs diam（住む・滞在する・黙るの境界線） (`docs/synonyms/c01-tinggal-vs-diam.md`)
 - [x] `[完了]` C02: antar vs jemput vs bawa（移動の方向と対象） (`docs/synonyms/c02-antar-vs-jemput-vs-bawa.md`)
 - [x] `[完了]` C03: bantu vs tolong（助ける・手伝うの機能差） (`docs/synonyms/c03-bantu-vs-tolong.md`)
@@ -523,6 +523,17 @@
 - [x] `[完了]` C28: mudah vs gampang vs ringan（容易・手軽・軽快） (`docs/synonyms/c28-mudah-vs-gampang-vs-ringan.md`)
 - [x] `[完了]` C29: sukar vs susah vs sulit vs payah（困難・難解・苦労・骨折り） (`docs/synonyms/c29-sukar-vs-susah-vs-sulit.md`)
 - [x] `[完了]` C30: mahal vs bernilai vs berharga vs mewah（高価・有価値・貴重尊貴・贅沢豪華） (`docs/synonyms/c30-mahal-vs-bernilai-vs-berharga.md`)
+- [x] `[完了]` C31: berbicara vs berkata vs bercakap vs mengobrol（話す・言う・対話・おしゃべり） (`docs/synonyms/c31-berbicara-vs-berkata-vs-mengobrol.md`)
+- [x] `[完了]` C32: menengok vs menjenguk vs melayat（見舞う・訪問・弔問） (`docs/synonyms/c32-menengok-vs-menjenguk-vs-melayat.md`)
+- [x] `[完了]` C33: kawan vs teman vs sahabat vs kenalan（友達・仲間・親友・知人） (`docs/synonyms/c33-kawan-vs-teman-vs-sahabat.md`)
+- [x] `[完了]` C34: musuh vs lawan vs saingan vs tandingan（敵・対戦相手・ライバル・好敵手） (`docs/synonyms/c34-musuh-vs-lawan-vs-saingan.md`)
+- [x] `[完了]` C35: hadiah vs kado vs pemberian vs imbalan vs upah（贈り物・プレゼント・謝礼・報酬） (`docs/synonyms/c35-hadiah-vs-kado-vs-imbalan.md`)
+- [x] `[完了]` C36: kesalahan vs kekeliruan vs kealpaan vs dosa（誤り・手違い・過失・罪） (`docs/synonyms/c36-kesalahan-vs-kekeliruan-vs-dosa.md`)
+- [x] `[完了]` C37: aturan vs peraturan vs regulasi vs undang-undang（ルール・規則・規制・法律） (`docs/synonyms/c37-aturan-vs-peraturan-vs-undang-undang.md`)
+- [x] `[完了]` C38: kebiasaan vs tradisi vs adat vs budaya（習慣・伝統・慣習法・文化） (`docs/synonyms/c38-kebiasaan-vs-tradisi-vs-adat.md`)
+- [x] `[完了]` C39: rasa vs perasaan vs cita rasa vs hawa（味・感情・風味・気配感覚） (`docs/synonyms/c39-rasa-vs-perasaan-vs-cita-rasa.md`)
+- [x] `[完了]` C40: mati vs meninggal vs wafat vs tewas vs gugur（死・逝去・他界・事故死・殉職） (`docs/synonyms/c40-mati-vs-meninggal-vs-wafat-vs-tewas-vs-gugur.md`)
+
 
 
 
