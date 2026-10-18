@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Zensical build output & cache
+site/
+.cache/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated
+.DS_Store
+Thumbs.db

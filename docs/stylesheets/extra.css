@@ -1,0 +1,359 @@
+/* ==========================================================================
+   インドネシア語学習ナレッジベース カスタムスタイル (Bahasa Indonesia Knowledge Base)
+   ノート・生成り紙（アイボリーペーパー）質感テーマ
+   ========================================================================== */
+
+:root {
+  /* 日本語・アルファベット混在フォントスタック */
+  --md-text-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN", "BIZ UDPGothic", "Meiryo", "Noto Sans JP", sans-serif;
+  --md-code-font: "JetBrains Mono", Consolas, "Courier New", monospace;
+}
+
+/* ==========================================================================
+   1. ノート・紙のような質感カラー（目に優しい生成りトーン）
+   ========================================================================== */
+
+:root,
+[data-md-color-scheme="default"] {
+  /* ノート用紙・アイボリーペーパーの背景色 */
+  --md-default-bg-color: #f7f4ed;
+  --md-default-bg-color--light: rgba(247, 244, 237, 0.7);
+  --md-default-bg-color--lighter: rgba(247, 244, 237, 0.3);
+  --md-default-bg-color--lightest: rgba(247, 244, 237, 0.12);
+
+  /* 紙に馴染む濃墨・万年筆インク調の文字色 */
+  --md-default-fg-color: #2b2824;
+  --md-default-fg-color--light: #524d45;
+  --md-default-fg-color--lighter: #787268;
+  --md-default-fg-color--lightest: rgba(43, 40, 36, 0.08);
+  --md-typeset-color: #2b2824;
+
+  /* 罫線・セピア調のボーダー */
+  --md-default-border-color: #ded8cb;
+
+  /* メモや付箋のようなカード・コード背景 */
+  --md-code-bg-color: #ede7da;
+  --md-code-fg-color: #2b2824;
+
+  /* テーマアクセント（インドネシアの熱帯を想わせるエメラルドグリーン & 太陽のテラコッタ） */
+  --md-primary-fg-color: #0f766e;
+  --md-primary-bg-color: #f7f4ed;
+  --md-accent-fg-color: #b91c1c;
+}
+
+/* ページ全体の背景 */
+[data-md-color-scheme="default"] body,
+[data-md-color-scheme="default"] .md-container,
+[data-md-color-scheme="default"] .md-main,
+[data-md-color-scheme="default"] .md-content {
+  background-color: #f7f4ed !important;
+  color: #2b2824;
+}
+
+/* ==========================================================================
+   2. ヘッダー & タブ
+   ========================================================================== */
+
+.md-header {
+  background-color: #f0ece1 !important;
+  color: #2b2824 !important;
+  border-bottom: 1px solid #ded8cb !important;
+  box-shadow: 0 1px 4px rgba(60, 50, 40, 0.06) !important;
+}
+
+/* ヘッダー最上部のアクセントライン（インドネシア国旗の赤白＋熱帯のグリーン） */
+.md-header::before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(90deg, #b91c1c 0%, #d97706 40%, #0f766e 100%);
+}
+
+.md-header__topic {
+  color: #2b2824 !important;
+  font-weight: 600;
+}
+
+.md-header .md-icon,
+.md-header .md-logo {
+  color: #0f766e !important;
+}
+
+/* 検索バー */
+.md-search__inner {
+  background-color: #f7f4ed !important;
+  border: 1px solid #ded8cb;
+  border-radius: 6px;
+}
+
+/* タブバー */
+.md-tabs {
+  background-color: #ece7db !important;
+  border-bottom: 1px solid #ded8cb !important;
+}
+
+.md-tabs__link {
+  color: #5c564c !important;
+  font-weight: 500;
+  transition: all 0.15s ease;
+}
+
+.md-tabs__link:hover {
+  color: #0f766e !important;
+}
+
+.md-tabs__item--active .md-tabs__link {
+  color: #0f766e !important;
+  font-weight: 700;
+  border-bottom: 3px solid #0f766e;
+}
+
+/* ==========================================================================
+   3. 見出し
+   ========================================================================== */
+
+.md-typeset h1 {
+  color: #1f1d1a;
+  border-bottom: 2px solid #ded8cb;
+  padding-bottom: 0.45rem;
+  margin-bottom: 1.5rem;
+}
+
+.md-typeset h2 {
+  color: #1f1d1a;
+  border-left: 4px solid #0f766e;
+  padding-left: 0.7rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.9rem;
+}
+
+.md-typeset h3 {
+  color: #1f1d1a;
+  border-left: 3px solid #b91c1c;
+  padding-left: 0.6rem;
+  margin-top: 1.5rem;
+}
+
+/* ==========================================================================
+   4. ルビ（カタカナ読み・訳注）＆ポップアップヒント
+   ========================================================================== */
+
+ruby {
+  ruby-align: center;
+  ruby-position: over;
+  font-size: 1em;
+}
+
+rt {
+  font-size: 0.7em;
+  color: #0f766e;
+  font-weight: 600;
+  user-select: none;
+}
+
+.md-typeset abbr,
+abbr[title] {
+  text-decoration: none;
+  border-bottom: 1.5px dashed #0f766e;
+  color: inherit;
+  cursor: help;
+  padding: 0 2px;
+  background-color: rgba(15, 118, 110, 0.05);
+  border-radius: 2px;
+}
+
+.md-typeset abbr:hover,
+abbr[title]:hover {
+  border-bottom: 1.5px solid #0f766e;
+  background-color: rgba(15, 118, 110, 0.12);
+}
+
+/* ==========================================================================
+   5. インドネシア語例文・会話カード
+   ========================================================================== */
+
+/* インドネシア語例文カード */
+.id-example {
+  background-color: #ede7da;
+  border-left: 4px solid #0f766e;
+  border-top: 1px solid #ded8cb;
+  border-right: 1px solid #ded8cb;
+  border-bottom: 1px solid #ded8cb;
+  padding: 0.9rem 1.3rem;
+  margin: 1.2rem 0;
+  border-radius: 0 6px 6px 0;
+  box-shadow: 0 1px 3px rgba(60, 50, 40, 0.04);
+}
+
+.id-example .id-sentence {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+  line-height: 1.8;
+  color: #1f1d1a;
+}
+
+.id-example .id-reading {
+  font-size: 0.9rem;
+  color: #0f766e;
+  margin-bottom: 0.2rem;
+  font-weight: 500;
+}
+
+.id-example .id-meaning {
+  font-size: 0.95rem;
+  color: #5c564c;
+}
+
+/* 会話用スタイル */
+.dialogue-box {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 1rem 0;
+}
+
+.dialogue-item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.8rem;
+  line-height: 1.8;
+}
+
+.dialogue-speaker {
+  font-weight: bold;
+  padding: 0.1rem 0.55rem;
+  border-radius: 4px;
+  background: #0f766e;
+  color: #ffffff;
+  min-width: 3.5rem;
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+.dialogue-speaker--b {
+  background: #b91c1c;
+}
+
+/* 接辞ハイライト用 */
+.affix-prefix {
+  color: #b91c1c;
+  font-weight: bold;
+}
+
+.affix-root {
+  color: #0f766e;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.affix-suffix {
+  color: #2563eb;
+  font-weight: bold;
+}
+
+/* テーブルスタイル */
+.md-typeset table:not([class]) {
+  border: 1px solid #ded8cb;
+  border-radius: 6px;
+  overflow: hidden;
+  margin: 1rem 0;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: #ede7da;
+  color: #1f1d1a;
+  font-weight: 600;
+  border-bottom: 2px solid #0f766e;
+  padding: 0.6rem 0.9rem;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 0.55rem 0.9rem;
+  border-bottom: 1px solid #ded8cb;
+}
+
+.md-typeset table:not([class]) tr:hover td {
+  background-color: rgba(15, 118, 110, 0.04);
+}
+
+/* サイドバーリンク */
+.md-nav__link {
+  color: #47433c !important;
+}
+
+.md-nav__link:hover {
+  color: #0f766e !important;
+}
+
+.md-nav__item--active > .md-nav__link {
+  color: #0f766e !important;
+  font-weight: 600;
+}
+
+/* 検定級バッジ */
+.badge-e { background-color: #10b981; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.75rem; font-weight: bold; }
+.badge-d { background-color: #06b6d4; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.75rem; font-weight: bold; }
+.badge-c { background-color: #3b82f6; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.75rem; font-weight: bold; }
+.badge-b { background-color: #8b5cf6; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.75rem; font-weight: bold; }
+.badge-a { background-color: #d97706; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.75rem; font-weight: bold; }
+
+/* ==========================================================================
+   6. ダークモード対応
+   ========================================================================== */
+
+[data-md-color-scheme="slate"] body,
+[data-md-color-scheme="slate"] .md-container,
+[data-md-color-scheme="slate"] .md-main,
+[data-md-color-scheme="slate"] .md-content {
+  background-color: #0f172a !important;
+  color: #f1f5f9;
+}
+
+[data-md-color-scheme="slate"] .md-header {
+  background-color: #1e293b !important;
+  color: #f1f5f9 !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
+}
+
+[data-md-color-scheme="slate"] .md-header__topic {
+  color: #f1f5f9 !important;
+}
+
+[data-md-color-scheme="slate"] .md-tabs {
+  background-color: #0b1120 !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06) !important;
+}
+
+[data-md-color-scheme="slate"] .md-tabs__link {
+  color: #94a3b8 !important;
+}
+
+[data-md-color-scheme="slate"] .md-tabs__link:hover,
+[data-md-color-scheme="slate"] .md-tabs__item--active .md-tabs__link {
+  color: #2dd4bf !important;
+  border-bottom-color: #2dd4bf;
+}
+
+[data-md-color-scheme="slate"] .id-example {
+  background-color: #1e293b;
+  border-color: #334155;
+  border-left-color: #2dd4bf;
+}
+
+[data-md-color-scheme="slate"] .id-example .id-sentence {
+  color: #f8fafc;
+}
+
+[data-md-color-scheme="slate"] .id-example .id-reading {
+  color: #2dd4bf;
+}
+
+[data-md-color-scheme="slate"] .id-example .id-meaning {
+  color: #94a3b8;
+}
+
+[data-md-color-scheme="slate"] rt {
+  color: #2dd4bf;
+}
