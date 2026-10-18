@@ -546,7 +546,7 @@
 
 ---
 
-## 17. インドネシアの地理・各州・文化・民族探訪 (Geography & Ethnic Cultures) [40記事予定: 10/40完了]
+## 17. インドネシアの地理・各州・文化・民族探訪 (Geography & Ethnic Cultures) [40記事予定: 20/40完了]
 - [x] `[完了]` G01: アチェ州（Serambi Mekkah・シャリーア・珈琲と津波復興） (`docs/geography-culture/g01-aceh-serambi-mekkah.md`)
 - [x] `[完了]` G02: 北スマトラ州（トバ湖・サモシール島・バタク文化・メダン） (`docs/geography-culture/g02-sumatera-utara-batak-toba.md`)
 - [x] `[完了]` G03: 西スマトラ州（母系制ミナンカバウ・ルマガダン・パダン料理） (`docs/geography-culture/g03-sumatera-barat-minangkabau.md`)
@@ -557,6 +557,16 @@
 - [x] `[完了]` G08: ジョグジャカルタ特別州（古都クラトン・プランバナン・バティック） (`docs/geography-culture/g08-daerah-istimewa-yogyakarta-kraton.md`)
 - [x] `[完了]` G09: 中部ジャワ州（世界遺産ボロブドゥール・古都ソロ・スマラン） (`docs/geography-culture/g09-jawa-tengah-borobudur-solo.md`)
 - [x] `[完了]` G10: 東ジャワ州（英雄都市スラバヤ・ブロモ火山・イジェン青い炎・マジャパヒト） (`docs/geography-culture/g10-jawa-timur-bromo-surabaya.md`)
+- [x] `[完了]` G11: バリ州（神々の島・バリヒンドゥー・水利スバック・伝統舞踊） (`docs/geography-culture/g11-bali-pulau-dewata-hindu.md`)
+- [x] `[完了]` G12: 西ヌサ・トゥンガラ州（千のモスクの島ロンボク・ササック文化・リンジャニ山） (`docs/geography-culture/g12-nusa-tenggara-barat-lombok-sasak.md`)
+- [x] `[完了]` G13: 東ヌサ・トゥンガラ州（太古の巨竜コモド・三色湖クリムトゥ・伝統絣イカット） (`docs/geography-culture/g13-nusa-tenggara-timur-komodo-flores.md`)
+- [x] `[完了]` G14: 西カリマンタン州（赤道の都ポンティアナック・最長カプアス川・シンカワン奇祭） (`docs/geography-culture/g14-kalimantan-barat-pontianak-khatulistiwa.md`)
+- [x] `[完了]` G15: 中部カリマンタン州（ダヤック聖地・ロングハウス・オランウータン保護） (`docs/geography-culture/g15-kalimantan-tengah-dayak-kaharingan.md`)
+- [x] `[完了]` G16: 南カリマンタン州（千の川の街・伝統水上市場・宝石の都マルタプラ） (`docs/geography-culture/g16-kalimantan-selatan-banjar-pasar-terapung.md`)
+- [x] `[完了]` G17: 東カリマンタン州（新首都IKNヌサンタラ・マハカム川イルカ・楽園デラワン） (`docs/geography-culture/g17-kalimantan-timur-ikn-nusantara.md`)
+- [x] `[完了]` G18: 北カリマンタン州（国境の島タラカン・セバティク・カヤン巨大水力発電） (`docs/geography-culture/g18-kalimantan-utara-tarakan-perbatasan.md`)
+- [x] `[完了]` G19: バンテン州（文明拒絶の隠遁者バドゥイ・ジャワサイ聖域・クラカタウ） (`docs/geography-culture/g19-banten-baduy-tradisi-kuno.md`)
+- [x] `[完了]` G20: ランプン州（スマトラ玄関口・ウェイカンバス象・ロブスタ珈琲） (`docs/geography-culture/g20-lampung-krakatau-gajah-way-kambas.md`)
 
 
 
