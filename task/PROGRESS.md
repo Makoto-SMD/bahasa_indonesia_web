@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,270 / 1,500 記事 (84.7% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,280 / 1,500 記事 (85.3% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1351,16 +1351,16 @@
 - [x] `[完了]` 1268: 身体名詞 mata の連語（mata rantai, mata air, mata angin, mata pencaharian） (`docs/lexicon/18-noun-collocations-mata.md`)
 - [x] `[完了]` 1269: 身体名詞 tangan の連語（tangan kanan, cuci tangan, campur tangan, angkat tangan） (`docs/lexicon/19-noun-collocations-tangan.md`)
 - [x] `[完了]` 1270: 身体名詞 kaki の連語（kaki lima, kaki tangan, angkat kaki, cuci kaki） (`docs/lexicon/20-noun-collocations-kaki.md`)
-- [ ] `[未着手]` 1271: 身体名詞 mulut の連語（mulut manis, tutup mulut, banyak mulut, buah mulut） (`docs/lexicon/21-noun-collocations-mulut.md`)
-- [ ] `[未着手]` 1272: 身体名詞 telinga の連語（tebal telinga, merah telinga, masuk telinga kanan） (`docs/lexicon/22-noun-collocations-telinga.md`)
-- [ ] `[未着手]` 1273: 身体名詞 hidung の連語（hidung belang, mencium bau, batang hidung） (`docs/lexicon/23-noun-collocations-hidung.md`)
-- [ ] `[未着手]` 1274: 身体名詞 muka の連語（muka masam, cari muka, tebal muka, uang muka） (`docs/lexicon/24-noun-collocations-muka.md`)
-- [ ] `[未着手]` 1275: 身体名詞 darah の連語（darah daging, darah dingin, darah biru, naik darah） (`docs/lexicon/25-noun-collocations-darah.md`)
-- [ ] `[未着手]` 1276: 【ビジネス連語：契約】menandatangani kontrak, membatalkan klausul, memperpanjang masa (`docs/lexicon/26-business-collocations-contract.md`)
-- [ ] `[未着手]` 1277: 【ビジネス連語：商談】mencapai kesepakatan, mengajukan penawaran, menekan biaya (`docs/lexicon/27-business-collocations-negotiation.md`)
-- [ ] `[未着手]` 1278: 【ビジネス連語：財務】laporan laba rugi, arus kas, suntikan modal, suku bunga (`docs/lexicon/28-business-collocations-finance.md`)
-- [ ] `[未着手]` 1279: 【ビジネス連語：人事】perekrutan karyawan, pemutusan hubungan kerja, evaluasi kinerja (`docs/lexicon/29-business-collocations-hr.md`)
-- [ ] `[未着手]` 1280: 【ビジネス連語：販促】pangsa pasar, target konsumen, kampanye promosi, citra merek (`docs/lexicon/30-business-collocations-marketing.md`)
+- [x] `[完了]` 1271: 身体名詞 mulut の連語（mulut manis, tutup mulut, banyak mulut, buah mulut） (`docs/lexicon/21-noun-collocations-mulut.md`)
+- [x] `[完了]` 1272: 身体名詞 telinga の連語（tebal telinga, merah telinga, masuk telinga kanan） (`docs/lexicon/22-noun-collocations-telinga.md`)
+- [x] `[完了]` 1273: 身体名詞 hidung の連語（hidung belang, mencium bau, batang hidung） (`docs/lexicon/23-noun-collocations-hidung.md`)
+- [x] `[完了]` 1274: 身体名詞 muka の連語（muka masam, cari muka, tebal muka, uang muka） (`docs/lexicon/24-noun-collocations-muka.md`)
+- [x] `[完了]` 1275: 身体名詞 darah の連語（darah daging, darah dingin, darah biru, naik darah） (`docs/lexicon/25-noun-collocations-darah.md`)
+- [x] `[完了]` 1276: 【ビジネス連語：契約】menandatangani kontrak, membatalkan klausul, memperpanjang masa (`docs/lexicon/26-business-collocations-contract.md`)
+- [x] `[完了]` 1277: 【ビジネス連語：商談】mencapai kesepakatan, mengajukan penawaran, menekan biaya (`docs/lexicon/27-business-collocations-negotiation.md`)
+- [x] `[完了]` 1278: 【ビジネス連語：財務】laporan laba rugi, arus kas, suntikan modal, suku bunga (`docs/lexicon/28-business-collocations-finance.md`)
+- [x] `[完了]` 1279: 【ビジネス連語：人事】perekrutan karyawan, pemutusan hubungan kerja, evaluasi kinerja (`docs/lexicon/29-business-collocations-hr.md`)
+- [x] `[完了]` 1280: 【ビジネス連語：販促】pangsa pasar, target konsumen, kampanye promosi, citra merek (`docs/lexicon/30-business-collocations-marketing.md`)
 - [ ] `[未着手]` 1281: 【政治時事連語：選挙】pemilihan umum, perolehan suara, hak pilih, kampanye akbar (`docs/lexicon/31-politics-collocations-election.md`)
 - [ ] `[未着手]` 1282: 【政治時事連語：外交】hubungan bilateral, nota kesepahaman, kunjungan kenegaraan (`docs/lexicon/32-politics-collocations-diplomacy.md`)
 - [ ] `[未着手]` 1283: 【法律連語：法廷】mengajukan gugatan, vonis hakim, saksi kunci, bukti otentik (`docs/lexicon/33-legal-collocations-court.md`)
