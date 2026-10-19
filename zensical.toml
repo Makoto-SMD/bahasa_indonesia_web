@@ -168,6 +168,18 @@ nav = [
       { "語根 turun の全派生語図鑑（menurunkan, penurunan, menurun, keturunan）" = "derivations/root-turun.md" },
       { "語根 ukur の全派生語図鑑（mengukur, pengukuran, ukuran, terukur）" = "derivations/root-ukur.md" },
     ] },
+    { "語根別派生語マスター図鑑 第2弾" = [
+      { "1351. 語根 atur の全派生語図鑑" = "derivations-2/101-root-atur.md" },
+      { "1352. 語根 hubung の全派生語図鑑" = "derivations-2/102-root-hubung.md" },
+      { "1353. 語根 susun の全派生語図鑑" = "derivations-2/103-root-susun.md" },
+      { "1354. 語根 pecah の全派生語図鑑" = "derivations-2/104-root-pecah.md" },
+      { "1355. 語根 ikat の全派生語図鑑" = "derivations-2/105-root-ikat.md" },
+      { "1356. 語根 lepas の全派生語図鑑" = "derivations-2/106-root-lepas.md" },
+      { "1357. 語根 pasang の全派生語図鑑" = "derivations-2/107-root-pasang.md" },
+      { "1358. 語根 ganti の全派生語図鑑" = "derivations-2/108-root-ganti.md" },
+      { "1359. 語根 ubah の全派生語図鑑" = "derivations-2/109-root-ubah.md" },
+      { "1360. 語根 pindah の全派生語図鑑" = "derivations-2/110-root-pindah.md" },
+    ] },
   ] },
   { "語彙・類義語" = [
     { "語彙・テーマ別必須単語" = [

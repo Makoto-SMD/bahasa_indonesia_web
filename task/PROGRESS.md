@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,350 / 1,500 記事 (90.0% 達成・大台突破！500記事拡充フェーズ進行中)
+- **進捗状況**: 1,360 / 1,500 記事 (90.7% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1435,16 +1435,16 @@
 - [x] `[完了]` 1350: 「黄金のインドネシア2045（Indonesia Emas 2045）」：建国100年に向けた先進国入りのシナリオ (`docs/contemporary/50-vision-indonesia-emas-2045.md`)
 
 ## 33. 【語彙拡張】語根別派生語マスター図鑑 第2弾 [50記事]
-- [ ] `[未着手]` 1351: 語根 atur（整理・規則）の全派生語図鑑：mengatur, peraturan, pengaturan, teratur (`docs/derivations-2/101-root-atur.md`)
-- [ ] `[未着手]` 1352: 語根 hubung（結ぶ・関係）の全派生語図鑑：menghubungkan, berhubungan, hubungan, perhubungan (`docs/derivations-2/102-root-hubung.md`)
-- [ ] `[未着手]` 1353: 語根 susun（並べる・編纂）の全派生語図鑑：menyusun, susunan, penyusun, tersusun (`docs/derivations-2/103-root-susun.md`)
-- [ ] `[未着手]` 1354: 語根 pecah（割れる・分裂）の全派生語図鑑：memecahkan, perpecahan, pecahan, terpecah (`docs/derivations-2/104-root-pecah.md`)
-- [ ] `[未着手]` 1355: 語根 ikat（縛る・連帯）の全派生語図鑑：mengikat, ikatan, perikatan, terikat (`docs/derivations-2/105-root-ikat.md`)
-- [ ] `[未着手]` 1356: 語根 lepas（放す・解放）の全派生語図鑑：melepaskan, pelepasan, terlepas, berlepaskan (`docs/derivations-2/106-root-lepas.md`)
-- [ ] `[未着手]` 1357: 語根 pasang（取り付ける・対）の全派生語図鑑：memasang, pemasangan, pasangan, terpasang (`docs/derivations-2/107-root-pasang.md`)
-- [ ] `[未着手]` 1358: 語根 ganti（代わる・交換）の全派生語図鑑：mengganti, berganti, pergantian, pengganti (`docs/derivations-2/108-root-ganti.md`)
-- [ ] `[未着手]` 1359: 語根 ubah（変わる・改変）の全派生語図鑑：mengubah, perubahan, pengubahan, terubah (`docs/derivations-2/109-root-ubah.md`)
-- [ ] `[未着手]` 1360: 語根 pindah（移る・移住）の全派生語図鑑：memindahkan, perpindahan, pemindahan, berpindah (`docs/derivations-2/110-root-pindah.md`)
+- [x] `[完了]` 1351: 語根 atur（整理・規則）の全派生語図鑑：mengatur, peraturan, pengaturan, teratur (`docs/derivations-2/101-root-atur.md`)
+- [x] `[完了]` 1352: 語根 hubung（結ぶ・関係）の全派生語図鑑：menghubungkan, berhubungan, hubungan, perhubungan (`docs/derivations-2/102-root-hubung.md`)
+- [x] `[完了]` 1353: 語根 susun（並べる・編纂）の全派生語図鑑：menyusun, susunan, penyusun, tersusun (`docs/derivations-2/103-root-susun.md`)
+- [x] `[完了]` 1354: 語根 pecah（割れる・分裂）の全派生語図鑑：memecahkan, perpecahan, pecahan, terpecah (`docs/derivations-2/104-root-pecah.md`)
+- [x] `[完了]` 1355: 語根 ikat（縛る・連帯）の全派生語図鑑：mengikat, ikatan, perikatan, terikat (`docs/derivations-2/105-root-ikat.md`)
+- [x] `[完了]` 1356: 語根 lepas（放す・解放）の全派生語図鑑：melepaskan, pelepasan, terlepas, berlepaskan (`docs/derivations-2/106-root-lepas.md`)
+- [x] `[完了]` 1357: 語根 pasang（取り付ける・対）の全派生語図鑑：memasang, pemasangan, pasangan, terpasang (`docs/derivations-2/107-root-pasang.md`)
+- [x] `[完了]` 1358: 語根 ganti（代わる・交換）の全派生語図鑑：mengganti, berganti, pergantian, pengganti (`docs/derivations-2/108-root-ganti.md`)
+- [x] `[完了]` 1359: 語根 ubah（変わる・改変）の全派生語図鑑：mengubah, perubahan, pengubahan, terubah (`docs/derivations-2/109-root-ubah.md`)
+- [x] `[完了]` 1360: 語根 pindah（移る・移住）の全派生語図鑑：memindahkan, perpindahan, pemindahan, berpindah (`docs/derivations-2/110-root-pindah.md`)
 - [ ] `[未着手]` 1361: 語根 tambah（増える・添加）の全派生語図鑑：menambah, bertambah, tambahan, penambahan (`docs/derivations-2/111-root-tambah.md`)
 - [ ] `[未着手]` 1362: 語根 kurang（減る・不足）の全派生語図鑑：mengurangi, berkurang, kekurangan, pengurangan (`docs/derivations-2/112-root-kurang.md`)
 - [ ] `[未着手]` 1363: 語根 bagi（分ける・分配）の全派生語図鑑：membagi, berbagi, pembagian, sebagian (`docs/derivations-2/113-root-bagi.md`)
