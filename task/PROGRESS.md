@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,220 / 1,500 記事 (81.3% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,230 / 1,500 記事 (82.0% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1299,16 +1299,16 @@
 - [x] `[完了]` 1218: 【Level 2 (A2)】Belajar Membatik di Sanggar Seni（伝統バティック染色のワークショップ） (`docs/graded-reading/level-2-08-batik-making-class.md`)
 - [x] `[完了]` 1219: 【Level 2 (A2)】Buku Misterius di Perpustakaan Lama（古い図書館で見つけた手帳の秘密） (`docs/graded-reading/level-2-09-library-mystery.md`)
 - [x] `[完了]` 1220: 【Level 2 (A2)】Lomba 17 Agustus di Kampungku（独立記念日の伝統パンジャット・ピナン競技） (`docs/graded-reading/level-2-10-indonesia-independence-day.md`)
-- [ ] `[未着手]` 1221: 【Level 3 (B1)】Kisah Pengemudi Ojek Online di Ibu Kota（配車ドライバーの一日と街の息吹） (`docs/graded-reading/level-3-01-ojek-online-driver.md`)
-- [ ] `[未着手]` 1222: 【Level 3 (B1)】Dompet Digital dan Warung Tradisional（屋台に広がるQRIS決済革命） (`docs/graded-reading/level-3-02-digital-wallet-revolution.md`)
-- [ ] `[未着手]` 1223: 【Level 3 (B1)】Perjalanan Mudik Lebaran Menembus Kemacetan（年に一度の帰省ラッシュの感動） (`docs/graded-reading/level-3-03-mudik-homecoming-journey.md`)
-- [ ] `[未着手]` 1224: 【Level 3 (B1)】Gaya Hidup Kedai Kopi Anak Muda（若者のサードウェーブコーヒーとコワーキング文化） (`docs/graded-reading/level-3-04-coffee-culture-boom.md`)
-- [ ] `[未着手]` 1225: 【Level 3 (B1)】Menjaga Terumbu Karang di Bunaken（ブナケンのサンゴ礁を守る地元ダイバーの挑戦） (`docs/graded-reading/level-3-05-coral-reef-conservation.md`)
-- [ ] `[未着手]` 1226: 【Level 3 (B1)】Kebangkitan Jamu di Era Modern（ハーブ伝統薬ジャムーのカフェ的リバイバル） (`docs/graded-reading/level-3-06-traditional-medicine-jamu.md`)
-- [ ] `[未着手]` 1227: 【Level 3 (B1)】Catatan Mahasiswa Asing di Jogja（ガジャマダ大学に留学した留学生の日記） (`docs/graded-reading/level-3-07-foreign-student-in-ugm.md`)
-- [ ] `[未着手]` 1228: 【Level 3 (B1)】Merasakan Kereta Cepat Whoosh Jakarta-Bandung（高速鉄道ウーシュ初乗車記） (`docs/graded-reading/level-3-08-fast-train-whoosh.md`)
-- [ ] `[未着手]` 1229: 【Level 3 (B1)】Jejak Benang Emas Tenun Sumba（スンバ島伝統織物に込められた母の祈り） (`docs/graded-reading/level-3-09-traditional-weaving-tenun.md`)
-- [ ] `[未着手]` 1230: 【Level 3 (B1)】Menghubungkan Ribuan Pulau Lewat E-Commerce（島嶼国家を繋ぐ物流網の舞台裏） (`docs/graded-reading/level-3-10-e-commerce-logistics.md`)
+- [x] `[完了]` 1221: 【Level 3 (B1)】Kisah Pengemudi Ojek Online di Ibu Kota（配車ドライバーの一日と街の息吹） (`docs/graded-reading/level-3-01-ojek-online-driver.md`)
+- [x] `[完了]` 1222: 【Level 3 (B1)】Dompet Digital dan Warung Tradisional（屋台に広がるQRIS決済革命） (`docs/graded-reading/level-3-02-digital-wallet-revolution.md`)
+- [x] `[完了]` 1223: 【Level 3 (B1)】Perjalanan Mudik Lebaran Menembus Kemacetan（年に一度の帰省ラッシュの感動） (`docs/graded-reading/level-3-03-mudik-homecoming-journey.md`)
+- [x] `[完了]` 1224: 【Level 3 (B1)】Gaya Hidup Kedai Kopi Anak Muda（若者のサードウェーブコーヒーとコワーキング文化） (`docs/graded-reading/level-3-04-coffee-culture-boom.md`)
+- [x] `[完了]` 1225: 【Level 3 (B1)】Menjaga Terumbu Karang di Bunaken（ブナケンのサンゴ礁を守る地元ダイバーの挑戦） (`docs/graded-reading/level-3-05-coral-reef-conservation.md`)
+- [x] `[完了]` 1226: 【Level 3 (B1)】Kebangkitan Jamu di Era Modern（ハーブ伝統薬ジャムーのカフェ的リバイバル） (`docs/graded-reading/level-3-06-traditional-medicine-jamu.md`)
+- [x] `[完了]` 1227: 【Level 3 (B1)】Catatan Mahasiswa Asing di Jogja（ガジャマダ大学に留学した留学生の日記） (`docs/graded-reading/level-3-07-foreign-student-in-ugm.md`)
+- [x] `[完了]` 1228: 【Level 3 (B1)】Merasakan Kereta Cepat Whoosh Jakarta-Bandung（高速鉄道ウーシュ初乗車記） (`docs/graded-reading/level-3-08-fast-train-whoosh.md`)
+- [x] `[完了]` 1229: 【Level 3 (B1)】Jejak Benang Emas Tenun Sumba（スンバ島伝統織物に込められた母の祈り） (`docs/graded-reading/level-3-09-traditional-weaving-tenun.md`)
+- [x] `[完了]` 1230: 【Level 3 (B1) 総括】Dinamika Modern & Tradisi Nusantara & 総合読解診断テスト (`docs/graded-reading/level-3-10-level3-review-quiz.md`)
 - [ ] `[未着手]` 1231: 【Level 4 (B2)】Membangun Kota Masa Depan IKN Nusantara（森林新首都ヌサンタラ建設の光と影） (`docs/graded-reading/level-4-01-new-capital-nusantara.md`)
 - [ ] `[未着手]` 1232: 【Level 4 (B2)】Hilirisasi Nikel dan Transisi Energi Global（ニッケル下流化政策とEVバッテリーの覇権） (`docs/graded-reading/level-4-02-nickel-downstreaming-economy.md`)
 - [ ] `[未着手]` 1233: 【Level 4 (B2)】Filsafat Wayang Kulit dalam Dinamika Demokrasi（影絵劇の善悪葛藤と現代政治思想） (`docs/graded-reading/level-4-03-wayang-philosophy-modern.md`)
