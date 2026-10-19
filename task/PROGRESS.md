@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,470 / 1,500 記事 (98.0% 達成・最終セクション35進行中！残り30記事)
+- **進捗状況**: 1,480 / 1,500 記事 (98.7% 達成・最終セクション35進行中！残り20記事)
 
 ---
 
@@ -1559,16 +1559,16 @@
 - [x] `[完了]` 1468: 決算説明会資料・アニュアルレポートの翻訳：投資家向け洗練表現 (`docs/translation-stylistics/18-investor-relations-ir-translation.md`)
 - [x] `[完了]` 1469: M&Aデューデリジェンス報告書の翻訳：リスク評価と企業価値算定 (`docs/translation-stylistics/19-m-and-a-due-diligence-translation.md`)
 - [x] `[完了]` 1470: 広告・キャッチコピーのトランスクリエーション：心に響く現地化 (`docs/translation-stylistics/20-marketing-copywriting-transcreation.md`)
-- [ ] `[未着手]` 1471: 機械操作マニュアル・安全衛生規程の正確かつ明瞭な翻訳 (`docs/translation-stylistics/21-technical-manual-translation-safety.md`)
-- [ ] `[未着手]` 1472: ITソフトウェア・UI文字列のローカライズ：文字数制限と直感性 (`docs/translation-stylistics/22-it-localization-ui-strings.md`)
-- [ ] `[未着手]` 1473: 治験プロトコル・医薬品添付文書の翻訳：厳密な学術性と安全性 (`docs/translation-stylistics/23-medical-pharmaceutical-translation.md`)
-- [ ] `[未着手]` 1474: 特許明細書・請求の範囲（Claims）の翻訳：権利範囲の明確化 (`docs/translation-stylistics/24-patent-specification-translation.md`)
-- [ ] `[未着手]` 1475: 首脳会談・国際会議スピーチの翻訳：儀礼的威厳と修辞技法 (`docs/translation-stylistics/25-diplomatic-speech-translation.md`)
-- [ ] `[未着手]` 1476: 文学翻訳：登場人物の階層・人柄を表現する文体選択と語末詞 (`docs/translation-stylistics/26-literary-translation-dialogue-style.md`)
-- [ ] `[未着手]` 1477: 比喩・文化的暗号の翻訳：注釈をつけずに文脈で溶け込ませる職人技 (`docs/translation-stylistics/27-literary-translation-metaphor-culture.md`)
-- [ ] `[未着手]` 1478: 報道・時事ニュースの翻訳：見出しの切れ味と事実伝達のスピード感 (`docs/translation-stylistics/28-news-journalism-translation-tempo.md`)
-- [ ] `[未着手]` 1479: 学術論文アブストラクトの翻訳：国際学術水準の格調高き論述体 (`docs/translation-stylistics/29-academic-paper-abstract-translation.md`)
-- [ ] `[未着手]` 1480: 逐次通訳のノートテイキング技術：シンボル記号と情報配置の工夫 (`docs/translation-stylistics/30-interpreting-note-taking-technique.md`)
+- [x] `[完了]` 1471: 機械操作マニュアル・安全衛生規程の正確かつ明瞭な翻訳 (`docs/translation-stylistics/21-technical-manual-translation-safety.md`)
+- [x] `[完了]` 1472: ITソフトウェア・UI文字列のローカライズ：文字数制限と直感性 (`docs/translation-stylistics/22-it-localization-ui-strings.md`)
+- [x] `[完了]` 1473: 治験プロトコル・医薬品添付文書の翻訳：厳密な学術性と安全性 (`docs/translation-stylistics/23-medical-pharmaceutical-translation.md`)
+- [x] `[完了]` 1474: 特許明細書・請求の範囲（Claims）の翻訳：権利範囲の明確化 (`docs/translation-stylistics/24-patent-specification-translation.md`)
+- [x] `[完了]` 1475: 首脳会談・国際会議スピーチの翻訳：儀礼的威厳と修辞技法 (`docs/translation-stylistics/25-diplomatic-speech-translation.md`)
+- [x] `[完了]` 1476: 文学翻訳：登場人物の階層・人柄を表現する文体選択と語末詞 (`docs/translation-stylistics/26-literary-translation-dialogue-style.md`)
+- [x] `[完了]` 1477: 比喩・文化的暗号の翻訳：注釈をつけずに文脈で溶け込ませる職人技 (`docs/translation-stylistics/27-literary-translation-metaphor-culture.md`)
+- [x] `[完了]` 1478: 報道・時事ニュースの翻訳：見出しの切れ味と事実伝達のスピード感 (`docs/translation-stylistics/28-news-journalism-translation-tempo.md`)
+- [x] `[完了]` 1479: 学術論文アブストラクトの翻訳：国際学術水準の格調高き論述体 (`docs/translation-stylistics/29-academic-paper-abstract-translation.md`)
+- [x] `[完了]` 1480: 逐次通訳のノートテイキング技術：シンボル記号と情報配置の工夫 (`docs/translation-stylistics/30-interpreting-note-taking-technique.md`)
 - [ ] `[未着手]` 1481: 通訳者のためのアクティブリスニング：文の終わりを待たずに意味を予測する (`docs/translation-stylistics/31-interpreting-active-listening.md`)
 - [ ] `[未着手]` 1482: 通訳におけるリフォーミュレーション：直訳の呪縛を解き放つ要約・再構成 (`docs/translation-stylistics/32-interpreting-reformulation-skills.md`)
 - [ ] `[未着手]` 1483: 通訳者の短期記憶（リテンション）トレーニング：シャドーイングとリプロダクション (`docs/translation-stylistics/33-interpreting-memory-retention.md`)
