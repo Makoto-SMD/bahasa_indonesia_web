@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,330 / 1,500 記事 (88.7% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,340 / 1,500 記事 (89.3% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1413,16 +1413,16 @@
 - [x] `[完了]` 1328: 使い捨てプラスチック禁止令：伝統エコ素材キャッサババッグとリフィル文化の復活 (`docs/contemporary/28-plastic-ban-single-use.md`)
 - [x] `[完了]` 1329: モデストファッションの世界首都：モダンヒジャブと伝統バティックの融合革命 (`docs/contemporary/29-fashion-hijab-modest-wear.md`)
 - [x] `[完了]` 1330: 植民地時代の歴史的鉄道遺産の復活：観光列車アマバラワと山岳SLの旅路 (`docs/contemporary/30-heritage-railway-revival.md`)
-- [ ] `[未着手]` 1331: ナトゥナ諸島の排他的経済水域防衛：不法操業船拿捕と海洋安全保障戦略 (`docs/contemporary/31-maritime-defense-natuna.md`)
-- [ ] `[未着手]` 1332: 国家研究イノベーション庁（BRIN）の衛星計画：島嶼部の通信格差を埋めるSATRIA-1 (`docs/contemporary/32-space-agency-brin-satellites.md`)
-- [ ] `[未着手]` 1333: モバイルレジェンド熱狂社会：世界大会を制覇するインドネシアeスポーツ産業 (`docs/contemporary/33-esports-gaming-phenomenon.md`)
-- [ ] `[未着手]` 1334: ウェブトゥーン作家の世界的活躍：ジャカルタ発のマンガが世界中で読まれる理由 (`docs/contemporary/34-comic-webtoon-creators.md`)
-- [ ] `[未着手]` 1335: 国産スキンケアブランド（Scarlett, Somethinc）の躍進と輸入化粧品の駆逐 (`docs/contemporary/35-local-cosmetics-skincare.md`)
-- [ ] `[未着手]` 1336: 都市部若者のマイホーム断念危機：住宅価格高騰と公的住宅ローン（KPR）の課題 (`docs/contemporary/36-housing-affordability-crisis.md`)
-- [ ] `[未着手]` 1337: 交通統合システム「JakLingko」：マイクロバスから地下鉄MRTまで1枚のカードで (`docs/contemporary/37-public-transport-integration-jaklingko.md`)
-- [ ] `[未着手]` 1338: 泥炭地再生と森林火災（ヘイズ）防止：湿地保全と持続可能なパルダカルチャー (`docs/contemporary/38-peatland-restoration-fires.md`)
-- [ ] `[未着手]` 1339: 土着信仰（Penghayat Kepercayaan）の法的位置付け：住民登録票（KTP）への明記 (`docs/contemporary/39-indigenous-faith-recognition.md`)
-- [ ] `[未着手]` 1340: 活火山と共生する島々：メラピ火山観測所と住民コミュニティの避難防災ネットワーク (`docs/contemporary/40-volcano-disaster-resilience.md`)
+- [x] `[完了]` 1331: ナトゥナ諸島の排他的経済水域防衛：不法操業船拿捕と海洋安全保障戦略 (`docs/contemporary/31-maritime-defense-natuna.md`)
+- [x] `[完了]` 1332: 国家研究イノベーション庁（BRIN）の衛星計画：島嶼部の通信格差を埋めるSATRIA-1 (`docs/contemporary/32-space-agency-brin-satellites.md`)
+- [x] `[完了]` 1333: モバイルレジェンド熱狂社会：世界大会を制覇するインドネシアeスポーツ産業 (`docs/contemporary/33-esports-gaming-phenomenon.md`)
+- [x] `[完了]` 1334: ウェブトゥーン作家の世界的活躍：ジャカルタ発のマンガが世界中で読まれる理由 (`docs/contemporary/34-comic-webtoon-creators.md`)
+- [x] `[完了]` 1335: 国産スキンケアブランド（Scarlett, Somethinc）の躍進と輸入化粧品の駆逐 (`docs/contemporary/35-local-cosmetics-skincare.md`)
+- [x] `[完了]` 1336: 都市部若者のマイホーム断念危機：住宅価格高騰と公的住宅ローン（KPR）の課題 (`docs/contemporary/36-housing-affordability-crisis.md`)
+- [x] `[完了]` 1337: 交通統合システム「JakLingko」：マイクロバスから地下鉄MRTまで1枚のカードで (`docs/contemporary/37-public-transport-integration-jaklingko.md`)
+- [x] `[完了]` 1338: 泥炭地再生と森林火災（ヘイズ）防止：湿地保全と持続可能なパルダカルチャー (`docs/contemporary/38-peatland-restoration-fires.md`)
+- [x] `[完了]` 1339: 土着信仰（Penghayat Kepercayaan）の法的位置付け：住民登録票（KTP）への明記 (`docs/contemporary/39-indigenous-faith-recognition.md`)
+- [x] `[完了]` 1340: 活火山と共生する島々：メラピ火山観測所と住民コミュニティの避難防災ネットワーク (`docs/contemporary/40-volcano-disaster-resilience.md`)
 - [ ] `[未着手]` 1341: 熱帯ワインとクラフトビールの挑戦：厳しい酒税下で育まれるバリ島醸造文化 (`docs/contemporary/41-craft-beer-wine-bali.md`)
 - [ ] `[未着手]` 1342: ASEAN域内QR決済相互接続：シンガポール・タイ・マレーシアと自国通貨で直接決済 (`docs/contemporary/42-cross-border-digital-payment.md`)
 - [ ] `[未着手]` 1343: 超高齢社会の足音：若年人口ボーナスの終了を見据えた介護保険と高齢者ケア制度 (`docs/contemporary/43-elderly-care-demographic-shift.md`)
