@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,310 / 1,500 記事 (87.3% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,320 / 1,500 記事 (88.0% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1393,16 +1393,16 @@
 - [x] `[完了]` 1308: 東南アジア初の高速鉄道「Whoosh」開業1年：ジャカルタ・バンドン都市圏の劇的変容 (`docs/contemporary/08-fast-train-whoosh-impact.md`)
 - [x] `[完了]` 1309: 世界最大のハラール消費市場：化粧品・医薬品・ファッションまで広がる認証義務化 (`docs/contemporary/09-halal-lifestyle-industry.md`)
 - [x] `[完了]` 1310: 沈みゆく首都ジャカルタ：地下水過剰汲み上げと海面上昇に挑む巨大堤防門計画 (`docs/contemporary/10-climate-change-sinking-jakarta.md`)
-- [ ] `[未着手]` 1311: スマート森林都市IKNヌサンタラ：新大統領府の移転プロセスと海外直接投資の行方 (`docs/contemporary/11-new-capital-nusantara-progress.md`)
-- [ ] `[未着手]` 1312: 環太平洋火山帯の地熱エネルギー：世界第2位の埋蔵量を誇るクリーン電力開発 (`docs/contemporary/12-green-energy-geothermal-power.md`)
-- [ ] `[未着手]` 1313: パーム油パームバイオディーゼル（B35）：食料か燃料か、EU環境規制との果てなき対立 (`docs/contemporary/13-palm-oil-b35-biodiesel.md`)
-- [ ] `[未着手]` 1314: 世界第2位の食品ロス大国：余剰食品救済アプリと若者たちのフードバンク運動 (`docs/contemporary/14-food-waste-zero-hunger.md`)
-- [ ] `[未着手]` 1315: 「癒やし（Healing）」ブームの裏側：都市部の若者に広がるカウンセリング受診と脱偏見 (`docs/contemporary/15-mental-health-awareness-urban.md`)
-- [ ] `[未着手]` 1316: ホラー映画の爆発的ヒットと芸術映画の台頭：国内外で席巻するインドネシア映画界 (`docs/contemporary/16-indonesian-cinema-golden-age.md`)
-- [ ] `[未着手]` 1317: スワラ・グンピタからヒンディヤまで：社会風刺と詩情を歌うインディーズ音楽の黄金期 (`docs/contemporary/17-modern-indie-music-scene.md`)
-- [ ] `[未着手]` 1318: ギグワーカーの労災保障と労働組合化：配車ドライバーたちの「オルガニサシ」運動 (`docs/contemporary/18-gig-economy-workers-rights.md`)
-- [ ] `[未着手]` 1319: 若者の暗号資産ブーム：銀行口座を持たない国民が仮想通貨取引所に殺到する理由 (`docs/contemporary/19-crypto-asset-investment-boom.md`)
-- [ ] `[未着手]` 1320: コモド国立公園と高級リゾート化：プレミアム観光地ラブアン・バジョの住民共生 (`docs/contemporary/20-sustainable-tourism-labuan-bajo.md`)
+- [x] `[完了]` 1311: スマート森林都市IKNヌサンタラ：新大統領府の移転プロセスと海外直接投資の行方 (`docs/contemporary/11-new-capital-nusantara-progress.md`)
+- [x] `[完了]` 1312: 環太平洋火山帯の地熱エネルギー：世界第2位の埋蔵量を誇るクリーン電力開発 (`docs/contemporary/12-green-energy-geothermal-power.md`)
+- [x] `[完了]` 1313: パーム油パームバイオディーゼル（B35）：食料か燃料か、EU環境規制との果てなき対立 (`docs/contemporary/13-palm-oil-b35-biodiesel.md`)
+- [x] `[完了]` 1314: 世界第2位の食品ロス大国：余剰食品救済アプリと若者たちのフードバンク運動 (`docs/contemporary/14-food-waste-zero-hunger.md`)
+- [x] `[完了]` 1315: 「癒やし（Healing）」ブームの裏側：都市部の若者に広がるカウンセリング受診と脱偏見 (`docs/contemporary/15-mental-health-awareness-urban.md`)
+- [x] `[完了]` 1316: ホラー映画の爆発的ヒットと芸術映画の台頭：国内外で席巻するインドネシア映画界 (`docs/contemporary/16-indonesian-cinema-golden-age.md`)
+- [x] `[完了]` 1317: スワラ・グンピタからヒンディヤまで：社会風刺と詩情を歌うインディーズ音楽の黄金期 (`docs/contemporary/17-modern-indie-music-scene.md`)
+- [x] `[完了]` 1318: ギグワーカーの労災保障と労働組合化：配車ドライバーたちの「オルガニサシ」運動 (`docs/contemporary/18-gig-economy-workers-rights.md`)
+- [x] `[完了]` 1319: 若者の暗号資産ブーム：銀行口座を持たない国民が仮想通貨取引所に殺到する理由 (`docs/contemporary/19-crypto-asset-investment-boom.md`)
+- [x] `[完了]` 1320: コモド国立公園と高級リゾート化：プレミアム観光地ラブアン・バジョの住民共生 (`docs/contemporary/20-sustainable-tourism-labuan-bajo.md`)
 - [ ] `[未着手]` 1321: 伝統料理レシピのデジタル保存：17,000の島に眠る郷土の味を次世代に継承する (`docs/contemporary/21-culinary-heritage-preservation.md`)
 - [ ] `[未着手]` 1322: 女性起業家が牽引する零細・中小企業（UMKM）：マイクロファイナンスの奇跡 (`docs/contemporary/22-women-empowerment-umkm.md`)
 - [ ] `[未着手]` 1323: 頻発する公的個人データ流出事故と個人データ保護法（UU PDP）の実効性 (`docs/contemporary/23-cybersecurity-data-leaks.md`)
