@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,260 / 1,500 記事 (84.0% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,270 / 1,500 記事 (84.7% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1341,16 +1341,16 @@
 - [x] `[完了]` 1258: 語根 lepas の必須コロケーション（lepas tangan, lepas tanggung jawab, lepas pandang） (`docs/lexicon/08-verb-collocations-lepas.md`)
 - [x] `[完了]` 1259: 語根 jatuh の必須コロケーション（jatuh tempo, jatuh sakit, jatuh cinta, jatuh miskin） (`docs/lexicon/09-verb-collocations-jatuh.md`)
 - [x] `[完了]` 1260: 語根 naik の必須コロケーション（naik daun, naik pangkat, naik darah, naik banding） (`docs/lexicon/10-verb-collocations-naik.md`)
-- [ ] `[未着手]` 1261: 語根 turun の必須コロケーション（turun tangan, turun harga, turun minum, turun ranjang） (`docs/lexicon/11-verb-collocations-turun.md`)
-- [ ] `[未着手]` 1262: 語根 tahan の必須コロケーション（tahan banting, tahan lama, tahan uji, tahan lapar） (`docs/lexicon/12-verb-collocations-tahan.md`)
-- [ ] `[未着手]` 1263: 語根 pecah の必須コロケーション（pecah belah, pecah rekor, pecah tangis, pecah kongsi） (`docs/lexicon/13-verb-collocations-pecah.md`)
-- [ ] `[未着手]` 1264: 語根 putar の必須コロケーション（putar balik, putar otak, putar lidah, putar haluan） (`docs/lexicon/14-verb-collocations-putar.md`)
-- [ ] `[未着手]` 1265: 語根 jalan の必須コロケーション（jalan keluar, jalan pintas, jalan buntu, jalan tengah） (`docs/lexicon/15-verb-collocations-jalan.md`)
-- [ ] `[未着手]` 1266: 身体名詞 hati の連語（rendah hati, besar hati, patah hati, keras hati, hati kecil） (`docs/lexicon/16-noun-collocations-hati.md`)
-- [ ] `[未着手]` 1267: 身体名詞 kepala の連語（kepala dingin, keras kepala, besar kepala, cuci kepala） (`docs/lexicon/17-noun-collocations-kepala.md`)
-- [ ] `[未着手]` 1268: 身体名詞 mata の連語（mata rantai, mata air, mata angin, mata pencaharian） (`docs/lexicon/18-noun-collocations-mata.md`)
-- [ ] `[未着手]` 1269: 身体名詞 tangan の連語（tangan kanan, cuci tangan, campur tangan, angkat tangan） (`docs/lexicon/19-noun-collocations-tangan.md`)
-- [ ] `[未着手]` 1270: 身体名詞 kaki の連語（kaki lima, kaki tangan, angkat kaki, cuci kaki） (`docs/lexicon/20-noun-collocations-kaki.md`)
+- [x] `[完了]` 1261: 語根 turun の必須コロケーション（turun tangan, turun harga, turun minum, turun ranjang） (`docs/lexicon/11-verb-collocations-turun.md`)
+- [x] `[完了]` 1262: 語根 tahan の必須コロケーション（tahan banting, tahan lama, tahan uji, tahan lapar） (`docs/lexicon/12-verb-collocations-tahan.md`)
+- [x] `[完了]` 1263: 語根 pecah の必須コロケーション（pecah belah, pecah rekor, pecah tangis, pecah kongsi） (`docs/lexicon/13-verb-collocations-pecah.md`)
+- [x] `[完了]` 1264: 語根 putar の必須コロケーション（putar balik, putar otak, putar lidah, putar haluan） (`docs/lexicon/14-verb-collocations-putar.md`)
+- [x] `[完了]` 1265: 語根 jalan の必須コロケーション（jalan keluar, jalan pintas, jalan buntu, jalan tengah） (`docs/lexicon/15-verb-collocations-jalan.md`)
+- [x] `[完了]` 1266: 身体名詞 hati の連語（rendah hati, besar hati, patah hati, keras hati, hati kecil） (`docs/lexicon/16-noun-collocations-hati.md`)
+- [x] `[完了]` 1267: 身体名詞 kepala の連語（kepala dingin, keras kepala, besar kepala, cuci kepala） (`docs/lexicon/17-noun-collocations-kepala.md`)
+- [x] `[完了]` 1268: 身体名詞 mata の連語（mata rantai, mata air, mata angin, mata pencaharian） (`docs/lexicon/18-noun-collocations-mata.md`)
+- [x] `[完了]` 1269: 身体名詞 tangan の連語（tangan kanan, cuci tangan, campur tangan, angkat tangan） (`docs/lexicon/19-noun-collocations-tangan.md`)
+- [x] `[完了]` 1270: 身体名詞 kaki の連語（kaki lima, kaki tangan, angkat kaki, cuci kaki） (`docs/lexicon/20-noun-collocations-kaki.md`)
 - [ ] `[未着手]` 1271: 身体名詞 mulut の連語（mulut manis, tutup mulut, banyak mulut, buah mulut） (`docs/lexicon/21-noun-collocations-mulut.md`)
 - [ ] `[未着手]` 1272: 身体名詞 telinga の連語（tebal telinga, merah telinga, masuk telinga kanan） (`docs/lexicon/22-noun-collocations-telinga.md`)
 - [ ] `[未着手]` 1273: 身体名詞 hidung の連語（hidung belang, mencium bau, batang hidung） (`docs/lexicon/23-noun-collocations-hidung.md`)
