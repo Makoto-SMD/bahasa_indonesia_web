@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,420 / 1,500 記事 (94.7% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,430 / 1,500 記事 (95.3% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1507,16 +1507,16 @@
 - [x] `[完了]` 1418: 【UKBI第3セクション】図表・インフォグラフィックス読み取り読解法 (`docs/exam-advanced/18-ukbi-seksi-3-reading-charts-tables.md`)
 - [x] `[完了]` 1419: 【UKBI第3セクション】自然科学・テクノロジー学術論文の読解演習 (`docs/exam-advanced/19-ukbi-seksi-3-reading-scientific.md`)
 - [x] `[完了]` 1420: 【UKBI第3セクション】現代文学・エッセイの行間を読む高度読解 (`docs/exam-advanced/20-ukbi-seksi-3-reading-literature.md`)
-- [ ] `[未着手]` 1421: 【UKBI第4セクション】記述式（Menulis）：学術論文アブストラクト執筆 (`docs/exam-advanced/21-ukbi-seksi-4-writing-academic.md`)
-- [ ] `[未着手]` 1422: 【UKBI第4セクション】記述式（Menulis）：賛否両論の意見論述文 (`docs/exam-advanced/22-ukbi-seksi-4-writing-argument.md`)
-- [ ] `[未着手]` 1423: 【UKBI第5セクション】口頭表現（Berbicara）：3分間プレゼンテーション (`docs/exam-advanced/23-ukbi-seksi-5-speaking-presentation.md`)
-- [ ] `[未着手]` 1424: 【UKBI第5セクション】口頭表現（Berbicara）：質問への即座の論理的応答 (`docs/exam-advanced/24-ukbi-seksi-5-speaking-rebuttal.md`)
-- [ ] `[未着手]` 1425: 【実戦模試】インドネシア語技能検定 B級 完全想定問題 第1回（解答・解説付） (`docs/exam-advanced/25-mock-exam-inken-b-01.md`)
-- [ ] `[未着手]` 1426: 【実戦模試】インドネシア語技能検定 B級 完全想定問題 第2回（解答・解説付） (`docs/exam-advanced/26-mock-exam-inken-b-02.md`)
-- [ ] `[未着手]` 1427: 【実戦模試】インドネシア語技能検定 A級 完全想定問題 第1回（解答・解説付） (`docs/exam-advanced/27-mock-exam-inken-a-01.md`)
-- [ ] `[未着手]` 1428: 【実戦模試】インドネシア語技能検定 A級 完全想定問題 第2回（解答・解説付） (`docs/exam-advanced/28-mock-exam-inken-a-02.md`)
-- [ ] `[未着手]` 1429: 【実戦模試】UKBI Peringkat Unggul（優等）模擬問題 第1回 (`docs/exam-advanced/29-mock-exam-ukbi-unggul-01.md`)
-- [ ] `[未着手]` 1430: 【実戦模試】UKBI Peringkat Unggul（優等）模擬問題 第2回 (`docs/exam-advanced/30-mock-exam-ukbi-unggul-02.md`)
+- [x] `[完了]` 1421: 【UKBI第4セクション】記述式（Menulis）：学術論文アブストラクト執筆 (`docs/exam-advanced/21-ukbi-seksi-4-writing-academic.md`)
+- [x] `[完了]` 1422: 【UKBI第4セクション】記述式（Menulis）：賛否両論の意見論述文 (`docs/exam-advanced/22-ukbi-seksi-4-writing-argument.md`)
+- [x] `[完了]` 1423: 【UKBI第5セクション】口頭表現（Berbicara）：3分間プレゼンテーション (`docs/exam-advanced/23-ukbi-seksi-5-speaking-presentation.md`)
+- [x] `[完了]` 1424: 【UKBI第5セクション】口頭表現（Berbicara）：質問への即座の論理的応答 (`docs/exam-advanced/24-ukbi-seksi-5-speaking-rebuttal.md`)
+- [x] `[完了]` 1425: 【実戦模試】インドネシア語技能検定 B級 完全想定問題 第1回（解答・解説付） (`docs/exam-advanced/25-mock-exam-inken-b-01.md`)
+- [x] `[完了]` 1426: 【実戦模試】インドネシア語技能検定 B級 完全想定問題 第2回（解答・解説付） (`docs/exam-advanced/26-mock-exam-inken-b-02.md`)
+- [x] `[完了]` 1427: 【実戦模試】インドネシア語技能検定 A級 完全想定問題 第1回（解答・解説付） (`docs/exam-advanced/27-mock-exam-inken-a-01.md`)
+- [x] `[完了]` 1428: 【実戦模試】インドネシア語技能検定 A級 完全想定問題 第2回（解答・解説付） (`docs/exam-advanced/28-mock-exam-inken-a-02.md`)
+- [x] `[完了]` 1429: 【実戦模試】UKBI Peringkat Unggul（優等）模擬問題 第1回 (`docs/exam-advanced/29-mock-exam-ukbi-unggul-01.md`)
+- [x] `[完了]` 1430: 【実戦模試】UKBI Peringkat Unggul（優等）模擬問題 第2回 (`docs/exam-advanced/30-mock-exam-ukbi-unggul-02.md`)
 - [ ] `[未着手]` 1431: 【難問空所補充】接辞・前置詞・接続詞の精密補充ドリル 30選（Vol. 1） (`docs/exam-advanced/31-cloze-test-grammar-advanced-01.md`)
 - [ ] `[未着手]` 1432: 【難問空所補充】接辞・前置詞・接続詞の精密補充ドリル 30選（Vol. 2） (`docs/exam-advanced/32-cloze-test-grammar-advanced-02.md`)
 - [ ] `[未着手]` 1433: 【誤文訂正マスター】ハイレベル文法エラー発見特訓 30問（Vol. 1） (`docs/exam-advanced/33-error-identification-mastery-01.md`)
