@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,400 / 1,500 記事 (93.3% 達成・大台1,400記事達成！)
+- **進捗状況**: 1,410 / 1,500 記事 (94.0% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1487,16 +1487,16 @@
 - [x] `[完了]` 1400: 【総括】語根別派生語マスター図鑑 第2弾 50問総合マスター検定 (`docs/derivations-2/150-section33-master-exam.md`)
 
 ## 34. 【資格演習】検定・UKBI直前実戦模試＆徹底解説 [50記事]
-- [ ] `[未着手]` 1401: 【技能検定B級対策】文法・構造問題の急所：接尾辞-kan/-iと周囲辞の識別 (`docs/exam-advanced/01-inken-b-structure-grammar.md`)
-- [ ] `[未着手]` 1402: 【技能検定B級対策】類義語・語彙選択：文脈に最適な語彙を見抜くテクニック (`docs/exam-advanced/02-inken-b-vocabulary-synonyms.md`)
-- [ ] `[未着手]` 1403: 【技能検定B級対策】誤文訂正セクション：文法的な不整合を即座に発見する法 (`docs/exam-advanced/03-inken-b-error-correction.md`)
-- [ ] `[未着手]` 1404: 【技能検定B級対策】長文読解（ビジネス・経済）：パラグラフ要約と設問解法 (`docs/exam-advanced/04-inken-b-reading-business.md`)
-- [ ] `[未着手]` 1405: 【技能検定B級対策】日イ翻訳：日本語特有の表現を自然なインドネシア語に移す (`docs/exam-advanced/05-inken-b-translation-jp-id.md`)
-- [ ] `[未着手]` 1406: 【技能検定B級対策】イ日翻訳：抽象名詞と受動態を読みやすい日本語に翻訳する (`docs/exam-advanced/06-inken-b-translation-id-jp.md`)
-- [ ] `[未着手]` 1407: 【技能検定A級対策】超難問構文解析：複々文・挿入句・倒置構文の骨格把握 (`docs/exam-advanced/07-inken-a-complex-syntax.md`)
-- [ ] `[未着手]` 1408: 【技能検定A級対策】ことわざ（Peribahasa）と慣用表現：頻出50選の文脈運用 (`docs/exam-advanced/08-inken-a-idioms-peribahasa.md`)
-- [ ] `[未着手]` 1409: 【技能検定A級対策】社説・論説文の超長文読解：筆者の主張と論理の展開 (`docs/exam-advanced/09-inken-a-editorial-reading.md`)
-- [ ] `[未着手]` 1410: 【技能検定A級対策】自由記述・エッセイ作成：説得力ある小論文の構成法 (`docs/exam-advanced/10-inken-a-high-level-essay.md`)
+- [x] `[完了]` 1401: 【技能検定B級対策】文法・構造問題の急所：接尾辞-kan/-iと周囲辞の識別 (`docs/exam-advanced/01-inken-b-structure-grammar.md`)
+- [x] `[完了]` 1402: 【技能検定B級対策】類義語・語彙選択：文脈に最適な語彙を見抜くテクニック (`docs/exam-advanced/02-inken-b-vocabulary-synonyms.md`)
+- [x] `[完了]` 1403: 【技能検定B級対策】誤文訂正セクション：文法的な不整合を即座に発見する法 (`docs/exam-advanced/03-inken-b-error-correction.md`)
+- [x] `[完了]` 1404: 【技能検定B級対策】長文読解（ビジネス・経済）：パラグラフ要約と設問解法 (`docs/exam-advanced/04-inken-b-reading-business.md`)
+- [x] `[完了]` 1405: 【技能検定B級対策】日イ翻訳：日本語特有の表現を自然なインドネシア語に移す (`docs/exam-advanced/05-inken-b-translation-jp-id.md`)
+- [x] `[完了]` 1406: 【技能検定B級対策】イ日翻訳：抽象名詞と受動態を読みやすい日本語に翻訳する (`docs/exam-advanced/06-inken-b-translation-id-jp.md`)
+- [x] `[完了]` 1407: 【技能検定A級対策】超難問構文解析：複々文・挿入句・倒置構文の骨格把握 (`docs/exam-advanced/07-inken-a-complex-syntax.md`)
+- [x] `[完了]` 1408: 【技能検定A級対策】ことわざ（Peribahasa）と慣用表現：頻出50選の文脈運用 (`docs/exam-advanced/08-inken-a-idioms-peribahasa.md`)
+- [x] `[完了]` 1409: 【技能検定A級対策】社説・論説文の超長文読解：筆者の主張と論理の展開 (`docs/exam-advanced/09-inken-a-editorial-reading.md`)
+- [x] `[完了]` 1410: 【技能検定A級対策】自由記述・エッセイ作成：説得力ある小論文の構成法 (`docs/exam-advanced/10-inken-a-high-level-essay.md`)
 - [ ] `[未着手]` 1411: 【技能検定特A級対策】国際条約・法律条文の翻訳：格調高き定型表現の処理 (`docs/exam-advanced/11-inken-special-a-legal-treaty.md`)
 - [ ] `[未着手]` 1412: 【技能検定特A級対策】通訳・即時要約の技術：情報の取捨選択と瞬発力 (`docs/exam-advanced/12-inken-special-a-simultaneous.md`)
 - [ ] `[未着手]` 1413: 【UKBI能力評価試験】試験構成・評価基準（Peringkat）とスコアアップ戦略 (`docs/exam-advanced/13-ukbi-overview-scoring-bands.md`)
