@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,430 / 1,500 記事 (95.3% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,440 / 1,500 記事 (96.0% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1517,16 +1517,16 @@
 - [x] `[完了]` 1428: 【実戦模試】インドネシア語技能検定 A級 完全想定問題 第2回（解答・解説付） (`docs/exam-advanced/28-mock-exam-inken-a-02.md`)
 - [x] `[完了]` 1429: 【実戦模試】UKBI Peringkat Unggul（優等）模擬問題 第1回 (`docs/exam-advanced/29-mock-exam-ukbi-unggul-01.md`)
 - [x] `[完了]` 1430: 【実戦模試】UKBI Peringkat Unggul（優等）模擬問題 第2回 (`docs/exam-advanced/30-mock-exam-ukbi-unggul-02.md`)
-- [ ] `[未着手]` 1431: 【難問空所補充】接辞・前置詞・接続詞の精密補充ドリル 30選（Vol. 1） (`docs/exam-advanced/31-cloze-test-grammar-advanced-01.md`)
-- [ ] `[未着手]` 1432: 【難問空所補充】接辞・前置詞・接続詞の精密補充ドリル 30選（Vol. 2） (`docs/exam-advanced/32-cloze-test-grammar-advanced-02.md`)
-- [ ] `[未着手]` 1433: 【誤文訂正マスター】ハイレベル文法エラー発見特訓 30問（Vol. 1） (`docs/exam-advanced/33-error-identification-mastery-01.md`)
-- [ ] `[未着手]` 1434: 【誤文訂正マスター】ハイレベル文法エラー発見特訓 30問（Vol. 2） (`docs/exam-advanced/34-error-identification-mastery-02.md`)
-- [ ] `[未着手]` 1435: 【速読演習】制限時間内での長文斜め読みと設問照合テクニック（Vol. 1） (`docs/exam-advanced/35-reading-speed-comprehension-01.md`)
-- [ ] `[未着手]` 1436: 【速読演習】制限時間内での長文斜め読みと設問照合テクニック（Vol. 2） (`docs/exam-advanced/36-reading-speed-comprehension-02.md`)
-- [ ] `[未着手]` 1437: 検定で狙われる「不規則鼻音化・特殊接辞」の落とし穴完全網羅 (`docs/exam-advanced/37-formal-affixation-traps.md`)
-- [ ] `[未着手]` 1438: 上級試験に登場する文語・古典由来語彙（syahdan, alkisah, bahwasanya） (`docs/exam-advanced/38-archaic-classical-terms-in-exams.md`)
-- [ ] `[未着手]` 1439: 検定必須！政治・社会・経済の公式略語・頭字語200選 (`docs/exam-advanced/39-acronyms-abbreviations-mastery.md`)
-- [ ] `[未着手]` 1440: EYD第5版に基づく句読点（コンマ、セミコロン、コロン）の正確な用法 (`docs/exam-advanced/40-punctuation-eyd-mechanics.md`)
+- [x] `[完了]` 1431: 【難問空所補充】接辞・前置詞・接続詞の精密補充ドリル 30選（Vol. 1） (`docs/exam-advanced/31-cloze-test-grammar-advanced-01.md`)
+- [x] `[完了]` 1432: 【難問空所補充】接辞・前置詞・接続詞の精密補充ドリル 30選（Vol. 2） (`docs/exam-advanced/32-cloze-test-grammar-advanced-02.md`)
+- [x] `[完了]` 1433: 【誤文訂正マスター】ハイレベル文法エラー発見特訓 30問（Vol. 1） (`docs/exam-advanced/33-error-identification-mastery-01.md`)
+- [x] `[完了]` 1434: 【誤文訂正マスター】ハイレベル文法エラー発見特訓 30問（Vol. 2） (`docs/exam-advanced/34-error-identification-mastery-02.md`)
+- [x] `[完了]` 1435: 【速読演習】制限時間内での長文斜め読みと設問照合テクニック（Vol. 1） (`docs/exam-advanced/35-reading-speed-comprehension-01.md`)
+- [x] `[完了]` 1436: 【速読演習】制限時間内での長文斜め読みと設問照合テクニック（Vol. 2） (`docs/exam-advanced/36-reading-speed-comprehension-02.md`)
+- [x] `[完了]` 1437: 検定で狙われる「不規則鼻音化・特殊接辞」の落とし穴完全網羅 (`docs/exam-advanced/37-formal-affixation-traps.md`)
+- [x] `[完了]` 1438: 上級試験に登場する文語・古典由来語彙（syahdan, alkisah, bahwasanya） (`docs/exam-advanced/38-archaic-classical-terms-in-exams.md`)
+- [x] `[完了]` 1439: 検定必須！政治・社会・経済の公式略語・頭字語200選 (`docs/exam-advanced/39-acronyms-abbreviations-mastery.md`)
+- [x] `[完了]` 1440: EYD第5版に基づく句読点（コンマ、セミコロン、コロン）の正確な用法 (`docs/exam-advanced/40-punctuation-eyd-mechanics.md`)
 - [ ] `[未着手]` 1441: 【翻訳演習】公式ビジネスレター・案内状の日イ相互翻訳 (`docs/exam-advanced/41-translation-clinic-business-letters.md`)
 - [ ] `[未着手]` 1442: 【翻訳演習】中央銀行レポート・経済白書の日イ相互翻訳 (`docs/exam-advanced/42-translation-clinic-economic-reports.md`)
 - [ ] `[未着手]` 1443: 【翻訳演習】法務通知・コンプライアンス規程の日イ相互翻訳 (`docs/exam-advanced/43-translation-clinic-legal-notices.md`)
