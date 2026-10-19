@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,190 / 1,500 記事 (79.3% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,200 / 1,500 記事 (80.0% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1267,17 +1267,16 @@
 - [x] `[完了]` 1187: 【連音（リンキング）】単語境界で音がつながるネイティブの自然なリエゾン (`docs/phonology/07-linking-liaison.md`)
 - [x] `[完了]` 1188: 【語幹アクセントと接辞】接辞が付いても動かない原則後から2番目の音節ルール (`docs/phonology/08-penultimate-stress-rule.md`)
 - [x] `[完了]` 1189: 【文全体の抑揚（イントネーション）】疑問文・平叙文・命令文のピッチパターン (`docs/phonology/09-sentence-intonation-pitch.md`)
-- [x] `[完了]` 1190: 【脱カタカナ発音】日本人が無意識に子音の後に母音を挿入してしまう癖の完全矯正 (`docs/phonology/10-eliminating-katakana-bias.md`)
-- [ ] `[未着手]` 1191: 【ミニマルペア特訓】papan/kapan, baru/perlu 等の聞き間違いやすい単語50対 (`docs/phonology/11-homonyms-minimal-pairs.md`)
-- [ ] `[未着手]` 1192: 【外来語の音韻変化】英語・オランダ語がインドネシア語化する音の法則 (`docs/phonology/12-loanword-phonetic-shifts.md`)
-- [ ] `[未着手]` 1193: 【日本語訛り矯正】カタカナ発音を脱却するための母音無声化防止と口の開け方 (`docs/phonology/13-pronunciation-habits-japanese.md`)
-- [ ] `[未着手]` 1194: 【息継ぎと息のコントロール】長い複文を途切れずに堂々と発声するプロソディ (`docs/phonology/14-breath-control-prosody.md`)
-- [ ] `[未着手]` 1195: 【ディクテーション特訓】聞こえた音を正確に書き取る短文書き取り30問 (`docs/phonology/15-transcription-dictation-drills.md`)
-- [ ] `[未着手]` 1196: 【最新AI音声活用】スマホの音声入力とAI判定で発音の明瞭度を客観テストする (`docs/phonology/16-ai-tts-voice-evaluation.md`)
-- [ ] `[未着手]` 1197: 【AI英会話ならぬAIイ会話】ChatGPT音声モードを使った24時間独学スピーキング環境 (`docs/phonology/17-chatgpt-voice-conversation-setup.md`)
-- [ ] `[未着手]` 1198: 【生音源シャドーイング】おすすめインドネシア語ポッドキャスト・YouTubeチャンネルと学習法 (`docs/phonology/18-podcast-youtube-shadowing.md`)
-- [ ] `[未着手]` 1199: 【プレゼン・スピーチの発声】大勢の前で説得力を持たせる朗々とした発声法 (`docs/phonology/19-public-speech-presentation-voice.md`)
-- [ ] `[未着手]` 1200: 総合発音・音韻検定：調音・リズム・イントネーションの総合セルフチェック (`docs/phonology/20-comprehensive-phonetic-check.md`)
+- [x] `[完了]` 1191: 【弱音化と音韻脱落】早口の日常会話で消える母音・子音の法則 (`docs/phonology/11-vowel-reduction-elision.md`)
+- [x] `[完了]` 1192: 【外来語の借用音韻】オランダ語・アラビア語・英語由来単語の発音ルール (`docs/phonology/12-loanword-phonology.md`)
+- [x] `[完了]` 1193: 【AI音声認識特訓】Siri / Google音声入力に100%通じるクリアな調音法 (`docs/phonology/13-ai-voice-recognition-training.md`)
+- [x] `[完了]` 1194: 【早口言葉（Lidah Terbelit）】舌の回転速度を上げる伝統的アナウンサー訓練法 (`docs/phonology/14-tongue-twisters-speed-drill.md`)
+- [x] `[完了]` 1195: 【プロソディ・速度可変訓練】0.8倍速から1.5倍速まで自在に操るシャドーイング (`docs/phonology/15-variable-speed-shadowing.md`)
+- [x] `[完了]` 1196: 【感情とピッチ高低差】怒り・喜び・皮肉・親愛を伝える音調コントロール (`docs/phonology/16-emotional-pitch-inflection.md`)
+- [x] `[完了]` 1197: 【映画・ドラマのセリフ完全完コピ】息遣い・間（ま）・ため息まで真似るオーバーラッピング (`docs/phonology/17-drama-dialogue-overlapping.md`)
+- [x] `[完了]` 1198: 【ニュース・アナウンスの格調高い発話】国家儀式・式典・報道番組のプロソディ (`docs/phonology/18-formal-news-broadcasting-cadence.md`)
+- [x] `[完了]` 1199: 【通訳者の先取りシャドーイング】2秒遅れで追唱しながら意味を把握する高度訓練 (`docs/phonology/19-interpreter-simultaneous-shadowing.md`)
+- [x] `[完了]` 1200: 【音韻総合診断テスト】発音・アクセント・イントネーションの総合実力測定20番勝負 (`docs/phonology/20-phonology-mastery-diagnostic.md`)
 
 ## 30. 【多読多聴】CEFR準拠 段階別リーディング（Graded Readers A1〜C2） [50記事]
 - [ ] `[未着手]` 1201: 【Level 1 (A1)】Pagi Hari di Rumah Budi（ブディ君の爽やかな朝の日常） (`docs/graded-reading/level-1-01-morning-routine.md`)
