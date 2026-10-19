@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,240 / 1,500 記事 (82.7% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,250 / 1,500 記事 (83.3% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1319,16 +1319,16 @@
 - [x] `[完了]` 1238: 【Level 4 (B2)】Menjembatani Kesenjangan Pendidikan di Wilayah 3T（辺境島嶼地域の教育格差に挑む若手教師たち） (`docs/graded-reading/level-4-08-education-inequality-islands.md`)
 - [x] `[完了]` 1239: 【Level 4 (B2)】Kedaulatan Hutan Adat dan Pengakuan Hak Masyarakat（慣習法共同体と森林主権を巡る司法闘争） (`docs/graded-reading/level-4-09-traditional-law-adat.md`)
 - [x] `[完了]` 1240: 【Level 4 (B2) 総括】Tantangan Abad 21 Menuju Indonesia Emas 2045 & 総合読解診断テスト (`docs/graded-reading/level-4-10-level4-review-quiz.md`)
-- [ ] `[未着手]` 1241: 【Level 5 (C1/C2)】Sentralitas ASEAN di Tengah Rivalitas Kekuatan Besar（大国角逐の中のASEAN中心性とインドネシア外交） (`docs/graded-reading/level-5-01-geopolitics-asean-centrality.md`)
-- [ ] `[未着手]` 1242: 【Level 5 (C1/C2)】Dinamika Yurisprudensi Mahkamah Konstitusi dan Negara Hukum（憲法裁判所判例の変遷と法治国家の課題） (`docs/graded-reading/level-5-02-constitutional-court-jurisprudence.md`)
-- [ ] `[未着手]` 1243: 【Level 5 (C1/C2)】Trilema Makroekonomi dan Ketahanan Rupiah Menghadapi Volatilitas Global（為替防衛・金融緩和・資本移動の相克） (`docs/graded-reading/level-5-03-macroeconomic-trilemma.md`)
-- [ ] `[未着手]` 1244: 【Level 5 (C1/C2)】Dekonstruksi Kolonialisme dalam Tetralogi Buru Karya Pramoedya（プラムディヤ『ブル島四部作』の反植民地文学批評） (`docs/graded-reading/level-5-04-literary-criticism-pramoedya.md`)
-- [ ] `[未着手]` 1245: 【Level 5 (C1/C2)】Revolusi Agraria yang Belum Usai: Menimbang Keadilan Penguasaan Lahan（土地分配と資源開発をめぐる構造的土地紛争） (`docs/graded-reading/level-5-05-agrarian-reform-conflict.md`)
-- [ ] `[未着手]` 1246: 【Level 5 (C1/C2)】Kedaulatan Siber dan Dilema Etika Kecerdasan Artifisial di Kawasan Selatan Global（グローバルサウスにおけるAI倫理とデータ主権） (`docs/graded-reading/level-5-06-cyber-sovereignty-ai-ethics.md`)
-- [ ] `[未着手]` 1247: 【Level 5 (C1/C2)】Linguistik Pascakolonial: Transformasi Bahasa Melayu Menjadi Identitas Kebangsaan（マレー語から国語への昇華とポストコロニアル言語戦略） (`docs/graded-reading/level-5-07-postcolonial-linguistics-pancasila.md`)
-- [ ] `[未着手]` 1248: 【Level 5 (C1/C2)】Garis Wallace dan Evolusi Biogeografi Kepulauan Nusantara（ウォレス線が生んだ世界無比の生物地理学的奇跡） (`docs/graded-reading/level-5-08-biodiversity-wallace-line.md`)
-- [ ] `[未着手]` 1249: 【Level 5 (C1/C2)】Evaluasi Seperempat Abad Otonomi Daerah: Antara Pemerataan dan Feodalisme Baru（地方分権25年の総括：地域格差解消か新領主制か） (`docs/graded-reading/level-5-09-decentralization-regional-autonomy.md`)
-- [ ] `[未着手]` 1250: 【Level 5 (C1/C2)】Rezim Hukum ALKI dan Kedaulatan Maritim Berdasarkan UNCLOS 1982（群島航路帯法制と海洋国家インドネシアの安全保障） (`docs/graded-reading/level-5-10-archipelagic-sea-lanes-unclos.md`)
+- [x] `[完了]` 1241: 【Level 5 (C1/C2)】Sentralitas ASEAN di Tengah Rivalitas Hegemoni（大国角逐の中のASEAN中心性と独立積極外交の神髄） (`docs/graded-reading/level-5-01-geopolitics-asean-centrality.md`)
+- [x] `[完了]` 1242: 【Level 5 (C1/C2)】Dinamika Yurisprudensi Mahkamah Konstitusi dan Negara Hukum（憲法裁判所判例の変遷と立憲主義の試練） (`docs/graded-reading/level-5-02-constitutional-court-jurisprudence.md`)
+- [x] `[完了]` 1243: 【Level 5 (C1/C2)】Trilema Makroekonomi dan Ketahanan Moneter Menghadapi Volatilitas Global（為替防衛・金融主権・資本移動の相克） (`docs/graded-reading/level-5-03-macroeconomic-trilemma.md`)
+- [x] `[完了]` 1244: 【Level 5 (C1/C2)】Dekonstruksi Kolonialisme dalam Tetralogi Buru Karya Pramoedya（プラムディヤ『ブル島四部作』の脱植民地文学批評） (`docs/graded-reading/level-5-04-literary-criticism-pramoedya.md`)
+- [x] `[完了]` 1245: 【Level 5 (C1/C2)】Doktrin Deklarasi Djuanda dan Hukum Laut Internasional（ジュアンダ宣言と群島国家ドクトリンの確立） (`docs/graded-reading/level-5-05-maritime-archipelagic-state-doctrine.md`)
+- [x] `[完了]` 1246: 【Level 5 (C1/C2)】Ontologi Pancasila dalam Menjawab Krisis Pluralisme（パンチャシラ存在論と多元主義の哲学的再考） (`docs/graded-reading/level-5-06-multiculturalism-pancasila-philosophy.md`)
+- [x] `[完了]` 1247: 【Level 5 (C1/C2)】Bioekonomi dan Kedaulatan Genomik Sumber Daya Hayati（生物多様性ゲノミクスと遺伝資源主権） (`docs/graded-reading/level-5-07-biodiversity-genomics-sovereignty.md`)
+- [x] `[完了]` 1248: 【Level 5 (C1/C2)】Trilema Transisi Energi Menuju Net-Zero Emission 2060（脱石炭とネットゼロエミッションへの構造的苦闘） (`docs/graded-reading/level-5-08-energy-trilemma-decarbonization.md`)
+- [x] `[完了]` 1249: 【Level 5 (C1/C2)】Hermeneutika Prasasti dan Jejak Kebudayaan Austronesia（古代碑文解釈学とオーストロネシア海運文明の原風景） (`docs/graded-reading/level-5-09-epigraphy-ancient-javanese-script.md`)
+- [x] `[完了]` 1250: 【Level 5 (C1/C2) 究極総括】Dialektika Kosmopolitanisme & Keindonesiaan & 最上級総合読解診断テスト (`docs/graded-reading/level-5-10-level5-review-quiz.md`)
 
 ## 31. 【共起連語】最頻出コア語根＆コロケーション辞典 [50記事]
 - [ ] `[未着手]` 1251: 語根 ambil の必須コロケーション（ambil bagian, ambil alih, ambil keputusan） (`docs/lexicon/01-verb-collocations-ambil.md`)
