@@ -821,6 +821,18 @@ nav = [
       { "Level 5-09: 古代碑文解釈学とオーストロネシア海運文明の原風景" = "graded-reading/level-5-09-epigraphy-ancient-javanese-script.md" },
       { "Level 5-10: 【C1/C2究極総括】世界市民性とインドネシア性の弁証法＆最上級診断" = "graded-reading/level-5-10-level5-review-quiz.md" },
     ] },
+    { "インドネシア現代社会・トレンド深層読解" = [
+      { "インドネシアのEV革命：豊富なニッケル資源と世界最大のバッテリーサプライチェーン構想" = "contemporary/01-electric-vehicle-ecosystem.md" },
+      { "TikTok Shopの禁止と電撃提携：ソーシャルコマースが中小零細企業に与えた衝撃" = "contemporary/02-tiktok-shop-social-commerce.md" },
+      { "サンドイッチ世代の葛藤：親の扶養と子供の養育に挟まれる若年労働者のリアル" = "contemporary/03-gen-z-fomo-sandwich-generation.md" },
+      { "「ピンジョル（違法オンライン融資）」の闇と規制当局OJKのデジタル金融包摂対策" = "contemporary/04-fintech-p2p-lending-pinjol.md" },
+      { "コピ・ケナンガンとトコ・コピ・トゥク：街角の甘いカフェラテが創る数十億ドル産業" = "contemporary/05-coffee-shop-startup-boom.md" },
+      { "韓流（Hallyu）現象とインドネシア経済：K-POPアイドルを起用したメガブランド戦略" = "contemporary/06-k-pop-hallyu-wave-branding.md" },
+      { "チャングーの光と影：バリ島に押し寄せるデジタルノマドと地元インフラ・文化の摩擦" = "contemporary/07-digital-nomad-bali-canggu.md" },
+      { "東南アジア初の高速鉄道「Whoosh」開業1年：ジャカルタ・バンドン都市圏の劇的変容" = "contemporary/08-fast-train-whoosh-impact.md" },
+      { "世界最大のハラール消費市場：化粧品・医薬品・ファッションまで広がる認証義務化" = "contemporary/09-halal-lifestyle-industry.md" },
+      { "沈みゆく首都ジャカルタ：地下水過剰汲み上げと海面上昇に挑む巨大堤防門計画" = "contemporary/10-climate-change-sinking-jakarta.md" },
+    ] },
     { "時事ニュース読解" = [
       { "新首都IKN建設の進捗と投資誘致" = "news-reading/n01-ikn-infrastructure-investment.md" },
       { "ニッケル鉱石の下流化とEVサプライチェーン" = "news-reading/n02-nickel-downstreaming-ev-battery.md" },

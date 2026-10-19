@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,300 / 1,500 記事 (86.7% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,310 / 1,500 記事 (87.3% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1383,16 +1383,16 @@
 - [x] `[完了]` 1300: 総合コロケーション検定：ネイティブらしい共起連語マスター50問テスト (`docs/lexicon/50-comprehensive-collocation-mastery.md`)
 
 ## 32. 【長文読解】インドネシア現代社会・トレンド深層読解 [50記事]
-- [ ] `[未着手]` 1301: インドネシアのEV革命：豊富なニッケル資源と世界最大のバッテリーサプライチェーン構想 (`docs/contemporary/01-electric-vehicle-ecosystem.md`)
-- [ ] `[未着手]` 1302: TikTok Shopの禁止と電撃提携：ソーシャルコマースが中小零細企業に与えた衝撃 (`docs/contemporary/02-tiktok-shop-social-commerce.md`)
-- [ ] `[未着手]` 1303: サンドイッチ世代の葛藤：親の扶養と子供の養育に挟まれる若年労働者のリアル (`docs/contemporary/03-gen-z-fomo-sandwich-generation.md`)
-- [ ] `[未着手]` 1304: 「ピンジョル（違法オンライン融資）」の闇と規制当局OJKのデジタル金融包摂対策 (`docs/contemporary/04-fintech-p2p-lending-pinjol.md`)
-- [ ] `[未着手]` 1305: コピ・ケナンガンとトコ・コピ・トゥク：街角の甘いカフェラテが創る数十億ドル産業 (`docs/contemporary/05-coffee-shop-startup-boom.md`)
-- [ ] `[未着手]` 1306: 韓流（Hallyu）現象とインドネシア経済：K-POPアイドルを起用したメガブランド戦略 (`docs/contemporary/06-k-pop-hallyu-wave-branding.md`)
-- [ ] `[未着手]` 1307: チャングーの光と影：バリ島に押し寄せるデジタルノマドと地元インフラ・文化の摩擦 (`docs/contemporary/07-digital-nomad-bali-canggu.md`)
-- [ ] `[未着手]` 1308: 東南アジア初の高速鉄道「Whoosh」開業1年：ジャカルタ・バンドン都市圏の劇的変容 (`docs/contemporary/08-fast-train-whoosh-impact.md`)
-- [ ] `[未着手]` 1309: 世界最大のハラール消費市場：化粧品・医薬品・ファッションまで広がる認証義務化 (`docs/contemporary/09-halal-lifestyle-industry.md`)
-- [ ] `[未着手]` 1310: 沈みゆく首都ジャカルタ：地下水過剰汲み上げと海面上昇に挑む巨大堤防門計画 (`docs/contemporary/10-climate-change-sinking-jakarta.md`)
+- [x] `[完了]` 1301: インドネシアのEV革命：豊富なニッケル資源と世界最大のバッテリーサプライチェーン構想 (`docs/contemporary/01-electric-vehicle-ecosystem.md`)
+- [x] `[完了]` 1302: TikTok Shopの禁止と電撃提携：ソーシャルコマースが中小零細企業に与えた衝撃 (`docs/contemporary/02-tiktok-shop-social-commerce.md`)
+- [x] `[完了]` 1303: サンドイッチ世代の葛藤：親の扶養と子供の養育に挟まれる若年労働者のリアル (`docs/contemporary/03-gen-z-fomo-sandwich-generation.md`)
+- [x] `[完了]` 1304: 「ピンジョル（違法オンライン融資）」の闇と規制当局OJKのデジタル金融包摂対策 (`docs/contemporary/04-fintech-p2p-lending-pinjol.md`)
+- [x] `[完了]` 1305: コピ・ケナンガンとトコ・コピ・トゥク：街角の甘いカフェラテが創る数十億ドル産業 (`docs/contemporary/05-coffee-shop-startup-boom.md`)
+- [x] `[完了]` 1306: 韓流（Hallyu）現象とインドネシア経済：K-POPアイドルを起用したメガブランド戦略 (`docs/contemporary/06-k-pop-hallyu-wave-branding.md`)
+- [x] `[完了]` 1307: チャングーの光と影：バリ島に押し寄せるデジタルノマドと地元インフラ・文化の摩擦 (`docs/contemporary/07-digital-nomad-bali-canggu.md`)
+- [x] `[完了]` 1308: 東南アジア初の高速鉄道「Whoosh」開業1年：ジャカルタ・バンドン都市圏の劇的変容 (`docs/contemporary/08-fast-train-whoosh-impact.md`)
+- [x] `[完了]` 1309: 世界最大のハラール消費市場：化粧品・医薬品・ファッションまで広がる認証義務化 (`docs/contemporary/09-halal-lifestyle-industry.md`)
+- [x] `[完了]` 1310: 沈みゆく首都ジャカルタ：地下水過剰汲み上げと海面上昇に挑む巨大堤防門計画 (`docs/contemporary/10-climate-change-sinking-jakarta.md`)
 - [ ] `[未着手]` 1311: スマート森林都市IKNヌサンタラ：新大統領府の移転プロセスと海外直接投資の行方 (`docs/contemporary/11-new-capital-nusantara-progress.md`)
 - [ ] `[未着手]` 1312: 環太平洋火山帯の地熱エネルギー：世界第2位の埋蔵量を誇るクリーン電力開発 (`docs/contemporary/12-green-energy-geothermal-power.md`)
 - [ ] `[未着手]` 1313: パーム油パームバイオディーゼル（B35）：食料か燃料か、EU環境規制との果てなき対立 (`docs/contemporary/13-palm-oil-b35-biodiesel.md`)
