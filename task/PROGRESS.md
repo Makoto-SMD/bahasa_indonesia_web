@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,280 / 1,500 記事 (85.3% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,290 / 1,500 記事 (86.0% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1361,16 +1361,16 @@
 - [x] `[完了]` 1278: 【ビジネス連語：財務】laporan laba rugi, arus kas, suntikan modal, suku bunga (`docs/lexicon/28-business-collocations-finance.md`)
 - [x] `[完了]` 1279: 【ビジネス連語：人事】perekrutan karyawan, pemutusan hubungan kerja, evaluasi kinerja (`docs/lexicon/29-business-collocations-hr.md`)
 - [x] `[完了]` 1280: 【ビジネス連語：販促】pangsa pasar, target konsumen, kampanye promosi, citra merek (`docs/lexicon/30-business-collocations-marketing.md`)
-- [ ] `[未着手]` 1281: 【政治時事連語：選挙】pemilihan umum, perolehan suara, hak pilih, kampanye akbar (`docs/lexicon/31-politics-collocations-election.md`)
-- [ ] `[未着手]` 1282: 【政治時事連語：外交】hubungan bilateral, nota kesepahaman, kunjungan kenegaraan (`docs/lexicon/32-politics-collocations-diplomacy.md`)
-- [ ] `[未着手]` 1283: 【法律連語：法廷】mengajukan gugatan, vonis hakim, saksi kunci, bukti otentik (`docs/lexicon/33-legal-collocations-court.md`)
-- [ ] `[未着手]` 1284: 【経済時事連語：マクロ】laju inflasi, pertumbuhan ekonomi, daya beli masyarakat (`docs/lexicon/34-economics-collocations-inflation.md`)
-- [ ] `[未着手]` 1285: 【環境時事連語：気候】pemanasan global, energi terbarukan, emisi karbon, deforestasi (`docs/lexicon/35-environment-collocations-climate.md`)
-- [ ] `[未着手]` 1286: 【IT技術連語：デジタル】keamanan siber, kecerdasan buatan, komputasi awan, basis data (`docs/lexicon/36-tech-collocations-digital.md`)
-- [ ] `[未着手]` 1287: 【医療健康連語：診察】tekanan darah, resep dokter, rawat inap, efek samping (`docs/lexicon/37-health-collocations-medical.md`)
-- [ ] `[未着手]` 1288: 【学術論文連語：研究】metodologi penelitian, kerangka berpikir, uji hipotesis (`docs/lexicon/38-academic-collocations-research.md`)
-- [ ] `[未着手]` 1289: 【伝統文化連語：儀礼】upacara adat, warisan leluhur, nilai luhur, norma masyarakat (`docs/lexicon/39-culture-collocations-tradition.md`)
-- [ ] `[未着手]` 1290: 【家庭生活連語：家事】membersihkan rumah, memasak makanan, mencuci pakaian (`docs/lexicon/40-daily-collocations-home.md`)
+- [x] `[完了]` 1281: 【政治時事連語：選挙】pemilihan umum, perolehan suara, hak pilih, kampanye akbar (`docs/lexicon/31-politics-collocations-election.md`)
+- [x] `[完了]` 1282: 【政治時事連語：外交】hubungan bilateral, nota kesepahaman, kunjungan kenegaraan (`docs/lexicon/32-politics-collocations-diplomacy.md`)
+- [x] `[完了]` 1283: 【法律連語：法廷】mengajukan gugatan, vonis hakim, saksi kunci, bukti otentik (`docs/lexicon/33-legal-collocations-court.md`)
+- [x] `[完了]` 1284: 【経済時事連語：マクロ】laju inflasi, pertumbuhan ekonomi, daya beli masyarakat (`docs/lexicon/34-economics-collocations-inflation.md`)
+- [x] `[完了]` 1285: 【環境時事連語：気候】pemanasan global, energi terbarukan, emisi karbon, deforestasi (`docs/lexicon/35-environment-collocations-climate.md`)
+- [x] `[完了]` 1286: 【IT技術連語：デジタル】keamanan siber, kecerdasan buatan, komputasi awan, basis data (`docs/lexicon/36-tech-collocations-digital.md`)
+- [x] `[完了]` 1287: 【医療健康連語：診察】tekanan darah, resep dokter, rawat inap, efek samping (`docs/lexicon/37-health-collocations-medical.md`)
+- [x] `[完了]` 1288: 【学術論文連語：研究】metodologi penelitian, kerangka berpikir, uji hipotesis (`docs/lexicon/38-academic-collocations-research.md`)
+- [x] `[完了]` 1289: 【伝統文化連語：儀礼】upacara adat, warisan leluhur, nilai luhur, norma masyarakat (`docs/lexicon/39-culture-collocations-tradition.md`)
+- [x] `[完了]` 1290: 【家庭生活連語：家事】membersihkan rumah, memasak makanan, mencuci pakaian (`docs/lexicon/40-daily-collocations-home.md`)
 - [ ] `[未着手]` 1291: 強調副詞と形容詞の自然な組み合わせ（sangat luas, amat mahal, luar biasa indah） (`docs/lexicon/41-adjective-collocations-sangat.md`)
 - [ ] `[未着手]` 1292: 絶対・確定を表す共起表現（syarat mutlak, menang mutlak, rahasia umum） (`docs/lexicon/42-adjective-collocations-mutlak.md`)
 - [ ] `[未着手]` 1293: 頻度副詞の自然な共起位置（selalu hadir, sering kali terjadi, jarang terlihat） (`docs/lexicon/43-frequency-adverbs-collocations.md`)
