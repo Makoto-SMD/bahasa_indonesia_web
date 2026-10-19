@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,210 / 1,500 記事 (80.7% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,220 / 1,500 記事 (81.3% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1289,16 +1289,16 @@
 - [x] `[完了]` 1208: 【Level 1 (A1)】Payung Merah yang Hilang（雨の日に置き忘れた赤い傘を探して） (`docs/graded-reading/level-1-08-lost-umbrella.md`)
 - [x] `[完了]` 1209: 【Level 1 (A1)】Berkunjung ke Rumah Kakek di Desa（村のおじいちゃんの家を訪ねて） (`docs/graded-reading/level-1-09-visiting-grandparents.md`)
 - [x] `[完了]` 1210: 【Level 1 (A1) 総括】Cerita Liburan Seru & 総合読解力診断テスト (`docs/graded-reading/level-1-10-level1-review-quiz.md`)
-- [ ] `[未着手]` 1211: 【Level 2 (A2)】Petualangan ke Yogyakarta（夜行列車で行く古都ジョグジャカルタ旅） (`docs/graded-reading/level-2-01-travel-to-jogja.md`)
-- [ ] `[未着手]` 1212: 【Level 2 (A2)】Liburan di Desa Kakek（祖父の村での田植え体験と川遊び） (`docs/graded-reading/level-2-02-school-holiday-village.md`)
-- [ ] `[未着手]` 1213: 【Level 2 (A2)】Belajar Memasak Rendang Padang（本場パダン料理ルンダン作りに挑戦） (`docs/graded-reading/level-2-03-cooking-rendang.md`)
-- [ ] `[未着手]` 1214: 【Level 2 (A2)】Pertandingan Sepak Bola Antar-Desa（白熱する村対抗サッカー決勝戦） (`docs/graded-reading/level-2-04-football-match.md`)
-- [ ] `[未着手]` 1215: 【Level 2 (A2)】Melihat Komodo di Ragunan（ラグナン動物園のコモドオオトカゲ） (`docs/graded-reading/level-2-05-visiting-zoo.md`)
-- [ ] `[未着手]` 1216: 【Level 2 (A2)】Hujan Deras dan Gotong Royong（大雨の冠水と近所の助け合い清掃） (`docs/graded-reading/level-2-06-rainy-season-flood.md`)
-- [ ] `[未着手]` 1217: 【Level 2 (A2)】Membeli Ponsel Pertama dengan Uang Sendiri（アルバイト代で買ったスマホ） (`docs/graded-reading/level-2-07-buying-smartphone.md`)
-- [ ] `[未着手]` 1218: 【Level 2 (A2)】Belajar Membatik di Sanggar Seni（伝統バティック染色のワークショップ） (`docs/graded-reading/level-2-08-batik-making-class.md`)
-- [ ] `[未着手]` 1219: 【Level 2 (A2)】Buku Misterius di Perpustakaan Lama（古い図書館で見つけた手帳の秘密） (`docs/graded-reading/level-2-09-library-mystery.md`)
-- [ ] `[未着手]` 1220: 【Level 2 (A2)】Lomba 17 Agustus di Kampungku（独立記念日の伝統パンジャット・ピナン競技） (`docs/graded-reading/level-2-10-indonesia-independence-day.md`)
+- [x] `[完了]` 1211: 【Level 2 (A2)】Petualangan ke Yogyakarta（夜行列車で行く古都ジョグジャカルタ旅） (`docs/graded-reading/level-2-01-travel-to-jogja.md`)
+- [x] `[完了]` 1212: 【Level 2 (A2)】Liburan di Desa Kakek（祖父の村での田植え体験と川遊び） (`docs/graded-reading/level-2-02-school-holiday-village.md`)
+- [x] `[完了]` 1213: 【Level 2 (A2)】Belajar Memasak Rendang Padang（本場パダン料理ルンダン作りに挑戦） (`docs/graded-reading/level-2-03-cooking-rendang.md`)
+- [x] `[完了]` 1214: 【Level 2 (A2)】Pertandingan Sepak Bola Antar-Desa（白熱する村対抗サッカー決勝戦） (`docs/graded-reading/level-2-04-football-match.md`)
+- [x] `[完了]` 1215: 【Level 2 (A2)】Melihat Komodo di Ragunan（ラグナン動物園のコモドオオトカゲ） (`docs/graded-reading/level-2-05-visiting-zoo.md`)
+- [x] `[完了]` 1216: 【Level 2 (A2)】Hujan Deras dan Gotong Royong（大雨の冠水と近所の助け合い清掃） (`docs/graded-reading/level-2-06-rainy-season-flood.md`)
+- [x] `[完了]` 1217: 【Level 2 (A2)】Membeli Ponsel Pertama dengan Uang Sendiri（アルバイト代で買ったスマホ） (`docs/graded-reading/level-2-07-buying-smartphone.md`)
+- [x] `[完了]` 1218: 【Level 2 (A2)】Belajar Membatik di Sanggar Seni（伝統バティック染色のワークショップ） (`docs/graded-reading/level-2-08-batik-making-class.md`)
+- [x] `[完了]` 1219: 【Level 2 (A2)】Buku Misterius di Perpustakaan Lama（古い図書館で見つけた手帳の秘密） (`docs/graded-reading/level-2-09-library-mystery.md`)
+- [x] `[完了]` 1220: 【Level 2 (A2)】Lomba 17 Agustus di Kampungku（独立記念日の伝統パンジャット・ピナン競技） (`docs/graded-reading/level-2-10-indonesia-independence-day.md`)
 - [ ] `[未着手]` 1221: 【Level 3 (B1)】Kisah Pengemudi Ojek Online di Ibu Kota（配車ドライバーの一日と街の息吹） (`docs/graded-reading/level-3-01-ojek-online-driver.md`)
 - [ ] `[未着手]` 1222: 【Level 3 (B1)】Dompet Digital dan Warung Tradisional（屋台に広がるQRIS決済革命） (`docs/graded-reading/level-3-02-digital-wallet-revolution.md`)
 - [ ] `[未着手]` 1223: 【Level 3 (B1)】Perjalanan Mudik Lebaran Menembus Kemacetan（年に一度の帰省ラッシュの感動） (`docs/graded-reading/level-3-03-mudik-homecoming-journey.md`)
