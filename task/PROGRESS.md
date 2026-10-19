@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,450 / 1,500 記事 (96.7% 達成・セクション34完結！残り50記事)
+- **進捗状況**: 1,460 / 1,500 記事 (97.3% 達成・最終セクション35進行中！残り40記事)
 
 ---
 
@@ -1539,16 +1539,16 @@
 - [x] `[完了]` 1450: グランドフィナーレ：全形式統合型インドネシア語究極の実戦模試 (`docs/exam-advanced/50-comprehensive-grand-mock-exam.md`)
 
 ## 35. 【表現技法】プロの翻訳・通訳・高度表現テクニック [50記事]
-- [ ] `[未着手]` 1451: 日イ翻訳の根本原理：日本語の主語省略とインドネシア語の主語復元の技術 (`docs/translation-stylistics/01-jp-id-translation-core-principles.md`)
-- [ ] `[未着手]` 1452: 日本語の「は」と「が」をインドネシア語でどう表現するか（主題提示 vs 焦点化 yang） (`docs/translation-stylistics/02-handling-japanese-wa-and-ga.md`)
-- [ ] `[未着手]` 1453: 日本語の抽象名詞（〜性、〜化、〜感）をインドネシア語に変換する技法 (`docs/translation-stylistics/03-abstract-noun-nominalization.md`)
-- [ ] `[未着手]` 1454: 日本語の受動態を自然な能動態 meN- に変換する翻訳の定石 (`docs/translation-stylistics/04-passive-to-active-transformation.md`)
-- [ ] `[未着手]` 1455: インドネシア語の di- / 語幹受動態を自然な日本語能動文に訳す定石 (`docs/translation-stylistics/05-active-to-passive-transformation.md`)
-- [ ] `[未着手]` 1456: 日本語のモダリティ「〜はずだ」「〜わけだ」「〜に違いない」の的確な訳出 (`docs/translation-stylistics/06-modality-translation-hazuda-wake.md`)
-- [ ] `[未着手]` 1457: 「〜てくれる」「〜てもらう」の受益表現をめぐる翻訳ストラテジー (`docs/translation-stylistics/07-benefactive-translation-kureru-morau.md`)
-- [ ] `[未着手]` 1458: 日本語の使役「〜させる」と接尾辞 -kan のニュアンス適合性 (`docs/translation-stylistics/08-causative-translation-saseru.md`)
-- [ ] `[未着手]` 1459: 無生物主語構文の処理法：英語・インドネシア語と日本語の構造転換 (`docs/translation-stylistics/09-inanimate-subject-translation.md`)
-- [ ] `[未着手]` 1460: オノマトペ（擬音語・擬態語）の翻訳：生き生きとした描写をどう移すか (`docs/translation-stylistics/10-mimetic-words-translation.md`)
+- [x] `[完了]` 1451: 日イ翻訳の根本原理：日本語の主語省略とインドネシア語の主語復元の技術 (`docs/translation-stylistics/01-jp-id-translation-core-principles.md`)
+- [x] `[完了]` 1452: 日本語の「は」と「が」をインドネシア語でどう表現するか（主題提示 vs 焦点化 yang） (`docs/translation-stylistics/02-handling-japanese-wa-and-ga.md`)
+- [x] `[完了]` 1453: 日本語の抽象名詞（〜性、〜化、〜感）をインドネシア語に変換する技法 (`docs/translation-stylistics/03-abstract-noun-nominalization.md`)
+- [x] `[完了]` 1454: 日本語の受動態を自然な能動態 meN- に変換する翻訳の定石 (`docs/translation-stylistics/04-passive-to-active-transformation.md`)
+- [x] `[完了]` 1455: インドネシア語の di- / 語幹受動態を自然な日本語能動文に訳す定石 (`docs/translation-stylistics/05-active-to-passive-transformation.md`)
+- [x] `[完了]` 1456: 日本語のモダリティ「〜はずだ」「〜わけだ」「〜に違いない」の的確な訳出 (`docs/translation-stylistics/06-modality-translation-hazuda-wake.md`)
+- [x] `[完了]` 1457: 「〜てくれる」「〜てもらう」の受益表現をめぐる翻訳ストラテジー (`docs/translation-stylistics/07-benefactive-translation-kureru-morau.md`)
+- [x] `[完了]` 1458: 日本語の使役「〜させる」と接尾辞 -kan のニュアンス適合性 (`docs/translation-stylistics/08-causative-translation-saseru.md`)
+- [x] `[完了]` 1459: 無生物主語構文の処理法：英語・インドネシア語と日本語の構造転換 (`docs/translation-stylistics/09-inanimate-subject-translation.md`)
+- [x] `[完了]` 1460: 日本語のオノマトペ・擬音語擬態語のインドネシア語描写技法 (`docs/translation-stylistics/10-onomatopoeia-translation-techniques.md`)
 - [ ] `[未着手]` 1461: 日イビジネスメール翻訳の定型パターンと敬語表現の等価性 (`docs/translation-stylistics/11-business-email-translation-templates.md`)
 - [ ] `[未着手]` 1462: 契約書翻訳の基本構造：頭書・前文（Whereas条項）・合意条項の定型表現 (`docs/translation-stylistics/12-contract-translation-whereas-clause.md`)
 - [ ] `[未着手]` 1463: 【契約書翻訳】秘密保持契約（NDA）の条文対訳と専門用語解説 (`docs/translation-stylistics/13-contract-translation-confidentiality.md`)
