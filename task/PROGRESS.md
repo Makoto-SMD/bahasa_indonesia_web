@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,230 / 1,500 記事 (82.0% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,240 / 1,500 記事 (82.7% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1309,16 +1309,16 @@
 - [x] `[完了]` 1228: 【Level 3 (B1)】Merasakan Kereta Cepat Whoosh Jakarta-Bandung（高速鉄道ウーシュ初乗車記） (`docs/graded-reading/level-3-08-fast-train-whoosh.md`)
 - [x] `[完了]` 1229: 【Level 3 (B1)】Jejak Benang Emas Tenun Sumba（スンバ島伝統織物に込められた母の祈り） (`docs/graded-reading/level-3-09-traditional-weaving-tenun.md`)
 - [x] `[完了]` 1230: 【Level 3 (B1) 総括】Dinamika Modern & Tradisi Nusantara & 総合読解診断テスト (`docs/graded-reading/level-3-10-level3-review-quiz.md`)
-- [ ] `[未着手]` 1231: 【Level 4 (B2)】Membangun Kota Masa Depan IKN Nusantara（森林新首都ヌサンタラ建設の光と影） (`docs/graded-reading/level-4-01-new-capital-nusantara.md`)
-- [ ] `[未着手]` 1232: 【Level 4 (B2)】Hilirisasi Nikel dan Transisi Energi Global（ニッケル下流化政策とEVバッテリーの覇権） (`docs/graded-reading/level-4-02-nickel-downstreaming-economy.md`)
-- [ ] `[未着手]` 1233: 【Level 4 (B2)】Filsafat Wayang Kulit dalam Dinamika Demokrasi（影絵劇の善悪葛藤と現代政治思想） (`docs/graded-reading/level-4-03-wayang-philosophy-modern.md`)
-- [ ] `[未着手]` 1234: 【Level 4 (B2)】Musim Dingin Startup dan Matangnya Ekosistem Digital（テックバブル崩壊と堅実経営への転換） (`docs/graded-reading/level-4-04-startup-bubble-burst.md`)
-- [ ] `[未着手]` 1235: 【Level 4 (B2)】Gerakan Pemuda Menolak Sampah Plastik di Lautan（海洋プラスチックごみ撲滅へ挑む若き起業家たち） (`docs/graded-reading/level-4-05-youth-environmental-activism.md`)
-- [ ] `[未着手]` 1236: 【Level 4 (B2)】Ambisi Menjadi Pusat Keuangan Syariah Dunia（世界最大のハラール・イスラム金融ハブ構想） (`docs/graded-reading/level-4-06-islamic-finance-global-hub.md`)
-- [ ] `[未着手]` 1237: 【Level 4 (B2)】Diplomasi Rendang: Membawa Rasa Nusantara ke Dunia（食文化外交「スパイス・アップ・ザ・ワールド」） (`docs/graded-reading/level-4-07-culinary-diplomacy-gastro.md`)
-- [ ] `[未着手]` 1238: 【Level 4 (B2)】Mendobrak Tabu Kesehatan Mental di Kalangan Gen Z（メンタルヘルス偏見の打破と心理相談の普及） (`docs/graded-reading/level-4-08-mental-health-taboo-breaking.md`)
-- [ ] `[未着手]` 1239: 【Level 4 (B2)】Hak Hutan Adat dan Kearifan Lokal Menjaga Bumi（先住民族の慣習林認定と自然保護の叡智） (`docs/graded-reading/level-4-09-preservation-indigenous-forest.md`)
-- [ ] `[未着手]` 1240: 【Level 4 (B2)】Kebangkitan Sinema Indonesia di Festival Internasional（国際映画祭で躍進するインドネシア映画の魅力） (`docs/graded-reading/level-4-10-creative-industry-cinema.md`)
+- [x] `[完了]` 1231: 【Level 4 (B2)】Membangun Kota Masa Depan IKN Nusantara（森林新首都ヌサンタラ建設の光と影） (`docs/graded-reading/level-4-01-new-capital-nusantara.md`)
+- [x] `[完了]` 1232: 【Level 4 (B2)】Hilirisasi Nikel dan Transisi Energi Global（ニッケル下流化政策とEVバッテリーの覇権） (`docs/graded-reading/level-4-02-nickel-downstreaming-economy.md`)
+- [x] `[完了]` 1233: 【Level 4 (B2)】Filsafat Wayang Kulit dalam Dinamika Demokrasi（影絵劇の善悪葛藤と現代政治思想） (`docs/graded-reading/level-4-03-wayang-philosophy-modern.md`)
+- [x] `[完了]` 1234: 【Level 4 (B2)】Musim Dingin Startup dan Matangnya Ekosistem Digital（テックバブル崩壊と堅実経営への転換） (`docs/graded-reading/level-4-04-startup-bubble-burst.md`)
+- [x] `[完了]` 1235: 【Level 4 (B2)】Restorasi Lahan Gambut Demi Bumi yang Lestari（泥炭湿原再生と炭素クレジットの最前線） (`docs/graded-reading/level-4-05-peatland-restoration.md`)
+- [x] `[完了]` 1236: 【Level 4 (B2)】Transformasi Industri Halal Indonesia di Kancah Global（世界をリードするハラール経済圏） (`docs/graded-reading/level-4-06-halal-lifestyle-industry.md`)
+- [x] `[完了]` 1237: 【Level 4 (B2)】Dilema Konservasi dan Pariwisata di Candi Borobudur（ボロブドゥール遺跡の保全とマスツーリズムの相克） (`docs/graded-reading/level-4-07-borobudur-conservation-tourism.md`)
+- [x] `[完了]` 1238: 【Level 4 (B2)】Menjembatani Kesenjangan Pendidikan di Wilayah 3T（辺境島嶼地域の教育格差に挑む若手教師たち） (`docs/graded-reading/level-4-08-education-inequality-islands.md`)
+- [x] `[完了]` 1239: 【Level 4 (B2)】Kedaulatan Hutan Adat dan Pengakuan Hak Masyarakat（慣習法共同体と森林主権を巡る司法闘争） (`docs/graded-reading/level-4-09-traditional-law-adat.md`)
+- [x] `[完了]` 1240: 【Level 4 (B2) 総括】Tantangan Abad 21 Menuju Indonesia Emas 2045 & 総合読解診断テスト (`docs/graded-reading/level-4-10-level4-review-quiz.md`)
 - [ ] `[未着手]` 1241: 【Level 5 (C1/C2)】Sentralitas ASEAN di Tengah Rivalitas Kekuatan Besar（大国角逐の中のASEAN中心性とインドネシア外交） (`docs/graded-reading/level-5-01-geopolitics-asean-centrality.md`)
 - [ ] `[未着手]` 1242: 【Level 5 (C1/C2)】Dinamika Yurisprudensi Mahkamah Konstitusi dan Negara Hukum（憲法裁判所判例の変遷と法治国家の課題） (`docs/graded-reading/level-5-02-constitutional-court-jurisprudence.md`)
 - [ ] `[未着手]` 1243: 【Level 5 (C1/C2)】Trilema Makroekonomi dan Ketahanan Rupiah Menghadapi Volatilitas Global（為替防衛・金融緩和・資本移動の相克） (`docs/graded-reading/level-5-03-macroeconomic-trilemma.md`)
