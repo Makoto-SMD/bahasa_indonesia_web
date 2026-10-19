@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,320 / 1,500 記事 (88.0% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,330 / 1,500 記事 (88.7% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1403,16 +1403,16 @@
 - [x] `[完了]` 1318: ギグワーカーの労災保障と労働組合化：配車ドライバーたちの「オルガニサシ」運動 (`docs/contemporary/18-gig-economy-workers-rights.md`)
 - [x] `[完了]` 1319: 若者の暗号資産ブーム：銀行口座を持たない国民が仮想通貨取引所に殺到する理由 (`docs/contemporary/19-crypto-asset-investment-boom.md`)
 - [x] `[完了]` 1320: コモド国立公園と高級リゾート化：プレミアム観光地ラブアン・バジョの住民共生 (`docs/contemporary/20-sustainable-tourism-labuan-bajo.md`)
-- [ ] `[未着手]` 1321: 伝統料理レシピのデジタル保存：17,000の島に眠る郷土の味を次世代に継承する (`docs/contemporary/21-culinary-heritage-preservation.md`)
-- [ ] `[未着手]` 1322: 女性起業家が牽引する零細・中小企業（UMKM）：マイクロファイナンスの奇跡 (`docs/contemporary/22-women-empowerment-umkm.md`)
-- [ ] `[未着手]` 1323: 頻発する公的個人データ流出事故と個人データ保護法（UU PDP）の実効性 (`docs/contemporary/23-cybersecurity-data-leaks.md`)
-- [ ] `[未着手]` 1324: 「自由な学び（Merdeka Belajar）」教育改革：暗記教育から探究型プロジェクト学習へ (`docs/contemporary/24-education-merdeka-belajar.md`)
-- [ ] `[未着手]` 1325: インドネシア語のユネスコ総会公用語採択：国際語化を目指す言語政策のロードマップ (`docs/contemporary/25-indonesian-language-in-unesco.md`)
-- [ ] `[未着手]` 1326: 東南アジアのAI導入最前線：行政DX・多言語チャットボット・農業テックの躍進 (`docs/contemporary/26-artificial-intelligence-adoption.md`)
-- [ ] `[未着手]` 1327: IoTスマート農業に参入する高学歴「ミレニアル農家（Petani Milenial）」の台頭 (`docs/contemporary/27-smart-farming-young-farmers.md`)
-- [ ] `[未着手]` 1328: 使い捨てプラスチック禁止令：伝統エコ素材キャッサババッグとリフィル文化の復活 (`docs/contemporary/28-plastic-ban-single-use.md`)
-- [ ] `[未着手]` 1329: モデストファッションの世界首都：モダンヒジャブと伝統バティックの融合革命 (`docs/contemporary/29-fashion-hijab-modest-wear.md`)
-- [ ] `[未着手]` 1330: 植民地時代の歴史的鉄道遺産の復活：観光列車アマバラワと山岳SLの旅路 (`docs/contemporary/30-heritage-railway-revival.md`)
+- [x] `[完了]` 1321: 伝統料理レシピのデジタル保存：17,000の島に眠る郷土の味を次世代に継承する (`docs/contemporary/21-culinary-heritage-preservation.md`)
+- [x] `[完了]` 1322: 女性起業家が牽引する零細・中小企業（UMKM）：マイクロファイナンスの奇跡 (`docs/contemporary/22-women-empowerment-umkm.md`)
+- [x] `[完了]` 1323: 頻発する公的個人データ流出事故と個人データ保護法（UU PDP）の実効性 (`docs/contemporary/23-cybersecurity-data-leaks.md`)
+- [x] `[完了]` 1324: 「自由な学び（Merdeka Belajar）」教育改革：暗記教育から探究型プロジェクト学習へ (`docs/contemporary/24-education-merdeka-belajar.md`)
+- [x] `[完了]` 1325: インドネシア語のユネスコ総会公用語採択：国際語化を目指す言語政策のロードマップ (`docs/contemporary/25-indonesian-language-in-unesco.md`)
+- [x] `[完了]` 1326: 東南アジアのAI導入最前線：行政DX・多言語チャットボット・農業テックの躍進 (`docs/contemporary/26-artificial-intelligence-adoption.md`)
+- [x] `[完了]` 1327: IoTスマート農業に参入する高学歴「ミレニアル農家（Petani Milenial）」の台頭 (`docs/contemporary/27-smart-farming-young-farmers.md`)
+- [x] `[完了]` 1328: 使い捨てプラスチック禁止令：伝統エコ素材キャッサババッグとリフィル文化の復活 (`docs/contemporary/28-plastic-ban-single-use.md`)
+- [x] `[完了]` 1329: モデストファッションの世界首都：モダンヒジャブと伝統バティックの融合革命 (`docs/contemporary/29-fashion-hijab-modest-wear.md`)
+- [x] `[完了]` 1330: 植民地時代の歴史的鉄道遺産の復活：観光列車アマバラワと山岳SLの旅路 (`docs/contemporary/30-heritage-railway-revival.md`)
 - [ ] `[未着手]` 1331: ナトゥナ諸島の排他的経済水域防衛：不法操業船拿捕と海洋安全保障戦略 (`docs/contemporary/31-maritime-defense-natuna.md`)
 - [ ] `[未着手]` 1332: 国家研究イノベーション庁（BRIN）の衛星計画：島嶼部の通信格差を埋めるSATRIA-1 (`docs/contemporary/32-space-agency-brin-satellites.md`)
 - [ ] `[未着手]` 1333: モバイルレジェンド熱狂社会：世界大会を制覇するインドネシアeスポーツ産業 (`docs/contemporary/33-esports-gaming-phenomenon.md`)
