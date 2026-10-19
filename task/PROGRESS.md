@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,460 / 1,500 記事 (97.3% 達成・最終セクション35進行中！残り40記事)
+- **進捗状況**: 1,470 / 1,500 記事 (98.0% 達成・最終セクション35進行中！残り30記事)
 
 ---
 
@@ -1549,16 +1549,16 @@
 - [x] `[完了]` 1458: 日本語の使役「〜させる」と接尾辞 -kan のニュアンス適合性 (`docs/translation-stylistics/08-causative-translation-saseru.md`)
 - [x] `[完了]` 1459: 無生物主語構文の処理法：英語・インドネシア語と日本語の構造転換 (`docs/translation-stylistics/09-inanimate-subject-translation.md`)
 - [x] `[完了]` 1460: 日本語のオノマトペ・擬音語擬態語のインドネシア語描写技法 (`docs/translation-stylistics/10-onomatopoeia-translation-techniques.md`)
-- [ ] `[未着手]` 1461: 日イビジネスメール翻訳の定型パターンと敬語表現の等価性 (`docs/translation-stylistics/11-business-email-translation-templates.md`)
-- [ ] `[未着手]` 1462: 契約書翻訳の基本構造：頭書・前文（Whereas条項）・合意条項の定型表現 (`docs/translation-stylistics/12-contract-translation-whereas-clause.md`)
-- [ ] `[未着手]` 1463: 【契約書翻訳】秘密保持契約（NDA）の条文対訳と専門用語解説 (`docs/translation-stylistics/13-contract-translation-confidentiality.md`)
-- [ ] `[未着手]` 1464: 【契約書翻訳】雇用契約書・就業規則の条文対訳と労働法規語彙 (`docs/translation-stylistics/14-contract-translation-employment.md`)
-- [ ] `[未着手]` 1465: 【契約書翻訳】売買基本契約・販売代理店契約の条文対訳 (`docs/translation-stylistics/15-contract-translation-sales-agency.md`)
-- [ ] `[未着手]` 1466: 法務意見書（Legal Opinion）の翻訳：論理展開と格調の維持 (`docs/translation-stylistics/16-legal-memorandum-translation.md`)
-- [ ] `[未着手]` 1467: 財務諸表（貸借対照表・損益計算書）の用語対訳と注記の翻訳 (`docs/translation-stylistics/17-financial-statement-translation.md`)
-- [ ] `[未着手]` 1468: 決算説明会資料・アニュアルレポートの翻訳：投資家向け洗練表現 (`docs/translation-stylistics/18-investor-relations-ir-translation.md`)
-- [ ] `[未着手]` 1469: M&Aデューデリジェンス報告書の翻訳：リスク評価と企業価値算定 (`docs/translation-stylistics/19-m-and-a-due-diligence-translation.md`)
-- [ ] `[未着手]` 1470: 広告・キャッチコピーのトランスクリエーション：心に響く現地化 (`docs/translation-stylistics/20-marketing-copywriting-transcreation.md`)
+- [x] `[完了]` 1461: 日イビジネスメール翻訳の定型パターンと敬語表現の等価性 (`docs/translation-stylistics/11-business-email-translation-templates.md`)
+- [x] `[完了]` 1462: 契約書翻訳の基本構造：頭書・前文（Whereas条項）・合意条項の定型表現 (`docs/translation-stylistics/12-contract-translation-whereas-clause.md`)
+- [x] `[完了]` 1463: 【契約書翻訳】秘密保持契約（NDA）の条文対訳と専門用語解説 (`docs/translation-stylistics/13-contract-translation-confidentiality.md`)
+- [x] `[完了]` 1464: 【契約書翻訳】雇用契約書・就業規則の条文対訳と労働法規語彙 (`docs/translation-stylistics/14-contract-translation-employment.md`)
+- [x] `[完了]` 1465: 【契約書翻訳】売買基本契約・販売代理店契約の条文対訳 (`docs/translation-stylistics/15-contract-translation-sales-agency.md`)
+- [x] `[完了]` 1466: 法務意見書（Legal Opinion）の翻訳：論理展開と格調の維持 (`docs/translation-stylistics/16-legal-memorandum-translation.md`)
+- [x] `[完了]` 1467: 財務諸表（貸借対照表・損益計算書）の用語対訳と注記の翻訳 (`docs/translation-stylistics/17-financial-statement-translation.md`)
+- [x] `[完了]` 1468: 決算説明会資料・アニュアルレポートの翻訳：投資家向け洗練表現 (`docs/translation-stylistics/18-investor-relations-ir-translation.md`)
+- [x] `[完了]` 1469: M&Aデューデリジェンス報告書の翻訳：リスク評価と企業価値算定 (`docs/translation-stylistics/19-m-and-a-due-diligence-translation.md`)
+- [x] `[完了]` 1470: 広告・キャッチコピーのトランスクリエーション：心に響く現地化 (`docs/translation-stylistics/20-marketing-copywriting-transcreation.md`)
 - [ ] `[未着手]` 1471: 機械操作マニュアル・安全衛生規程の正確かつ明瞭な翻訳 (`docs/translation-stylistics/21-technical-manual-translation-safety.md`)
 - [ ] `[未着手]` 1472: ITソフトウェア・UI文字列のローカライズ：文字数制限と直感性 (`docs/translation-stylistics/22-it-localization-ui-strings.md`)
 - [ ] `[未着手]` 1473: 治験プロトコル・医薬品添付文書の翻訳：厳密な学術性と安全性 (`docs/translation-stylistics/23-medical-pharmaceutical-translation.md`)
