@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,360 / 1,500 記事 (90.7% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,370 / 1,500 記事 (91.3% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1445,16 +1445,16 @@
 - [x] `[完了]` 1358: 語根 ganti（代わる・交換）の全派生語図鑑：mengganti, berganti, pergantian, pengganti (`docs/derivations-2/108-root-ganti.md`)
 - [x] `[完了]` 1359: 語根 ubah（変わる・改変）の全派生語図鑑：mengubah, perubahan, pengubahan, terubah (`docs/derivations-2/109-root-ubah.md`)
 - [x] `[完了]` 1360: 語根 pindah（移る・移住）の全派生語図鑑：memindahkan, perpindahan, pemindahan, berpindah (`docs/derivations-2/110-root-pindah.md`)
-- [ ] `[未着手]` 1361: 語根 tambah（増える・添加）の全派生語図鑑：menambah, bertambah, tambahan, penambahan (`docs/derivations-2/111-root-tambah.md`)
-- [ ] `[未着手]` 1362: 語根 kurang（減る・不足）の全派生語図鑑：mengurangi, berkurang, kekurangan, pengurangan (`docs/derivations-2/112-root-kurang.md`)
-- [ ] `[未着手]` 1363: 語根 bagi（分ける・分配）の全派生語図鑑：membagi, berbagi, pembagian, sebagian (`docs/derivations-2/113-root-bagi.md`)
-- [ ] `[未着手]` 1364: 語根 gabung（結合・合併）の全派生語図鑑：menggabungkan, bergabung, penggabungan, gabungan (`docs/derivations-2/114-root-gabung.md`)
-- [ ] `[未着手]` 1365: 語根 kumpul（集まる・収集）の全派生語図鑑：mengumpulkan, perkumpulan, pengumpulan, terkumpul (`docs/derivations-2/115-root-kumpul.md`)
-- [ ] `[未着手]` 1366: 語根 pisah（分かれる・隔離）の全派生語図鑑：memisahkan, berpisah, pemisahan, terpisah (`docs/derivations-2/116-root-pisah.md`)
-- [ ] `[未着手]` 1367: 語根 tarik（引く・魅力）の全派生語図鑑：menarik, tertarik, ketertarikan, penarikan (`docs/derivations-2/117-root-tarik.md`)
-- [ ] `[未着手]` 1368: 語根 dorong（押す・推進）の全派生語図鑑：mendorong, dorongan, pendorong, terdorong (`docs/derivations-2/118-root-dorong.md`)
-- [ ] `[未着手]` 1369: 語根 angkat（持ち上げる・任命）の全派生語図鑑：mengangkat, pengangkatan, angkatan, terangkat (`docs/derivations-2/119-root-angkat.md`)
-- [ ] `[未着手]` 1370: 語根 turun（下りる・低下）の全派生語図鑑：menurunkan, penurunan, keturunan, menurun (`docs/derivations-2/120-root-turun.md`)
+- [x] `[完了]` 1361: 語根 tambah（増える・添加）の全派生語図鑑：menambah, bertambah, tambahan, penambahan (`docs/derivations-2/111-root-tambah.md`)
+- [x] `[完了]` 1362: 語根 kurang（減る・不足）の全派生語図鑑：mengurangi, berkurang, kekurangan, pengurangan (`docs/derivations-2/112-root-kurang.md`)
+- [x] `[完了]` 1363: 語根 bagi（分ける・分配）の全派生語図鑑：membagi, berbagi, pembagian, sebagian (`docs/derivations-2/113-root-bagi.md`)
+- [x] `[完了]` 1364: 語根 gabung（結合・合併）の全派生語図鑑：menggabungkan, bergabung, penggabungan, gabungan (`docs/derivations-2/114-root-gabung.md`)
+- [x] `[完了]` 1365: 語根 kumpul（集まる・収集）の全派生語図鑑：mengumpulkan, perkumpulan, pengumpulan, terkumpul (`docs/derivations-2/115-root-kumpul.md`)
+- [x] `[完了]` 1366: 語根 pisah（分かれる・隔離）の全派生語図鑑：memisahkan, berpisah, pemisahan, terpisah (`docs/derivations-2/116-root-pisah.md`)
+- [x] `[完了]` 1367: 語根 tarik（引く・魅力）の全派生語図鑑：menarik, tertarik, ketertarikan, penarikan (`docs/derivations-2/117-root-tarik.md`)
+- [x] `[完了]` 1368: 語根 dorong（押す・推進）の全派生語図鑑：mendorong, dorongan, pendorong, terdorong (`docs/derivations-2/118-root-dorong.md`)
+- [x] `[完了]` 1369: 語根 angkat（持ち上げる・任命）の全派生語図鑑：mengangkat, pengangkatan, angkatan, terangkat (`docs/derivations-2/119-root-angkat.md`)
+- [x] `[完了]` 1370: 語根 turun（下りる・低下）の全派生語図鑑：menurunkan, penurunan, keturunan, menurun (`docs/derivations-2/120-root-turun.md`)
 - [ ] `[未着手]` 1371: 語根 naik（上がる・乗る）の全派生語図鑑：menaikkan, kenaikan, menaiki, menaik (`docs/derivations-2/121-root-naik.md`)
 - [ ] `[未着手]` 1372: 語根 jatuh（落ちる・失脚）の全派生語図鑑：menjatuhkan, kejatuhan, penjatuhan, terjatuh (`docs/derivations-2/122-root-jatuh.md`)
 - [ ] `[未着手]` 1373: 語根 bangkit（立ち上がる・覚醒）の全派生語図鑑：membangkitkan, kebangkitan, pembangkit (`docs/derivations-2/123-root-bangkit.md`)
