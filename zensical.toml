@@ -717,6 +717,18 @@ nav = [
       { "インドネシアでのビジネス協働と異文化コミュニケーション" = "reading/business-communication-culture.md" },
       { "新首都ヌサンタラ計画：持続可能な未来都市への展望" = "reading/new-capital-ikn-nusantara.md" },
     ] },
+    { "CEFR段階別リーダー（Graded Readers）" = [
+      { "Level 1-01: ブディ君の爽やかな朝の日常" = "graded-reading/level-1-01-morning-routine.md" },
+      { "Level 1-02: お母さんと伝統市場へ買い物" = "graded-reading/level-1-02-traditional-market.md" },
+      { "Level 1-03: 大好きなナシゴレンとサテ" = "graded-reading/level-1-03-favorite-food.md" },
+      { "Level 1-04: 新しい学校の友達と自己紹介" = "graded-reading/level-1-04-school-friends.md" },
+      { "Level 1-05: バンドンに住む温かい大家族" = "graded-reading/level-1-05-my-family.md" },
+      { "Level 1-06: 我が家の愛猫ブランのお散歩" = "graded-reading/level-1-06-cat-pet-story.md" },
+      { "Level 1-07: 日曜日の緑あふれる公園でピクニック" = "graded-reading/level-1-07-weekend-park.md" },
+      { "Level 1-08: 雨の日に置き忘れた赤い傘を探して" = "graded-reading/level-1-08-lost-umbrella.md" },
+      { "Level 1-09: 村のおじいちゃんの家を訪ねて" = "graded-reading/level-1-09-visiting-grandparents.md" },
+      { "Level 1-10: 【A1総括】楽しい休日の思い出＆総合診断" = "graded-reading/level-1-10-level1-review-quiz.md" },
+    ] },
     { "時事ニュース読解" = [
       { "新首都IKN建設の進捗と投資誘致" = "news-reading/n01-ikn-infrastructure-investment.md" },
       { "ニッケル鉱石の下流化とEVサプライチェーン" = "news-reading/n02-nickel-downstreaming-ev-battery.md" },

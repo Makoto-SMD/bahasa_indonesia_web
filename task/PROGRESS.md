@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,200 / 1,500 記事 (80.0% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,210 / 1,500 記事 (80.7% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1279,16 +1279,16 @@
 - [x] `[完了]` 1200: 【音韻総合診断テスト】発音・アクセント・イントネーションの総合実力測定20番勝負 (`docs/phonology/20-phonology-mastery-diagnostic.md`)
 
 ## 30. 【多読多聴】CEFR準拠 段階別リーディング（Graded Readers A1〜C2） [50記事]
-- [ ] `[未着手]` 1201: 【Level 1 (A1)】Pagi Hari di Rumah Budi（ブディ君の爽やかな朝の日常） (`docs/graded-reading/level-1-01-morning-routine.md`)
-- [ ] `[未着手]` 1202: 【Level 1 (A1)】Pergi ke Pasar Tradisional（お母さんと伝統市場へ買い物） (`docs/graded-reading/level-1-02-traditional-market.md`)
-- [ ] `[未着手]` 1203: 【Level 1 (A1)】Makanan Indonesia Kesukaanku（大好きなナシゴレンとサテ） (`docs/graded-reading/level-1-03-favorite-food.md`)
-- [ ] `[未着手]` 1204: 【Level 1 (A1)】Teman-Teman di Sekolah Baru（新しい学校の友達と自己紹介） (`docs/graded-reading/level-1-04-school-friends.md`)
-- [ ] `[未着手]` 1205: 【Level 1 (A1)】Keluarga Besarku di Bandung（バンドンに住む温かい大家族） (`docs/graded-reading/level-1-05-my-family.md`)
-- [ ] `[未着手]` 1206: 【Level 1 (A1)】Kucingku Si Belang（我が家の愛猫ブランのお散歩） (`docs/graded-reading/level-1-06-cat-pet-story.md`)
-- [ ] `[未着手]` 1207: 【Level 1 (A1)】Hari Minggu di Taman Kota（日曜日の緑あふれる公園でピクニック） (`docs/graded-reading/level-1-07-weekend-park.md`)
-- [ ] `[未着手]` 1208: 【Level 1 (A1)】Payung Merah yang Hilang（雨の日に置き忘れた赤い傘を探して） (`docs/graded-reading/level-1-08-lost-umbrella.md`)
-- [ ] `[未着手]` 1209: 【Level 1 (A1)】Pesta Ulang Tahun Adik（妹へのサプライズ誕生日ケーキ） (`docs/graded-reading/level-1-09-birthday-surprise.md`)
-- [ ] `[未着手]` 1210: 【Level 1 (A1)】Naik Kereta Api Pertama Kali（初めての一人電車旅） (`docs/graded-reading/level-1-10-first-train-ride.md`)
+- [x] `[完了]` 1201: 【Level 1 (A1)】Pagi Hari di Rumah Budi（ブディ君の爽やかな朝の日常） (`docs/graded-reading/level-1-01-morning-routine.md`)
+- [x] `[完了]` 1202: 【Level 1 (A1)】Pergi ke Pasar Tradisional（お母さんと伝統市場へ買い物） (`docs/graded-reading/level-1-02-traditional-market.md`)
+- [x] `[完了]` 1203: 【Level 1 (A1)】Makanan Indonesia Kesukaanku（大好きなナシゴレンとサテ） (`docs/graded-reading/level-1-03-favorite-food.md`)
+- [x] `[完了]` 1204: 【Level 1 (A1)】Teman-Teman di Sekolah Baru（新しい学校の友達と自己紹介） (`docs/graded-reading/level-1-04-school-friends.md`)
+- [x] `[完了]` 1205: 【Level 1 (A1)】Keluarga Besarku di Bandung（バンドンに住む温かい大家族） (`docs/graded-reading/level-1-05-my-family.md`)
+- [x] `[完了]` 1206: 【Level 1 (A1)】Kucingku Si Belang（我が家の愛猫ブランのお散歩） (`docs/graded-reading/level-1-06-cat-pet-story.md`)
+- [x] `[完了]` 1207: 【Level 1 (A1)】Hari Minggu di Taman Kota（日曜日の緑あふれる公園でピクニック） (`docs/graded-reading/level-1-07-weekend-park.md`)
+- [x] `[完了]` 1208: 【Level 1 (A1)】Payung Merah yang Hilang（雨の日に置き忘れた赤い傘を探して） (`docs/graded-reading/level-1-08-lost-umbrella.md`)
+- [x] `[完了]` 1209: 【Level 1 (A1)】Berkunjung ke Rumah Kakek di Desa（村のおじいちゃんの家を訪ねて） (`docs/graded-reading/level-1-09-visiting-grandparents.md`)
+- [x] `[完了]` 1210: 【Level 1 (A1) 総括】Cerita Liburan Seru & 総合読解力診断テスト (`docs/graded-reading/level-1-10-level1-review-quiz.md`)
 - [ ] `[未着手]` 1211: 【Level 2 (A2)】Petualangan ke Yogyakarta（夜行列車で行く古都ジョグジャカルタ旅） (`docs/graded-reading/level-2-01-travel-to-jogja.md`)
 - [ ] `[未着手]` 1212: 【Level 2 (A2)】Liburan di Desa Kakek（祖父の村での田植え体験と川遊び） (`docs/graded-reading/level-2-02-school-holiday-village.md`)
 - [ ] `[未着手]` 1213: 【Level 2 (A2)】Belajar Memasak Rendang Padang（本場パダン料理ルンダン作りに挑戦） (`docs/graded-reading/level-2-03-cooking-rendang.md`)
