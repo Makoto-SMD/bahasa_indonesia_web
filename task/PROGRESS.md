@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,340 / 1,500 記事 (89.3% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,350 / 1,500 記事 (90.0% 達成・大台突破！500記事拡充フェーズ進行中)
 
 ---
 
@@ -1423,16 +1423,16 @@
 - [x] `[完了]` 1338: 泥炭地再生と森林火災（ヘイズ）防止：湿地保全と持続可能なパルダカルチャー (`docs/contemporary/38-peatland-restoration-fires.md`)
 - [x] `[完了]` 1339: 土着信仰（Penghayat Kepercayaan）の法的位置付け：住民登録票（KTP）への明記 (`docs/contemporary/39-indigenous-faith-recognition.md`)
 - [x] `[完了]` 1340: 活火山と共生する島々：メラピ火山観測所と住民コミュニティの避難防災ネットワーク (`docs/contemporary/40-volcano-disaster-resilience.md`)
-- [ ] `[未着手]` 1341: 熱帯ワインとクラフトビールの挑戦：厳しい酒税下で育まれるバリ島醸造文化 (`docs/contemporary/41-craft-beer-wine-bali.md`)
-- [ ] `[未着手]` 1342: ASEAN域内QR決済相互接続：シンガポール・タイ・マレーシアと自国通貨で直接決済 (`docs/contemporary/42-cross-border-digital-payment.md`)
-- [ ] `[未着手]` 1343: 超高齢社会の足音：若年人口ボーナスの終了を見据えた介護保険と高齢者ケア制度 (`docs/contemporary/43-elderly-care-demographic-shift.md`)
-- [ ] `[未着手]` 1344: 消滅の危機に瀕する口承文芸と少数言語：消えゆく先住民族の叙事詩を記録する (`docs/contemporary/44-preservation-oral-traditions.md`)
-- [ ] `[未着手]` 1345: 安全な飲料水へのアクセス向上：都市水道普及率向上と雨水再利用技術 (`docs/contemporary/45-water-security-sanitation.md`)
-- [ ] `[未着手]` 1346: 国営音楽スタジオ「ロカナタ」の劇的復活：歴史的音源アーカイブと文化観光複合施設 (`docs/contemporary/46-creative-economy-lokananta.md`)
-- [ ] `[未着手]` 1347: 野生生物違法取引との戦い：センザンコウとオランウータンを密猟から救出する (`docs/contemporary/47-wildlife-trafficking-crackdown.md`)
-- [ ] `[未着手]` 1348: 障害者権利条約とバリアフリー化：車椅子対応歩道と障害者雇用クォータ制の進展 (`docs/contemporary/48-disability-rights-accessibility.md`)
-- [ ] `[未着手]` 1349: 郷土料理探訪の旅：ストリートフードからミシュラン星獲得店まで巡る美食観光 (`docs/contemporary/49-indonesian-gastro-tourism.md`)
-- [ ] `[未着手]` 1350: 「黄金のインドネシア2045（Indonesia Emas 2045）」：建国100年に向けた先進国入りのシナリオ (`docs/contemporary/50-vision-indonesia-emas-2045.md`)
+- [x] `[完了]` 1341: 熱帯ワインとクラフトビールの挑戦：厳しい酒税下で育まれるバリ島醸造文化 (`docs/contemporary/41-craft-beer-wine-bali.md`)
+- [x] `[完了]` 1342: ASEAN域内QR決済相互接続：シンガポール・タイ・マレーシアと自国通貨で直接決済 (`docs/contemporary/42-cross-border-digital-payment.md`)
+- [x] `[完了]` 1343: 超高齢社会の足音：若年人口ボーナスの終了を見据えた介護保険と高齢者ケア制度 (`docs/contemporary/43-elderly-care-demographic-shift.md`)
+- [x] `[完了]` 1344: 消滅の危機に瀕する口承文芸と少数言語：消えゆく先住民族の叙事詩を記録する (`docs/contemporary/44-preservation-oral-traditions.md`)
+- [x] `[完了]` 1345: 安全な飲料水へのアクセス向上：都市水道普及率向上と雨水再利用技術 (`docs/contemporary/45-water-security-sanitation.md`)
+- [x] `[完了]` 1346: 国営音楽スタジオ「ロカナタ」の劇的復活：歴史的音源アーカイブと文化観光複合施設 (`docs/contemporary/46-creative-economy-lokananta.md`)
+- [x] `[完了]` 1347: 野生生物違法取引との戦い：センザンコウとオランウータンを密猟から救出する (`docs/contemporary/47-wildlife-trafficking-crackdown.md`)
+- [x] `[完了]` 1348: 障害者権利条約とバリアフリー化：車椅子対応歩道と障害者雇用クォータ制の進展 (`docs/contemporary/48-disability-rights-accessibility.md`)
+- [x] `[完了]` 1349: 郷土料理探訪の旅：ストリートフードからミシュラン星獲得店まで巡る美食観光 (`docs/contemporary/49-indonesian-gastro-tourism.md`)
+- [x] `[完了]` 1350: 「黄金のインドネシア2045（Indonesia Emas 2045）」：建国100年に向けた先進国入りのシナリオ (`docs/contemporary/50-vision-indonesia-emas-2045.md`)
 
 ## 33. 【語彙拡張】語根別派生語マスター図鑑 第2弾 [50記事]
 - [ ] `[未着手]` 1351: 語根 atur（整理・規則）の全派生語図鑑：mengatur, peraturan, pengaturan, teratur (`docs/derivations-2/101-root-atur.md`)
