@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,440 / 1,500 記事 (96.0% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,450 / 1,500 記事 (96.7% 達成・セクション34完結！残り50記事)
 
 ---
 
@@ -1527,16 +1527,16 @@
 - [x] `[完了]` 1438: 上級試験に登場する文語・古典由来語彙（syahdan, alkisah, bahwasanya） (`docs/exam-advanced/38-archaic-classical-terms-in-exams.md`)
 - [x] `[完了]` 1439: 検定必須！政治・社会・経済の公式略語・頭字語200選 (`docs/exam-advanced/39-acronyms-abbreviations-mastery.md`)
 - [x] `[完了]` 1440: EYD第5版に基づく句読点（コンマ、セミコロン、コロン）の正確な用法 (`docs/exam-advanced/40-punctuation-eyd-mechanics.md`)
-- [ ] `[未着手]` 1441: 【翻訳演習】公式ビジネスレター・案内状の日イ相互翻訳 (`docs/exam-advanced/41-translation-clinic-business-letters.md`)
-- [ ] `[未着手]` 1442: 【翻訳演習】中央銀行レポート・経済白書の日イ相互翻訳 (`docs/exam-advanced/42-translation-clinic-economic-reports.md`)
-- [ ] `[未着手]` 1443: 【翻訳演習】法務通知・コンプライアンス規程の日イ相互翻訳 (`docs/exam-advanced/43-translation-clinic-legal-notices.md`)
-- [ ] `[未着手]` 1444: リスニング試験で引っかかりやすい同音異義語・似た発音の対策 (`docs/exam-advanced/44-listening-comprehension-traps.md`)
-- [ ] `[未着手]` 1445: 面接・スピーキング試験で沈黙を作らず高得点を獲得するテクニック (`docs/exam-advanced/45-interview-speaking-strategies.md`)
-- [ ] `[未着手]` 1446: 検定本番で時間が足りなくなる人のための時間配分ストラテジー (`docs/exam-advanced/46-exam-time-management-skills.md`)
-- [ ] `[未着手]` 1447: 試験当日のメンタルコントロールと直前1時間の最終チェックリスト (`docs/exam-advanced/47-psychological-prep-exam-day.md`)
-- [ ] `[未着手]` 1448: 最高峰 UKBI Istimewa（特等）を目指すための超絶技巧研究 (`docs/exam-advanced/48-ukbi-istimewa-masterclass.md`)
-- [ ] `[未着手]` 1449: 技能検定 特A級合格者の学習法とノート作成術の徹底分析 (`docs/exam-advanced/49-inken-special-a-hall-of-fame.md`)
-- [ ] `[未着手]` 1450: グランドフィナーレ：全形式統合型インドネシア語究極の実戦模試 (`docs/exam-advanced/50-comprehensive-grand-mock-exam.md`)
+- [x] `[完了]` 1441: 【翻訳演習】公式ビジネスレター・案内状の日イ相互翻訳 (`docs/exam-advanced/41-translation-clinic-business-letters.md`)
+- [x] `[完了]` 1442: 【翻訳演習】中央銀行レポート・経済白書の日イ相互翻訳 (`docs/exam-advanced/42-translation-clinic-economic-reports.md`)
+- [x] `[完了]` 1443: 【翻訳演習】法務通知・コンプライアンス規程の日イ相互翻訳 (`docs/exam-advanced/43-translation-clinic-legal-notices.md`)
+- [x] `[完了]` 1444: リスニング試験で引っかかりやすい同音異義語・似た発音の対策 (`docs/exam-advanced/44-listening-comprehension-traps.md`)
+- [x] `[完了]` 1445: 面接・スピーキング試験で沈黙を作らず高得点を獲得するテクニック (`docs/exam-advanced/45-interview-speaking-strategies.md`)
+- [x] `[完了]` 1446: 検定本番で時間が足りなくなる人のための時間配分ストラテジー (`docs/exam-advanced/46-exam-time-management-skills.md`)
+- [x] `[完了]` 1447: 試験当日のメンタルコントロールと直前1時間の最終チェックリスト (`docs/exam-advanced/47-psychological-prep-exam-day.md`)
+- [x] `[完了]` 1448: 最高峰 UKBI Istimewa（特等）を目指すための超絶技巧研究 (`docs/exam-advanced/48-ukbi-istimewa-masterclass.md`)
+- [x] `[完了]` 1449: 技能検定 特A級合格者の学習法とノート作成術の徹底分析 (`docs/exam-advanced/49-inken-special-a-hall-of-fame.md`)
+- [x] `[完了]` 1450: グランドフィナーレ：全形式統合型インドネシア語究極の実戦模試 (`docs/exam-advanced/50-comprehensive-grand-mock-exam.md`)
 
 ## 35. 【表現技法】プロの翻訳・通訳・高度表現テクニック [50記事]
 - [ ] `[未着手]` 1451: 日イ翻訳の根本原理：日本語の主語省略とインドネシア語の主語復元の技術 (`docs/translation-stylistics/01-jp-id-translation-core-principles.md`)
