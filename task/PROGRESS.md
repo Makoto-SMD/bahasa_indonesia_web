@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,290 / 1,500 記事 (86.0% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,300 / 1,500 記事 (86.7% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1371,16 +1371,16 @@
 - [x] `[完了]` 1288: 【学術論文連語：研究】metodologi penelitian, kerangka berpikir, uji hipotesis (`docs/lexicon/38-academic-collocations-research.md`)
 - [x] `[完了]` 1289: 【伝統文化連語：儀礼】upacara adat, warisan leluhur, nilai luhur, norma masyarakat (`docs/lexicon/39-culture-collocations-tradition.md`)
 - [x] `[完了]` 1290: 【家庭生活連語：家事】membersihkan rumah, memasak makanan, mencuci pakaian (`docs/lexicon/40-daily-collocations-home.md`)
-- [ ] `[未着手]` 1291: 強調副詞と形容詞の自然な組み合わせ（sangat luas, amat mahal, luar biasa indah） (`docs/lexicon/41-adjective-collocations-sangat.md`)
-- [ ] `[未着手]` 1292: 絶対・確定を表す共起表現（syarat mutlak, menang mutlak, rahasia umum） (`docs/lexicon/42-adjective-collocations-mutlak.md`)
-- [ ] `[未着手]` 1293: 頻度副詞の自然な共起位置（selalu hadir, sering kali terjadi, jarang terlihat） (`docs/lexicon/43-frequency-adverbs-collocations.md`)
-- [ ] `[未着手]` 1294: 前置詞句の定型チャンク（sehubungan dengan, berkaitan dengan, dalam rangka） (`docs/lexicon/44-prepositional-chunks-collocations.md`)
-- [ ] `[未着手]` 1295: 談話標識・論理マーカー（oleh karena itu, selain daripada itu, di sisi lain） (`docs/lexicon/45-discourse-markers-connectors.md`)
-- [ ] `[未着手]` 1296: 類語の重ね合わせによる強調（hancur lebur, cerdik pandai, kaya raya, aman sentosa） (`docs/lexicon/46-idiomatic-pairs-synonyms.md`)
-- [ ] `[未着手]` 1297: 対義語の対比による表現（suka duka, jual beli, pasang surut, maju mundur） (`docs/lexicon/47-antonymic-pairs-balance.md`)
-- [ ] `[未着手]` 1298: 頭韻・脚韻を踏むリズミカルな連語（seluk beluk, hiruk pikuk, compang camping） (`docs/lexicon/48-rhyming-collocations-sound.md`)
-- [ ] `[未着手]` 1299: 現代スラングの頻出コロケーション（gagal fokus, curi perhatian, cari gara-gara） (`docs/lexicon/49-contemporary-slang-collocations.md`)
-- [ ] `[未着手]` 1300: 総合コロケーション検定：ネイティブらしい共起連語マスター50問テスト (`docs/lexicon/50-comprehensive-collocation-mastery.md`)
+- [x] `[完了]` 1291: 強調副詞と形容詞の自然な組み合わせ（sangat luas, amat mahal, luar biasa indah） (`docs/lexicon/41-adjective-collocations-sangat.md`)
+- [x] `[完了]` 1292: 絶対・確定を表す共起表現（syarat mutlak, menang mutlak, rahasia umum） (`docs/lexicon/42-adjective-collocations-mutlak.md`)
+- [x] `[完了]` 1293: 頻度副詞の自然な共起位置（selalu hadir, sering kali terjadi, jarang terlihat） (`docs/lexicon/43-frequency-adverbs-collocations.md`)
+- [x] `[完了]` 1294: 前置詞句の定型チャンク（sehubungan dengan, berkaitan dengan, dalam rangka） (`docs/lexicon/44-prepositional-chunks-collocations.md`)
+- [x] `[完了]` 1295: 談話標識・論理マーカー（oleh karena itu, selain daripada itu, di sisi lain） (`docs/lexicon/45-discourse-markers-connectors.md`)
+- [x] `[完了]` 1296: 類語の重ね合わせによる強調（hancur lebur, cerdik pandai, kaya raya, aman sentosa） (`docs/lexicon/46-idiomatic-pairs-synonyms.md`)
+- [x] `[完了]` 1297: 対義語の対比による表現（suka duka, jual beli, pasang surut, maju mundur） (`docs/lexicon/47-antonymic-pairs-balance.md`)
+- [x] `[完了]` 1298: 頭韻・脚韻を踏むリズミカルな連語（seluk beluk, hiruk pikuk, compang camping） (`docs/lexicon/48-rhyming-collocations-sound.md`)
+- [x] `[完了]` 1299: 現代スラングの頻出コロケーション（gagal fokus, curi perhatian, cari gara-gara） (`docs/lexicon/49-contemporary-slang-collocations.md`)
+- [x] `[完了]` 1300: 総合コロケーション検定：ネイティブらしい共起連語マスター50問テスト (`docs/lexicon/50-comprehensive-collocation-mastery.md`)
 
 ## 32. 【長文読解】インドネシア現代社会・トレンド深層読解 [50記事]
 - [ ] `[未着手]` 1301: インドネシアのEV革命：豊富なニッケル資源と世界最大のバッテリーサプライチェーン構想 (`docs/contemporary/01-electric-vehicle-ecosystem.md`)
