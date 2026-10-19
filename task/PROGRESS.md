@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,250 / 1,500 記事 (83.3% 達成・500記事拡充フェーズ進行中)
+- **進捗状況**: 1,260 / 1,500 記事 (84.0% 達成・500記事拡充フェーズ進行中)
 
 ---
 
@@ -1331,16 +1331,16 @@
 - [x] `[完了]` 1250: 【Level 5 (C1/C2) 究極総括】Dialektika Kosmopolitanisme & Keindonesiaan & 最上級総合読解診断テスト (`docs/graded-reading/level-5-10-level5-review-quiz.md`)
 
 ## 31. 【共起連語】最頻出コア語根＆コロケーション辞典 [50記事]
-- [ ] `[未着手]` 1251: 語根 ambil の必須コロケーション（ambil bagian, ambil alih, ambil keputusan） (`docs/lexicon/01-verb-collocations-ambil.md`)
-- [ ] `[未着手]` 1252: 語根 buat の必須コロケーション（buat janji, buat keputusan, buat gara-gara） (`docs/lexicon/02-verb-collocations-buat.md`)
-- [ ] `[未着手]` 1253: 語根 buka の必須コロケーション（buka usaha, buka suara, buka puasa, buka jalan） (`docs/lexicon/03-verb-collocations-buka.md`)
-- [ ] `[未着手]` 1254: 語根 tutup の必須コロケーション（tutup mata, tutup mulut, tutup usia, tutup buku） (`docs/lexicon/04-verb-collocations-tutup.md`)
-- [ ] `[未着手]` 1255: 語根 tarik の必須コロケーション（tarik perhatian, tarik kesimpulan, tarik napas） (`docs/lexicon/05-verb-collocations-tarik.md`)
-- [ ] `[未着手]` 1256: 語根 pasang の必須コロケーション（pasang mata, pasang telinga, pasang aksi） (`docs/lexicon/06-verb-collocations-pasang.md`)
-- [ ] `[未着手]` 1257: 語根 buang の必須コロケーション（buang waktu, buang muka, buang air） (`docs/lexicon/07-verb-collocations-buang.md`)
-- [ ] `[未着手]` 1258: 語根 lepas の必須コロケーション（lepas tangan, lepas tanggung jawab, lepas pandang） (`docs/lexicon/08-verb-collocations-lepas.md`)
-- [ ] `[未着手]` 1259: 語根 jatuh の必須コロケーション（jatuh tempo, jatuh sakit, jatuh cinta, jatuh miskin） (`docs/lexicon/09-verb-collocations-jatuh.md`)
-- [ ] `[未着手]` 1260: 語根 naik の必須コロケーション（naik daun, naik pangkat, naik darah, naik banding） (`docs/lexicon/10-verb-collocations-naik.md`)
+- [x] `[完了]` 1251: 語根 ambil の必須コロケーション（ambil bagian, ambil alih, ambil keputusan） (`docs/lexicon/01-verb-collocations-ambil.md`)
+- [x] `[完了]` 1252: 語根 buat の必須コロケーション（buat janji, buat keputusan, buat gara-gara） (`docs/lexicon/02-verb-collocations-buat.md`)
+- [x] `[完了]` 1253: 語根 buka の必須コロケーション（buka usaha, buka suara, buka puasa, buka jalan） (`docs/lexicon/03-verb-collocations-buka.md`)
+- [x] `[完了]` 1254: 語根 tutup の必須コロケーション（tutup mata, tutup mulut, tutup usia, tutup buku） (`docs/lexicon/04-verb-collocations-tutup.md`)
+- [x] `[完了]` 1255: 語根 tarik の必須コロケーション（tarik perhatian, tarik kesimpulan, tarik napas） (`docs/lexicon/05-verb-collocations-tarik.md`)
+- [x] `[完了]` 1256: 語根 pasang の必須コロケーション（pasang mata, pasang telinga, pasang aksi） (`docs/lexicon/06-verb-collocations-pasang.md`)
+- [x] `[完了]` 1257: 語根 buang の必須コロケーション（buang waktu, buang muka, buang air） (`docs/lexicon/07-verb-collocations-buang.md`)
+- [x] `[完了]` 1258: 語根 lepas の必須コロケーション（lepas tangan, lepas tanggung jawab, lepas pandang） (`docs/lexicon/08-verb-collocations-lepas.md`)
+- [x] `[完了]` 1259: 語根 jatuh の必須コロケーション（jatuh tempo, jatuh sakit, jatuh cinta, jatuh miskin） (`docs/lexicon/09-verb-collocations-jatuh.md`)
+- [x] `[完了]` 1260: 語根 naik の必須コロケーション（naik daun, naik pangkat, naik darah, naik banding） (`docs/lexicon/10-verb-collocations-naik.md`)
 - [ ] `[未着手]` 1261: 語根 turun の必須コロケーション（turun tangan, turun harga, turun minum, turun ranjang） (`docs/lexicon/11-verb-collocations-turun.md`)
 - [ ] `[未着手]` 1262: 語根 tahan の必須コロケーション（tahan banting, tahan lama, tahan uji, tahan lapar） (`docs/lexicon/12-verb-collocations-tahan.md`)
 - [ ] `[未着手]` 1263: 語根 pecah の必須コロケーション（pecah belah, pecah rekor, pecah tangis, pecah kongsi） (`docs/lexicon/13-verb-collocations-pecah.md`)

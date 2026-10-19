@@ -339,6 +339,18 @@ nav = [
       { "C98: murah vs terjangkau vs merakyat vs murahan の決定的な違いと使い分け" = "synonyms/c98-murah-vs-terjangkau-vs-merakyat-vs-murahan.md" },
       { "C99: mahal vs mewah vs elit vs eksklusif の決定的な違いと使い分け" = "synonyms/c99-mahal-vs-mewah-vs-elit-vs-eksklusif.md" },
     ] },
+    { "最頻出コア語根＆コロケーション辞典" = [
+      { "語根 ambil の必須コロケーション（ambil bagian, ambil alih, ambil keputusan）" = "lexicon/01-verb-collocations-ambil.md" },
+      { "語根 buat の必須コロケーション（buat janji, buat keputusan, buat gara-gara）" = "lexicon/02-verb-collocations-buat.md" },
+      { "語根 buka の必須コロケーション（buka usaha, buka suara, buka puasa, buka jalan）" = "lexicon/03-verb-collocations-buka.md" },
+      { "語根 tutup の必須コロケーション（tutup mata, tutup mulut, tutup usia, tutup buku）" = "lexicon/04-verb-collocations-tutup.md" },
+      { "語根 tarik の必須コロケーション（tarik perhatian, tarik kesimpulan, tarik napas）" = "lexicon/05-verb-collocations-tarik.md" },
+      { "語根 pasang の必須コロケーション（pasang mata, pasang telinga, pasang aksi）" = "lexicon/06-verb-collocations-pasang.md" },
+      { "語根 buang の必須コロケーション（buang waktu, buang muka, buang air）" = "lexicon/07-verb-collocations-buang.md" },
+      { "語根 lepas の必須コロケーション（lepas tangan, lepas tanggung jawab, lepas pandang）" = "lexicon/08-verb-collocations-lepas.md" },
+      { "語根 jatuh の必須コロケーション（jatuh tempo, jatuh sakit, jatuh cinta, jatuh miskin）" = "lexicon/09-verb-collocations-jatuh.md" },
+      { "語根 naik の必須コロケーション（naik daun, naik pangkat, naik darah, naik banding）" = "lexicon/10-verb-collocations-naik.md" },
+    ] },
     { "スラング・口語・若者言葉" = [
       { "ジャカルタ口語の文法特徴と基本語" = "slang-culture/bahasa-gaul-basics.md" },
       { "文末詞（dong, sih, deh等）のニュアンス事典" = "slang-culture/particle-nuances.md" },
