@@ -17,7 +17,7 @@
 ## 📊 カリキュラム全体サマリー
 - **総記事数**: 1,500記事（トップページ・総合サイトマップを含め全1,502ファイル）
 - **収録カテゴリ・セクション数**: 35 セクション
-- **進捗状況**: 1,480 / 1,500 記事 (98.7% 達成・最終セクション35進行中！残り20記事)
+- **進捗状況**: 1,490 / 1,500 記事 (99.3% 達成・最終セクション35進行中！残りあと10記事！)
 
 ---
 
@@ -1569,16 +1569,16 @@
 - [x] `[完了]` 1478: 報道・時事ニュースの翻訳：見出しの切れ味と事実伝達のスピード感 (`docs/translation-stylistics/28-news-journalism-translation-tempo.md`)
 - [x] `[完了]` 1479: 学術論文アブストラクトの翻訳：国際学術水準の格調高き論述体 (`docs/translation-stylistics/29-academic-paper-abstract-translation.md`)
 - [x] `[完了]` 1480: 逐次通訳のノートテイキング技術：シンボル記号と情報配置の工夫 (`docs/translation-stylistics/30-interpreting-note-taking-technique.md`)
-- [ ] `[未着手]` 1481: 通訳者のためのアクティブリスニング：文の終わりを待たずに意味を予測する (`docs/translation-stylistics/31-interpreting-active-listening.md`)
-- [ ] `[未着手]` 1482: 通訳におけるリフォーミュレーション：直訳の呪縛を解き放つ要約・再構成 (`docs/translation-stylistics/32-interpreting-reformulation-skills.md`)
-- [ ] `[未着手]` 1483: 通訳者の短期記憶（リテンション）トレーニング：シャドーイングとリプロダクション (`docs/translation-stylistics/33-interpreting-memory-retention.md`)
-- [ ] `[未着手]` 1484: サイトトランスレーション（視訳）訓練法：英文・イ文を頭から瞬時に日本語化する (`docs/translation-stylistics/34-interpreting-sight-translation.md`)
-- [ ] `[未着手]` 1485: 通訳現場のトラブル対処法：聞き逃し・専門用語不明時のスマートなリカバリー (`docs/translation-stylistics/35-interpreting-crisis-management.md`)
-- [ ] `[未着手]` 1486: ウィスパリング通訳の作法：小声で明瞭に伝える発声と距離感 (`docs/translation-stylistics/36-interpreting-whispering-techniques.md`)
-- [ ] `[未着手]` 1487: リモート同時通訳（RSI）の留意点：音響環境・チャット連携・交代ルール (`docs/translation-stylistics/37-interpreting-remote-rsi-mastery.md`)
-- [ ] `[未着手]` 1488: タフな価格交渉・紛争解決の場での通訳：中立性と信頼感の演出 (`docs/translation-stylistics/38-interpreting-business-negotiation.md`)
-- [ ] `[未着手]` 1489: 工場見学・製造現場での通訳：騒音対策・安全配慮と専門工具・工程用語 (`docs/translation-stylistics/39-interpreting-factory-site-visit.md`)
-- [ ] `[未着手]` 1490: 医療通訳・患者アテンド：問診票・インフォームドコンセントと心理的ケア (`docs/translation-stylistics/40-interpreting-medical-escort.md`)
+- [x] `[完了]` 1481: 通訳者のためのアクティブリスニング：文の終わりを待たずに意味を予測する (`docs/translation-stylistics/31-interpreting-active-listening.md`)
+- [x] `[完了]` 1482: 通訳におけるリフォーミュレーション：直訳の呪縛を解き放つ要約・再構成 (`docs/translation-stylistics/32-interpreting-reformulation-skills.md`)
+- [x] `[完了]` 1483: 通訳者の短期記憶（リテンション）トレーニング：シャドーイングとリプロダクション (`docs/translation-stylistics/33-interpreting-memory-retention.md`)
+- [x] `[完了]` 1484: サイトトランスレーション（視訳）訓練法：英文・イ文を頭から瞬時に日本語化する (`docs/translation-stylistics/34-interpreting-sight-translation.md`)
+- [x] `[完了]` 1485: 通訳現場のトラブル対処法：聞き逃し・専門用語不明時のスマートなリカバリー (`docs/translation-stylistics/35-interpreting-crisis-management.md`)
+- [x] `[完了]` 1486: ウィスパリング通訳の作法：小声で明瞭に伝える発声と距離感 (`docs/translation-stylistics/36-interpreting-whispering-techniques.md`)
+- [x] `[完了]` 1487: リモート同時通訳（RSI）の留意点：音響環境・チャット連携・交代ルール (`docs/translation-stylistics/37-interpreting-remote-rsi-mastery.md`)
+- [x] `[完了]` 1488: タフな価格交渉・紛争解決の場での通訳：中立性と信頼感の演出 (`docs/translation-stylistics/38-interpreting-business-negotiation.md`)
+- [x] `[完了]` 1489: 工場見学・製造現場での通訳：騒音対策・安全配慮と専門工具・工程用語 (`docs/translation-stylistics/39-interpreting-factory-site-visit.md`)
+- [x] `[完了]` 1490: 医療通訳・患者アテンド：問診票・インフォームドコンセントと心理的ケア (`docs/translation-stylistics/40-interpreting-medical-escort.md`)
 - [ ] `[未着手]` 1491: 高度文体論：公式報告書・論文における端正な学術的文体の構築 (`docs/translation-stylistics/41-stylistics-formal-academic-register.md`)
 - [ ] `[未着手]` 1492: 高度文体論：説得力と扇情性を高める修辞的レトリック（反復・対句・誇張） (`docs/translation-stylistics/42-stylistics-persuasive-rhetoric.md`)
 - [ ] `[未着手]` 1493: 高度文体論：アイロニーと風刺の解読と産出：行間に潜むユーモアのニュアンス (`docs/translation-stylistics/43-stylistics-irony-satire-humor.md`)
